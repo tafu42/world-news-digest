@@ -29,17 +29,15 @@ INDEX_FILE = os.path.join(DATA_DIR, 'index.json')
 RETENTION_DAYS = 30
 
 GUARDIAN_ENDPOINT = 'https://content.guardianapis.com/search'
+HN_TOP = 'https://hacker-news.firebaseio.com/v0/topstories.json'
+HN_ITEM = 'https://hacker-news.firebaseio.com/v0/item/{}.json'
 
-# テック中心。トップ（テクノロジー）に社会への影響を付ける
-TOP_CATEGORY = 'テクノロジー'
+# IT特化。Guardianはテクノロジーのみ＋Hacker Newsで補強
+TOP_CATEGORY = 'テクノロジー'           # Guardian technology（社会への影響つき）
 TOP_SECTION = 'technology'
-TOP_COUNT = 5
-SECTIONS = {
-    '科学':           ('science', 3),
-    '国際':           ('world', 3),
-    '環境':           ('environment', 2),
-    'ビジネス・経済': ('business', 2),
-}
+TOP_COUNT = 6
+HN_CATEGORY = '海外IT'                  # Hacker News
+HN_COUNT = 6
 
 BATCH_SIZE = 8   # 要約バッチ（呼び出し回数を抑える）
 TITLE_BATCH = 16  # タイトルは短いので一括翻訳（最優先・低コスト）
@@ -215,17 +213,62 @@ def guardian_fetch(section, count):
     return items
 
 
+def fetch_og(url):
+    """リンク先記事から og:image（画像）と og:description（書き出し）を取得"""
+    try:
+        html = requests.get(url, timeout=10, headers={'User-Agent': 'Mozilla/5.0'}).text
+    except Exception:
+        return '', ''
+    mi = re.search(r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)', html)
+    md = re.search(r'<meta[^>]+property=["\']og:description["\'][^>]+content=["\']([^"\']*)', html)
+    return (mi.group(1) if mi else ''), (md.group(1) if md else '')
+
+
+def hn_fetch(count):
+    """Hacker Newsのトップ記事を取得（外部リンクありのstoryのみ・画像はog:image）"""
+    try:
+        ids = requests.get(HN_TOP, timeout=15).json()
+    except Exception:
+        return []
+    items = []
+    for i in ids[:count * 4]:
+        if len(items) >= count:
+            break
+        try:
+            it = requests.get(HN_ITEM.format(i), timeout=10).json()
+        except Exception:
+            continue
+        if not it or it.get('type') != 'story' or not it.get('url'):
+            continue
+        url = it['url']
+        if url in [x['url'] for x in items]:
+            continue
+        image, desc = fetch_og(url)
+        items.append({
+            'en_title': it.get('title', ''),
+            'en_text': desc or it.get('title', ''),
+            'image': image,
+            'url': url,
+        })
+    return items
+
+
 def collect(seen_urls):
-    plan = [(TOP_CATEGORY, TOP_SECTION, TOP_COUNT)] + \
-           [(name, sec, n) for name, (sec, n) in SECTIONS.items()]
     new_articles = []
-    for category, section, count in plan:
-        for a in guardian_fetch(section, count):
-            if not a['url'] or a['url'] in seen_urls:
-                continue
-            a['category'] = category
-            new_articles.append(a)
-            seen_urls.add(a['url'])
+    # Guardian テクノロジー
+    for a in guardian_fetch(TOP_SECTION, TOP_COUNT):
+        if not a['url'] or a['url'] in seen_urls:
+            continue
+        a['category'] = TOP_CATEGORY
+        new_articles.append(a)
+        seen_urls.add(a['url'])
+    # Hacker News 海外IT
+    for a in hn_fetch(HN_COUNT):
+        if not a['url'] or a['url'] in seen_urls:
+            continue
+        a['category'] = HN_CATEGORY
+        new_articles.append(a)
+        seen_urls.add(a['url'])
     return new_articles
 
 
