@@ -14,7 +14,16 @@ const CATEGORY_EMOJI = {
   '環境': '🌱',
   'ビジネス・経済': '💴',
 };
-// 重大ニュースを先頭にする並び順
+// カテゴリごとの出典表示
+const CATEGORY_SOURCE = {
+  'テクノロジー': 'The Guardian',
+  '海外IT': 'via Hacker News',
+  '科学': 'The Guardian',
+  '国際': 'The Guardian',
+  '環境': 'The Guardian',
+  'ビジネス・経済': 'The Guardian',
+};
+// テクノロジーを先頭にする並び順
 const CATEGORY_ORDER = Object.keys(CATEGORY_COLORS);
 
 const dateSelect = document.getElementById('dateSelect');
@@ -105,7 +114,7 @@ function renderCard(a) {
       <p class="summary">${escapeHtml(a.summary || '')}</p>
       ${impact}
       <a class="read" href="${a.url}" target="_blank" rel="noopener">元記事を読む →</a>
-      <p class="meta">${a.time || ''}</p>
+      <p class="meta">${a.time || ''} ・ 出典: ${escapeHtml(CATEGORY_SOURCE[a.category] || '')}</p>
     </article>`;
 }
 
