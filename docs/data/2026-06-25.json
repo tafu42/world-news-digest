@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-25",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/749d850b8586ad4f3f041fa8e09bfb555be5f1aa/101_0_4373_3498/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+      "category": "テクノロジー",
+      "time": "03:24",
+      "title": "AI helps read papyrus scroll burnt to crisp during Vesuvius eruption",
+      "summary": "巻物を開かずに表示された、これまで隠されていたテキストが、ストア派の倫理、芸術、人間行動に関する哲学を明らかにしました。",
+      "impact": ""
+    },
+    {
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "category": "海外IT",
+      "time": "03:24",
+      "title": "OpenAI unveils its first custom chip, built by Broadcom",
+      "summary": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI&#039;s inference systems."
+    },
+    {
+      "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
+      "url": "https://rubyllm.com/",
+      "category": "海外IT",
+      "time": "03:24",
+      "title": "RubyLLM: A Ruby framework for all major AI providers",
+      "summary": "A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, conte"
+    },
+    {
+      "image": "",
+      "url": "https://www.nytimes.com/2026/06/23/us/politics/nsa-lost-access-anthropic-tool.html",
+      "category": "海外IT",
+      "time": "03:24",
+      "title": "NSA lost access to Mythos amid Anthropic dispute",
+      "summary": "NSA lost access to Mythos amid Anthropic dispute"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_200x200.jpg",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2069799283369345247",
+      "category": "海外IT",
+      "time": "03:24",
+      "title": "There are a few things that I look back on as my mistakes in the early days",
+      "summary": "There are a few things that I look back on as my mistakes in the early days.\n\nQuake was overly ambitious technically. We"
+    },
+    {
+      "image": "https://bunny.net/blog/content/images/2026/06/DNS_-Free-DNS-blog-post--1-.png",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "category": "海外IT",
+      "time": "03:24",
+      "title": "We’re making Bunny DNS free",
+      "summary": "Your DNS bill shouldn&#x27;t scale with your traffic. So we removed query fees from Bunny DNS entirely. No per-request b"
+    },
+    {
+      "image": "https://blog.omgmog.net/assets/ogimage-generic.png",
+      "url": "https://blog.omgmog.net/post/xteink-x4-e-ink-reader/",
+      "category": "海外IT",
+      "time": "03:24",
+      "title": "The Xteink X4 E-Ink Reader",
+      "summary": "I’ve had the Xteink X4 for a couple of months now, a £40 e-ink reader small enough to stick to the back of a phone. I’d "
+    }
+  ],
+  "updated_at": "2026-06-25T03:50:48.222137+09:00"
+}
