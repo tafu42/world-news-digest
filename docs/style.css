@@ -1,0 +1,173 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+html, body {
+  height: 100%;
+  font-family: -apple-system, BlinkMacSystemFont, "Hiragino Kaku Gothic ProN",
+    "Yu Gothic", Meiryo, sans-serif;
+  background: #0d0d14;
+  color: #fff;
+  overflow: hidden;
+}
+
+/* PCでは中央にスマホ幅で表示 */
+#app {
+  position: relative;
+  max-width: 480px;
+  height: 100%;
+  margin: 0 auto;
+  background: #14141f;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  box-shadow: 0 0 40px rgba(0, 0, 0, 0.5);
+}
+
+/* 上部バー */
+.bar {
+  flex: 0 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 14px;
+  background: rgba(0, 0, 0, 0.4);
+  backdrop-filter: blur(6px);
+  z-index: 5;
+}
+.brand { font-weight: bold; font-size: 1rem; }
+#dateSelect {
+  padding: 5px 8px;
+  border-radius: 8px;
+  border: none;
+  font-size: 0.85rem;
+  background: #2a2a3a;
+  color: #fff;
+}
+
+/* スワイプするフィード */
+.feed {
+  flex: 1 1 auto;
+  overflow-y: scroll;
+  scroll-snap-type: y mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+}
+.feed::-webkit-scrollbar { display: none; }
+
+.loading, .empty {
+  text-align: center;
+  color: #888;
+  padding: 60px 20px;
+}
+
+/* 1記事＝1画面 */
+.card {
+  height: 100%;
+  scroll-snap-align: start;
+  scroll-snap-stop: always;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 18px 22px;
+  overflow-y: auto;
+  scrollbar-width: none;
+}
+.card::-webkit-scrollbar { display: none; }
+
+.card .cat {
+  align-self: flex-start;
+  font-size: 0.72rem;
+  font-weight: bold;
+  color: #fff;
+  padding: 3px 10px;
+  border-radius: 999px;
+  margin-bottom: 10px;
+}
+
+.card .title {
+  font-size: 1.12rem;
+  font-weight: bold;
+  line-height: 1.5;
+  margin-bottom: 12px;
+}
+
+.card .thumb {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: 14px;
+  background: #23233a;
+  margin-bottom: 14px;
+}
+.card .thumb.placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #555;
+  font-size: 2rem;
+}
+
+.card .summary {
+  font-size: 0.95rem;
+  line-height: 1.7;
+  color: #dcdce6;
+  margin-bottom: 14px;
+}
+
+.card .impact {
+  background: rgba(229, 57, 53, 0.12);
+  border-left: 3px solid #E53935;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 16px;
+}
+.card .impact .label {
+  font-size: 0.78rem;
+  font-weight: bold;
+  color: #ff7a75;
+  margin-bottom: 4px;
+}
+.card .impact p { font-size: 0.9rem; line-height: 1.6; color: #f0d8d8; }
+
+.card .read {
+  margin-top: auto;
+  display: block;
+  text-align: center;
+  background: #1E88E5;
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 0.95rem;
+  padding: 13px;
+  border-radius: 12px;
+}
+.card .meta { font-size: 0.72rem; color: #777; margin-top: 8px; text-align: center; }
+
+/* スワイプのヒント（最初だけ表示） */
+.hint {
+  position: absolute;
+  bottom: 86px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.8rem;
+  color: rgba(255, 255, 255, 0.7);
+  pointer-events: none;
+  animation: floaty 1.6s ease-in-out infinite;
+  transition: opacity 0.4s;
+}
+@keyframes floaty {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-6px); }
+}
+
+/* 出典表示（The Guardian） */
+.credit {
+  position: absolute;
+  bottom: 8px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  font-size: 0.68rem;
+  color: rgba(255, 255, 255, 0.45);
+  pointer-events: auto;
+}
+.credit a { color: rgba(255, 255, 255, 0.7); }

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>World News Digest</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <header class="bar">
+      <span class="brand">🌍 World News</span>
+      <select id="dateSelect" aria-label="日付を選択"></select>
+    </header>
+
+    <div id="feed" class="feed">
+      <p class="loading">読み込み中…</p>
+    </div>
+
+    <div class="hint" id="hint">⬆ スワイプで次の記事</div>
+    <div class="credit">Powered by <a href="https://www.theguardian.com/" target="_blank" rel="noopener">The Guardian</a></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+name: LINE Notify (2x/day)
+
+on:
+  schedule:
+    - cron: '0 22 * * *'   # JST 07:00
+    - cron: '0 13 * * *'   # JST 22:00
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install -r requirements.txt
+      - name: Send LINE summary
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+        run: python notify.py
