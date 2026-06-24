@@ -30,18 +30,19 @@ RETENTION_DAYS = 30
 
 GUARDIAN_ENDPOINT = 'https://content.guardianapis.com/search'
 
-# 表示カテゴリ: (Guardianのsection, 取得件数)。重大ニュースはsection指定なしの最新
-TOP_CATEGORY = '重大ニュース'
+# テック中心。トップ（テクノロジー）に社会への影響を付ける
+TOP_CATEGORY = 'テクノロジー'
+TOP_SECTION = 'technology'
 TOP_COUNT = 5
 SECTIONS = {
-    'テクノロジー': ('technology', 3),
+    '科学':           ('science', 3),
+    '国際':           ('world', 3),
+    '環境':           ('environment', 2),
     'ビジネス・経済': ('business', 2),
-    '国際': ('world', 3),
-    '政治': ('politics', 2),
-    '科学': ('science', 1),
 }
 
-BATCH_SIZE = 5
+BATCH_SIZE = 8   # 要約バッチ（呼び出し回数を抑える）
+TITLE_BATCH = 16  # タイトルは短いので一括翻訳（最優先・低コスト）
 
 
 # ---------- Gemini ----------
@@ -49,7 +50,7 @@ def gemini_call(prompt, retries=3):
     client = genai.Client(api_key=GEMINI_API_KEY)
     for attempt in range(retries):
         try:
-            res = client.models.generate_content(model='gemini-2.5-flash', contents=prompt)
+            res = client.models.generate_content(model='gemini-2.5-flash-lite', contents=prompt)
             return res.text.strip()
         except Exception:
             if attempt < retries - 1:
@@ -92,29 +93,50 @@ def _gen_all(articles, build_prompt, build_one):
     return out
 
 
-def _translate_prompt(group):
-    items = "\n\n".join(
-        f"記事{i+1}:\nTitle: {a['en_title']}\nText: {a['en_text'][:300]}"
-        for i, a in enumerate(group)
-    )
-    return (f"次の{len(group)}件の英語ニュースをそれぞれ日本語にしてください。\n"
-            "各記事について、自然な日本語のタイトルと、2文以内の日本語要約を作ってください。\n"
-            "要約はタイトルの言い換えではなく、本文の具体的な内容を含めてください。\n"
-            f"必ず{len(group)}件を記事の順番どおりに、JSON配列で返してください。\n"
-            '形式: [{"title": "日本語タイトル", "summary": "日本語要約"}]\n\n' + items)
+def _gen_sized(articles, build_prompt, build_one, size):
+    out = []
+    for i in range(0, len(articles), size):
+        out.extend(_gen_group(articles[i:i + size], build_prompt, build_one))
+    return out
 
 
-def _translate_one(a):
+# --- タイトル翻訳（最優先・短いので大きめバッチ） ---
+def _title_prompt(group):
+    items = "\n".join(f"{i+1}. {a['en_title']}" for i, a in enumerate(group))
+    return (f"次の{len(group)}件の英語ニュース見出しを、それぞれ自然な日本語タイトルに翻訳してください。\n"
+            f"必ず{len(group)}件を順番どおりにJSON配列で返してください。\n"
+            '例: ["日本語タイトル1", "日本語タイトル2"]\n\n' + items)
+
+
+def _title_one(a):
     try:
-        txt = gemini_call(
-            "次の英語ニュースを日本語にしてください。日本語タイトルと2文以内の日本語要約を、"
-            'JSONで {"title":"...","summary":"..."} の形だけ返してください。\n'
-            f"Title: {a['en_title']}\nText: {a['en_text'][:300]}"
-        )
-        return parse_json(txt)
+        return gemini_call(
+            "次の英語見出しを自然な日本語タイトルに翻訳してください。訳のみ返してください。\n"
+            f"{a['en_title']}"
+        ).strip()
     except Exception as e:
         note_error(e)
-        return {'title': a['en_title'], 'summary': a.get('en_text', '')[:120]}
+        return a['en_title']
+
+
+# --- 要約翻訳（タイトルの次） ---
+def _summary_prompt(group):
+    items = "\n\n".join(f"記事{i+1}:\n{a['en_text'][:300]}" for i, a in enumerate(group))
+    return (f"次の{len(group)}件の英語ニュース本文を、それぞれ日本語で2文以内に要約してください。\n"
+            "見出しの言い換えではなく、本文の具体的な内容を含めてください。\n"
+            f"必ず{len(group)}件を順番どおりにJSON配列で返してください。\n"
+            '例: ["要約1", "要約2"]\n\n' + items)
+
+
+def _summary_one(a):
+    try:
+        return gemini_call(
+            "次の英語ニュースを日本語で2文以内に要約してください。要約のみ返してください。\n"
+            f"{a['en_text'][:300]}"
+        ).strip()
+    except Exception as e:
+        note_error(e)
+        return a.get('en_text', '')[:120]
 
 
 def _impact_prompt(group):
@@ -194,7 +216,7 @@ def guardian_fetch(section, count):
 
 
 def collect(seen_urls):
-    plan = [(TOP_CATEGORY, None, TOP_COUNT)] + \
+    plan = [(TOP_CATEGORY, TOP_SECTION, TOP_COUNT)] + \
            [(name, sec, n) for name, (sec, n) in SECTIONS.items()]
     new_articles = []
     for category, section, count in plan:
@@ -267,15 +289,21 @@ def main():
         rebuild_index()
         return
 
-    # 翻訳＋要約（全新着）
-    translated = _gen_all(new_articles, _translate_prompt, _translate_one)
     now_hm = datetime.now(JST).strftime('%H:%M')
-    for a, t in zip(new_articles, translated):
-        a['title'] = (t or {}).get('title', a['en_title'])
-        a['summary'] = (t or {}).get('summary', '')
+    for a in new_articles:
         a['time'] = now_hm
 
-    # 社会への影響（重大ニュースのみ）
+    # ① タイトル翻訳（最優先：枠が厳しくても一覧で読めるように先に確保）
+    titles = _gen_sized(new_articles, _title_prompt, _title_one, TITLE_BATCH)
+    for a, t in zip(new_articles, titles):
+        a['title'] = t
+
+    # ② 要約翻訳（次）
+    summaries = _gen_all(new_articles, _summary_prompt, _summary_one)
+    for a, s in zip(new_articles, summaries):
+        a['summary'] = s
+
+    # ③ 社会への影響（最後・テクノロジーのみ／余力があれば）
     top_new = [a for a in new_articles if a['category'] == TOP_CATEGORY]
     if top_new:
         for a, imp in zip(top_new, _gen_all(top_new, _impact_prompt, _impact_one)):
@@ -293,7 +321,7 @@ def main():
 
     cleanup_old_days()
     rebuild_index()
-    print(f'追記完了（新着{len(new_articles)}件 / 重大{len(top_new)}件 / {today} 累計{len(day["articles"])}件）')
+    print(f'追記完了（新着{len(new_articles)}件 / テック{len(top_new)}件 / {today} 累計{len(day["articles"])}件）')
 
     if gemini_errors:
         if 'quota' in gemini_errors:

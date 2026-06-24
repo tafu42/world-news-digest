@@ -2,138 +2,130 @@
   "date": "2026-06-24",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/077953cc46356acb660170da9b638d209d542668/107_0_1604_1284/500.jpg",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/24/artist-accused-of-winning-prize-with-imitation-won-australian-award-with-piece-influenced-by-basquiat-ntwnfb",
-      "category": "重大ニュース",
-      "title": "画家ジェーン・アラン氏の受賞作に疑惑、過去作が「模倣」と批判された経緯",
-      "summary": "ジェーン・アラン氏のダーリン肖像画賞受賞作が波紋を呼んでいます。これは、彼女が以前ドイル芸術賞を受賞した作品がニコラス・ハーディング氏の作品に酷似していると指摘され、「模倣」ではないかと批判された経緯があるためです。",
-      "time": "13:03",
-      "impact": ""
+      "image": "https://media.guim.co.uk/c402f0b1a58456ecab119945fa337da0e24f541b/372_5_4641_3712/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+      "category": "テクノロジー",
+      "time": "21:17",
+      "title": "Meta、プライバシー懸念でAI学習の従業員トラッカーを一時停止",
+      "summary": "1,600人以上の従業員が、キー入力、マウス操作、画面内容を記録するツールの導入に反対する請願書に署名しました。",
+      "impact": "従業員のプライバシーに対する意識が高まり、企業は従業員監視ツールの導入にあたり、より慎重な姿勢を取るようになる可能性があります。"
     },
     {
-      "image": "https://media.guim.co.uk/d73fae1d914a0fd52b8f58a768509a84d1af6645/1192_234_4207_3366/500.jpg",
-      "url": "https://www.theguardian.com/football/blog/2026/jun/24/socceroos-vs-paraguay-group-d-starting-line-up-team-selection-nestory-irankunda",
-      "category": "重大ニュース",
-      "title": "サッカー豪代表、パラグアイ戦で選手選考に難題",
-      "summary": "サッカーオーストラリア代表のトニー・ポポヴィッチ監督は、ワールドカップグループD最終戦のパラグアイ戦に向け、選手選考で難しい局面に直面しています。ネスリー・イランクンダ選手の先発起用の是非だけでなく、他にも複数の変更を検討していると報じられています。",
-      "time": "13:03",
-      "impact": ""
-    },
-    {
-      "image": "https://media.guim.co.uk/68f5eb391219a79415a3e6c628fbd270df282f88/248_0_5001_4000/500.jpg",
-      "url": "https://www.theguardian.com/us-news/2026/jun/23/new-york-primary-results-house",
-      "category": "重大ニュース",
-      "title": "JFKの孫、ニューヨーク民主党予備選で落選 マムダニ氏支援候補が席巻",
-      "summary": "ニューヨーク市の民主党予備選では、マムダニ氏が支援する候補者らが各地で圧勝を収めました。一方、JFK元大統領の孫であるジャック・シュロスバーグ氏は、マンハッタン地区のジェリー・ナドラー氏の後任を決める選挙で当選を果たせませんでした。",
-      "time": "13:03",
-      "impact": ""
-    },
-    {
-      "image": "https://media.guim.co.uk/fa31d7be97603fb9e616790bab77875a5a22bd0b/0_0_4730_3784/500.jpg",
-      "url": "https://www.theguardian.com/us-news/2026/jun/23/admiral-nancy-lacore-democratic-primary-south-carolina",
-      "category": "重大ニュース",
-      "title": "粛清された元提督、サウスカロライナ州民主党予備選で勝利",
-      "summary": "ヘグセス氏の「粛清」によって解雇された元海軍提督ナンシー・ラコール氏が、サウスカロライナ州の民主党予備選で勝利を収めました。彼女は11月に実施される中間選挙で、共和党が持つ下院議席を民主党が奪還するための主要な役割を担うことになります。",
-      "time": "13:03",
-      "impact": ""
-    },
-    {
-      "image": "https://media.guim.co.uk/1d1e05ca81c95def0d4110754b27aeb4a48b4118/0_227_1210_968/500.jpg",
-      "url": "https://www.theguardian.com/media/2026/jun/24/karl-stefanovic-podcast-show-far-right-activist-tommy-robinson-nine-ntwnfb",
-      "category": "重大ニュース",
-      "title": "豪TV司会者、英極右活動家との関係で所属局が処遇を検討",
-      "summary": "オーストラリアのNine社は、カール・ステファノヴィッチ氏の今後の処遇について検討しています。同氏が英国の極右活動家トミー・ロビンソン氏とポッドキャストで共演し、ロンドンで肩を組んで歩く姿が撮影されたことを会社は重く受け止めています。",
-      "time": "13:03",
-      "impact": ""
+      "image": "https://media.guim.co.uk/ef119478d7f27a743dc19d6056f1698deaed4e07/0_1403_5464_4369/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
+      "category": "テクノロジー",
+      "time": "21:17",
+      "title": "「人を傷つけずして数十億ドルを稼ぐことはできない」：イーロン・マスク、AIバブル、そして経営者の残酷な空想についてコーリー・ドクトロウが語る",
+      "summary": "「enshittification」という言葉を作った作家は、AIが約束を果たすことは決してなく、権力者には依然として魅力がある理由を説明しています。",
+      "impact": "AI技術の普及が、倫理的な問題や社会格差の拡大といった負の側面を露呈させ、AI開発・利用に関する社会的な議論がさらに深まることが予想されます。"
     },
     {
       "image": "https://media.guim.co.uk/789fcb3f16ff69cb8d10257eafbb58ed1ea4c42a/727_0_4888_3911/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine",
       "category": "テクノロジー",
-      "title": "中国製スーパーコンピューター「LineShine」が世界最速に",
-      "summary": "中国のスーパーコンピューター「LineShine」が、世界の高性能コンピューターランキング「Top500」で1位に初登場した。このランキングは各国の技術力指標と見なされることもあり、中国の技術的優位性を示している。",
-      "time": "13:03"
+      "time": "21:17",
+      "title": "中国製スーパーコンピューター、米国の最先端機種を抜き世界最速に",
+      "summary": "中国のLineShineがTop500リストで1位を獲得し、このリストはしばしば世界の技術力の国家的な指標と見なされています。",
+      "impact": "中国のスーパーコンピューター技術の進歩は、国際的な科学技術競争を激化させ、各国の技術開発戦略に影響を与える可能性があります。"
     },
     {
       "image": "https://media.guim.co.uk/38e509e5c6cebd21b697c28446bba95920578c09/356_0_3560_2848/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/jun/22/california-billionaire-tax-techscape",
       "category": "テクノロジー",
-      "title": "カリフォルニア州の億万長者税案、住民投票に進むか不透明",
-      "summary": "カリフォルニア州の「億万長者税」提案は、住民投票に必要な署名数の2倍以上を集めたにもかかわらず、実際に有権者の手元に届くかどうかは不確実だ。",
-      "time": "13:03"
+      "time": "21:17",
+      "title": "カリフォルニア州の富裕税案、住民投票に到達するか？",
+      "summary": "必要な署名数を大幅に上回っているにもかかわらず、住民投票に記載されるかどうかは不確実です。",
+      "impact": "富裕税の導入が現実味を帯びることで、富の再分配や税制に関する議論が活発化し、社会経済構造に変化をもたらす可能性があります。"
     },
     {
       "image": "https://media.guim.co.uk/df1030acb076d3e304d806e4ecc3dc84a4ee478e/335_0_6303_5042/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london",
       "category": "テクノロジー",
-      "title": "ロンドン警視庁、クリスマスまでにライブ顔認証の利用を拡大",
-      "summary": "ロンドン警視庁は、クリスマスまでにロンドン中心部でライブ顔認証技術の利用を拡大する計画だ。来年にはさらに6つの地域での導入も予定されており、批評家からは数万人が「デジタル警察の面通し」に強制されるとの懸念が表明されている。",
-      "time": "13:03"
+      "time": "21:17",
+      "title": "メトロポリタン警察、クリスマスまでにロンドン中心部での顔認識技術の利用拡大へ",
+      "summary": "来年、さらに6つの分野でこの技術が使用される予定ですが、批判者からは数万人が「デジタル警察のラインナップ」を強いられると懸念されています。",
+      "impact": "顔認識技術の広範な利用は、公共の安全向上に貢献する一方で、個人のプライバシー侵害や監視社会化への懸念を高める可能性があります。"
     },
     {
-      "image": "https://media.guim.co.uk/b1fdc80b7280139fb5def1637291cc9266b7f6c6/618_187_3391_2713/500.jpg",
-      "url": "https://www.theguardian.com/business/2026/jun/24/adidas-uniqlo-calvin-klein-ads-banned-asa-uk-recycled",
-      "category": "ビジネス・経済",
-      "title": "英国でアディダス、ユニクロなどの広告が禁止、「リサイクル」表示に疑義",
-      "summary": "英国でアディダス、ユニクロ、カルバン・クラインの広告が、「リサイクル」衣料品に関する主張が誤解を招くとして禁止された。これは、英国の規制当局がファッション小売業者による環境関連の不正確な表示への監視を強化していることによるものだ。",
-      "time": "13:03"
+      "image": "https://media.guim.co.uk/92882d1169ede4ad02b687f83fe414329066327a/343_0_2700_2160/500.jpg",
+      "url": "https://www.theguardian.com/science/2026/jun/24/stars-galactic-bulge-milky-way-euclid-telescope",
+      "category": "科学",
+      "time": "21:17",
+      "title": "何百万もの星々が輝く、天の川中心部の最大かつ最も詳細な画像",
+      "summary": "欧州宇宙機関のEuclid望遠鏡が撮影したこの輝かしい画像は、惑星発見の新時代の幕開けを告げています。"
     },
     {
-      "image": "https://media.guim.co.uk/638d53fb17f4382512f8a335204cb99e8749b610/267_0_3334_2667/500.jpg",
-      "url": "https://www.theguardian.com/business/2026/jun/23/card-payments-outage-during-england-match-hits-pubs-and-shops",
-      "category": "ビジネス・経済",
-      "title": "イングランド戦中にカード決済障害、店舗やパブで混乱",
-      "summary": "イングランドのサッカー試合中、決済処理業者WorldPayのシステム障害により、英国のパブや店舗でカード決済が利用できなくなった。テスコなどの顧客は、飲み物や商品の購入に現金の利用を余儀なくされたと報告している。",
-      "time": "13:03"
-    },
-    {
-      "image": "https://media.guim.co.uk/bbeff90b9d0fe8a0fe2dcce8132ba466aa52fee8/400_107_3369_2697/500.jpg",
-      "url": "https://www.theguardian.com/world/2026/jun/24/north-korea-nuclear-program-kim-jong-un",
-      "category": "国際",
-      "title": "北朝鮮の「指数関数的」核開発計画：金正恩が兵器庫を急拡大する理由",
-      "summary": "平壌からの高まる強硬な発言を受け、アナリストたちは、なぜ北朝鮮がこれほど多くの核兵器を必要としているのか疑問を抱いている。",
-      "time": "13:03"
-    },
-    {
-      "image": "https://media.guim.co.uk/be8e332209608a97a38b32869f54f3a7731f12c7/965_0_2318_1854/500.jpg",
-      "url": "https://www.theguardian.com/world/2026/jun/24/ukraine-war-briefing-crimea-locks-down-as-putin-acknowledges-huge-stream-of-ukrainian-drones",
-      "category": "国際",
-      "title": "Ukraine war briefing: Crimea locks down as Putin acknowledges ‘huge stream’ of Ukrainian drones",
-      "summary": "Rail bridge and power plant among latest infrastructure targeted by Kyiv in Crimea, where restrictions on public life ha",
-      "time": "13:03"
-    },
-    {
-      "image": "https://media.guim.co.uk/0ce717763ff5a58b042140fab805e2dcf7259cde/0_0_2798_2239/500.jpg",
-      "url": "https://www.theguardian.com/world/2026/jun/23/israel-deliberately-targeting-gaza-children-to-commit-genocide-un-inquiry-finds",
-      "category": "国際",
-      "title": "Israel continues to commit genocide by targeting children in Gaza, UN inquiry finds",
-      "summary": "Independent report says by aiming at children Israel is undermining capacity of Palestinian people to exist",
-      "time": "13:03"
-    },
-    {
-      "image": "https://media.guim.co.uk/5afeeef02038eda7614c51f3c15aaadd6b462f91/256_283_2681_2144/500.jpg",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/andy-burnham-picks-former-blair-minister-james-purnell-as-his-chief-of-staff",
-      "category": "政治",
-      "title": "Andy Burnham picks former Blair minister James Purnell as chief of staff",
-      "summary": "Decision is one of Makerfield MP’s most significant since his Westminster return as he builds his team for government",
-      "time": "13:03"
-    },
-    {
-      "image": "https://media.guim.co.uk/f691582bb3ea87d79194d9a033ace6caa9a50e5c/429_0_4285_3428/500.jpg",
-      "url": "https://www.theguardian.com/politics/2026/jun/23/dan-jarvis-promises-delayed-uk-defence-investment-plan-before-nato-summit",
-      "category": "政治",
-      "title": "UK defence secretary promises delayed investment plan before Nato summit",
-      "summary": "Dan Jarvis, who took the role earlier this month, is said to have secured around one billion pounds more for the plan th",
-      "time": "13:03"
+      "image": "https://media.guim.co.uk/8ea12dcd9aa50d901695d044817c45eaf59b6923/519_0_5202_4160/500.jpg",
+      "url": "https://www.theguardian.com/science/2026/jun/24/mountains-unlock-hydrogen-gas-study",
+      "category": "科学",
+      "time": "21:17",
+      "title": "水素エネルギーの可能性を解き明かす鍵は山岳地帯に？",
+      "summary": "研究者たちは、アルプス、ピレネー山脈、バエティック山脈の形成中にガスが生成された可能性を評価しました。"
     },
     {
       "image": "https://media.guim.co.uk/126c950238afb003c9f86a594b42e3584abc083d/724_0_7211_5773/500.jpg",
       "url": "https://www.theguardian.com/science/2026/jun/22/did-you-solve-it-dotty-data-and-silly-sentences",
       "category": "科学",
-      "title": "Did you solve it? Dotty data and silly sentences",
-      "summary": "The solutions to today’s puzzles – and the winner of the Anguish Languish contest",
-      "time": "13:03"
+      "time": "21:17",
+      "title": "あなたは解けた？複雑なデータと奇妙な文章",
+      "summary": "今日のパズルの解答と、Anguish Languishコンテストの優勝者が発表されました。"
+    },
+    {
+      "image": "https://media.guim.co.uk/096f31a7c3ab544336c29fc6c4e324bb0f8d7d7d/518_0_5590_4472/500.jpg",
+      "url": "https://www.theguardian.com/world/2026/jun/24/off-duty-cops-second-jobs-kill-and-die-recession-hit-argentina-rideshare",
+      "category": "国際",
+      "time": "21:17",
+      "title": "景気後退下のアルゼンチン、副業中の現職警察官が「より多く殺し、死ぬ」理由",
+      "summary": "警察官が公務で支給された銃を携帯したまま、ライドシェアの運転手としても働くケースが増加しています。これは、法執行機関の安全対策と、職務外での行動に関する倫理的な懸念を引き起こしています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/f84fdfcfd8bf3cc4a89aa7dc2303470d24da685f/39_0_5035_4029/500.jpg",
+      "url": "https://www.theguardian.com/world/2026/jun/24/battle-hardened-ukraine-role-defending-europe-ex-nato-chief-anders-fogh-rasmussen",
+      "category": "国際",
+      "time": "21:17",
+      "title": "「戦闘慣れした」ウクライナ、欧州防衛で役割を果たす：元NATO司令官",
+      "summary": "デンマークのフォース・ラスムセン元NATO事務総長は、米国が駐留米軍を撤退させた場合に備え、欧州で「軍事的に最も強力な」同盟を準備すべきだと主張しています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/fa0f1f2d30e980592e1c144a9094714ae181916a/385_0_3919_3136/500.jpg",
+      "url": "https://www.theguardian.com/world/2026/jun/24/israeli-former-leaders-security-chiefs-legal-action-jewish-terrorism-west-bank",
+      "category": "国際",
+      "time": "21:17",
+      "title": "「ユダヤ人テロ」についてイスラエル元指導者・治安責任者が法的措置を脅迫",
+      "summary": "Leaked letter to PM and military demands action to stop violence against Palestinians in occupied West Bank"
+    },
+    {
+      "image": "https://media.guim.co.uk/239e99db208138d4aaa8ffb0fd9edd1f7f353768/0_0_4426_3543/500.jpg",
+      "url": "https://www.theguardian.com/environment/2026/jun/24/carspreading-vehicle-size-crash-deaths-study",
+      "category": "環境",
+      "time": "21:17",
+      "title": "「カー・スプレッディング」が2040年までに年間2,600件の交通事故死増加につながる可能性、研究で判明",
+      "summary": "欧州の自動車は2000年以降、毎年長く、高く、幅広くなっていることが分析により明らかになりました。"
+    },
+    {
+      "image": "https://media.guim.co.uk/d60b02ebee6c1451d2967fe0c0a9163b747621d5/445_0_4426_3543/500.jpg",
+      "url": "https://www.theguardian.com/environment/2026/jun/24/as-temperatures-soar-in-baking-britain-how-are-workers-coping-in-the-heat",
+      "category": "環境",
+      "time": "21:17",
+      "title": "「危険だ」：急騰する気温に英国の学校、介護施設、その他の職場はどう対応しているか",
+      "summary": "異常気象は、学校や介護施設から建設現場まで、各地の人々に影響を与えています。労働者たちは、指導者たちにこの問題の深刻さを認識するよう訴えています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/a7db9a5e076c12c9cef2b29d7038b626620e6ba0/893_96_5322_4260/500.jpg",
+      "url": "https://www.theguardian.com/business/2026/jun/24/uk-warehouse-landlord-segro-rejects-takeover-offer-us-rival-prologis",
+      "category": "ビジネス・経済",
+      "time": "21:17",
+      "title": "英国の倉庫大手セグロ、米競合他社からの126億ポンドの買収提案を拒否",
+      "summary": "FTSE 100 firm says Prologis all-share proposal turned down as it falls long way short of its own views on value"
+    },
+    {
+      "image": "https://media.guim.co.uk/609bdcd8f9ee178f58cbf2bc1017ae44c123abac/39_66_6192_4954/500.jpg",
+      "url": "https://www.theguardian.com/business/2026/jun/24/heatwave-great-britain-grid-operator-extra-electricity-power-plants",
+      "category": "ビジネス・経済",
+      "time": "21:17",
+      "title": "熱波で英国の電力網運用会社、発電所に追加の電力供給を要請",
+      "summary": "Nesoは水曜日の夜に珍しい夏の警告を発令し、多くの家庭が扇風機やエアコンを使い始めました。"
     }
   ],
-  "updated_at": "2026-06-24T13:12:50.691976+09:00"
+  "updated_at": "2026-06-24T21:26:48.150314+09:00"
 }
