@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-25",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/521f3b049ac5da2f48e391d41a57b861f897c558/2025_702_4753_3802/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/elon-musk-trillionaire-spacex",
+      "category": "テクノロジー",
+      "time": "06:34",
+      "title": "イーロン・マスク氏、スペースXとテスラの株価下落で長者番付から転落",
+      "summary": "SpaceXのIPOで世界初のトリリオネアとなったテクノロジー界の著名人が、株価下落により再びビリオネアの階級に戻りました。",
+      "impact": "テクノロジー界の著名人の資産変動が、一般投資家の市場心理やIT企業の将来性への期待に影響を与える可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/749d850b8586ad4f3f041fa8e09bfb555be5f1aa/101_0_4373_3498/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/ai-read-papyrus-scroll-burnt-vesuvius-eruption",
+      "category": "テクノロジー",
+      "time": "06:34",
+      "title": "ベスビオ火山噴火で炭化したパピルス写本、AIが解読に貢献",
+      "summary": "巻物状に隠されていたテキストが、倫理、芸術、人間の行動に関するストア派哲学について、ほどかずに内容を明らかにしました。",
+      "impact": "AIによる古代写本の解読技術の進展は、失われた歴史的文書の復元や新たな知見の発見に貢献し、学術研究のあり方を変える可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/c402f0b1a58456ecab119945fa337da0e24f541b/372_5_4641_3712/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+      "category": "テクノロジー",
+      "time": "06:34",
+      "title": "Meta、プライバシー懸念からAI訓練目的の従業員トラッカーを一時停止",
+      "summary": "約1600人の従業員が、スタッフのキーストローク、マウスのクリック、コンピュータ画面の内容を追跡するツールに反対する請願書に署名しました。",
+      "impact": "大手IT企業における従業員トラッキングツールの導入と、それに伴うプライバシーへの懸念は、今後の企業におけるデータ収集と従業員の権利保護に関する議論を促進するだろう。"
+    },
+    {
+      "image": "https://media.guim.co.uk/ef119478d7f27a743dc19d6056f1698deaed4e07/0_1403_5464_4369/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies",
+      "category": "テクノロジー",
+      "time": "06:34",
+      "title": "「人を傷つけずに巨万の富は築けない」：コーリー・ドクトロウ氏、イーロン・マスク氏、AIバブル、そして雇用主の残酷な空想を語る",
+      "summary": "「enshittification」という言葉を作った著者は、AIが約束を果たすことは決してない理由と、権力者にとって依然として魅力的な理由を語っています。",
+      "impact": "AIバブルや「enshittification」といった概念の普及は、テクノロジーの進歩がもたらす負の側面への社会的な意識を高め、より倫理的で持続可能な技術開発を促す可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/789fcb3f16ff69cb8d10257eafbb58ed1ea4c42a/727_0_4888_3911/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/china-supercomputer-world-fastest-top500-ranking-lineshine",
+      "category": "テクノロジー",
+      "time": "06:34",
+      "title": "中国製スーパーコンピューター、米最高機種を抜いて世界最速に",
+      "summary": "中国のLineShineがTop500で1位にランクインしました。このリストは、しばしば国家の技術的な能力を示す指標と見なされます。",
+      "impact": "中国製スーパーコンピューターの世界最速記録は、国家間の技術覇権争いを激化させ、AIや先端技術分野における国際的な協力や競争のあり方に変化をもたらす可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/38e509e5c6cebd21b697c28446bba95920578c09/356_0_3560_2848/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/22/california-billionaire-tax-techscape",
+      "category": "テクノロジー",
+      "time": "06:34",
+      "title": "カリフォルニア州の富豪税案、住民投票に進むか？",
+      "summary": " ballot通過に必要な署数の2倍以上を集めたにもかかわらず、それが投票者に届くかどうかは不確実です。",
+      "impact": "富裕層への課税を巡る議論は、格差是正や公共サービス拡充の財源確保という観点から、所得格差や税制のあり方について社会全体で再考する契機となる可能性がある。"
+    },
+    {
+      "image": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-24-at-9.49.59-AM.jpg?resize=1200,670",
+      "url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+      "category": "海外IT",
+      "time": "06:34",
+      "title": "OpenAI、Broadcom製カスタムチップを初公開",
+      "summary": "Jalapeñoと名付けられた新しいプロセッサは、OpenAIの推論システムのユニークなニーズのために特別に設計されました。"
+    },
+    {
+      "image": "",
+      "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+      "category": "海外IT",
+      "time": "06:34",
+      "title": "Qualcomm、Modularを買収へ",
+      "summary": "QualcommはModularを、Apple Siliconに匹敵するチップを開発するスタートアップであるModular Fusionを買収することを発表しました。"
+    },
+    {
+      "image": "https://rubyllm.com/assets/images/og/pages/rubyllm.png",
+      "url": "https://rubyllm.com/",
+      "category": "海外IT",
+      "time": "06:34",
+      "title": "RubyLLM：主要AIプロバイダーすべてに対応するRubyフレームワーク",
+      "summary": "AI開発者向けのRubyフレームワークは、主要なAIプロバイダー全てに対応しており、チャットボット、AIエージェント、RAGアプリケーション、コンテンツジェネレーターなど、あらゆるAIワークフローの構築を容易にします。"
+    },
+    {
+      "image": "https://bunny.net/blog/content/images/2026/06/DNS_-Free-DNS-blog-post--1-.png",
+      "url": "https://bunny.net/blog/were-making-bunny-dns-free/",
+      "category": "海外IT",
+      "time": "06:34",
+      "title": "Bunny DNS、無料提供を開始",
+      "summary": "Bunny DNSは、トラフィック量に関わらずDNS料金が変動しないように、クエリ料金を完全に廃止しました。これにより、リクエストごとの課金やクエリ制限はなくなります。"
+    },
+    {
+      "image": "https://greptile.com/opengraph/greptile-blog.png",
+      "url": "https://www.greptile.com/blog/prs-on-openclaw",
+      "category": "海外IT",
+      "time": "06:34",
+      "title": "今日のPRスパムは2000年代初頭のメールスパムの様相",
+      "summary": "GitHubで驚異的な成長を遂げたOpenClawのPRデータは、オープンソースへの貢献の未来像を示唆しています。"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5__keyword__blog-header__light_7VsKV.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+      "category": "海外IT",
+      "time": "06:34",
+      "title": "Gemini 3.5 Flashにおけるコンピューター利用",
+      "summary": "Gemini 3.5 Flashに搭載されている、内蔵されたコンピューター使用ツールについて解説しています。"
+    }
+  ],
+  "updated_at": "2026-06-25T06:35:05.244055+09:00"
+}
