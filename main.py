@@ -41,12 +41,24 @@ HN_COUNT = 6
 
 BATCH_SIZE = 8   # 要約バッチ（呼び出し回数を抑える）
 TITLE_BATCH = 16  # タイトルは短いので一括翻訳（最優先・低コスト）
+ALERT_THRESHOLD = 4  # 再挑戦後もこの件数以上翻訳できなければLINE通知（軽微な失敗は鳴らさない）
 
 
 # ---------- Gemini ----------
+# RPM(1分あたり制限)対策：全呼び出しの間隔を最低 CALL_GAP 秒空けてバーストを防ぐ。
+# 例) 4秒間隔なら最大15回/分に収まり、連射による瞬間的な上限超過が起きない。
+CALL_GAP = 4.0
+_last_call = [0.0]
+
+
 def gemini_call(prompt, retries=3):
     client = genai.Client(api_key=GEMINI_API_KEY)
     for attempt in range(retries):
+        # 前回呼び出しから CALL_GAP 秒経つまで待つ（呼び出しを時間的にバラけさせる）
+        wait = CALL_GAP - (time.time() - _last_call[0])
+        if wait > 0:
+            time.sleep(wait)
+        _last_call[0] = time.time()
         try:
             res = client.models.generate_content(model='gemini-2.5-flash-lite', contents=prompt)
             return res.text.strip()
@@ -64,6 +76,27 @@ def is_quota_error(e):
 
 def note_error(e):
     gemini_errors.append('quota' if is_quota_error(e) else str(e)[:120])
+
+
+# 日本語が含まれていれば翻訳成功とみなす（英語のまま＝失敗の判定に使う）
+_JP_RE = re.compile(r'[ぁ-んァ-ヶ一-龠]')
+
+
+def looks_translated(s):
+    return bool(_JP_RE.search(s or ''))
+
+
+def retry_failed(articles, field, build_one):
+    """翻訳に失敗（英語のまま）した記事を待機列に入れ、間隔を空けて1件ずつ再挑戦する。
+    gemini_call が CALL_GAP 秒の間隔を確保するので、再挑戦時にはRPMの窓が空いている。"""
+    failed = [a for a in articles if not looks_translated(a.get(field, ''))]
+    for a in failed:
+        try:
+            val = build_one(a)
+            if looks_translated(val):
+                a[field] = val
+        except Exception:
+            pass  # 最終的な失敗判定は main の集計で行う
 
 
 def parse_json(text):
@@ -336,15 +369,17 @@ def main():
     for a in new_articles:
         a['time'] = now_hm
 
-    # ① タイトル翻訳（最優先：枠が厳しくても一覧で読めるように先に確保）
+    # ① タイトル翻訳（最優先）→ 失敗分は待機列に入れて再挑戦
     titles = _gen_sized(new_articles, _title_prompt, _title_one, TITLE_BATCH)
     for a, t in zip(new_articles, titles):
         a['title'] = t
+    retry_failed(new_articles, 'title', _title_one)
 
-    # ② 要約翻訳（次）
+    # ② 要約翻訳 → 失敗分は待機列に入れて再挑戦
     summaries = _gen_all(new_articles, _summary_prompt, _summary_one)
     for a, s in zip(new_articles, summaries):
         a['summary'] = s
+    retry_failed(new_articles, 'summary', _summary_one)
 
     # ③ 社会への影響（最後・テクノロジーのみ／余力があれば）
     top_new = [a for a in new_articles if a['category'] == TOP_CATEGORY]
@@ -366,11 +401,17 @@ def main():
     rebuild_index()
     print(f'追記完了（新着{len(new_articles)}件 / テック{len(top_new)}件 / {today} 累計{len(day["articles"])}件）')
 
-    if gemini_errors:
-        if 'quota' in gemini_errors:
-            line_alert(f'⚠️ Gemini APIが上限に達した可能性があります（{len(gemini_errors)}件失敗）。時間をおくと回復します。')
+    # 再挑戦後も翻訳できなかった件数で通知を判断（軽微な失敗では鳴らさない）
+    untranslated = sum(
+        1 for a in new_articles
+        if not looks_translated(a.get('title', '')) or not looks_translated(a.get('summary', ''))
+    )
+    if untranslated >= ALERT_THRESHOLD:
+        if untranslated >= len(new_articles) * 0.5:
+            line_alert(f'⚠️ Gemini APIが上限に達した可能性があります'
+                       f'（{untranslated}/{len(new_articles)}件が翻訳できず）。時間をおくと回復します。')
         else:
-            line_alert(f'⚠️ ニュース生成でエラー（{len(gemini_errors)}件）。例: {gemini_errors[0]}')
+            line_alert(f'⚠️ 翻訳に一部失敗しました（{untranslated}/{len(new_articles)}件）。')
 
 
 if __name__ == '__main__':
