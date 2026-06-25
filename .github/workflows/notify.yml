@@ -1,9 +1,7 @@
 name: LINE Notify (2x/day)
 
 on:
-  schedule:
-    - cron: '0 22 * * *'   # JST 07:00
-    - cron: '0 13 * * *'   # JST 22:00
+  # 実行時刻は外部cron（cron-job.org）から workflow_dispatch でトリガーする。
   workflow_dispatch:
 
 jobs:

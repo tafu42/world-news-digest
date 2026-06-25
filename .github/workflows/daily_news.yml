@@ -1,10 +1,8 @@
 name: Collect News (3x/day)
 
 on:
-  schedule:
-    - cron: '30 21 * * *'  # JST 06:30
-    - cron: '30 4 * * *'   # JST 13:30
-    - cron: '30 12 * * *'  # JST 21:30
+  # 実行時刻は外部cron（cron-job.org）から workflow_dispatch で正確にトリガーする。
+  # GitHub内蔵scheduleは遅延・二重実行を避けるため使わない。
   workflow_dispatch:
 
 permissions:
