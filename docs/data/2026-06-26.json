@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-26",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "内部告発者サラ・ウィン＝ウィリアムズ氏、メタ社を「沈黙」させようとしたとして提訴",
+      "summary": "元従業員が、会社が「強制的な監視」を行い、憲法修正第1条に違反したと訴える訴訟を起こしました。",
+      "impact": ""
+    },
+    {
+      "image": "https://scrollprize.org/img/firstscroll/og.webp",
+      "url": "https://scrollprize.org/firstscroll",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "ヘルクラネウムの巻物、初めて全文解読される",
+      "summary": "紀元79年のヴェスヴィオ火山噴火以来、封印されていた「PHerc. 1667」という名のパピルスが、開封することなく、実質的に全文が解読されました。"
+    },
+    {
+      "image": "https://explorer.oxide.computer/images/og.webp",
+      "url": "https://explorer.oxide.computer/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "Oxide Computer 3Dラック、ガイドツアー実施",
+      "summary": "Oxide Cloud Computerの3Dモデルを探索し、ラックからスレッド、CPUに至るまで、構成要素のガイド付きツアーでコンポーネントをナビゲートできます。"
+    },
+    {
+      "image": "",
+      "url": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "IBM、サブ1ナノメートルチップ技術を発表",
+      "summary": "IBMは、0.7 nm（7オングストローム）ノードで革新的なトランジスタアーキテクチャを特徴とする、世界初のサブ1ナノメートル（nm）チップ技術を発表し、半導体分野で大きな進歩を遂げました。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/673607c7f85ca05a2c00277a5ab2c4cec1579f677c630ecd0aef29a121b6f902/inkeep/open-knowledge",
+      "url": "https://github.com/inkeep/open-knowledge",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "Show HN: OpenKnowledge – Obsidian/Notionに代わるオープンソースAIファーストの選択肢",
+      "summary": "AIネイティブの美しいMarkdownエディタ兼LLM Wikiである「inkeep/open-knowledge」は、GitHubでアカウントを作成して開発に貢献できます。"
+    },
+    {
+      "image": "",
+      "url": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "Un-0：結合発振器による画像生成",
+      "summary": "「Un-0」は、連動する振動子を用いて画像を生成する手法です。"
+    },
+    {
+      "image": "",
+      "url": "https://princechazz.com",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "Show HN: チェス着想のローグライク",
+      "summary": "「Show HN: Chess-Inspired Roguelike」は、チェスにインスパイアされたローグライクゲームを紹介しています。"
+    }
+  ],
+  "updated_at": "2026-06-26T06:34:40.392354+09:00"
+}
