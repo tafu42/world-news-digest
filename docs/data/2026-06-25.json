@@ -142,7 +142,40 @@
       "time": "13:30",
       "title": "Show HN: ユーザーがデータの保存場所を管理できるSaaSアプリを開発",
       "summary": "triplestoresの柔軟性に触発されたWebアプリケーション向けのBaaS（Backend-as-a-Service）ソリューション「linkedrec」が紹介されています。このソリューションは、リアルタイムコラボレーションとサーバーレス認証機能を特徴としています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/1057b3b3401dddbf20b9854cd05f7a0ea06db54b/0_303_1080_864/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/texas-tesla-car-crash-investigation",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "title": "US opens second federal investigation of deadly Tesla crash into Texas home",
+      "summary": "76歳のマーサ・アビラさんが死亡した事故で、運転手は事故前に運転支援技術を作動させていたと当局に伝えた。",
+      "impact": ""
+    },
+    {
+      "image": "",
+      "url": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "ドルフィンエミュレータ Progress Release 2606",
+      "summary": "Dolphin Emulatorの最新バージョンであるProgress Release 2606が公開された。このリリースでは、エミュレーターのパフォーマンスや互換性の向上が図られている。"
+    },
+    {
+      "image": "",
+      "url": "https://hl2.slqnt.dev/",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "ブラウザで遊べるHalf-Life 2",
+      "summary": "Half-Life 2をブラウザでプレイできるようになる技術が発表された。これにより、特別なソフトウェアのインストールなしに、ウェブブラウザを通じてゲームにアクセスすることが可能になる。"
+    },
+    {
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2024/03/lastpass-outage.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "LastPass notifies users of yet another data breach",
+      "summary": "LastPassは、外部パートナー経由で発生したデータ侵害により、ユーザーに個人情報が盗まれた可能性について再度警告を発した。"
     }
   ],
-  "updated_at": "2026-06-25T13:30:56.426030+09:00"
+  "updated_at": "2026-06-25T21:39:48.444575+09:00"
 }
