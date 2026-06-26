@@ -115,7 +115,32 @@
       "time": "13:30",
       "title": "The 'papers, please' era of the internet will decimate your privacy",
       "summary": "Americans, be warned: Age verification is identity verification."
+    },
+    {
+      "image": "https://media.guim.co.uk/b253ca0b9578cd38e535d123f457249db34a8120/771_0_5840_4672/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/apple-ipad-macbook-price-rise-australia",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "title": "AIを理由にAppleが価格を引き上げたため、オーストラリアではiPadとMacBookが20%以上値上げへ",
+      "summary": "AppleはMacBook 13インチの価格を1,799ドルから2,099ドルに引き上げ、iPadの価格も25%上昇しました。",
+      "impact": "Apple製品の価格上昇は、AI機能への投資が消費者の負担増につながるという認識を広め、テクノロジー製品の価格設定に対する議論を活発化させる可能性があります。また、高価格化により、一部の消費者層ではApple製品へのアクセスが制限され、デジタルデバイドを拡大させる懸念も生じます。"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1166637261/fe31656d-fd67-46b4-bdd1-f4084470adc7",
+      "url": "https://github.com/mondaycom/HATCHA",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "ハッチャはあなたが人間ではないことを証明する",
+      "summary": "CAPTCHAは人間であることを証明しますが、HATCHAはそうではありません。HATCHAは、ボットや不正なアクティビティを検出するために設計された新しいセキュリティシステムです。"
+    },
+    {
+      "image": "https://akrites.org/wp-content/uploads/sites/9/2026/06/social.png",
+      "url": "https://akrites.org/letter/",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "オープンソースに私たちは皆依存している。共に守ろう",
+      "summary": "技術業界からの公開書簡と、世の中で使われているオープンソースソフトウェアの脆弱性を修復する協調的な取り組み「Akrites」の開始が発表されました。"
     }
   ],
-  "updated_at": "2026-06-26T14:22:45.543109+09:00"
+  "updated_at": "2026-06-26T21:37:46.681305+09:00"
 }
