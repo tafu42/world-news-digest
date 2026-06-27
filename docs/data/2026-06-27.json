@@ -66,7 +66,39 @@
       "time": "06:30",
       "title": "MLSysのためのモダンGPUプログラミング",
       "summary": "MLSsyにおけるモダンGPUプログラミングに関する記事です。"
+    },
+    {
+      "image": "https://physics.stackexchange.com/Content/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "なぜ運動エネルギーは速さに比例せず、2乗に比例して増加するのか？（2011年）",
+      "summary": "運動エネルギーは速度の2乗に比例するため、速度が上がっても直線的に増加しない。"
+    },
+    {
+      "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "米国、Anthropic社に「信頼できる」米組織へのMythos AIリリースを許可",
+      "summary": "The move comes the same day as a new OpenAI model sees a limited release."
+    },
+    {
+      "image": "",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "地獄のように遅いレベル13のデフレート圧縮",
+      "summary": "DEFLATE level 13 is a deliberately impractical libdeflate compression level: the output remains standard DEFLATE, while "
+    },
+    {
+      "image": "https://sfwriter.com/rjs-og.jpg",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "WordStar：作家のためのワープロ（1996年）",
+      "summary": "Author of 24 bestselling novels including The Oppenheimer Alternative and FlashForward"
     }
   ],
-  "updated_at": "2026-06-27T06:32:36.719811+09:00"
+  "updated_at": "2026-06-27T13:43:31.140132+09:00"
 }
