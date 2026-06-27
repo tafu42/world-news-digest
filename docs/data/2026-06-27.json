@@ -98,7 +98,47 @@
       "time": "13:30",
       "title": "WordStar：作家のためのワープロ（1996年）",
       "summary": "Author of 24 bestselling novels including The Oppenheimer Alternative and FlashForward"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/0bfefac8b232c801131fb08abef3b022a843cc13a9fb97112f398ae6edb12660/deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "DeepSeek、推論最適化をオープンソース化、生成速度が60～85%向上",
+      "summary": "DeepSpecは、推測的デコーディングアルゴリズムのトレーニングと評価のためのフルスタックコードベースであり、AIモデルの効率的な学習を可能にします。"
+    },
+    {
+      "image": "",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "フィンテックエンジニアリングハンドブック",
+      "summary": "Fintech Engineering Handbookは、フィンテック分野におけるエンジニアリングのベストプラクティスと実践的なガイダンスを提供する包括的なリソースです。"
+    },
+    {
+      "image": "",
+      "url": "https://www.beercss.com",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "Beer CSS – マテリアルデザインを驚異的な速さで構築",
+      "summary": "Beer CSSは、マテリアルデザインを迅速に構築できるフレームワークであり、開発者が効率的に魅力的なUIを作成するのを支援します。"
+    },
+    {
+      "image": "",
+      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "長波ラジオ時代、停波で終焉へ",
+      "summary": "長波ラジオの時代は、その放送の停止によって終焉を迎え、技術の進化を示す出来事となります。"
+    },
+    {
+      "image": "https://www.fosslinux.com/wp-content/uploads/2026/06/linux-older-hardware-revival-guide-2026.png",
+      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "旧ハードウェアでのLinux：完全復活ガイド",
+      "summary": "2026年には、軽量Linuxディストリビューション、zramチューニング、SSDアップグレード、ブラウザ最適化などの手法を用いて、古いPCをLinuxで復活させることが可能です。"
     }
   ],
-  "updated_at": "2026-06-27T13:43:31.140132+09:00"
+  "updated_at": "2026-06-27T21:31:29.129319+09:00"
 }
