@@ -76,7 +76,39 @@
       "time": "06:30",
       "title": "AIがRFIC設計の「秘術」を習得",
       "summary": "AIは、理解可能性や美学の制約から解放され、より速く設計を生成できるようになりました。これにより、従来よりも迅速なデザインプロセスが実現します。"
+    },
+    {
+      "image": "https://npr.brightspotcdn.com/dims4/default/c3f0a81/2147483647/strip/true/crop/3000x1575+0+40/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F56%2F79316759410d8ce45efb655b32b3%2Fmpr-sleep-v2-logo-1.jpg",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "マーファ公共ラジオがあなたを眠りに誘う",
+      "summary": "Marfa Public Radioは、資金調達、コンプライアンス、緊急対応、メンテナンスなど、24時間年中無休で放送を続けるために多くの裏方の作業を行っています。"
+    },
+    {
+      "image": "https://decomp-academy.dev/brand/png/og-image.png",
+      "url": "https://decomp-academy.dev",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "Show HN: Decomp Academy – GameCubeゲームを対応するC言語に逆コンパイルする方法を学ぶ",
+      "summary": "GameCube PowerPCアセンブリを、実際のMWCC GC/2.0コンパイラによってライブで採点されるバイトマッチングCに逆コンパイルする方法を学びましょう。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/31574c1f6235c321985f66ca4620ad12104772cbd909dc2ed7eb938f2f97d715/kyuz0/amd-strix-halo-vllm-toolboxes",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "AMD Strix Halo RDMAクラスター設定ガイド",
+      "summary": "GitHubアカウントを作成して、kyuz0/amd-strix-halo-vllm-toolboxesの開発に貢献してください。"
+    },
+    {
+      "image": "",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "パブリックDNSリゾルバの選択",
+      "summary": "パブリックDNSリゾルバを選択することについて解説しています。"
     }
   ],
-  "updated_at": "2026-06-28T06:31:08.901024+09:00"
+  "updated_at": "2026-06-28T13:31:00.314258+09:00"
 }
