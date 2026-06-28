@@ -108,7 +108,40 @@
       "time": "13:30",
       "title": "パブリックDNSリゾルバの選択",
       "summary": "パブリックDNSリゾルバを選択することについて解説しています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/9a9e893089a561db98134a3dd8c891e798e96964/793_0_5446_4357/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "title": "「仮想通貨 vs コミュニティ」：米国の地方銀行4000行が「ステーブルコイン」法に共同で対抗",
+      "summary": "4,000もの地域銀行は、デジタル通貨を規制する法案が成立すれば、地方の企業や農家が8500億ドルの融資を受けられなくなることを懸念しています。",
+      "impact": "この法案が成立すれば、地方銀行の融資能力が低下し、地域経済の活性化が阻害される可能性があります。その結果、中小企業や農家は資金調達が困難になり、地域社会の発展に影響が出る恐れがあります。"
+    },
+    {
+      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "メモリ上に存在しないはずのDLL、正式なアンロードなしに検出",
+      "summary": "このニュースは、あるものがどのように失われたのかを解明しようとする試みについて説明しています。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7566d97693861b1d61d91c32acd5bb69a6a7e5547a8e2ee65b0f6c4012d6dbe6/cfenollosa/bashblog",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "Bashblog：単一のBashスクリプトでブログを作成",
+      "summary": "このプロジェクトは、ダウンロードして実行し、記事を書くだけでブログを作成できる、単一のBashスクリプトを提供します。"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1271892689/88c43e02-cd49-45ba-9926-2f82880b57a0",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "Wayfinder Router：ローカルおよびホスト型LLM間でのクエリの決定論的ルーティング",
+      "summary": "このツールは、ローカルおよびホストされたLLMモデル間でのクエリの決定論的なルーティングを可能にする、シンプルなコマンドラインインターフェースを提供します。"
     }
   ],
-  "updated_at": "2026-06-28T13:31:00.314258+09:00"
+  "updated_at": "2026-06-28T21:31:35.219581+09:00"
 }
