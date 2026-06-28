@@ -1,0 +1,144 @@
+{
+  "date": "2026-06-27",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/c2db30c2688cafcce0ba559cce4044d8aa395fcb/639_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "トランプ政権の要請を受け、OpenAIがAIモデルのリリースを延期",
+      "summary": "サム・アルトマンは、AnthropicのMythosのローンチを想起させる動きで、GPT 5.6の限定プレビューを発表しました。",
+      "impact": "AIモデルのリリース延期は、AI技術の進化速度や普及時期に影響を与え、開発競争の力学を変化させる可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/1057b3b3401dddbf20b9854cd05f7a0ea06db54b/0_303_1080_864/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/24/texas-tesla-car-crash-investigation",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "テキサス州の住宅にテスラ車が突っ込み死亡事故、米国が2度目の連邦捜査を開始",
+      "summary": "76歳のマータ・アビラさんを死亡させた事故の前に、運転手が運転支援技術を起動していたと当局に伝えました。",
+      "impact": "テスラ車の事故による連邦捜査は、自動運転技術の安全性に対する懸念を深め、関連規制の強化や技術開発の方向性に影響を与える可能性があります。"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "次世代モデル「GPT-5.6 Sol」をプレビュー",
+      "summary": "GPT-5.6 Solは、次世代モデルとしてプレビュー公開されました。"
+    },
+    {
+      "image": "",
+      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "GPT-5.6の利用者を米政府が決定",
+      "summary": "米国政府は、GPT-5.6を使用できる者を決定する予定です。"
+    },
+    {
+      "image": "https://d2908q01vomqb2.cloudfront.net/da4b9237bacccdf19c0760cab7aec4a8359010b0/2026/06/22/AdobeStock_44802230-1260x630.jpeg",
+      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "MicroVMs：完全なライフサイクル管理で分離されたサンドボックスを実行",
+      "summary": "AWSは、VMレベルで分離されたサンドボックスであり、セッション間でカーネルやリソースを共有しない新しいサーバーレスコンピューティングプリミティブ、AWS Lambda MicroVMsをローンチしました。"
+    },
+    {
+      "image": "https://svpow.com/wp-content/uploads/2026/05/bizarre-headgear-1-juvenile-utahceratops.jpg?w=480",
+      "url": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "サム・ノーブル博物館の「奇妙な頭飾り」展は驚くほど素晴らしい",
+      "summary": "筆者は先週末、オクラホマで講演を行い、そのうちの一つは角竜類の恐竜に関するものでした。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7406d3ae2b12239e52cc9dc63bd7fe9dc6952c248474478bbfc5e7bdb5c4b717/workweave/router",
+      "url": "https://github.com/workweave/router",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "HNショー：Claude、Codex、Cursorで直接利用可能なスマートモデルルーティング",
+      "summary": "workweave/routerは、エージェントシステム向けのモデルルーターであり、プロンプトを50ミリ秒未満で適切なモデルにルーティングし、エンドポイントを変更するだけでコストを40-70%削減できると謳っています。"
+    },
+    {
+      "image": "",
+      "url": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "MLSysのためのモダンGPUプログラミング",
+      "summary": "MLSsyにおけるモダンGPUプログラミングに関する記事です。"
+    },
+    {
+      "image": "https://physics.stackexchange.com/Content/Sites/physics/Img/apple-touch-icon@2.png?v=f58801408228",
+      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "なぜ運動エネルギーは速さに比例せず、2乗に比例して増加するのか？（2011年）",
+      "summary": "運動エネルギーは速度の2乗に比例するため、速度が上がっても直線的に増加しない。"
+    },
+    {
+      "image": "https://img.semafor.com/50a98e4cab1aadfa340671d35d9027ed27e6899b-740x493.png?rect=0,53,740,389&amp;w=1200&amp;h=630&amp;q=75&amp;auto=format",
+      "url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "米国、Anthropic社に「信頼できる」米組織へのMythos AIリリースを許可",
+      "summary": "The move comes the same day as a new OpenAI model sees a limited release."
+    },
+    {
+      "image": "",
+      "url": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "地獄のように遅いレベル13のデフレート圧縮",
+      "summary": "DEFLATE level 13 is a deliberately impractical libdeflate compression level: the output remains standard DEFLATE, while "
+    },
+    {
+      "image": "https://sfwriter.com/rjs-og.jpg",
+      "url": "https://www.sfwriter.com/wordstar.htm",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "WordStar：作家のためのワープロ（1996年）",
+      "summary": "Author of 24 bestselling novels including The Oppenheimer Alternative and FlashForward"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/0bfefac8b232c801131fb08abef3b022a843cc13a9fb97112f398ae6edb12660/deepseek-ai/DeepSpec",
+      "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "DeepSeek、推論最適化をオープンソース化、生成速度が60～85%向上",
+      "summary": "DeepSpecは、推測的デコーディングアルゴリズムのトレーニングと評価のためのフルスタックコードベースであり、AIモデルの効率的な学習を可能にします。"
+    },
+    {
+      "image": "",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "フィンテックエンジニアリングハンドブック",
+      "summary": "Fintech Engineering Handbookは、フィンテック分野におけるエンジニアリングのベストプラクティスと実践的なガイダンスを提供する包括的なリソースです。"
+    },
+    {
+      "image": "",
+      "url": "https://www.beercss.com",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "Beer CSS – マテリアルデザインを驚異的な速さで構築",
+      "summary": "Beer CSSは、マテリアルデザインを迅速に構築できるフレームワークであり、開発者が効率的に魅力的なUIを作成するのを支援します。"
+    },
+    {
+      "image": "",
+      "url": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "長波ラジオ時代、停波で終焉へ",
+      "summary": "長波ラジオの時代は、その放送の停止によって終焉を迎え、技術の進化を示す出来事となります。"
+    },
+    {
+      "image": "https://www.fosslinux.com/wp-content/uploads/2026/06/linux-older-hardware-revival-guide-2026.png",
+      "url": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "旧ハードウェアでのLinux：完全復活ガイド",
+      "summary": "2026年には、軽量Linuxディストリビューション、zramチューニング、SSDアップグレード、ブラウザ最適化などの手法を用いて、古いPCをLinuxで復活させることが可能です。"
+    }
+  ],
+  "updated_at": "2026-06-27T21:31:29.129319+09:00"
+}

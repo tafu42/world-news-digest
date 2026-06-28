@@ -57,7 +57,90 @@
       "time": "06:30",
       "title": "Show HN: チェス着想のローグライク",
       "summary": "「Show HN: Chess-Inspired Roguelike」は、チェスにインスパイアされたローグライクゲームを紹介しています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/dea013b21ec89f471e4b4c1b1f3b75de040db5d1/488_0_4876_3901/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "title": "California billionaire tax will appear on ballot after deadline for deal passes",
+      "summary": "Proposal to introduce one-time tax of 5% will go to voters in November after backers decline to withdraw measure",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/a9767d049cc130a0ca66bec33f0bcd31122457f3/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/25/apple-price-hike",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "title": "Apple raises iPad and MacBook prices, blaming cost of chips amid AI boom",
+      "summary": "Company says it cannot shield customers from memory and storage chip costs – and iPhone hikes could be next",
+      "impact": ""
+    },
+    {
+      "image": "https://om.co/wp-content/uploads/2021/05/image-og-fallback-om-left-white-vb.png",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "Om Malik has died",
+      "summary": "Om Malik passed away on June 24, 2026, at Stanford Hospital after a long health journey with his heart. He was surrounde"
+    },
+    {
+      "image": "",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "Libre Barcode Project",
+      "summary": "Libre Barcode Project"
+    },
+    {
+      "image": "",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "summary": "I"
+    },
+    {
+      "image": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line",
+      "summary": "Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!ikRw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9049285c-dc2e-420a-b023-0f94858244b3_1000x667.jpeg",
+      "url": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "The 'papers, please' era of the internet will decimate your privacy",
+      "summary": "Americans, be warned: Age verification is identity verification."
+    },
+    {
+      "image": "https://media.guim.co.uk/b253ca0b9578cd38e535d123f457249db34a8120/771_0_5840_4672/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/apple-ipad-macbook-price-rise-australia",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "title": "AIを理由にAppleが価格を引き上げたため、オーストラリアではiPadとMacBookが20%以上値上げへ",
+      "summary": "AppleはMacBook 13インチの価格を1,799ドルから2,099ドルに引き上げ、iPadの価格も25%上昇しました。",
+      "impact": "Apple製品の価格上昇は、AI機能への投資が消費者の負担増につながるという認識を広め、テクノロジー製品の価格設定に対する議論を活発化させる可能性があります。また、高価格化により、一部の消費者層ではApple製品へのアクセスが制限され、デジタルデバイドを拡大させる懸念も生じます。"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1166637261/fe31656d-fd67-46b4-bdd1-f4084470adc7",
+      "url": "https://github.com/mondaycom/HATCHA",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "ハッチャはあなたが人間ではないことを証明する",
+      "summary": "CAPTCHAは人間であることを証明しますが、HATCHAはそうではありません。HATCHAは、ボットや不正なアクティビティを検出するために設計された新しいセキュリティシステムです。"
+    },
+    {
+      "image": "https://akrites.org/wp-content/uploads/sites/9/2026/06/social.png",
+      "url": "https://akrites.org/letter/",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "オープンソースに私たちは皆依存している。共に守ろう",
+      "summary": "技術業界からの公開書簡と、世の中で使われているオープンソースソフトウェアの脆弱性を修復する協調的な取り組み「Akrites」の開始が発表されました。"
     }
   ],
-  "updated_at": "2026-06-26T06:34:40.392354+09:00"
+  "updated_at": "2026-06-26T21:37:46.681305+09:00"
 }

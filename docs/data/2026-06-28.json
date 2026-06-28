@@ -1,0 +1,147 @@
+{
+  "date": "2026-06-28",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/b253ca0b9578cd38e535d123f457249db34a8120/771_0_5840_4672/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/apple-ipad-macbook-price-rise-australia",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "アップル、AI費用を理由にiPad・MacBook値上げ、豪州では2割超高に",
+      "summary": "AppleはMacBook 13インチの価格を1,799ドルから2,099ドルに引き上げ、iPadの価格も25%値上げしました。",
+      "impact": "Apple製品の値上げは、学生やクリエイターなど、これらのデバイスに依存する人々の経済的負担を増加させ、デジタルデバイドを拡大させる可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/dea013b21ec89f471e4b4c1b1f3b75de040db5d1/488_0_4876_3901/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "カリフォルニア州、富裕税課税案を住民投票へ",
+      "summary": "支持者が撤回を拒否したため、5%の一時課税案が11月に住民投票にかけられることになりました。",
+      "impact": "富裕税の導入は、州の財政を潤す一方で、富裕層の州外への流出を招き、経済活動の停滞を招くリスクが考えられます。"
+    },
+    {
+      "image": "https://media.guim.co.uk/a9767d049cc130a0ca66bec33f0bcd31122457f3/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/25/apple-price-hike",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "アップル、AIブームでチップ価格高騰を理由にiPad・MacBook値上げ",
+      "summary": "同社は、メモリやストレージチップのコスト増から顧客を守ることはできないとし、iPhoneの価格上昇もあり得ることを示唆しました。",
+      "impact": "Apple製品のさらなる値上げは、AI技術の発展に伴うコスト増が消費者に転嫁されることで、テクノロジー製品へのアクセス格差を広げ、経済格差を助長する可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "元メタ社員、報復的解雇でメタを提訴",
+      "summary": "元従業員が、会社による「強要的な監視」と憲法修正第1条違反を訴える申し立てを行いました。",
+      "impact": "元従業員による訴訟は、従業員のプライバシー保護や解雇における企業の透明性に対する社会的な関心を高め、労働環境の改善を促す可能性があります。"
+    },
+    {
+      "image": "",
+      "url": "https://ipcrawl.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "インターネット上に公開されたウェブカメラの「生きた地図」を発見",
+      "summary": "公開されているウェブカメラの「生きている地図」が、インターネット上で発見されました。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6799f389f9d20d3b64ef45c5e39cf6fddae59b9d7f051fedcf2bc6027e2f35cb/bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "匿名GitHubアカウント、未公表のゼロデイ脆弱性を大量公開",
+      "summary": "公開されているエクスプロイトのProof of Concept (PoC)と脆弱性研究のまとめが、現時点で未報告のものを収集したアーカイブとして提供されています。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/dc55dba1359c9a89994fa1413f126444ec8bf6b73641fd4924867a7e8a315455/kageroumado/adrafinil",
+      "url": "https://github.com/kageroumado/adrafinil",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "【Show HN】Adrafinil：エージェント稼働時のみMacをスリープさせないツール",
+      "summary": "AIコーディングエージェントが動作している間のみMacをスリープ状態にしないようにするツール（kageroumado/adrafinil）が開発されました。"
+    },
+    {
+      "image": "https://www.openra.net/images/social.jpg?t=2026-04-30-18-11",
+      "url": "https://www.openra.net/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "OpenRA",
+      "summary": "現代の時代に合わせて、古典的な戦略ゲームが再構築されています。"
+    },
+    {
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67001745&width=1200&height=600&coordinates=0%2C255%2C0%2C244",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "AIがRFIC設計の「秘術」を習得",
+      "summary": "AIは、理解可能性や美学の制約から解放され、より速く設計を生成できるようになりました。これにより、従来よりも迅速なデザインプロセスが実現します。"
+    },
+    {
+      "image": "https://npr.brightspotcdn.com/dims4/default/c3f0a81/2147483647/strip/true/crop/3000x1575+0+40/resize/1200x630!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Fe6%2F56%2F79316759410d8ce45efb655b32b3%2Fmpr-sleep-v2-logo-1.jpg",
+      "url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "マーファ公共ラジオがあなたを眠りに誘う",
+      "summary": "Marfa Public Radioは、資金調達、コンプライアンス、緊急対応、メンテナンスなど、24時間年中無休で放送を続けるために多くの裏方の作業を行っています。"
+    },
+    {
+      "image": "https://decomp-academy.dev/brand/png/og-image.png",
+      "url": "https://decomp-academy.dev",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "Show HN: Decomp Academy – GameCubeゲームを対応するC言語に逆コンパイルする方法を学ぶ",
+      "summary": "GameCube PowerPCアセンブリを、実際のMWCC GC/2.0コンパイラによってライブで採点されるバイトマッチングCに逆コンパイルする方法を学びましょう。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/31574c1f6235c321985f66ca4620ad12104772cbd909dc2ed7eb938f2f97d715/kyuz0/amd-strix-halo-vllm-toolboxes",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "AMD Strix Halo RDMAクラスター設定ガイド",
+      "summary": "GitHubアカウントを作成して、kyuz0/amd-strix-halo-vllm-toolboxesの開発に貢献してください。"
+    },
+    {
+      "image": "",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "title": "パブリックDNSリゾルバの選択",
+      "summary": "パブリックDNSリゾルバを選択することについて解説しています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/9a9e893089a561db98134a3dd8c891e798e96964/793_0_5446_4357/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/28/crypto-v-community-local-lenders-fight-stablecoins-law",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "title": "「仮想通貨 vs コミュニティ」：米国の地方銀行4000行が「ステーブルコイン」法に共同で対抗",
+      "summary": "4,000もの地域銀行は、デジタル通貨を規制する法案が成立すれば、地方の企業や農家が8500億ドルの融資を受けられなくなることを懸念しています。",
+      "impact": "この法案が成立すれば、地方銀行の融資能力が低下し、地域経済の活性化が阻害される可能性があります。その結果、中小企業や農家は資金調達が困難になり、地域社会の発展に影響が出る恐れがあります。"
+    },
+    {
+      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "メモリ上に存在しないはずのDLL、正式なアンロードなしに検出",
+      "summary": "このニュースは、あるものがどのように失われたのかを解明しようとする試みについて説明しています。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7566d97693861b1d61d91c32acd5bb69a6a7e5547a8e2ee65b0f6c4012d6dbe6/cfenollosa/bashblog",
+      "url": "https://github.com/cfenollosa/bashblog",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "Bashblog：単一のBashスクリプトでブログを作成",
+      "summary": "このプロジェクトは、ダウンロードして実行し、記事を書くだけでブログを作成できる、単一のBashスクリプトを提供します。"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1271892689/88c43e02-cd49-45ba-9926-2f82880b57a0",
+      "url": "https://github.com/itsthelore/wayfinder-router",
+      "category": "海外IT",
+      "time": "21:30",
+      "title": "Wayfinder Router：ローカルおよびホスト型LLM間でのクエリの決定論的ルーティング",
+      "summary": "このツールは、ローカルおよびホストされたLLMモデル間でのクエリの決定論的なルーティングを可能にする、シンプルなコマンドラインインターフェースを提供します。"
+    }
+  ],
+  "updated_at": "2026-06-28T21:31:35.219581+09:00"
+}
