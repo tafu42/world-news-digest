@@ -1,0 +1,63 @@
+{
+  "date": "2026-06-29",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/c2db30c2688cafcce0ba559cce4044d8aa395fcb/639_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "title": "トランプ政権の要請を受け、OpenAIがAIモデルの公開を延期",
+      "summary": "OpenAIのサム・アルトマンが、AnthropicのMythosのローンチを彷彿とさせる形で、GPT 5.6の限定プレビューを発表しました。",
+      "impact": "AIモデルの公開延期は、開発競争の遅延を招き、AI技術の進歩や普及のペースに影響を与える可能性があります。また、規制当局がAI開発の方向性を左右できるという前例となり、今後のAI開発における政府の介入の度合いについての議論を深める可能性があります。"
+    },
+    {
+      "image": "https://semgrep.dev/assets/blog/glm-5.2-beats-claude-in-our-cybersecurity-benchmarks.png",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "GLM 5.2、ベンチマークでClaudeを上回る",
+      "summary": "プロンプトのみを与えられたモデルの中で、最良のオープンウェイトモデルがClaude Opus 4.8を上回りました。"
+    },
+    {
+      "image": "https://antoine.fi/rails/active_storage/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzk4LCJwdXIiOiJibG9iX2lkIn19--d3e6efb19dc4b4dc72f3345968d90c00d2d027fb/avatar.jpeg",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "MRIのセカンドオピニオンにClaude Codeを使用",
+      "summary": "この個人的なブログでは、テクノロジー、ビジネス、健康に関する最新の学習内容や思考を共有しています。"
+    },
+    {
+      "image": "https://pudding.cool/2026/06/menu-story/assets/social-facebook.jpg",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "ニューヨーク公共図書館のバトルトフ・コレクション（1880-1920年）から5000点のメニュー",
+      "summary": "アメリカの初期のレストランメニューから、当時のアメリカ社会の食文化や人々の暮らしについて学ぶことができます。"
+    },
+    {
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/sBmc3TjQhNM",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "TOP500 at ISC'26：スーパーコンピューターの新王者誕生",
+      "summary": "（このニュース本文は挨拶のみで具体的な内容がないため、要約できません）"
+    },
+    {
+      "image": "",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "歴史的なメモリ価格（1960年～2026年）",
+      "summary": "DRAM、HBM、NANDフラッシュの過去および現在の価格情報が提供されています。"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/863717537/80b4f2f1-52f9-4c3e-b32a-779933701089",
+      "url": "https://github.com/librepods-org/librepods",
+      "category": "海外IT",
+      "time": "06:30",
+      "title": "Librepods：AirPodsが自由化",
+      "summary": "AirPodsをAppleのエコシステムから解放するためのプロジェクト「librepods」が紹介されており、GitHubでの開発への貢献が呼びかけられています。"
+    }
+  ],
+  "updated_at": "2026-06-29T06:30:59.044412+09:00"
+}
