@@ -115,7 +115,82 @@
       "collected_at": "2026-06-29T13:30:56.593903+09:00",
       "title": "AIによるより優れた画像",
       "summary": "AIの画像生成技術が進化し、より高品質な画像が生成できるようになりました。"
+    },
+    {
+      "image": "https://media.guim.co.uk/7152890e07d8e30ad44b4e5c23930fd70b438129/2774_995_5275_4220/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/29/delivery-robots-milton-keynes-starship-technologies",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "「最高のおすすめガジェット」：ミルトン・キーンズのロボットから配達を受け取ろう",
+      "summary": "Starship Technologiesの6輪配送ロボットが、新たな法律のもと、全国でより身近な存在になる可能性があります。これにより、都市部でのラストワンマイル配送が効率化されると期待されています。",
+      "impact": "都市部でのラストワンマイル配送が効率化され、消費者はより迅速かつ手軽に商品を受け取れるようになる可能性がある。これにより、小売業者の配送コスト削減や、新たなサービスモデルの創出も期待できる。"
+    },
+    {
+      "image": "https://media.guim.co.uk/1add90c88021cf3d4b523a702a90429866f18076/265_33_7084_5668/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/29/ministers-likely-to-support-law-change-to-allow-delivery-robots-on-englands-paths",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "イングランドの歩道で配送ロボットを許可する法改正、閣僚が支持か",
+      "summary": "安全キャンペーン活動家らは、すでに混雑している歩道での広範な展開計画について懸念を表明しています。彼らは、歩行者の安全と円滑な通行が妨げられる可能性を指摘しています。",
+      "impact": "歩道での配送ロボットの普及は、歩行者の安全確保と混雑緩和のため、新たな交通ルールやインフラ整備の必要性を生む可能性がある。また、地域住民との摩擦や、ユニバーサルデザインへの配慮が求められる。"
+    },
+    {
+      "image": "https://media.guim.co.uk/6eadc573bed307c04051db65736dc6cc8cbb9c32/2177_1045_2477_1982/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/29/ring-video-doorbell-pro-review",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "Ring Video Doorbell Pro レビュー：新型4Kカメラで劇的に進化した",
+      "summary": "Ringの最上位モデルは、カメラ、Wi-Fi、デザインのアップデートにより、有線またはバッテリー駆動のオプションで歓迎すべき進化を遂げました。これにより、セキュリティ機能と使いやすさが向上しています。",
+      "impact": "高画質化・高機能化したRing Video Doorbell Proの普及は、家庭のセキュリティレベルを向上させ、犯罪抑止効果を高める一方で、プライバシー侵害や監視社会化への懸念も増大させる可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "Sandia National Labs SA3000 8085 CPU",
+      "summary": "Sandia National LabsがSA3000 8085 CPUを発表しました。このCPUは、特定の科学技術計算や研究開発用途向けに設計された高性能プロセッサです。"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!S-dx!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbab22a57-acb5-4fe4-929f-132059bcb466_1800x900.png",
+      "url": "https://danunparsed.com/p/hackerrank-open-source-ats",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "HackerRankがATSをオープンソース化。私の履歴書、90点→74点→88点",
+      "summary": "採用プロセスが、応募者の適性よりも運に左右されるフィルターになりつつあります。これにより、本来優秀な候補者が見過ごされるリスクが高まっています。"
+    },
+    {
+      "image": "https://storage.ghost.io/c/39/f8/39f85cc7-8637-40fc-a57c-f45754453717/content/images/2026/06/Screenshot-2022-09-19-at-19.32.45.png",
+      "url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "Pollen（CEOネガス＝ファンシー、CTOライト）は記事削除を試み、Googleが協力",
+      "summary": "2022年に報じられたイベントテック企業Pollenの劇的な凋落について、その要因が短くまとめられています。Pollenは、低利益率のイベント業界で成功を収め、Covid-19を乗り越え、堅実なソフトウェアエンジニアリング組織を構築したかに見えました。"
+    },
+    {
+      "image": "",
+      "url": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "NUMA：コア、メモリ、そしてそれらの間の距離",
+      "summary": "NUMAアーキテクチャにおけるコア、メモリ、およびそれらの間の距離について解説されています。NUMAは、高性能コンピューティングにおけるメモリレイテンシの最適化に重要な役割を果たします。"
+    },
+    {
+      "image": "",
+      "url": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-29T21:30:57.437725+09:00",
+      "title": "AppleのSparse Image Format (ASIF) を解剖する",
+      "summary": "WWDC 2025で発表されたmacOS 26 Tahoeには、仮想マシンでの利用を想定した新しいディスクイメージフォーマット「ASIF」が導入されました。ASIFは、既存の仮想ディスクフォーマットから多くのインスピレーションを得ています。"
     }
   ],
-  "updated_at": "2026-06-29T13:31:05.872360+09:00"
+  "updated_at": "2026-06-29T21:36:06.884033+09:00"
 }
