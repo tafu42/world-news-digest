@@ -2,24 +2,6 @@
   "date": "2026-06-27",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/c2db30c2688cafcce0ba559cce4044d8aa395fcb/639_0_5033_4024/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "title": "トランプ政権の要請を受け、OpenAIがAIモデルのリリースを延期",
-      "summary": "サム・アルトマンは、AnthropicのMythosのローンチを想起させる動きで、GPT 5.6の限定プレビューを発表しました。",
-      "impact": "AIモデルのリリース延期は、AI技術の進化速度や普及時期に影響を与え、開発競争の力学を変化させる可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/1057b3b3401dddbf20b9854cd05f7a0ea06db54b/0_303_1080_864/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/24/texas-tesla-car-crash-investigation",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "title": "テキサス州の住宅にテスラ車が突っ込み死亡事故、米国が2度目の連邦捜査を開始",
-      "summary": "76歳のマータ・アビラさんを死亡させた事故の前に、運転手が運転支援技術を起動していたと当局に伝えました。",
-      "impact": "テスラ車の事故による連邦捜査は、自動運転技術の安全性に対する懸念を深め、関連規制の強化や技術開発の方向性に影響を与える可能性があります。"
-    },
-    {
       "image": "",
       "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
       "category": "海外IT",

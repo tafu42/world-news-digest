@@ -2,42 +2,6 @@
   "date": "2026-06-28",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/b253ca0b9578cd38e535d123f457249db34a8120/771_0_5840_4672/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/26/apple-ipad-macbook-price-rise-australia",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "title": "アップル、AI費用を理由にiPad・MacBook値上げ、豪州では2割超高に",
-      "summary": "AppleはMacBook 13インチの価格を1,799ドルから2,099ドルに引き上げ、iPadの価格も25%値上げしました。",
-      "impact": "Apple製品の値上げは、学生やクリエイターなど、これらのデバイスに依存する人々の経済的負担を増加させ、デジタルデバイドを拡大させる可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/dea013b21ec89f471e4b4c1b1f3b75de040db5d1/488_0_4876_3901/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "title": "カリフォルニア州、富裕税課税案を住民投票へ",
-      "summary": "支持者が撤回を拒否したため、5%の一時課税案が11月に住民投票にかけられることになりました。",
-      "impact": "富裕税の導入は、州の財政を潤す一方で、富裕層の州外への流出を招き、経済活動の停滞を招くリスクが考えられます。"
-    },
-    {
-      "image": "https://media.guim.co.uk/a9767d049cc130a0ca66bec33f0bcd31122457f3/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/25/apple-price-hike",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "title": "アップル、AIブームでチップ価格高騰を理由にiPad・MacBook値上げ",
-      "summary": "同社は、メモリやストレージチップのコスト増から顧客を守ることはできないとし、iPhoneの価格上昇もあり得ることを示唆しました。",
-      "impact": "Apple製品のさらなる値上げは、AI技術の発展に伴うコスト増が消費者に転嫁されることで、テクノロジー製品へのアクセス格差を広げ、経済格差を助長する可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "title": "元メタ社員、報復的解雇でメタを提訴",
-      "summary": "元従業員が、会社による「強要的な監視」と憲法修正第1条違反を訴える申し立てを行いました。",
-      "impact": "元従業員による訴訟は、従業員のプライバシー保護や解雇における企業の透明性に対する社会的な関心を高め、労働環境の改善を促す可能性があります。"
-    },
-    {
       "image": "",
       "url": "https://ipcrawl.com/",
       "category": "海外IT",

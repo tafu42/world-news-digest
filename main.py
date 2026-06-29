@@ -28,6 +28,14 @@ DATA_DIR = os.path.join('docs', 'data')
 INDEX_FILE = os.path.join(DATA_DIR, 'index.json')
 RETENTION_DAYS = 30
 
+# Guardian Open Platform 規約：コンテンツを24時間を超えて保持してはならない。
+# そのためGuardian由来の記事は取得から削除する（HN等はRETENTION_DAYSに従う）。
+# 収集は固定時刻（6:30/13:30/21:30）で走るため、しきい値を厳密に24hにすると
+# 「収集時刻と実行時刻が重なった記事」がちょうど24h判定をすり抜け、次サイクル（最大+9h）まで
+# 残ってしまう。これを防ぐため0.5hの安全マージンを取り、23.5hで失効させる（24hを超える前に確実に削除）。
+GUARDIAN_HOST = 'theguardian.com'
+GUARDIAN_TTL_HOURS = 23.5
+
 GUARDIAN_ENDPOINT = 'https://content.guardianapis.com/search'
 HN_TOP = 'https://hacker-news.firebaseio.com/v0/topstories.json'
 HN_ITEM = 'https://hacker-news.firebaseio.com/v0/item/{}.json'
@@ -352,6 +360,55 @@ def cleanup_old_days():
             os.remove(os.path.join(DATA_DIR, n))
 
 
+def _is_guardian(a):
+    return GUARDIAN_HOST in (a.get('url') or '')
+
+
+def _collected_dt(a, date_str):
+    """記事を取得したJST時刻を返す。collected_atが無い古いデータは date+time から復元。"""
+    ts = a.get('collected_at')
+    if ts:
+        try:
+            return datetime.fromisoformat(ts)
+        except ValueError:
+            pass
+    try:
+        return datetime.strptime(f"{date_str} {a.get('time', '00:00')}", '%Y-%m-%d %H:%M').replace(tzinfo=JST)
+    except ValueError:
+        return None
+
+
+def expire_guardian():
+    """Guardian Open Platform 規約：取得から24時間を超えたGuardian由来コンテンツを削除する。
+    要約・サムネ画像はGuardianのコンテンツ（翻訳も派生物）なので保持しない。HN等は対象外。"""
+    if not os.path.isdir(DATA_DIR):
+        return
+    now = datetime.now(JST)
+    for n in os.listdir(DATA_DIR):
+        if not n.endswith('.json') or n == 'index.json':
+            continue
+        date_str = n[:-5]
+        p = os.path.join(DATA_DIR, n)
+        with open(p, 'r', encoding='utf-8') as f:
+            day = json.load(f)
+        articles = day.get('articles', [])
+        kept = []
+        for a in articles:
+            if _is_guardian(a):
+                dt = _collected_dt(a, date_str)
+                if dt is None or (now - dt) > timedelta(hours=GUARDIAN_TTL_HOURS):
+                    continue  # 24時間超のGuardian記事は破棄
+            kept.append(a)
+        if len(kept) == len(articles):
+            continue  # 変化なし
+        if kept:
+            day['articles'] = kept
+            with open(p, 'w', encoding='utf-8') as f:
+                json.dump(day, f, ensure_ascii=False, indent=2)
+        else:
+            os.remove(p)  # Guardianしか無かった日は丸ごと消える
+
+
 def main():
     today = datetime.now(JST).strftime('%Y-%m-%d')
     yesterday = (datetime.now(JST) - timedelta(days=1)).strftime('%Y-%m-%d')
@@ -361,13 +418,16 @@ def main():
 
     if not new_articles:
         print('新着記事なし。')
+        expire_guardian()
         cleanup_old_days()
         rebuild_index()
         return
 
-    now_hm = datetime.now(JST).strftime('%H:%M')
+    now = datetime.now(JST)
+    now_hm = now.strftime('%H:%M')
     for a in new_articles:
         a['time'] = now_hm
+        a['collected_at'] = now.isoformat()  # 24時間判定用（Guardian規約）
 
     # ① タイトル翻訳（最優先）→ 失敗分は待機列に入れて再挑戦
     titles = _gen_sized(new_articles, _title_prompt, _title_one, TITLE_BATCH)
@@ -397,6 +457,7 @@ def main():
     day['updated_at'] = datetime.now(JST).isoformat()
     save_day(day)
 
+    expire_guardian()
     cleanup_old_days()
     rebuild_index()
     print(f'追記完了（新着{len(new_articles)}件 / テック{len(top_new)}件 / {today} 累計{len(day["articles"])}件）')
