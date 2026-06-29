@@ -2,15 +2,6 @@
   "date": "2026-06-29",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/c2db30c2688cafcce0ba559cce4044d8aa395fcb/639_0_5033_4024/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "title": "トランプ政権の要請を受け、OpenAIがAIモデルの公開を延期",
-      "summary": "OpenAIのサム・アルトマンが、AnthropicのMythosのローンチを彷彿とさせる形で、GPT 5.6の限定プレビューを発表しました。",
-      "impact": "AIモデルの公開延期は、開発競争の遅延を招き、AI技術の進歩や普及のペースに影響を与える可能性があります。また、規制当局がAI開発の方向性を左右できるという前例となり、今後のAI開発における政府の介入の度合いについての議論を深める可能性があります。"
-    },
-    {
       "image": "https://semgrep.dev/assets/blog/glm-5.2-beats-claude-in-our-cybersecurity-benchmarks.png",
       "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
       "category": "海外IT",
