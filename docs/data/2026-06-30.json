@@ -120,7 +120,71 @@
       "collected_at": "2026-06-30T13:30:56.300542+09:00",
       "title": "PDP-1 Lisp (1960) を探る",
       "summary": "Exploring PDP-1 Lisp (1960)"
+    },
+    {
+      "image": "https://media.guim.co.uk/adb48c158340bd81e3a39060a4fb7fa67cf1c390/2598_1820_1759_1407/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/oura-ring-5-review-smart-ring-health-tracking",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-06-30T21:30:59.269812+09:00",
+      "title": "Oura Ring 5 レビュー：スマートリングの世代を革新する驚異的な進化",
+      "summary": "Slimmer, longer lasting and much easier to live with, new Oura sets a very high new bar for health-tracking wearables",
+      "impact": ""
+    },
+    {
+      "image": "https://cms.waag.org/sites/waag/files/styles/1200x630/public/2026-06/scherm-afbeelding_2026-06-23_om_10.31.35.png",
+      "url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-30T21:30:59.269812+09:00",
+      "title": "欧州デジタルIDウォレット、GoogleとAppleの福音に",
+      "summary": "European governments are rolling out digital identity wallets, which are to be used by citizens to access services, and "
+    },
+    {
+      "image": "https://images.europeancorrespondent.com/attRp54hjyayl13fH/public",
+      "url": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-30T21:30:59.269812+09:00",
+      "title": "米国大使、ベルギー警察に取材妨害を指示",
+      "summary": "Yesterday evening, the United States held its “Freedom 250” celebration – paid for by private companies, organised by th"
+    },
+    {
+      "image": "",
+      "url": "https://karolina.mgdubiel.com/drone/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-30T21:30:59.269812+09:00",
+      "title": "ハードウェア経験ゼロから自作するオクトコプター",
+      "summary": "Building a custom octocopter from scratch with no prior hardware experience"
+    },
+    {
+      "image": "https://cekrem.github.io/images/banner.jpg",
+      "url": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-30T21:30:59.269812+09:00",
+      "title": "Parse, Don't Validate – In a Language That Doesn't Want You To",
+      "summary": "Applying Alexis King"
+    },
+    {
+      "image": "",
+      "url": "https://opensourcelowtech.org/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-30T21:30:59.269812+09:00",
+      "title": "オープンソース・ローテック",
+      "summary": "Open Source Low Tech"
+    },
+    {
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2020/06/abomb8-1152x648.jpg",
+      "url": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-06-30T21:30:59.269812+09:00",
+      "title": "Sony erases digital content from libraries; reminded we don't own what we buy",
+      "summary": "Sony has been scaling down its digitial store for a few years."
     }
   ],
-  "updated_at": "2026-06-30T14:11:47.844320+09:00"
+  "updated_at": "2026-06-30T22:10:48.083257+09:00"
 }
