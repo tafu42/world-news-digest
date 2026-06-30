@@ -1,0 +1,100 @@
+{
+  "date": "2026-07-01",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/92dc02feb919abe9b9f2ceb28488c5b8e8e36453/521_812_4740_3794/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
+      "summary": "Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing auti",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/9c81b1f3b6bc9d1a70c758daeccd7e5b6922a7c7/499_0_2501_2000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Silicon Valley donations make Colorado Democratic primary one of state’s most expensive",
+      "summary": "Manny Rutinel’s House campaign draws millions from big tech as pro- and anti-AI factions spar over regulation",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/1576ea0394b4abc522ee470f30ec213f183150fb/462_0_4600_3682/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/artificial-intelligence-shares",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Rocky week for AI as shares slump but no sign of crash – yet",
+      "summary": "The markets are souring on artificial intelligence, but is this the bubble being burst? Meanwhile, California proposes a",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/00ac93ef6e6fa87b834a73551658c353703cef06/895_42_6227_4981/500.jpg",
+      "url": "https://www.theguardian.com/global/commentisfree/2026/jun/30/elon-musk-trillion-rightwing-media",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Doubt that Elon Musk ‘earned’ his trillion? Rightwing media says you’re in an ‘impotent envy cult’",
+      "summary": "The lovefest from Musk’s conservative fans completely overlooks the unscrupulous tactics behind his immense wealth",
+      "impact": ""
+    },
+    {
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/458ea645ef6b729f6847cba16932716e6b547f2f-2880x1620.png",
+      "url": "https://www.anthropic.com/news/claude-sonnet-5",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Claude Sonnet 5",
+      "summary": "Our most agentic Sonnet yet, with top-tier intelligence for coding and everyday professional work."
+    },
+    {
+      "image": "",
+      "url": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Claude Code is steganographically marking requests",
+      "summary": "AIモデルのClaudeは、ユーザーの質問に「ステルハ（steganographically）」で目印をつけている。これは、誰かがClaudeの生成したコンテンツを盗用したり、不正利用したりした場合に、その出所を追跡できるようにするためである。"
+    },
+    {
+      "image": "https://ngrok.com/blog-assets/images/2026-06-26-i-ported-kubernetes-to-the-browser/og.jpg",
+      "url": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "I ported Kubernetes to the browser",
+      "summary": "Almost 100,000 lines of LLM-generated code in 2 months, and none of it is slop."
+    },
+    {
+      "image": "",
+      "url": "https://claude.com/product/claude-science",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Claude Science",
+      "summary": "Claude Science"
+    },
+    {
+      "image": "",
+      "url": "https://deepmind.google/models/gemini-image/flash-lite/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "Nano Banana 2 Lite",
+      "summary": "Nano Banana 2 Lite"
+    },
+    {
+      "image": "",
+      "url": "https://gauthier-lechevalier.com/radar",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-01T06:31:00.225609+09:00",
+      "title": "I built a mmWave material classification radar (2025)",
+      "summary": "I built a mmWave material classification radar (2025)"
+    }
+  ],
+  "updated_at": "2026-07-01T07:44:57.706004+09:00"
+}
