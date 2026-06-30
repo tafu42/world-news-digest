@@ -64,7 +64,63 @@
       "collected_at": "2026-06-30T06:31:05.794969+09:00",
       "title": "WataBoy：Game Boy命令のJITコンパイルはWASMでネイティブインタプリタを凌駕",
       "summary": "WATaBoyは、ゲームボーイの命令をWASMにJITコンパイルすることで、ネイティブインタープリターを凌駕する性能を発揮します。"
+    },
+    {
+      "image": "https://media.guim.co.uk/9d95d44e58b560fb5445799828ea0bf5c913fa4a/285_0_4600_3680/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/crypto-firms-sweeping-new-rules-uk-fca-regulator",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-06-30T13:30:56.300542+09:00",
+      "title": "Crypto firms operating in UK to be subject to sweeping new rules",
+      "summary": "City regulator will require booming industry to prove its resilience to risk from October next year",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/c2db30c2688cafcce0ba559cce4044d8aa395fcb/639_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/26/openai-ai-model-release-trump-us-sam-altman-gpt-anthropic-mythos",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-06-30T13:30:56.300542+09:00",
+      "title": "トランプ政権からの要請を受け、OpenAIがAIモデルのリリースを延期",
+      "summary": "Sam Altman announces limited preview of GPT 5.6 in move that echoes launch of Anthropic’s Mythos",
+      "impact": ""
+    },
+    {
+      "image": "https://weblog.rogueamoeba.com/wp-content/uploads/2026-06-iconshapes/banner@2x.png",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-06-30T13:30:56.300542+09:00",
+      "title": "Free the Icons",
+      "summary": "Apple should end their prohibition on shapes in MacOS app icons"
+    },
+    {
+      "image": "",
+      "url": "https://fil-c.org/context_switches",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-06-30T13:30:56.300542+09:00",
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "summary": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C"
+    },
+    {
+      "image": "",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-06-30T13:30:56.300542+09:00",
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "summary": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active"
+    },
+    {
+      "image": "",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-06-30T13:30:56.300542+09:00",
+      "title": "PDP-1 Lisp (1960) を探る",
+      "summary": "Exploring PDP-1 Lisp (1960)"
     }
   ],
-  "updated_at": "2026-06-30T06:31:52.071984+09:00"
+  "updated_at": "2026-06-30T14:11:47.844320+09:00"
 }

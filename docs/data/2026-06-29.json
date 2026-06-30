@@ -50,46 +50,6 @@
       "summary": "AirPodsをAppleのエコシステムから解放するためのプロジェクト「librepods」が紹介されており、GitHubでの開発への貢献が呼びかけられています。"
     },
     {
-      "image": "https://media.guim.co.uk/b253ca0b9578cd38e535d123f457249db34a8120/771_0_5840_4672/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/26/apple-ipad-macbook-price-rise-australia",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-06-29T13:30:56.593903+09:00",
-      "title": "Apple、AIを理由にiPadとMacBookの値上げを発表、豪州では最低20%高に",
-      "summary": "AppleはMacBook 13インチの価格を1,799ドルから2,099ドルに引き上げ、iPadの価格も25%上昇しました。",
-      "impact": "Apple製品の値上げは、特に学生やクリエイターなど、MacBookやiPadを学習や仕事に不可欠とする層の経済的負担を増加させる可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/dea013b21ec89f471e4b4c1b1f3b75de040db5d1/488_0_4876_3901/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/25/california-billionaire-tax-ballot",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-06-29T13:30:56.593903+09:00",
-      "title": "カリフォルニア州の富裕税、合意期限過ぎて住民投票へ",
-      "summary": "支持者が提出を取り下げなかったため、一時金5%の税金導入案が11月に住民投票にかけられることになりました。",
-      "impact": "カリフォルニア州の富裕税導入が住民投票で否決されれば、富裕層への課税強化の動きが停滞し、所得格差是正に向けた政策の推進が困難になる可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/a9767d049cc130a0ca66bec33f0bcd31122457f3/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/25/apple-price-hike",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-06-29T13:30:56.593903+09:00",
-      "title": "Apple、AIブームでチップ代高騰を理由にiPad・MacBook値上げ",
-      "summary": "同社は、メモリおよびストレージチップのコスト上昇から顧客を保護できないと述べ、iPhoneの値上げも近い可能性を示唆しました。",
-      "impact": "Apple製品の値上げは、AI開発への投資を反映する一方で、一般消費者のデジタル機器へのアクセスを制限し、デジタルデバイドを拡大させる懸念があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/b6ef597f5bd546ee5734935e21bd071c8b6a4701/1387_0_6933_5547/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jun/25/whistleblower-sarah-wynn-williams-sues-meta-attempts-to-silence-her-careless-people",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-06-29T13:30:56.593903+09:00",
-      "title": "内部告発者サラ・ウィン＝ウィリアムズ氏、Metaを「口封じ」の試みで提訴",
-      "summary": "元従業員が、同社が「強制的監視」および憲法修正第1条違反を行っていると非難する訴訟を提起しました。",
-      "impact": "Metaに対する内部告発者の訴訟は、プラットフォーム上の表現の自由と検閲の問題に焦点を当て、大手テクノロジー企業のコンテンツモデレーションポリシーへの信頼を揺るがす可能性があります。"
-    },
-    {
       "image": "",
       "url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
       "category": "海外IT",
