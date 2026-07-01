@@ -94,7 +94,43 @@
       "collected_at": "2026-07-01T06:31:00.225609+09:00",
       "title": "I built a mmWave material classification radar (2025)",
       "summary": "I built a mmWave material classification radar (2025)"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/67722017/76fcc500-525b-11ea-85e2-37c7b18c893c",
+      "url": "https://github.com/google/copybara",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-01T13:31:00.537798+09:00",
+      "title": "Google、コードリポジトリ間移動を可能にする「copybara」を導入",
+      "summary": "Copybaraは、リポジトリ間でコードを変換・移動するためのツールで、コードベースの移行や統合を効率化します。"
+    },
+    {
+      "image": "https://imageio.forbes.com/specials-images/imageserve/6a4421163051221e5ebeea37/0x0.jpg?format=jpg&amp;height=900&amp;width=1600&amp;fit=bounds",
+      "url": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-01T13:31:00.537798+09:00",
+      "title": "半世紀ぶりの解禁、超音速旅客機が米国に帰還へ",
+      "summary": "米国は、超音速飛行における新たな時代に向けて規制を撤廃し、ソニックブームを伴わない長距離高速移動の実現を目指しています。"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Forestiere_Underground_Gardens_at_5021_West_Shaw_Avenue%2C_Fresno%2C_California_LCCN2013634990.jpg/1280px-Forestiere_Underground_Gardens_at_5021_West_Shaw_Avenue%2C_Fresno%2C_California_LCCN2013634990.jpg",
+      "url": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-01T13:31:00.537798+09:00",
+      "title": "フォレスティエール地下庭園",
+      "summary": "Forestiere Underground Gardensは、カリフォルニア州フレズノにある、砂岩の地下に作られたユニークな庭園群です。"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1798110641414443008/XP8gyBaY_200x200.jpg",
+      "url": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-01T13:31:00.537798+09:00",
+      "title": "商務省、Claude Fable 5およびMythos 5の輸出規制を解除",
+      "summary": "米国商務省がClaude Fable 5およびMythos 5に対する輸出規制を解除したため、明日からアクセスが復旧され、ユーザーへの感謝が述べられています。"
     }
   ],
-  "updated_at": "2026-07-01T07:44:57.706004+09:00"
+  "updated_at": "2026-07-01T13:31:36.409045+09:00"
 }
