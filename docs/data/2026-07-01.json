@@ -130,7 +130,63 @@
       "collected_at": "2026-07-01T13:31:00.537798+09:00",
       "title": "商務省、Claude Fable 5およびMythos 5の輸出規制を解除",
       "summary": "米国商務省がClaude Fable 5およびMythos 5に対する輸出規制を解除したため、明日からアクセスが復旧され、ユーザーへの感謝が述べられています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/20b0b47a180c1b8010bc295ab02ff0130775dd74/139_0_4164_3333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-01T21:31:04.022727+09:00",
+      "title": "Anthropic、セキュリティ懸念によるFable・Mythos AIモデルの米国輸出規制解除を発表",
+      "summary": "AI企業は先月、Fable 5とMythos 5モデルへの外国人によるアクセスを一時停止せざるを得なくなりました。",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/1188ea1b1f5e3a468578a8d1860ba2f101800f14/293_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-01T21:31:04.022727+09:00",
+      "title": "AIの急速な普及、世界的な格差を拡大させる恐れ＝国連警鐘",
+      "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across world",
+      "impact": ""
+    },
+    {
+      "image": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+      "url": "https://asahilinux.org/2026/06/progress-report-7-1/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-01T21:31:04.022727+09:00",
+      "title": "Asahi Linux 7.1 Progress Report",
+      "summary": "Asahi Linux 7.1 Progress Report"
+    },
+    {
+      "image": "",
+      "url": "https://cleberg.net/blog/internet.html",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-01T21:31:04.022727+09:00",
+      "title": "The Internet I Grew Up with Doesn't Exist Anymore",
+      "summary": "A thorough retrospective of my time on the internet."
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!Cc-z!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1e9690ca-bd6f-4f8c-8ee1-8a1f1ecd76a2_2409x1314.png",
+      "url": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-01T21:31:04.022727+09:00",
+      "title": "Single Dose of Frog-Derived Gut Bacterium Eradicates 100% of Tumors in Mice",
+      "summary": "A single intravenous dose of Ewingella americana achieved complete tumor elimination in 100% of treated animals, with no"
+    },
+    {
+      "image": "",
+      "url": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-01T21:31:04.022727+09:00",
+      "title": "Newly discovered spider builds spring loaded snare to catch ants",
+      "summary": "Newly discovered spider builds spring loaded snare to catch ants"
     }
   ],
-  "updated_at": "2026-07-01T13:31:36.409045+09:00"
+  "updated_at": "2026-07-01T22:09:17.657007+09:00"
 }
