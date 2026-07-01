@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-02",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/ee6c7a3c4d84ec98c3cd685911c3e07faefa8264/396_0_5417_4333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-02T06:31:11.458374+09:00",
+      "title": "AIなしの生活は可能か？ きれいな水なしの生活は？",
+      "summary": "Letters: Readers respond to an article about Erin Brockovich’s battle against datacentres and voice their fears for the ",
+      "impact": ""
+    },
+    {
+      "image": "https://zcode.z.ai/images/summary_large_image.png?v=20260628",
+      "url": "https://zcode.z.ai/cn",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-02T06:31:11.458374+09:00",
+      "title": "GLM開発元が発表：Claude Code（ZCode）",
+      "summary": "ZCode 将强大的 AI Agents 与现有工具链结合，帮助你在熟悉流程中完成规划、编码、评审与上线。"
+    },
+    {
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/SyntheticLife-cr-Ada-Zejun-Shen-social.jpg",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-02T06:31:11.458374+09:00",
+      "title": "史上初、人工細胞が成長・分裂に成功",
+      "summary": "Scientists built a synthetic cell that combines more lifelike properties than ever before — proof of concept that it’s p"
+    },
+    {
+      "image": "https://blog.demofox.org/wp-content/uploads/2026/07/image.png",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-02T06:31:11.458374+09:00",
+      "title": "グラフィックスプログラマーになるために学ぶべきこと",
+      "summary": "I get asked fairly often what people need to know to be hireable as a graphics programmer. I figured it was time to make"
+    },
+    {
+      "image": "",
+      "url": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-02T06:31:11.458374+09:00",
+      "title": "FFmpeg 9.1、新AACエンコーダーを搭載",
+      "summary": "FFmpeg 9.1's new AAC encoder"
+    },
+    {
+      "image": "https://blog.playstation.com/tachyon/2026/07/70bb22030b29f4234fd812253bf1129b00609c4c.jpg",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-02T06:31:11.458374+09:00",
+      "title": "PlayStation、2028年1月で新規ゲームの物理ディスク生産を終了",
+      "summary": "In response to shifting trends in consumer preference, new games will be released on PlayStation Store and at retailers "
+    },
+    {
+      "image": "https://www.workerowned.info/og-marketplace.png",
+      "url": "https://www.workerowned.info/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-02T06:31:11.458374+09:00",
+      "title": "Show HN：労働者協同組合22,000社以上の製品を検索できるディレクトリ",
+      "summary": "Find worker-owned coffee shops and restaurants across the US. Search by city to discover cooperatively owned cafes, bake"
+    }
+  ],
+  "updated_at": "2026-07-02T06:56:53.663336+09:00"
+}
