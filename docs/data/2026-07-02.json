@@ -64,7 +64,82 @@
       "collected_at": "2026-07-02T06:31:11.458374+09:00",
       "title": "Show HN：労働者協同組合22,000社以上の製品を検索できるディレクトリ",
       "summary": "Find worker-owned coffee shops and restaurants across the US. Search by city to discover cooperatively owned cafes, bake"
+    },
+    {
+      "image": "https://media.guim.co.uk/92dc02feb919abe9b9f2ceb28488c5b8e8e36453/521_812_4740_3794/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/ai-chatbot-use-anti-vaccine-myths-poll",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "Frequent AI chatbot users more likely to believe anti-vaccine myths, poll finds",
+      "summary": "Poll finds use of AI tools for health advice is correlated with belief in vaccine falsehoods, such as shots causing auti",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/9c81b1f3b6bc9d1a70c758daeccd7e5b6922a7c7/499_0_2501_2000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/silicon-valley-donations-colorado-democratic-primary",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "Silicon Valley donations make Colorado Democratic primary one of state’s most expensive",
+      "summary": "Manny Rutinel’s House campaign draws millions from big tech as pro- and anti-AI factions spar over regulation",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/7bc22106930e23dcb5638bc4b7c176b2611f825c/0_117_6646_5316/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jun/30/ai-backfired-so-ford-had-to-rehire-humans-greybeard-engineers",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "Return of the ‘greybeards’: AI backfired – so Ford had to rehire humans",
+      "summary": "The US motor company found that the hundreds of AI cameras being used for design and manufacturing checks were prone to ",
+      "impact": ""
+    },
+    {
+      "image": "https://zcode.z.ai/images/summary_large_image.png?v=20260628",
+      "url": "https://zcode.z.ai/en",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "ZCode – Harness for GLM-5.2",
+      "summary": "ZCode combines the best AI agents with your existing tools so you can plan, code, review, and deploy without friction."
+    },
+    {
+      "image": "https://makerspet.com/wp-content/uploads/2026/06/oomwoo-vacuum_model_top.webp",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "自分で作るオープンソースロボット掃除機「Oomwoo」",
+      "summary": "I’m starting a new build-in-public project: oomwoo, an open-source robot vacuum you build yourself. Raspberry Pi, ROS 2,"
+    },
+    {
+      "image": "https://senior-swe-bench.snorkel.ai/og?v=0239cf7316",
+      "url": "https://senior-swe-bench.snorkel.ai/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "シニアエンジニアとしてエージェントを評価するオープンソースベンチマーク「Senior SWE-Bench」",
+      "summary": "Evaluating agents as senior engineers on the work we actually give them"
+    },
+    {
+      "image": "",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "Global review confirms mRNA vaccines are safe, effective and full of promise ",
+      "summary": "Global review confirms mRNA vaccines are safe, effective and full of promise "
+    },
+    {
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F07%2F01%2Fonline-web-forums-retrospective%2F/opengraph/?v=1782964396",
+      "url": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-02T13:30:58.529407+09:00",
+      "title": "Bring back crappy forums",
+      "summary": "Old web forums were poorly coded and rough around the edges, but maybe we gave up on them too quickly in the social medi"
     }
   ],
-  "updated_at": "2026-07-02T06:56:53.663336+09:00"
+  "updated_at": "2026-07-02T14:25:19.086535+09:00"
 }
