@@ -139,7 +139,53 @@
       "collected_at": "2026-07-02T13:30:58.529407+09:00",
       "title": "Bring back crappy forums",
       "summary": "Old web forums were poorly coded and rough around the edges, but maybe we gave up on them too quickly in the social medi"
+    },
+    {
+      "image": "https://media.guim.co.uk/76da7fb7c521edfd0fc738f9b9eb5354bb771bd1/720_0_7200_5760/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-02T21:31:03.522891+09:00",
+      "title": "OpenAI、米政府に5％の株式を付与する初期交渉か",
+      "summary": "サム・アルトマンCEOは、AIの恩恵を広めるために、他の企業も同様の取り組みを行うべきだと主張したと報じられています。",
+      "impact": ""
+    },
+    {
+      "image": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png",
+      "url": "https://f-droid.org/2026/07/01/adv-malware.html",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-02T21:31:03.522891+09:00",
+      "title": "Android開発者認証：保護を装った脅威",
+      "summary": "Android 8以上のデバイスでは、リモート操作を待つウイルスが静かにインストールされています。"
+    },
+    {
+      "image": "https://voidzero.dev/covers/announcing-vite-plus-beta.jpg",
+      "url": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-02T21:31:03.522891+09:00",
+      "title": "Vite+ Beta版",
+      "summary": "Vite+ Betaは、モダンWebプロジェクトの作成、開発、チェック、テスト、保守に必要なツールを、迅速かつ一貫したワークフローに統合します。"
+    },
+    {
+      "image": "https://github.blog/wp-content/uploads/2026/06/613814616-4d64d5a2-d26c-4377-9ce6-a444b1b30840.png",
+      "url": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-02T21:31:03.522891+09:00",
+      "title": "Kimi K2.7コード、GitHub Copilotで一般公開",
+      "summary": "GitHub Copilotに、初のオープンウェイトモデルであるKimi 2.7 Codeが追加され、選択可能なオプションとして利用可能になりました。これにより、開発者はより多様なAIモデルを選択できるようになります。"
+    },
+    {
+      "image": "",
+      "url": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-02T21:31:03.522891+09:00",
+      "title": "定理経済の崩壊",
+      "summary": "「定理経済」の崩壊は、AIが論理的思考や証明の自動化を進めることで、従来、数学者や論理学者に独占されていた知的労働が代替される可能性を示唆しています。これは、科学技術の進歩が人間の役割を再定義し、新たな経済的・社会的な課題を生み出すことを示唆するものです。"
     }
   ],
-  "updated_at": "2026-07-02T14:25:19.086535+09:00"
+  "updated_at": "2026-07-02T21:40:50.790887+09:00"
 }
