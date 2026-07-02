@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-03",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/d7910fee2be333e8519832d795a27ed4ca929027/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "リサ・ナンディ氏、マスク氏所有のX（旧Twitter）での「虐待と偽情報」拡散を懸念し辞任",
+      "summary": "Culture secretary says her department will stop using platform, citing concerns over far-right content fuelling violence",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/1188ea1b1f5e3a468578a8d1860ba2f101800f14/293_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "AIの急速な普及、世界の不平等を悪化させる恐れ - 国連が警告",
+      "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across world",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/20b0b47a180c1b8010bc295ab02ff0130775dd74/139_0_4164_3333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "米、AnthropicのAIモデル輸出規制を解除 - セキュリティ懸念後",
+      "summary": "AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals",
+      "impact": ""
+    },
+    {
+      "image": "",
+      "url": "https://www.zachtronics.com/exapunks/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "Exapunks (2018)",
+      "summary": "Exapunks (2018)"
+    },
+    {
+      "image": "",
+      "url": "https://mathstodon.xyz/@iblech/116769502749142438",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "Linux 6.9以降、LUKSサスペンドでディスク暗号化キーがメモリから消去されなくなる",
+      "summary": "Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory"
+    },
+    {
+      "image": "",
+      "url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "X（旧Twitter）の同意命令に関するEFFのFTCへの書簡（2026年7月2日）[PDF]",
+      "summary": "EFF letter to FTC on X consent order (2 July 2026) [pdf]"
+    },
+    {
+      "image": "",
+      "url": "http://www.lmdb.tech/doc/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "Lightning Memory-Mapped Database Manager (LMDB) 1.0",
+      "summary": "Lightning Memory-Mapped Database Manager (LMDB) 1.0"
+    },
+    {
+      "image": "https://s0.wp.com/i/blank.jpg",
+      "url": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "Podman v6.0.0",
+      "summary": "We&#8217;re thrilled to announce that Podman v6.0.0 is now available! This major release brings a host of significant im"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/b973ca05b8d69e6af1130a33967061dacd241c41c8b4c8ce45ee4e0d10f36be0/Chocobozzz/PeerTube",
+      "url": "https://github.com/Chocobozzz/PeerTube",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-03T06:31:00.692404+09:00",
+      "title": "PeerTube：自由で分散化された連邦型動画プラットフォーム",
+      "summary": "ActivityPub-federated video streaming platform using P2P directly in your web browser - Chocobozzz/PeerTube"
+    }
+  ],
+  "updated_at": "2026-07-03T07:12:57.323544+09:00"
+}
