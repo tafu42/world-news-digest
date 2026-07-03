@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-04",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/4a8b11bb459bcc0f24f7f37dc31c6042a9b52a04/0_291_5896_4719/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "AIの倫理は議論できるが、方向転換はできない？",
+      "summary": "Google DeepMindの研究者であり哲学者であるイアソン・ガブリエル氏への取材記事に対し、読者から様々な意見が寄せられています。",
+      "impact": "AIの倫理に関する議論は深まるものの、技術開発の方向性が容易に変更されない可能性があり、倫理的な問題が技術進歩の足かせになる、あるいは無視されるリスクが生じます。"
+    },
+    {
+      "image": "https://media.guim.co.uk/fbd7230f2c80a45152e7be209adbf6e152914222/392_0_6564_5254/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/03/nsw-government-openai-arrives-sydney-terminator-films",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "NSW州政府、OpenAI歓迎に「感激」…『ターミネーター』の話題が出るまでは",
+      "summary": "シドニーへのAI企業の進出に対し、政府は奨励しているものの、MPアナウラック・チャンティボン氏のスタッフは慎重な姿勢でメールのやり取りを行っていました。",
+      "impact": "AI企業の誘致に前向きな姿勢を示す一方で、AIが社会に与える潜在的なリスク（例：『ターミネーター』のようなSF作品で描かれるような状況）への懸念も内包しており、社会受容への課題が浮き彫りになります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/76da7fb7c521edfd0fc738f9b9eb5354bb771bd1/720_0_7200_5760/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/02/openai-stake-us-government-ai-sam-altman",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "OpenAI、米国政府に5%の株式を供与する交渉か",
+      "summary": "サム・アルトマンCEOは、AIの利益を共有するため、この動きは他の企業にも同様の取り組みを促すだろうと主張したと報じられています。",
+      "impact": "AIの利益を政府と共有する動きは、AI技術の社会実装における公平性や公共性を高める一方で、国家によるAI技術への関与が深まり、その発展や利用に影響を与える可能性があります。"
+    },
+    {
+      "image": "https://citizenlab.ca/wp-content/uploads/2026/07/olive-oil-report-web.jpg",
+      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "欧州議会へのスパイ活動",
+      "summary": "欧州議会のPEGA委員会のメンバーであったステリオス・クロログロウ元議員が、同委員会が調査していたペガサススパイウェアでハッキングされていたことが判明しました。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/dd200e60419ee4b9318fe6f9f82086eb410613f4dc834ff35e146ad2e0eecef9/searxng/searxng",
+      "url": "https://github.com/searxng/searxng",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "SearXNG：無料のインターネットメタ検索エンジン",
+      "summary": "SearXNGは、ユーザーを追跡・プロファイルせず、様々な検索サービスやデータベースの結果を集約する無料のインターネットメタ検索エンジンです。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/d1026c36b9c0a66935e61692ee427d3b1c3a761dc7ba925dbc9118f6d86e6eed/jamesob/local-llm",
+      "url": "https://github.com/jamesob/local-llm",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "Jamesob氏による、最新LLMをローカルで実行するためのガイド",
+      "summary": "LLM（大規模言語モデル）をローカルで実行する方法に関する情報が、GitHubで共有・開発されています。"
+    },
+    {
+      "image": "https://phenomenalworld.org/wp-content/uploads/2026/07/Copy-of-2024-NEW-PW-Twitter-Vertical-Article-Preview-8.png",
+      "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "CostcoはAmazonの対極を行く",
+      "summary": "Costcoのビジネスモデルと、小売業の将来についての考察がなされています。"
+    },
+    {
+      "image": "https://crocidb.com/post/freebsd-ate-my-ram/images/Pastedimage20260618233614.png",
+      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "FreeBSDでRAMを大量消費",
+      "summary": "FreeBSDカーネルの仮想メモリシステムを1ヶ月かけて調査し、htopなどのツールがRAM使用量について異なる情報を提供する理由を解明し、関連プロジェクトにパッチを提出しました。"
+    },
+    {
+      "image": "https://interconnected.org/home/2026/07/03/factories.png?v=1",
+      "url": "https://interconnected.org/home/2026/07/03/factories",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-04T06:31:02.928347+09:00",
+      "title": "工場は単なる部屋である",
+      "summary": "2026年7月3日に掲載されたMatt Webb氏による725語のニュース記事です。"
+    }
+  ],
+  "updated_at": "2026-07-04T06:31:20.628687+09:00"
+}

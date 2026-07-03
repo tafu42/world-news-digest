@@ -2,36 +2,6 @@
   "date": "2026-07-03",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/d7910fee2be333e8519832d795a27ed4ca929027/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-03T06:31:00.692404+09:00",
-      "title": "リサ・ナンディ氏、マスク氏所有のX（旧Twitter）での「虐待と偽情報」拡散を懸念し辞任",
-      "summary": "Culture secretary says her department will stop using platform, citing concerns over far-right content fuelling violence",
-      "impact": ""
-    },
-    {
-      "image": "https://media.guim.co.uk/1188ea1b1f5e3a468578a8d1860ba2f101800f14/293_0_2915_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-03T06:31:00.692404+09:00",
-      "title": "AIの急速な普及、世界の不平等を悪化させる恐れ - 国連が警告",
-      "summary": "Panel proses shared framework for responsible AI development as adoption grows unevenly across world",
-      "impact": ""
-    },
-    {
-      "image": "https://media.guim.co.uk/20b0b47a180c1b8010bc295ab02ff0130775dd74/139_0_4164_3333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/01/anthropic-fable-mythos-ai-models-us-export-controls-lifted",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-03T06:31:00.692404+09:00",
-      "title": "米、AnthropicのAIモデル輸出規制を解除 - セキュリティ懸念後",
-      "summary": "AI company was forced last month to suspend access to its Fable 5 and Mythos 5 models for all foreign nationals",
-      "impact": ""
-    },
-    {
       "image": "",
       "url": "https://www.zachtronics.com/exapunks/",
       "category": "海外IT",
