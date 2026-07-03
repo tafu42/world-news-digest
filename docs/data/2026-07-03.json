@@ -139,7 +139,44 @@
       "collected_at": "2026-07-03T13:30:58.013256+09:00",
       "title": "ローカルインテリジェンスの権利",
       "summary": "「地域インテリジェンスの権利」という概念について論じています。これは、地域社会が自身の情報やデータに対してより多くのコントロールを持つべきだという考え方を示唆しています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/1f9c0cc57c4c935bf5cd55d56b56e48fb19606e0/733_349_3042_2433/500.jpg",
+      "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-03T21:31:02.467688+09:00",
+      "title": "AIによる「ヌード化」アプリ、保護者は子供をどう守るか？",
+      "summary": "画像技術の高度化に伴い、オンライン上の捕食者たちは児童の画像を児童ポルノの制作に悪用しています。",
+      "impact": "AIによる「ヌード化」アプリは、子供たちのプライバシーと安全を脅かし、保護者による一層の監視と教育が不可欠となります。この技術の悪用は、児童ポルノ問題の深刻化を招き、社会全体で児童保護への取り組みを強化する必要性を浮き彫りにします。"
+    },
+    {
+      "image": "",
+      "url": "https://weli.dev/blog/half-baked-product/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-03T21:31:02.467688+09:00",
+      "title": "中途半端な製品",
+      "summary": "「Half-Baked Product」という見出しの記事は、未完成または品質の低い製品について論じており、その内容については詳細が不明です。"
+    },
+    {
+      "image": "http://wordgard.net/style/logo.svg",
+      "url": "https://wordgard.net/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-03T21:31:02.467688+09:00",
+      "title": "ProseMirror開発者による新ブラウザリッチテキストエディタ「Wordgard」",
+      "summary": "「In-browser rich text editor」という見出しの記事は、ウェブブラウザ内でリッチテキスト編集を可能にする機能について述べており、その具体的な機能や利便性について解説していると考えられます。"
+    },
+    {
+      "image": "",
+      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-03T21:31:02.467688+09:00",
+      "title": "アリババ、バックドアリスクの懸念で社内でのClaude Code使用を禁止へ",
+      "summary": "情報筋によると、Alibabaはバックドアのリスクの疑いから、職場でのClaude Codeの使用を禁止する方針であることが報じられています。"
     }
   ],
-  "updated_at": "2026-07-03T13:34:10.772145+09:00"
+  "updated_at": "2026-07-03T21:32:21.124960+09:00"
 }
