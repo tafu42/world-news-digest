@@ -84,7 +84,62 @@
       "collected_at": "2026-07-03T06:31:00.692404+09:00",
       "title": "PeerTube：自由で分散化された連邦型動画プラットフォーム",
       "summary": "ActivityPub-federated video streaming platform using P2P directly in your web browser - Chocobozzz/PeerTube"
+    },
+    {
+      "image": "https://media.guim.co.uk/ee6c7a3c4d84ec98c3cd685911c3e07faefa8264/396_0_5417_4333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-03T13:30:58.013256+09:00",
+      "title": "AIなしでも生きられるが、きれいな水なしでは？",
+      "summary": "読者たちは、エリン・ブロコビッチ氏によるデータセンターとの戦いに関する記事に反応し、環境への懸念を表明しています。彼らは、データセンターが環境に与える影響について、具体的な懸念を共有しています。",
+      "impact": ""
+    },
+    {
+      "image": "https://stefan.schueller.net/posts/the-free-market-lie/title-image.png",
+      "url": "https://stefan.schueller.net/posts/the-free-market-lie/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-03T13:30:58.013256+09:00",
+      "title": "自由市場の嘘：なぜスイスは25Gbpsのインターネットを持ち、アメリカは持たないのか",
+      "summary": "スイスが25Gbitのインターネットを提供している一方で、アメリカがそうでない理由として、自由市場の理念に疑問を呈しています。記事は、自由市場の原則が、アメリカにおけるインターネットインフラの発展を阻害している可能性を指摘しています。"
+    },
+    {
+      "image": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/assets/images-t1783027116/206510.png",
+      "url": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-03T13:30:58.013256+09:00",
+      "title": "バージニア州、位置情報データの販売を禁止",
+      "summary": "バージニア州は、位置情報データの販売を禁止する法律を制定しました。これにより、消費者のプライバシー保護が強化され、個人の行動履歴が第三者に渡ることを防ぐ狙いがあります。"
+    },
+    {
+      "image": "",
+      "url": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-03T13:30:58.013256+09:00",
+      "title": "CarPlayは付加価値",
+      "summary": "（記事4は本文が提供されていません。そのため、要約を作成できません。）"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6aaeac1ca251c29db398c8712ad4ae8b23c53369560662692deff8ee2a5fabc7/FractalFir/crustc",
+      "url": "https://github.com/FractalFir/crustc",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-03T13:30:58.013256+09:00",
+      "title": "crustc: rustc全体をC言語に翻訳",
+      "summary": "Rustコンパイラ「rustc」の全コードがC言語に翻訳されました。このプロジェクトはGitHubで開発されており、RustのコードベースをC言語で再現することを目指しています。"
+    },
+    {
+      "image": "",
+      "url": "https://righttointelligence.org/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-03T13:30:58.013256+09:00",
+      "title": "ローカルインテリジェンスの権利",
+      "summary": "「地域インテリジェンスの権利」という概念について論じています。これは、地域社会が自身の情報やデータに対してより多くのコントロールを持つべきだという考え方を示唆しています。"
     }
   ],
-  "updated_at": "2026-07-03T07:12:57.323544+09:00"
+  "updated_at": "2026-07-03T13:34:10.772145+09:00"
 }
