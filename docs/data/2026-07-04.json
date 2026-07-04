@@ -158,7 +158,53 @@
       "collected_at": "2026-07-04T13:31:03.482547+09:00",
       "title": "Steamコントローラー自動充電：CVを用いた磁気充電パックへのパイロット",
       "summary": "コントローラーを磁気パックに挿入することで充電できる、FossPrime/Steam-Controller-Auto-Chargeというシステムについて言及しています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/8ce3e77293ca3b52c3b171d33c8dbf92a78f562f/124_0_3413_2731/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-04T21:31:03.982083+09:00",
+      "title": "OpenAI、英国での投資計画に暗雲？ £200億規模のAI投資は「仮定」か",
+      "summary": "英国政府が発表した£300億規模のAI投資計画のうち、£200億がOpenAIによるものとされていましたが、同社が主要な視察地を訪れていないことが判明し、この投資が仮定に過ぎなかった可能性が浮上しています。",
+      "impact": "OpenAIによる大規模なAI投資が実現しない場合、英国のAI産業育成計画の遅延や、国際的なAI競争における立場への影響が懸念されます。これにより、国内のAI技術開発や関連分野への資金流入が減少し、将来的な経済成長への影響も考えられます。"
+    },
+    {
+      "image": "",
+      "url": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-04T21:31:03.982083+09:00",
+      "title": "部屋の空気こそが意思決定のボトルネック？",
+      "summary": "優秀な人材を集めて重要な会議を行っても、時間の経過とともに部屋の環境が悪化し、意思決定の質が低下することが指摘されています。これは参加者の能力ではなく、部屋の物理的な環境が原因であるとされています。"
+    },
+    {
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/JWSTUpdate-crKristinaArmitage-Social.jpg",
+      "url": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-04T21:31:03.982083+09:00",
+      "title": "ジェイムズ・ウェッブ宇宙望遠鏡、初期宇宙の謎に天文学者困惑",
+      "summary": "ジェイムズ・ウェッブ宇宙望遠鏡が捉えた、本来存在しないはずの初期のブラックホールや銀河の観測結果に対し、天文学者たちは新たな理論を次々と提唱しています。これらの理論の真偽を確かめることが今後の課題となっています。"
+    },
+    {
+      "image": "",
+      "url": "https://www.marginalia.nu/log/a_135_learn/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-04T21:31:03.982083+09:00",
+      "title": "新しいスキルを学ぶことは人生を豊かにする",
+      "summary": "ピクセルアート、タッチタイピング、3Dモデリング、語学など、実用的で興味を引かれることは何でも学べます。長期的に見れば、新しい学びは想像以上に人生を豊かにし、楽しさを与えてくれます。"
+    },
+    {
+      "image": "https://mirtitles.org/wp-content/uploads/2022/04/mir-logo-favicon.png?w=200",
+      "url": "https://mirtitles.org",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-04T21:31:03.982083+09:00",
+      "title": "「ミール・ブックス」：ソビエト時代の書籍",
+      "summary": "「ミール・ブックス」は、ソビエト連邦時代に出版された書籍を紹介するものです。"
     }
   ],
-  "updated_at": "2026-07-04T13:32:13.963020+09:00"
+  "updated_at": "2026-07-04T21:31:18.823944+09:00"
 }
