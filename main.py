@@ -47,34 +47,32 @@ TOP_COUNT = 6
 HN_CATEGORY = '海外IT'                  # Hacker News
 HN_COUNT = 6
 
-BATCH_SIZE = 8   # 要約バッチ（呼び出し回数を抑える）
-TITLE_BATCH = 16  # タイトルは短いので一括翻訳（最優先・低コスト）
+BATCH_SIZE = 8   # 翻訳バッチ（1回で複数記事を処理し呼び出しを減らす）
 ALERT_THRESHOLD = 4  # 再挑戦後もこの件数以上翻訳できなければLINE通知（軽微な失敗は鳴らさない）
 
 
-# ---------- Gemini ----------
-# RPM(1分あたり制限)対策：全呼び出しの間隔を最低 CALL_GAP 秒空けてバーストを防ぐ。
-# 例) 4秒間隔なら最大15回/分に収まり、連射による瞬間的な上限超過が起きない。
-CALL_GAP = 4.0
+# ---------- Gemini（無料枠：RPM10 / RPD20 に合わせて厳しく制御）----------
+# ・CALL_GAP：RPM10（1分10回）→ 6秒間隔が必要。余裕を見て7秒（最大約8回/分）
+# ・CALL_BUDGET：1回の収集で使える呼び出し上限。3回/日 × 5 = 最大15回/日（RPD20の内側）
+CALL_GAP = 7.0
+CALL_BUDGET = 5
 _last_call = [0.0]
+_calls_used = [0]   # この収集で使った呼び出し回数（予算管理用）
 
 
-def gemini_call(prompt, retries=3):
+def gemini_call(prompt):
+    # ① 予算（1回の収集の呼び出し上限）を超えたら呼ばない＝雪だるま防止・RPD保護
+    if _calls_used[0] >= CALL_BUDGET:
+        raise RuntimeError('call budget reached')
+    # ② RPM対策：前回呼び出しから CALL_GAP 秒空ける
+    wait = CALL_GAP - (time.time() - _last_call[0])
+    if wait > 0:
+        time.sleep(wait)
+    _last_call[0] = time.time()
+    _calls_used[0] += 1
     client = genai.Client(api_key=GEMINI_API_KEY)
-    for attempt in range(retries):
-        # 前回呼び出しから CALL_GAP 秒経つまで待つ（呼び出しを時間的にバラけさせる）
-        wait = CALL_GAP - (time.time() - _last_call[0])
-        if wait > 0:
-            time.sleep(wait)
-        _last_call[0] = time.time()
-        try:
-            res = client.models.generate_content(model='gemini-2.5-flash-lite', contents=prompt)
-            return res.text.strip()
-        except Exception:
-            if attempt < retries - 1:
-                time.sleep(30 * (attempt + 1))
-            else:
-                raise
+    res = client.models.generate_content(model='gemini-2.5-flash-lite', contents=prompt)
+    return res.text.strip()
 
 
 def is_quota_error(e):
@@ -94,17 +92,20 @@ def looks_translated(s):
     return bool(_JP_RE.search(s or ''))
 
 
-def retry_failed(articles, field, build_one):
-    """翻訳に失敗（英語のまま）した記事を待機列に入れ、間隔を空けて1件ずつ再挑戦する。
-    gemini_call が CALL_GAP 秒の間隔を確保するので、再挑戦時にはRPMの窓が空いている。"""
-    failed = [a for a in articles if not looks_translated(a.get(field, ''))]
-    for a in failed:
-        try:
-            val = build_one(a)
-            if looks_translated(val):
-                a[field] = val
-        except Exception:
-            pass  # 最終的な失敗判定は main の集計で行う
+def retry_translation(articles):
+    """タイトルor要約が英語のまま残った記事を待機列とみなし、
+    呼び出し予算が残っている時だけ1件ずつ再挑戦する（B案）。
+    予算を使い切ったら英語のまま残して打ち切る＝RPD/RPMを守る。"""
+    for a in articles:
+        if _calls_used[0] >= CALL_BUDGET:
+            break  # 予算切れ → リトライ終了
+        if looks_translated(a.get('title', '')) and looks_translated(a.get('summary', '')):
+            continue  # 両方すでに日本語ならスキップ
+        r = _translate_one(a)   # 予算が無ければ内部で英語のまま返る（API呼ばない）
+        if looks_translated(r.get('title', '')):
+            a['title'] = r['title']
+        if looks_translated(r.get('summary', '')):
+            a['summary'] = r['summary']
 
 
 def parse_json(text):
@@ -132,50 +133,30 @@ def _gen_all(articles, build_prompt, build_one):
     return out
 
 
-def _gen_sized(articles, build_prompt, build_one, size):
-    out = []
-    for i in range(0, len(articles), size):
-        out.extend(_gen_group(articles[i:i + size], build_prompt, build_one))
-    return out
-
-
-# --- タイトル翻訳（最優先・短いので大きめバッチ） ---
-def _title_prompt(group):
-    items = "\n".join(f"{i+1}. {a['en_title']}" for i, a in enumerate(group))
-    return (f"次の{len(group)}件の英語ニュース見出しを、それぞれ自然な日本語タイトルに翻訳してください。\n"
+# --- タイトル＋要約を1回のリクエストでまとめて翻訳（呼び出しを半減・A案） ---
+def _translate_prompt(group):
+    items = "\n\n".join(
+        f"[{i+1}]\nTitle: {a['en_title']}\nText: {a['en_text'][:300]}"
+        for i, a in enumerate(group)
+    )
+    return (f"次の{len(group)}件の英語ニュースを日本語にしてください。\n"
+            "各記事について、自然な日本語タイトルと、本文の要約（2文以内・具体的に）を作ってください。\n"
             f"必ず{len(group)}件を順番どおりにJSON配列で返してください。\n"
-            '例: ["日本語タイトル1", "日本語タイトル2"]\n\n' + items)
+            '形式: [{"title": "日本語タイトル", "summary": "日本語要約"}]\n\n' + items)
 
 
-def _title_one(a):
+def _translate_one(a):
+    """1件だけ翻訳（予算切れ時は英語のままの辞書を返す）。"""
     try:
-        return gemini_call(
-            "次の英語見出しを自然な日本語タイトルに翻訳してください。訳のみ返してください。\n"
-            f"{a['en_title']}"
-        ).strip()
-    except Exception as e:
-        note_error(e)
-        return a['en_title']
-
-
-# --- 要約翻訳（タイトルの次） ---
-def _summary_prompt(group):
-    items = "\n\n".join(f"記事{i+1}:\n{a['en_text'][:300]}" for i, a in enumerate(group))
-    return (f"次の{len(group)}件の英語ニュース本文を、それぞれ日本語で2文以内に要約してください。\n"
-            "見出しの言い換えではなく、本文の具体的な内容を含めてください。\n"
-            f"必ず{len(group)}件を順番どおりにJSON配列で返してください。\n"
-            '例: ["要約1", "要約2"]\n\n' + items)
-
-
-def _summary_one(a):
-    try:
-        return gemini_call(
-            "次の英語ニュースを日本語で2文以内に要約してください。要約のみ返してください。\n"
-            f"{a['en_text'][:300]}"
-        ).strip()
-    except Exception as e:
-        note_error(e)
-        return a.get('en_text', '')[:120]
+        obj = parse_json(gemini_call(
+            "次の英語ニュースを日本語にしてください。日本語タイトルと2文以内の要約を、"
+            'JSONで {"title":"...","summary":"..."} だけ返してください。\n'
+            f"Title: {a['en_title']}\nText: {a['en_text'][:300]}"
+        ))
+        return {'title': obj.get('title') or a['en_title'],
+                'summary': obj.get('summary') or ''}
+    except Exception:
+        return {'title': a['en_title'], 'summary': a.get('en_text', '')[:120]}
 
 
 def _impact_prompt(group):
@@ -429,21 +410,20 @@ def main():
         a['time'] = now_hm
         a['collected_at'] = now.isoformat()  # 24時間判定用（Guardian規約）
 
-    # ① タイトル翻訳（最優先）→ 失敗分は待機列に入れて再挑戦
-    titles = _gen_sized(new_articles, _title_prompt, _title_one, TITLE_BATCH)
-    for a, t in zip(new_articles, titles):
-        a['title'] = t
-    retry_failed(new_articles, 'title', _title_one)
+    _calls_used[0] = 0  # この収集の呼び出し予算をリセット
 
-    # ② 要約翻訳 → 失敗分は待機列に入れて再挑戦
-    summaries = _gen_all(new_articles, _summary_prompt, _summary_one)
-    for a, s in zip(new_articles, summaries):
-        a['summary'] = s
-    retry_failed(new_articles, 'summary', _summary_one)
+    # ① タイトル＋要約を1回でまとめて翻訳（呼び出し半減）
+    results = _gen_all(new_articles, _translate_prompt, _translate_one)
+    for a, r in zip(new_articles, results):
+        a['title'] = (r or {}).get('title') or a['en_title']
+        a['summary'] = (r or {}).get('summary') or ''
 
-    # ③ 社会への影響（最後・テクノロジーのみ／余力があれば）
+    # ② 英語のまま残った分を、予算が残っている時だけ再挑戦（日本語化を優先）
+    retry_translation(new_articles)
+
+    # ③ 社会への影響（テクノロジーのみ・予算が残っていれば）
     top_new = [a for a in new_articles if a['category'] == TOP_CATEGORY]
-    if top_new:
+    if top_new and _calls_used[0] < CALL_BUDGET:
         for a, imp in zip(top_new, _gen_all(top_new, _impact_prompt, _impact_one)):
             a['impact'] = imp
 
