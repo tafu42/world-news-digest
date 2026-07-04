@@ -1,0 +1,80 @@
+{
+  "date": "2026-07-05",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/78db83223c87d7f52d5b73180281491643fc0eac/418_0_4180_3344/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "イーロン・マスク氏、英国のレースと移民問題にSpaceXのIPO準備期間中に2倍の頻度で投稿",
+      "summary": "世界一の富豪であるイーロン・マスク氏が、SpaceXのIPO準備期間中に、英国のレースと移民問題についてX（旧Twitter）でSpaceX関連の投稿の2倍の頻度で意見を表明していたことがガーディアン紙の分析で明らかになりました。これは、同氏が英国政治に「干渉」することへの関心の高さを示唆しています。",
+      "impact": "イーロン・マスク氏の英国政治への発言頻度上昇は、同氏の影響力と注目度から、英国の世論形成や政策議論に間接的な影響を与える可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/1f9c0cc57c4c935bf5cd55d56b56e48fb19606e0/733_349_3042_2433/500.jpg",
+      "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "AIによる児童ポルノ被害、保護者向けに注意喚起",
+      "summary": "画像生成AIの進化により、オンライン上の捕食者が子供の画像を用いて極端なポルノを作成するケースが増加しています。このため、監督機関は保護者に対し、子供を「ヌディフィケーションアプリ」から守るよう注意を促しています。",
+      "impact": "AIによる児童ポルノ被害の増加は、保護者の監視義務の重要性を再認識させるとともに、AI技術の倫理的利用や児童保護のための法整備、技術的対策の強化を社会全体に求める動きに繋がるでしょう。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/e5e9236f078fc4d737110da5ed7993de82d9dc7071ef0dab049b33aecce11b50/ammaarreshi/Generals-Mac-iOS-iPad",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "「Command & Conquer ジェネラル」がmacOS、iPhone、iPadでネイティブ動作可能に",
+      "summary": "「Command & Conquer ジェネラル：ゼロアワー」が、Fableという技術を用いてmacOS、iPhone、iPadでネイティブに動作するようになりました。この成果は、EAのソースコードとDXVK/MoltenVKレンダラー、RTSタッチコントロールを利用しています。"
+    },
+    {
+      "image": "https://javoriuski.com/assets/youtube.jpg",
+      "url": "https://javoriuski.com/post/youtube",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "YouTubeクリエイターのプライベート動画漏洩の脆弱性",
+      "summary": "バグバウンティハンターおよび研究者によって、YouTubeクリエイターのプライベート動画が漏洩する脆弱性が報告されています。この問題は、プラットフォームのセキュリティに関する懸念を引き起こしています。"
+    },
+    {
+      "image": "",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "Google Books等の書籍スキャン全データ公開に20万ドルの賞金（2025年）",
+      "summary": "2025年、Google Booksなどの書籍スキャン全データ公開に対して20万ドルの賞金がかけられる予定です。これは、デジタルアーカイブの拡充を目指す試みと考えられます。"
+    },
+    {
+      "image": "https://www.jefftk.com/gizmo-hub-going-away-email-big.png",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "Verizonが子供用スマートウォッチの機能を停止する可能性",
+      "summary": "Verizonは、子供向けに販売されていたGizmoスマートウォッチの機能を停止する可能性があります。これにより、長年使用してきた保護者から困惑の声が上がっています。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/d4779e25a6bb1f56f42456efea82117f36f5d80dc66259fb0022417e9bbbeaf3/anthropics/claude-code/issues/74066",
+      "url": "https://github.com/anthropics/claude-code/issues/74066",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "ワークスペース/アカウント間でセッション・キャッシュが漏洩する可能性",
+      "summary": "認証済みのEnterprise ZDRワークスペース内で、セッション情報が漏洩する現象が報告されています。これにより、本来とは異なるコンテキストでのやり取りが発生する可能性があります。"
+    },
+    {
+      "image": "https://peteris.rocks/blog/htop/canyoukillit-before.png",
+      "url": "https://peteris.rocks/blog/htop/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-05T06:31:09.319818+09:00",
+      "title": "Linuxのhtop/topコマンドで表示される情報の包括的な解説（2019年）",
+      "summary": "Linuxのシステム監視ツールであるhtopとtopコマンドで表示される各項目の意味について、2019年版の包括的な解説記事が公開されています。これにより、システム管理者はより詳細な情報を理解できるようになります。"
+    }
+  ],
+  "updated_at": "2026-07-05T06:31:18.941751+09:00"
+}
