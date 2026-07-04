@@ -84,7 +84,81 @@
       "collected_at": "2026-07-04T06:31:02.928347+09:00",
       "title": "工場は単なる部屋である",
       "summary": "2026年7月3日に掲載されたMatt Webb氏による725語のニュース記事です。"
+    },
+    {
+      "image": "https://media.guim.co.uk/d7910fee2be333e8519832d795a27ed4ca929027/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
+      "category": "テクノロジー",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "リサ・ナンディ氏、マスク氏所有のX（旧Twitter）の「虐待と偽情報」拡散を懸念し退会",
+      "summary": "英国の文化相は、極右コンテンツが暴力と分断を助長しているとの懸念から、同省が特定のプラットフォームの使用を停止すると発表しました。",
+      "impact": "政府関係者による主要SNSプラットフォームからの離脱は、プラットフォーム上の言論空間の健全性に対する社会全体の関心を高め、同様の懸念を持つ個人や団体の行動を促す可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/1188ea1b1f5e3a468578a8d1860ba2f101800f14/293_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/01/un-report-ai-inequality",
+      "category": "テクノロジー",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "AIの急速な普及、世界的な不平等を悪化させる恐れ＝国連が警告",
+      "summary": "世界的なAI導入の不均一な広がりを受け、責任あるAI開発のための共有フレームワークが検討されました。",
+      "impact": "AI技術へのアクセスや活用能力の格差が拡大することで、教育、雇用、経済活動など、社会のあらゆる側面で既存の不平等がさらに悪化し、デジタルデバイドが深刻化する恐れがあります。"
+    },
+    {
+      "image": "https://news.exeter.ac.uk/wp-content/uploads/2026/07/A-57m-tall-Dipterocarp-tree-with-a-double-rope-technique-DRT-rigged-for-canopy-access.-Credit-Palasiah-Jotan-x.jpg",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "巨大な木は、最上部の枝まで水を運ぶのに苦労しない：新研究",
+      "summary": "最新の研究によると、世界で最も高い熱帯の樹木は、根から葉へ水を運ぶという従来の定説に反して、最上部の枝まで楽に水を供給できることが明らかになりました。"
+    },
+    {
+      "image": "https://www.wafer.ai/assets/images/og-image.png",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "AMD MI355XでGLM5.2、 Blackwellの2倍以上低コストで2626トークン/秒/ノードを達成",
+      "summary": "企業向けの最速のオープンソースLLM（大規模言語モデル）について記述しています。"
+    },
+    {
+      "image": "https://mistral.ai/cms-media/api/media/file/OG-mistral-main_1x.jpg",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "Leanstral 1.5：誰にでも証明の豊富さを",
+      "summary": "企業向けの最も強力なAIプラットフォームについて説明しており、オープンモデルを使用してAIアシスタント、自律エージェント、マルチモーダルAIをカスタマイズ、ファインチューニング、デプロイできると述べています。"
+    },
+    {
+      "image": "https://surfingcomplexity.blog/wp-content/uploads/2026/07/image-6.png",
+      "url": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "合成は分析より難しい",
+      "summary": "数学者、論理学者、コンピューター科学者が開発してきた様々な計算体系について触れており、コンピューターサイエンスの背景を持つ人なら lambda calculus （ラムダ計算）を聞いたことがあるかもしれないと述べています。"
+    },
+    {
+      "image": "",
+      "url": "https://mrbruh.com/msicenter/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "MSI Center：数秒でシステム権限を取得する方法",
+      "summary": "プロプライエタリ（独自開発）ソフトウェアのnamed pipe（名前付きパイプ）を悪用し、数秒でLocalSystem権限を奪取する脆弱性について解説しています。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/92863f342f8f97f4c399033430ea2d457ba0bb42c5649404a7931266af2a07ad/FossPrime/Steam-Controller-Auto-Charge",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-04T13:31:03.482547+09:00",
+      "title": "Steamコントローラー自動充電：CVを用いた磁気充電パックへのパイロット",
+      "summary": "コントローラーを磁気パックに挿入することで充電できる、FossPrime/Steam-Controller-Auto-Chargeというシステムについて言及しています。"
     }
   ],
-  "updated_at": "2026-07-04T06:31:20.628687+09:00"
+  "updated_at": "2026-07-04T13:32:13.963020+09:00"
 }
