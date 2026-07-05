@@ -1,0 +1,70 @@
+{
+  "date": "2026-07-06",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/8ce3e77293ca3b52c3b171d33c8dbf92a78f562f/124_0_3413_2731/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-06T06:31:10.430215+09:00",
+      "title": "OpenAI、英国への大規模投資計画に疑問符 - 計画は実態なかった可能性",
+      "summary": "英国政府が発表したAI分野への300億ポンド（約6兆円）の潜在的投資のうち、200億ポンド（約4兆円）はOpenAIの訪問が確認されず、架空の計画だった可能性が浮上しました。これは、英国のAI投資に関する疑問を提起しています。",
+      "impact": "この架空の投資計画は、英国のAI分野への信頼を損ない、実際の技術開発や国際競争力に悪影響を与える可能性があります。また、政府の発表に対する国民の不信感が増し、今後の政策決定にも影響を与えるかもしれません。"
+    },
+    {
+      "image": "https://organicmaps.app/images/screenshots/prague.jpg",
+      "url": "https://organicmaps.app/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-06T06:31:10.430215+09:00",
+      "title": "Organic Maps：旅行者向け無料・オープンソースのオフライン地図アプリ",
+      "summary": "Organic Mapsは、MapsWithMe/Maps.Meの創設者たちが開発した、旅行者、観光客、ドライバー、ハイカー、サイクリスト向けの無料、オープンソース、高速、プライバシー重視の詳細なオフライン地図アプリです。旅行中のナビゲーションを安全かつ便利に提供します。"
+    },
+    {
+      "image": "",
+      "url": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-06T06:31:10.430215+09:00",
+      "title": "Dartmouth大学のAIチューター、教育効果で顕著な結果",
+      "summary": "Dartmouth大学で開発された新しいAIチューターが、0.71～1.30 SDという高い効果量を示しました。これは、学生の学習成果においてAIチューターが非常に有効であることを示唆しています。"
+    },
+    {
+      "image": "https://blog.flipper.net/content/images/size/w1200/2026/07/Flipper-Zero-Development.jpg",
+      "url": "https://blog.flipper.net/future-of-flipper-zero-development/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-06T06:31:10.430215+09:00",
+      "title": "Flipper Zero開発の今後：コミュニティの声を受け、アプローチを再考",
+      "summary": "Flipper Zeroのファームウェア開発停止の噂に対し、開発チームはコミュニティの強い反応を受け止め、プロジェクトの維持と関与に関するアプローチを再考することを決定しました。ユーザーのフィードバックが重視されています。"
+    },
+    {
+      "image": "https://www.opentools.studio/web/image/1096-6c03f418/Open-printer_2_black-prints.webp",
+      "url": "https://www.opentools.studio/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-06T06:31:10.430215+09:00",
+      "title": "修理可能でオープンソースなペーパープリンター",
+      "summary": "これは、修理可能でオープンソースなペーパープリンターのウェブサイトのホームページです。環境に配慮し、ユーザーが自由にカスタマイズできるプリンターソリューションを提供しています。"
+    },
+    {
+      "image": "",
+      "url": "https://www.starringthecomputer.com/computers.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-06T06:31:10.430215+09:00",
+      "title": "コンピュータに主演を",
+      "summary": "コンピュータが主役となるコンテンツについて言及しているようです。具体的な内容は記事本文が不足しているため不明ですが、コンピュータの役割や可能性を探る内容が予想されます。"
+    },
+    {
+      "image": "",
+      "url": "https://dhilst.github.io/algae/game/index.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-06T06:31:10.430215+09:00",
+      "title": "RPGで証明の書き方を学ぶ「Dungeon Proof Crawler」",
+      "summary": "「Dungeon Proof Crawler」は、RPG（ロールプレイングゲーム）形式で証明の書き方を学ぶことができる教材です。ゲーム感覚で論理的思考力や数学的証明のスキルを習得できます。"
+    }
+  ],
+  "updated_at": "2026-07-06T06:31:26.844999+09:00"
+}

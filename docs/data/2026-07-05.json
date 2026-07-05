@@ -2,26 +2,6 @@
   "date": "2026-07-05",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/78db83223c87d7f52d5b73180281491643fc0eac/418_0_4180_3344/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/04/elon-musk-uk-race-immigration-spacex-ipo",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-05T06:31:09.319818+09:00",
-      "title": "イーロン・マスク氏、英国のレースと移民問題にSpaceXのIPO準備期間中に2倍の頻度で投稿",
-      "summary": "世界一の富豪であるイーロン・マスク氏が、SpaceXのIPO準備期間中に、英国のレースと移民問題についてX（旧Twitter）でSpaceX関連の投稿の2倍の頻度で意見を表明していたことがガーディアン紙の分析で明らかになりました。これは、同氏が英国政治に「干渉」することへの関心の高さを示唆しています。",
-      "impact": "イーロン・マスク氏の英国政治への発言頻度上昇は、同氏の影響力と注目度から、英国の世論形成や政策議論に間接的な影響を与える可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/1f9c0cc57c4c935bf5cd55d56b56e48fb19606e0/733_349_3042_2433/500.jpg",
-      "url": "https://www.theguardian.com/society/2026/jul/03/ai-prey-watchdogs-telling-parents-protect-children-nudification-apps",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-05T06:31:09.319818+09:00",
-      "title": "AIによる児童ポルノ被害、保護者向けに注意喚起",
-      "summary": "画像生成AIの進化により、オンライン上の捕食者が子供の画像を用いて極端なポルノを作成するケースが増加しています。このため、監督機関は保護者に対し、子供を「ヌディフィケーションアプリ」から守るよう注意を促しています。",
-      "impact": "AIによる児童ポルノ被害の増加は、保護者の監視義務の重要性を再認識させるとともに、AI技術の倫理的利用や児童保護のための法整備、技術的対策の強化を社会全体に求める動きに繋がるでしょう。"
-    },
-    {
       "image": "https://opengraph.githubassets.com/e5e9236f078fc4d737110da5ed7993de82d9dc7071ef0dab049b33aecce11b50/ammaarreshi/Generals-Mac-iOS-iPad",
       "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
       "category": "海外IT",
