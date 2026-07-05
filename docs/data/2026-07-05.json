@@ -74,7 +74,54 @@
       "collected_at": "2026-07-05T06:31:09.319818+09:00",
       "title": "Linuxのhtop/topコマンドで表示される情報の包括的な解説（2019年）",
       "summary": "Linuxのシステム監視ツールであるhtopとtopコマンドで表示される各項目の意味について、2019年版の包括的な解説記事が公開されています。これにより、システム管理者はより詳細な情報を理解できるようになります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/4a8b11bb459bcc0f24f7f37dc31c6042a9b52a04/0_291_5896_4719/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/03/we-can-debate-the-ethics-of-ai-but-cant-seem-to-change-course",
+      "category": "テクノロジー",
+      "time": "13:31",
+      "collected_at": "2026-07-05T13:31:13.299037+09:00",
+      "title": "AI倫理の議論はできるが、方向転換は困難か",
+      "summary": "Google DeepMindの研究者であるイアソン・ガブリエル氏のプロフィールに対し、読者からの手紙が寄せられた。AIの倫理について議論はできても、その進路を変えることは難しそうだという意見が交わされている。",
+      "impact": "AI倫理に関する議論は進むものの、技術開発の方向性を根本的に変えることは難しく、倫理的な課題への対処が後手に回る可能性があります。この状況は、AIの発展が社会に与える影響を予測し、適切に管理することの重要性を浮き彫りにします。"
+    },
+    {
+      "image": "https://media.guim.co.uk/fbd7230f2c80a45152e7be209adbf6e152914222/392_0_6564_5254/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/03/nsw-government-openai-arrives-sydney-terminator-films",
+      "category": "テクノロジー",
+      "time": "13:31",
+      "collected_at": "2026-07-05T13:31:13.299037+09:00",
+      "title": "OpenAI歓迎のNSW政府、ターミネーター映画に動揺？",
+      "summary": "シドニーにOpenAIが来ることが喜ばしいとするNSW州政府のメールが公開されたが、担当者はターミネーター映画の登場を懸念していたことが判明した。政府のAI誘致の奨励とは裏腹に、職員は慎重な姿勢を示した。",
+      "impact": "このニュースは、AI技術の発展と社会への統合における政府の期待と懸念の二面性を示唆しています。AIの恩恵を享受しつつも、その潜在的なリスクに対する慎重な姿勢が、今後のAI政策や社会受容に影響を与える可能性があります。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/ffbbab78200b20ea2059ce77013613a65200aacf088a173d19f66167742be24a/openai/codex/issues/30364",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-05T13:31:13.299037+09:00",
+      "title": "GPT-5.5 Codexの推論トークン・クラスタリングが性能低下を招いている可能性",
+      "summary": "GPT-5.5 Codexの応答において、推論出力トークンが516個に集中するパターンが発見された。この現象が、モデルの性能低下の一因となっている可能性があると指摘されている。"
+    },
+    {
+      "image": "https://unsung.aresluna.org/_media/if-youre-a-button-you-have-one-job/ogimage.png",
+      "url": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-05T13:31:13.299037+09:00",
+      "title": "「ボタン」には一つの仕事がある",
+      "summary": "ソフトウェアの品質とクラフトに関するブログ記事。ボタンのような単純な要素でも、その役割を果たすことの重要性を説いている。"
+    },
+    {
+      "image": "https://www.mbl.edu/sites/default/files/2026-06/resizing%20for%20article%20header%288%29_0.jpg",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-05T13:31:13.299037+09:00",
+      "title": "クラゲの驚異的な治癒能力、科学者がその秘密に迫る",
+      "summary": "10年前、科学者はクラゲの細胞が傷口を数分で塞ぐ様子を初めて観察した。シカゴ大学の准教授であるジョセリン・マラミー氏は、クラゲの持つ驚異的な治癒能力の秘密を解明しようとしている。"
     }
   ],
-  "updated_at": "2026-07-05T06:31:18.941751+09:00"
+  "updated_at": "2026-07-05T13:31:34.947777+09:00"
 }
