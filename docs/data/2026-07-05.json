@@ -121,7 +121,53 @@
       "collected_at": "2026-07-05T13:31:13.299037+09:00",
       "title": "クラゲの驚異的な治癒能力、科学者がその秘密に迫る",
       "summary": "10年前、科学者はクラゲの細胞が傷口を数分で塞ぐ様子を初めて観察した。シカゴ大学の准教授であるジョセリン・マラミー氏は、クラゲの持つ驚異的な治癒能力の秘密を解明しようとしている。"
+    },
+    {
+      "image": "https://media.guim.co.uk/d7910fee2be333e8519832d795a27ed4ca929027/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/media/2026/jul/02/lisa-nandy-culture-social-media-x-abuse-misinformation",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-05T21:31:08.189674+09:00",
+      "title": "リサ・ナンディ文化相、マスク氏所有のX（旧Twitter）の「虐待と偽情報」への懸念から利用停止を発表",
+      "summary": "文化相のリサ・ナンディ氏は、極右コンテンツが暴力や分断を煽るという懸念から、自身の省庁がX（旧Twitter）の利用を停止すると発表しました。彼女は、マスク氏所有のプラットフォームが「虐待と偽情報」を拡散していると懸念しています。",
+      "impact": ""
+    },
+    {
+      "image": "https://ui.shadcn.com/og?title=Changelog&amp;description=Latest%20updates%20and%20announcements.",
+      "url": "https://ui.shadcn.com/docs/changelog",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-05T21:31:08.189674+09:00",
+      "title": "Shadcn/UI、RadixからBase UIへのデフォルト変更を発表",
+      "summary": "Shadcn/UIの最新アップデートにより、デフォルトのUIライブラリがRadix UIからBase UIに変更されました。この変更は、最新のアップデートと発表の一部として行われました。"
+    },
+    {
+      "image": "",
+      "url": "https://craigmod.com/essays/fast_software/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-05T21:31:08.189674+09:00",
+      "title": "高速なソフトウェアこそ、最良のソフトウェア（2019年）",
+      "summary": "この短い記事は、2019年の「高速なソフトウェアこそ、最良のソフトウェア」というテーマを提示しています。記事のタイトル自体が、その内容の要約となっています。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/1562e791b5afd3462937bb4ae9b1fa7102a00f233db378e1150329b293ad7fda/Trystan-SA/claude-design-system-prompt",
+      "url": "https://github.com/Trystan-SA/claude-design-system-prompt",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-05T21:31:08.189674+09:00",
+      "title": "Claudeデザインシステムプロンプト：意見を持ち、アクセシビリティに配慮したAIデザイン協力者を生成",
+      "summary": "Trystan-SA/claude-design-system-promptは、LLM（大規模言語モデル）を、意見を持ち、アクセシビリティに配慮し、AIスロップ（不適切な出力を指すスラング）に強いデザイン協力者に変える、リバースエンジニアリングされたシステムプロンプトとスキルライブラリです。"
+    },
+    {
+      "image": "",
+      "url": "https://pandoc.org/lua-filters.html",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-05T21:31:08.189674+09:00",
+      "title": "Pandoc Lua Filters：汎用ドキュメントコンバーター",
+      "summary": "Pandoc Lua Filtersは、Luaスクリプトを使用してPandocのドキュメント変換機能を拡張するツールです。これにより、様々な形式のドキュメントを柔軟に変換することが可能になります。"
     }
   ],
-  "updated_at": "2026-07-05T13:31:34.947777+09:00"
+  "updated_at": "2026-07-05T21:31:23.112718+09:00"
 }
