@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-07",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-07T06:31:15.501225+09:00",
+      "title": "OpenWrt One – オープンハードウェアルーター",
+      "summary": "OpenWrt One は、オープンソースのファームウェアである OpenWrt を搭載した、オープンハードウェアのルーターです。これにより、ユーザーはルーターのハードウェアとソフトウェアを完全に制御できます。"
+    },
+    {
+      "image": "https://www.comaps.app/images/sections/map-s-3.webp",
+      "url": "https://www.comaps.app/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-07T06:31:15.501225+09:00",
+      "title": "CoMaps - FOSS オフラインマップ",
+      "summary": "「CoMaps」は、コミュニティによって提供される無料かつオープンソースのオフラインマップアプリです。旅行中にあなたの知らない場所を発見するのを手助けします。"
+    },
+    {
+      "image": "",
+      "url": "https://stevekrouse.com/learn-to-code",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-07T06:31:15.501225+09:00",
+      "title": "プログラミング学習は依然として価値がある",
+      "summary": "プログラミングを学ぶことは、現代社会において依然として高い価値を持つスキルである。変化の速いテクノロジーの世界で、このスキルはキャリアの機会を広げ、問題解決能力を高めるのに役立つ。"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/fbdc967f9f3d88566f25b21cce7ef523b3fabbbb-1280x720.jpg",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-07T06:31:15.501225+09:00",
+      "title": "大規模言語モデルにおけるグローバルワークスペース",
+      "summary": "Claudeの内部思考に関する解釈可能性の研究。この研究では、大規模言語モデルがどのように情報を処理し、理解しているのかを解明することを目指しています。"
+    },
+    {
+      "image": "",
+      "url": "https://cakehonolulu.github.io/linux-for-jaguar/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-07T06:31:15.501225+09:00",
+      "title": "Linux on the Atari Jaguar",
+      "summary": "The challenges around porting Linux to an old videogame console by Atari"
+    },
+    {
+      "image": "",
+      "url": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-07T06:31:15.501225+09:00",
+      "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
+      "summary": "AMD Ryzen AI Halo – $4k AI Dev Kit"
+    }
+  ],
+  "updated_at": "2026-07-07T06:31:44.388011+09:00"
+}

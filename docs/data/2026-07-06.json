@@ -2,16 +2,6 @@
   "date": "2026-07-06",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/8ce3e77293ca3b52c3b171d33c8dbf92a78f562f/124_0_3413_2731/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/04/openai-apparent-failure-visit-key-site-questions-stargate-uk-project",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-06T06:31:10.430215+09:00",
-      "title": "OpenAI、英国への大規模投資計画に疑問符 - 計画は実態なかった可能性",
-      "summary": "英国政府が発表したAI分野への300億ポンド（約6兆円）の潜在的投資のうち、200億ポンド（約4兆円）はOpenAIの訪問が確認されず、架空の計画だった可能性が浮上しました。これは、英国のAI投資に関する疑問を提起しています。",
-      "impact": "この架空の投資計画は、英国のAI分野への信頼を損ない、実際の技術開発や国際競争力に悪影響を与える可能性があります。また、政府の発表に対する国民の不信感が増し、今後の政策決定にも影響を与えるかもしれません。"
-    },
-    {
       "image": "https://organicmaps.app/images/screenshots/prague.jpg",
       "url": "https://organicmaps.app/",
       "category": "海外IT",
