@@ -54,7 +54,43 @@
       "collected_at": "2026-07-07T06:31:15.501225+09:00",
       "title": "AMD Ryzen AI Halo – $4k AI Dev Kit",
       "summary": "AMD Ryzen AI Halo – $4k AI Dev Kit"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/899d3a7ce83f3e3588f6ed91e2da5b5af9874d9174813a14c6eb0adffb9fbf3b/MaximeRivest/riddle",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-07T13:31:13.211933+09:00",
+      "title": "ハリー・ポッターのトム・リドル風ダイアリーが「reMarkable」に登場",
+      "summary": "「reMarkable Paper Pro」向けに、ハリー・ポッターのトム・リドルの日記を模した機能が開発されました。ペンで書くと、ページがインクを吸収し、流れるような筆記体で返答します。"
+    },
+    {
+      "image": "https://images.spr.so/cdn-cgi/imagedelivery/j42No7y-dcokJuNgXeA0ig/f7bd0bf9-fe1a-4481-ae32-a529633a4c5d/img_4423/public",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-07T13:31:13.211933+09:00",
+      "title": "自宅で自分のDNAをシーケンスする方法",
+      "summary": "Oxford Nanopore TechnologiesのMinIONを使用し、自宅で自身のゲノムを5回シーケンスした方法について解説しています。綿棒からDNAを採取し、シーケンス準備、実行、そして分析までの一連のプロセスが含まれます。"
+    },
+    {
+      "image": "https://martinalderson.com/img/og/glm-5-2-and-the-coming-ai-margin-collapse-part-1.png",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-07T13:31:13.211933+09:00",
+      "title": "GLM 5.2登場とAI推論コストの急落",
+      "summary": "GLM 5.2は、OpusやGPTに匹敵する性能を持つ、オープンウェイトモデルとして初めての真の競争相手と評価されています。その価格はOpusやGPTの約15-20%で、AI推論コストの急落を予測させるものです。"
+    },
+    {
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67101133&width=1200&height=600&coordinates=0%2C889%2C0%2C361",
+      "url": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-07T13:31:13.211933+09:00",
+      "title": "不安定なネットワーク環境で小型AIモデルが普及",
+      "summary": "インターネット接続が不安定でデータセンターインフラがない場所では、小型のAIモデルがより効果的であることが示されています。これは、インフラの制約がある地域でのAI利用を促進する要因となります。"
     }
   ],
-  "updated_at": "2026-07-07T06:31:44.388011+09:00"
+  "updated_at": "2026-07-07T13:31:15.219443+09:00"
 }
