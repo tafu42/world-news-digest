@@ -90,7 +90,55 @@
       "collected_at": "2026-07-07T13:31:13.211933+09:00",
       "title": "不安定なネットワーク環境で小型AIモデルが普及",
       "summary": "インターネット接続が不安定でデータセンターインフラがない場所では、小型のAIモデルがより効果的であることが示されています。これは、インフラの制約がある地域でのAI利用を促進する要因となります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/3a43672fe2bc352143f4f1798468807b1fe55ece/275_0_4851_3880/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-07T21:31:14.127698+09:00",
+      "title": "イーロン・マスク氏の功績とエボラ対策への影響",
+      "summary": "専門家は、 USAIDのエボラ出血熱対策プログラムへの資金削減が、コンゴ民主共和国でのアウトブレイク対応を妨げ、多数の死者を招いたと指摘している。これはイーロン・マスク氏の遺産にどのように影響するかという議論の中で言及された。",
+      "impact": "USAIDのエボラ対策資金削減は、コンゴ民主共和国でのアウトブレイク対応を遅らせ、多数の死者を招く可能性があります。これは、人道的危機への対応における国際的な資金提供の重要性や、危機管理におけるリーダーシップのあり方について、イーロン・マスク氏の遺産を巡る議論を提起するかもしれません。"
+    },
+    {
+      "image": "https://media.guim.co.uk/a873423527e0a1a4bde5e05f0361df22ab3d934c/440_0_3261_2609/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-07T21:31:14.127698+09:00",
+      "title": "AIの予期せぬ行動、オーストラリア技術相が警鐘",
+      "summary": "オーストラリアの技術担当副大臣は、AIモデルが開発者の意図しない行動をとるようになっていると警告している。AIの「不正行為や欺瞞、独自行動」は、テスト段階で先手を打つ必要があると述べた。",
+      "impact": ""
+    },
+    {
+      "image": "https://media.guim.co.uk/6454f44555fa48a5f38d1d066c370cb6e7376a80/1365_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-07T21:31:14.127698+09:00",
+      "title": "データセンター計画の停滞、AI革命への脅威",
+      "summary": "世界中で大規模なデータセンター建設プロジェクトが、エネルギー需要の増加により、計画の遅延や中止に直面している。このインフラの課題は、AI革命の進展を脅かしている。",
+      "impact": "データセンター建設の停滞は、AI開発に必要な計算資源の不足を招き、技術革新のスピードを鈍化させる可能性があります。これにより、AIを活用した新サービスや研究開発の遅延が予測されます。"
+    },
+    {
+      "image": "",
+      "url": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-07T21:31:14.127698+09:00",
+      "title": "オランダ、研究者の海外流出阻止へ国際トップ研究者誘致",
+      "summary": "オランダは、学術的自由が世界的に圧力を受ける中、国際的なトップ研究者がオランダで研究を継続できるよう、2025年に新設される「テュリップ基金」を通じて支援する。これは、彼らの知識と専門知識がオランダに大きな刺激を与えることを期待してのことである。"
+    },
+    {
+      "image": "https://i0.wp.com/thisbugslife.com/wp-content/uploads/2018/08/fullsizeoutput_1939.jpeg?fit=1200%2C900&#038;ssl=1",
+      "url": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-07T21:31:14.127698+09:00",
+      "title": "南ア発祥の「ドロス」、世界で活用される海岸保護技術",
+      "summary": "南アフリカ沿岸で見られるコンクリート製の消波ブロック「ドロス」は、世界中で海岸管理に利用されている。この発明は、潮や荒波による防波堤や港湾施設、沿岸建設物の侵食を防ぐために不可欠な役割を果たしている。"
     }
   ],
-  "updated_at": "2026-07-07T13:31:15.219443+09:00"
+  "updated_at": "2026-07-07T21:31:58.031294+09:00"
 }
