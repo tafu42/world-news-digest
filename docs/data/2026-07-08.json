@@ -138,7 +138,52 @@
       "collected_at": "2026-07-08T13:31:16.264255+09:00",
       "title": "カナダ唯一の時計学校、80年の歴史を刻み続ける",
       "summary": "カナダで唯一の時計学校であるÉcole national d’horlogerieは、第二次世界大戦後に退役軍人の社会復帰支援として設立されました。現在では、グローバル市場で活躍できるプロの時計職人を育成する場となっています。"
+    },
+    {
+      "image": "",
+      "url": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-08T21:31:15.094291+09:00",
+      "title": "ユニクロTシャツに隠された難読化されたBashスクリプトの解読",
+      "summary": "ユニクロのTシャツに印刷されていた難読化されたBashスクリプトが、その意味するところを解読されました。この発見は、隠されたコードの存在とその意図について注目を集めています。"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/default/apple-logo-og.jpg?202607081000",
+      "url": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-08T21:31:15.094291+09:00",
+      "title": "Apple、Broadcomとの連携を強化し、米国内で数十億個のチップを生産へ",
+      "summary": "AppleはBroadcomと新たな6年間の契約を結び、カスタムシリコンコンポーネントと最先端のワイヤレス接続技術の設計・製造を強化します。これにより、米国国内でのチップ生産が大幅に増加する見込みです。"
+    },
+    {
+      "image": "",
+      "url": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-08T21:31:15.094291+09:00",
+      "title": "GitHubのAIエージェントを騙し、プライベートリポジトリを漏洩させることに成功",
+      "summary": "GitLostというプロジェクトは、GitHubのAIエージェントを巧妙に操作し、本来非公開であるはずのプライベートリポジトリの情報を漏洩させることに成功しました。この実験はAIのセキュリティ上の脆弱性を浮き彫りにしています。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/8531027a80fb3cf151b9c456e1d11469530c26d1d61813b96223b69554363dbf/dekart-xyz/geosql",
+      "url": "https://github.com/dekart-xyz/geosql",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-08T21:31:15.094291+09:00",
+      "title": "GeoSQL：地理空間データを扱うためのClaude/Codexスキル",
+      "summary": "GeoSQLは、ClaudeやCodexといったAIモデルを地理空間分析エージェントに変換するためのスキルです。これにより、地理空間データの解析能力を向上させることが可能になります。"
+    },
+    {
+      "image": "",
+      "url": "https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-08T21:31:15.094291+09:00",
+      "title": "外国人として北朝鮮で3年間生き延びる方法",
+      "summary": "この記事は、外国人という立場から北朝鮮で3年間をどのように生き延びたのか、その経験談を解説しています。異文化と隔離された環境での生活の現実が描かれています。"
     }
   ],
-  "updated_at": "2026-07-08T13:31:19.128632+09:00"
+  "updated_at": "2026-07-08T21:31:18.662227+09:00"
 }
