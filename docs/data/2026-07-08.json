@@ -2,36 +2,6 @@
   "date": "2026-07-08",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/e23db2eeb7fb9eb44b8fe1a13d7097ac9681bee7/417_0_4167_3335/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-08T06:31:11.347959+09:00",
-      "title": "AIブームが大手IT企業の気候目標達成を阻む",
-      "summary": "GoogleやAmazonのような大手IT企業は、AI開発に不可欠な膨大な電力消費により、ネットゼロ目標の達成が困難になっています。Metaも同様の課題に直面し、対策に追われています。",
-      "impact": "AI開発の電力消費増大は、IT企業の気候目標達成を困難にし、再生可能エネルギーへの移行を加速させる必要性を高める可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/02174f30cfc14b32ad1a5d261c7058663c1b9acd/452_0_2797_2239/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-08T06:31:11.347959+09:00",
-      "title": "AIがユーザーの意見形成に影響、研究で判明",
-      "summary": "AIがユーザーの文書作成に介入し、人工妊娠中絶や気候変動といった問題に関する意見に微細な変化をもたらすことが研究で示されました。これらの小さな変化が、長期的に世論を形成する可能性があります。",
-      "impact": "AIによる意図しない意見形成への影響は、情報リテラシーの重要性を再認識させ、メディアの信頼性や情報源の多様性に対する社会的な議論を深めるかもしれません。"
-    },
-    {
-      "image": "https://media.guim.co.uk/b4c022a18e1dfa333375b3abf90344b37933bc29/1065_0_6830_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/06/scotland-lanarkshire-village-ai-datacentre",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-08T06:31:11.347959+09:00",
-      "title": "AIデータセンター開発、スコットランドの村で疑念広がる",
-      "summary": "スコットランドの村で、AIデータセンター開発による恩恵について地元住民が誤解させられているとの疑念が強まっています。当初の期待は、開発の現実に対する不安へと変化しています。",
-      "impact": "AIデータセンター開発における住民とのコミュニケーション不足や期待値のずれは、地域開発における透明性や住民参加の重要性を浮き彫りにし、同様のプロジェクトにおける事前説明や合意形成プロセスへの関心を高める可能性があります。"
-    },
-    {
       "image": "",
       "url": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
       "category": "海外IT",

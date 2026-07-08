@@ -1,0 +1,100 @@
+{
+  "date": "2026-07-09",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/d680a3e5eef209e23dc39ef025b9f1e582efe9ef/1_0_2999_2400/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "AIは政治広告を公平にするのか？それとも虚偽拡散の道具のままか？",
+      "summary": "AIとディープフェイクの政治キャンペーンでの活用が広がり、その拡散規模について専門家は懸念を表明しています。",
+      "impact": "AIによる政治広告の公平性に関する懸念は、有権者の意思決定プロセスに歪みを生じさせ、民主主義の根幹を揺るがす可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/3a43672fe2bc352143f4f1798468807b1fe55ece/275_0_4851_3880/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/elon-musk-doge-cuts-usaid-ebola",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "イーロン・マスク氏の遺産とは？ドージコインからUSAIDのエボラ出血熱対策プログラムへの削減まで",
+      "summary": "専門家によると、削減はコンゴ民主共和国におけるエボラ出血熱の流行への対応を妨げ、多数の死者を出したと指摘しています。",
+      "impact": "USAIDのエボラ出血熱対策プログラムへの削減は、公衆衛生の危機を深刻化させ、国際的な感染症対策への信頼を損なう恐れがあります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/a873423527e0a1a4bde5e05f0361df22ab3d934c/440_0_3261_2609/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/ai-models-doing-things-their-creators-never-intended",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "オーストラリア副大臣「AIは開発者が意図しないことを既に行っている」と警告",
+      "summary": "アンドリュー・チャールトン副大臣は、AIが「不正行為、欺瞞、独自行動」をとっており、これに対処する時期はテスト段階だと述べています。",
+      "impact": "AIの予期せぬ行動は、社会の安全保障や倫理的な規範に深刻な影響を与え、迅速な規制と監視体制の確立が急務となります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/6454f44555fa48a5f38d1d066c370cb6e7376a80/1365_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/07/stymied-datacentre-projects-threaten-global-ai-revolution",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "データセンター計画の停滞が世界のAI革命を脅かす",
+      "summary": "インフラのエネルギー需要が増加する中、世界の大規模データセンター計画が課題に直面したり中止されたりしています。",
+      "impact": "データセンター計画の停滞は、AI技術の進化と普及を遅らせ、経済成長やイノベーションの機会損失につながる可能性があります。"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "OpenAI、SWE-Bench Proの推奨を停止",
+      "summary": "OpenAIは、SWE-Bench Proの利用を推奨しないことを発表しました。"
+    },
+    {
+      "image": "https://hmans.dev/blog/chatto-is-open-source/banner.png",
+      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "Chattoがオープンソース化",
+      "summary": "Chattoは、非常に高速なチャットアプリケーションであり、この度オープンソースとして公開されました。"
+    },
+    {
+      "image": "/icons/share-thumbnail.jpg",
+      "url": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "Fableは有用なモデルではない",
+      "summary": "COMBINE-labは、ハイスループットゲノミクス向けのアルゴリズム、データ構造、ソフトウェアを開発しており、Fableはその文脈で有用ではないとしています。"
+    },
+    {
+      "image": "https://cognition.com/images/swe-1-7/swe-1-7-og.png",
+      "url": "https://cognition.com/blog/swe-1-7",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "SWE-1.7、GPT 5.5やOpus Intelligenceに迫る",
+      "summary": "OpenAIは、これまでにトレーニングした中で最も高性能なモデルSWE-1.7を発表しました。これは、はるかに低コストで最先端レベルの知能に達し、コストパフォーマンスのパレート曲線を進歩させています。"
+    },
+    {
+      "image": "https://www.cloudflare.com/_summon/og-image.png",
+      "url": "https://www.cloudflare.com/drop/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "Cloudflareでウェブサイトを簡単に公開",
+      "summary": "Cloudflareでは、フォルダやzipファイルをアップロードするだけで、ウェブサイトをリアルタイムで確認できます。"
+    },
+    {
+      "image": "https://mistral.ai/cms-media/api/media/file/Robostral-navigate.jpg",
+      "url": "https://mistral.ai/news/robostral-navigate/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-09T06:31:08.083481+09:00",
+      "title": "Mistral AI、単眼RGBカメラのみで高精度なロボットナビゲーションモデル「Robostral Navigate」を発表",
+      "summary": "Mistral AIは、深度センサーやLiDAR、複数カメラなしで、単眼RGBカメラのみを使用してR2R-CEで76.6%の精度を達成する最先端のロボットナビゲーションモデル「Robostral Navigate」を発表しました。"
+    }
+  ],
+  "updated_at": "2026-07-09T06:31:23.140667+09:00"
+}
