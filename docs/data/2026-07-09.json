@@ -94,7 +94,45 @@
       "collected_at": "2026-07-09T06:31:08.083481+09:00",
       "title": "Mistral AI、単眼RGBカメラのみで高精度なロボットナビゲーションモデル「Robostral Navigate」を発表",
       "summary": "Mistral AIは、深度センサーやLiDAR、複数カメラなしで、単眼RGBカメラのみを使用してR2R-CEで76.6%の精度を達成する最先端のロボットナビゲーションモデル「Robostral Navigate」を発表しました。"
+    },
+    {
+      "image": "https://media.guim.co.uk/e23db2eeb7fb9eb44b8fe1a13d7097ac9681bee7/417_0_4167_3335/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/06/ai-climate-crisis",
+      "category": "テクノロジー",
+      "time": "13:36",
+      "collected_at": "2026-07-09T13:36:10.245046+09:00",
+      "title": "AIの電力消費、巨大IT企業の気候変動目標達成を阻む",
+      "summary": "GoogleやAmazonのような巨大IT企業は、AIの電力消費量の増加により、ネットゼロ目標の達成が困難になっている。Metaも同様の課題に直面しており、対応に追われている。",
+      "impact": "AIの電力消費増大は、IT企業の気候変動目標達成を困難にし、再生可能エネルギーへの転換を加速させる必要性に迫る可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/02174f30cfc14b32ad1a5d261c7058663c1b9acd/452_0_2797_2239/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/06/ai-altering-meaning-of-users-drafts-on-issues-from-abortion-to-climate-study-finds",
+      "category": "テクノロジー",
+      "time": "13:36",
+      "collected_at": "2026-07-09T13:36:10.245046+09:00",
+      "title": "AI、人工妊娠中絶や気候変動に関するユーザーの意見形成に影響",
+      "summary": "研究によると、AIがユーザーの草稿にわずかな変更を加えることで、意見が急速に広がり、世論に長期的な影響を与える可能性がある。これは人工妊娠中絶や気候変動などの問題で顕著に見られる。",
+      "impact": "AIによる情報操作は、人々の意思決定や世論形成に無自覚な影響を与え、民主主義的なプロセスを歪めるリスクを高める恐れがあります。"
+    },
+    {
+      "image": "https://dims.apnews.com/dims4/default/eb2d449/2147483647/strip/true/crop/4513x3007+0+162/resize/980x653!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fca%2Fc8%2F5fff3b3e7c95ef4bbd4696383598%2F674e975157b745d28967fa953a18c3d4",
+      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+      "category": "海外IT",
+      "time": "13:36",
+      "collected_at": "2026-07-09T13:36:10.245046+09:00",
+      "title": "ジョン・ディア、修理権に関するFTCとの和解で所有者の修理自由度向上へ",
+      "summary": "ジョン・ディアの所有者は、連邦取引委員会（FTC）と複数州の司法長官との和解により、自社機器の修理を自身で行えるようになる見込みだ。これにより、修理の選択肢が広がる。"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!A0EF!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6ab9008a-68c9-4f18-8615-2d1d4462dbcd_1536x1024.png",
+      "url": "https://www.liamcvw.com/p/remote-attestation",
+      "category": "海外IT",
+      "time": "13:36",
+      "collected_at": "2026-07-09T13:36:10.245046+09:00",
+      "title": "リモート認証",
+      "summary": "「アヒルが鳴けばアヒルである」という格言が示すように、リモート認証は、遠隔地にあるシステムやデバイスが、あたかもその場にあるかのように信頼できることを証明する技術である。"
     }
   ],
-  "updated_at": "2026-07-09T06:31:23.140667+09:00"
+  "updated_at": "2026-07-09T13:36:18.049113+09:00"
 }
