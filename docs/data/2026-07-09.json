@@ -132,7 +132,62 @@
       "collected_at": "2026-07-09T13:36:10.245046+09:00",
       "title": "リモート認証",
       "summary": "「アヒルが鳴けばアヒルである」という格言が示すように、リモート認証は、遠隔地にあるシステムやデバイスが、あたかもその場にあるかのように信頼できることを証明する技術である。"
+    },
+    {
+      "image": "https://media.guim.co.uk/dd310690ccdcdb650246265e08f72cab5af2a953/718_99_1188_951/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/09/low-e-windows-keep-homes-cool-but-may-set-neighbours-property-on-fire",
+      "category": "テクノロジー",
+      "time": "21:45",
+      "collected_at": "2026-07-09T21:45:50.899400+09:00",
+      "title": "低放射性ガラス窓、夏は涼しく冬は暖かく、しかし近隣宅に火災の危険性も",
+      "summary": "低放射性（Low-e）ガラス窓は冬に家を暖かく保つ効果もありますが、湾曲したガラスで使用すると虫眼鏡のような効果で近隣の家屋に火災を引き起こす可能性があります。",
+      "impact": "低放射性ガラス窓の普及は、省エネ効果と引き換えに、意図せず近隣宅への火災リスクを高める可能性があり、地域社会における安全対策の見直しが求められるかもしれません。この問題は、新しい技術の導入に伴う予期せぬリスク管理の重要性を浮き彫りにします。"
+    },
+    {
+      "image": "",
+      "url": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+      "category": "海外IT",
+      "time": "21:45",
+      "collected_at": "2026-07-09T21:45:50.899400+09:00",
+      "title": "クモの毒、ミツバチに無害でミツバチダニを駆除",
+      "summary": "クモの毒は、ミツバチに危害を加えることなく、ミツバチの病気の原因となるミツバチダニを効果的に駆除することが発見されました。"
+    },
+    {
+      "image": "https://www.networkworld.com/wp-content/uploads/2026/07/4192827-0-97815400-1783093725-shutterstock_editorial_2066815178.jpg?quality=50&amp;strip=all&amp;w=1024",
+      "url": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+      "category": "海外IT",
+      "time": "21:45",
+      "collected_at": "2026-07-09T21:45:50.899400+09:00",
+      "title": "Meta、カスタムブリッジチップで旧RAMを新サーバーに再利用",
+      "summary": "Metaは、AIインフラストラクチャのコスト削減を目指し、カスタムブリッジチップを使用して古いRAMを新しいサーバーに再利用する技術を開発しました。"
+    },
+    {
+      "image": "https://www.patrick-breyer.de/wp-content/uploads/2023/07/logo_regular_vertical.png",
+      "url": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+      "category": "海外IT",
+      "time": "21:45",
+      "collected_at": "2026-07-09T21:45:50.899400+09:00",
+      "title": "EU議会、チャットコントロール1.0を承認、議員からは「子供たちが犠牲になる」との声",
+      "summary": "EU議会は、3月に一度否決された「チャットコントロール1.0」と呼ばれる、疑いを前提としないプライベート通信の大量スキャンを承認しました。賛成多数でしたが、反対した議員も多くいました。"
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/34b8/live/e78d6300-7b7c-11f1-9510-1546718f668b.png",
+      "url": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+      "category": "海外IT",
+      "time": "21:45",
+      "collected_at": "2026-07-09T21:45:50.899400+09:00",
+      "title": "「Total Eclipse of the Heart」の歌手、ボニー・タイラーさん、75歳で死去",
+      "summary": "「Total Eclipse of the Heart」などのヒット曲で知られるウェールズ出身の歌手、ボニー・タイラーさんが75歳で亡くなりました。"
+    },
+    {
+      "image": "",
+      "url": "https://bittlex-sim.petoi.com/",
+      "category": "海外IT",
+      "time": "21:45",
+      "collected_at": "2026-07-09T21:45:50.899400+09:00",
+      "title": "ブラウザ上で動作するプログラム可能なロボットシミュレーター",
+      "summary": "ブラウザ上で直接操作・プログラミングが可能なロボットシミュレーターが登場しました。"
     }
   ],
-  "updated_at": "2026-07-09T13:36:18.049113+09:00"
+  "updated_at": "2026-07-09T21:46:16.276566+09:00"
 }
