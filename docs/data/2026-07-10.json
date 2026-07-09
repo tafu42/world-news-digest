@@ -1,0 +1,69 @@
+{
+  "date": "2026-07-10",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/da02ae5fc95633f9ca25b422207d35c631dc5b1a/39_88_1019_814/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/09/christopher-hanson-abbott-obituary",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-10T06:31:14.588919+09:00",
+      "title": "クリストファー・ハンソン＝アボット氏死去：車両安全技術のパイオニア、ブリゲード・エレクトロニクス社を設立",
+      "summary": "車両安全技術のパイオニアであるクリストファー・ハンソン＝アボット氏が死去しました。同氏が設立したブリゲード・エレクトロニクス社は、英国で最初にバックアラームを商業化した企業として知られています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/d9aa4c205d635431946c06fdc96e41b643f8bd5c/508_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/09/trump-administration-openai-chatgpt-cybersecurity",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-10T06:31:14.588919+09:00",
+      "title": "OpenAI、ホワイトハウスのサイバーセキュリティ懸念による遅延を経て最新ChatGPTモデルをリリース",
+      "summary": "OpenAIは、ホワイトハウスのサイバーセキュリティ懸念によりリリースが遅れていた最新モデル「ChatGPT 5.6」を段階的に公開しました。これは、競合他社Anthropicの最新AIモデルにも同様の制限が課されたことに続く動きです。"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/gpt-5-6/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-10T06:31:14.588919+09:00",
+      "title": "GPT-5.6",
+      "summary": "GPT-5.6は、AIモデルGPTシリーズの最新バージョンです。詳細については、さらなる情報が待たれます。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/492d5767a28890da9f66d5d60ca9f0512394075c10c0fa79171a238883d61e38/JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-10T06:31:14.588919+09:00",
+      "title": "Show HN: Getting GLM 5.2 running on my slow computer",
+      "summary": "Run GLM-5.2 (744B MoE) on a 25GB-RAM consumer machine — pure C, zero deps, experts streamed from disk. Tiny engine, imme"
+    },
+    {
+      "image": "https://18words.com/og-image.png",
+      "url": "https://18words.com/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-10T06:31:14.588919+09:00",
+      "title": "Show HN: 18 Words",
+      "summary": "A fast daily word challenge. Can you survive all 18 words?"
+    },
+    {
+      "image": "https://media.wired.com/photos/6a4648c1a27d0fa93c83a1c7/191:100/w_1280,c_limit/070226_iPhone-Dum-Phone.jpg",
+      "url": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-10T06:31:14.588919+09:00",
+      "title": "Buried Apple feature turns an iPhone into the perfect kids' dumb phone",
+      "summary": "Apple built a tool for people with cognitive disabilities, but I accidentally discovered it’s also the best kids’ phone "
+    },
+    {
+      "image": "",
+      "url": "https://hy.tencent.com/research/hy3",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-10T06:31:14.588919+09:00",
+      "title": "Hy3",
+      "summary": "Hy3"
+    }
+  ],
+  "updated_at": "2026-07-10T06:31:43.036956+09:00"
+}
