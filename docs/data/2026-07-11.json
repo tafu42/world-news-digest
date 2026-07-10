@@ -1,0 +1,60 @@
+{
+  "date": "2026-07-11",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-11T06:31:11.241900+09:00",
+      "title": "壁越しのWi-Fiやドローン検知を可能にする「QuadRF」",
+      "summary": "Raspberry Pi 5とFPGAボードを搭載したPhased-array無線機「QuadRF」は、ピコ秒レベルのタイミング精度で高度な信号処理とビームフォーミングを行います。これにより、壁越しにWi-Fi信号を検知したり、飛行中のドローンを追跡したりすることが可能です。"
+    },
+    {
+      "image": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models/opengraph-image-yqks0s?3313ef8f7f360358",
+      "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-11T06:31:11.241900+09:00",
+      "title": "GPT-5.6、Grok 4.5、Claudeなどが同一の4つのアプリを共同開発",
+      "summary": "GPT-5.6の新しいSol、Terra、Lunaティアは、Grok 4.5、Claude、MetaのMuse Spark、そしてオープンウェイトのモデル群と、レイキャスター、ルービックキューブ、電卓、ライフゲームといった4つのアプリケーション開発で競合します。各開発のコストとレイテンシも公開されています。"
+    },
+    {
+      "image": "https://storage.googleapis.com/gpt-engineer-file-uploads/AwmrFUJUl1Miu5dNMpFBx8P372K3/social-images/social-1783516958074-CASP_Social_Logos_White.webp",
+      "url": "https://casp.ac/reports/ai-enabled-terrorism",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-11T06:31:11.241900+09:00",
+      "title": "テロ組織ボコ・ハラムのフロンティアAI利用に関する研究",
+      "summary": "ケンブリッジ大学のAI科学・政策プログラム（CASP）は、フロンティアAIに関する学際的な研究プログラムです。本記事では、テロ組織ボコ・ハラムがどのようにフロンティアAIを利用しているかについて論じられています。"
+    },
+    {
+      "image": "https://vfxblog.com/wp-content/uploads/2017/08/death1.jpg",
+      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-11T06:31:11.241900+09:00",
+      "title": "『ターミネーター2』の革新的なVFX技術の裏側：ILMの創造的な挑戦（2017年）",
+      "summary": "1991年の公開以来、『ターミネーター2』におけるILM（インダストリアル・ライト&マジック）の視覚効果は、当時の技術的限界を突破する革新的な手法を生み出しました。本記事は、VFXスーパーバイザーのデニス・ミューレンらが、いかにして新しい映像表現を「発明」していったかについて、関係者の証言を交えて掘り下げています。"
+    },
+    {
+      "image": "",
+      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-11T06:31:11.241900+09:00",
+      "title": "GPT-5.6 Sol Ultra、サイクル二重被覆予想の証明を生成",
+      "summary": "GPT-5.6 Sol Ultraが、数学における「サイクル二重被覆予想」の証明を生成したことが報告されています。この成果は、PDF形式で公開されています。"
+    },
+    {
+      "image": "https://th-thumbnailer.cdn-si-edu.com/uJ3_0X-O9Zw4wRJ-4uPA6-8sY-8=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/b6/2c/b62c97f3-8cc5-4351-9f3d-1641f48255cf/42-33773725.jpg",
+      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-11T06:31:11.241900+09:00",
+      "title": "カタツムリの歯が、自然界最強素材としてクモの糸を凌駕（2015年）",
+      "summary": "カタツムリの歯は、岩を削って餌を食べるために使用される構造を持ち、その強度から自然界で最も強い素材であることが発見されました。この発見は、軟体動物の歯の驚異的な堅牢性を示しています。"
+    }
+  ],
+  "updated_at": "2026-07-11T06:31:14.549404+09:00"
+}
