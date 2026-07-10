@@ -111,7 +111,64 @@
       "collected_at": "2026-07-10T13:31:07.032472+09:00",
       "title": "個人開発の鉄道シミュレーター、史上最高との呼び声",
       "summary": "たった一人で開発された日本の鉄道運転シミュレーター「Running Train」が、Steamで高評価を得ています。その美しいグラフィックとリアルな運転体験が、プレイヤーから絶賛されています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/afcefcf20e7c19d9b8290408e6e261cdc853a2c2/746_0_6830_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-10T21:31:15.328411+09:00",
+      "title": "EU、Metaに「依存性の高いデザイン」によるメンタルヘルスリスクへの対応不足を指摘",
+      "summary": "EUの規制当局は、FacebookやInstagramの自動再生や無限スクロールといった機能が「強迫的な利用」に繋がると指摘しています。Metaはこれらのデザインがユーザーのメンタルヘルスに及ぼすリスクへの対応が不十分だと非難されています。",
+      "impact": "EUによるMetaへの指摘は、SNSの依存性を高めるデザインがユーザーの精神的健康に悪影響を与える可能性への懸念を浮き彫りにし、プラットフォーム運営者への責任追及を強めるきっかけとなるでしょう。これにより、SNS業界全体でユーザー保護を目的としたデザイン変更や利用時間制限などの規制強化が進む可能性があります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/668d582c14b027aeb83f04851b02e30cd094bacc/801_686_3645_2916/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-10T21:31:15.328411+09:00",
+      "title": "英国、店舗での顔認識システム導入に懸念の声",
+      "summary": "英国の一部の店舗で、即座に警察に通報する顔認識システムが導入され、市民の自由を保護する団体から「危険なエスカレーション」との懸念が表明されています。このシステムは、 Sainsbury’s や B&amp;M などの店舗で利用されています。",
+      "impact": "この顔認識システムの導入は、プライバシー侵害や誤認識による不当な逮捕といった市民の自由への懸念を高める可能性があります。また、大規模な監視社会への移行を促し、社会全体の自由な雰囲気を損なう恐れがあります。"
+    },
+    {
+      "image": "https://media.guim.co.uk/429a0ba83b3596a0e670ad87de729f1e68471a7a/683_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-10T21:31:15.328411+09:00",
+      "title": "米上院議員、テック企業の有害性を抑制する包括的な法案を提案",
+      "summary": "米上院議員のエド・マーキー氏が、データセンター、自動採用システム、児童への危害などを抑制することを目的とした一連の法案を提案しました。これは、AIの責任能力向上のための「AIアカウンタビリティ・アジェンダ」の一環です。",
+      "impact": "この法案は、テック企業の責任を強化し、AIによる悪影響を軽減することで、より安全で公正なデジタル社会の実現に貢献する可能性があります。一方で、企業のイノベーションを阻害する可能性も指摘されており、そのバランスが今後の課題となるでしょう。"
+    },
+    {
+      "image": "http://yummymelon.com/devnull/images/opengraph-default.jpg",
+      "url": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-10T21:31:15.328411+09:00",
+      "title": "Emacs、OSのようにアプリケーションとユーティリティを統合",
+      "summary": "EmacsはOSではないものの、OSカーネルの上にアプリケーションやユーティリティを統合・管理できる能力がOSとの比較を促しています。この機能により、EmacsはあたかもOSのように振る舞います。"
+    },
+    {
+      "image": "https://ec.europa.eu/commission/presscorner/assets/framework/images/logo/ec_logo.png",
+      "url": "https://ec.europa.eu/commission/presscorner/home/en",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-10T21:31:15.328411+09:00",
+      "title": "EU委員会、InstagramとFacebookの依存的デザインがDSA違反と発表",
+      "summary": "EU委員会は、InstagramとFacebookにおける依存性の高いデザインが、デジタルサービス法（DSA）に違反していると発表しました。この発表には、ハイライト、プレスリリース、スピーチが含まれています。"
+    },
+    {
+      "image": "https://mappingignorance.org/app/uploads/2026/06/file-20260604-85-o7omkw.jpg",
+      "url": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-10T21:31:15.328411+09:00",
+      "title": "サグラダ・ファミリアに隠された数学的秘密",
+      "summary": "バルセロナのサグラダ・ファミリアの建築に隠された数値パターンを探求することで、その美しさがさらに深く理解できます。この教会は、その印象的な形態の背後にある数学的な法則によって、より一層の魅力を放っています。"
     }
   ],
-  "updated_at": "2026-07-10T13:31:35.557335+09:00"
+  "updated_at": "2026-07-10T21:31:44.116296+09:00"
 }
