@@ -1,0 +1,90 @@
+{
+  "date": "2026-07-12",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/afcefcf20e7c19d9b8290408e6e261cdc853a2c2/746_0_6830_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "EU、Metaに「中毒性のデザイン」によるメンタルヘルスリスクへの対応不足を指摘",
+      "summary": "EU規制当局は、FacebookとInstagramの自動再生や無限スクロールといった機能が「強迫的な利用」に繋がると指摘しています。Metaは、これらのデザインがメンタルヘルスに与えるリスクへの対応が不十分だと非難されています。",
+      "impact": "SNSの「中毒性のデザイン」への規制強化は、プラットフォーム運営企業によるユーザー体験の在り方や収益モデルの見直しを迫る可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/668d582c14b027aeb83f04851b02e30cd094bacc/801_686_3645_2916/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "英小売店での顔認識システム導入に警鐘、即時通報で警察が対応",
+      "summary": "英国内のSainsbury'sやB&Mなどの小売店で、顧客の顔を即座に識別し警察に通報する顔認識システム「Facewatch」が導入され、懸念が広がっています。市民の自由団体は、このシステムを「危険なエスカレーション」と非難しています。",
+      "impact": "小売店での顔認識システム導入は、防犯効果が期待される一方で、プライバシー侵害や誤認識による人権侵害への懸念が高まり、監視社会化への議論を加速させる恐れがある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/429a0ba83b3596a0e670ad87de729f1e68471a7a/683_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "米上院議員、テクノロジーの害悪を抑制する法案パッケージを提案",
+      "summary": "米上院議員エド・マーキー氏は、データセンター、自動採用システム、子供への悪影響を抑制するための法案パッケージを発表しました。この「AI説明責任アジェンダ」は、テクノロジー業界の有害な影響に対処することを目的としています。",
+      "impact": "AIの悪影響を抑制する法案パッケージの提案は、テクノロジー企業の開発・運用に倫理的・法的制約をもたらし、AI技術の健全な発展と社会実装を促す一方、イノベーションを阻害する可能性も指摘される。"
+    },
+    {
+      "image": "",
+      "url": "https://antjs.org",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "Show HN: JavaScriptランタイムとエコシステム「Ant」が登場",
+      "summary": "JavaScriptの実行環境と関連エコシステムである「Ant」が紹介されました。この新しいランタイムは、開発者コミュニティからの注目を集めています。"
+    },
+    {
+      "image": "https://clickhouse.com/_next/image?url=%2Fuploads%2FScaling_Pgbouncer_in_Click_House_ed1f77793f.jpg&amp;w=1200&amp;h=630&amp;q=75",
+      "url": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "PgBouncerのスループットを4倍にスケールアップした方法",
+      "summary": "ClickHouse Managed Postgresは、PgBouncerの単一スレッドという制約を克服し、so_reuseportを利用して複数のPgBouncerプロセスを協調させることで、スループットを4倍に向上させました。これにより、CPUリソースを最大限に活用したスケーリングが可能になりました。"
+    },
+    {
+      "image": "https://images.prismic.io/bethtechnology/aitsR6lQnVZVEPNy_Nvidia%2CCoreWeave%2CandNebius%E2%80%93InsidetheCircularFinancingoftheGPUBoom.png?auto=format,compress",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "Nvidia、CoreWeave、Nebius：GPUブームの循環型資金調達の裏側",
+      "summary": "CoreWeaveとNebiusは、「Neoclouds」と呼ばれるAIビジネスモデルで急成長を遂げていますが、その成長を支えるには莫大なコストがかかっています。これらの企業は、販売、受注残、株価が急騰していますが、潤沢なキャッシュフローがないという課題に直面しています。"
+    },
+    {
+      "image": "https://timeseriesofindia.com/og/reads/upi-architecture.png",
+      "url": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "UPI：決済取引の仕組みの解剖",
+      "summary": "UPI（Unified Payments Interface）による決済は、わずか数秒で完了しますが、その裏側では7つの主体が連携しています。利用者は、これらの複雑なプロセスを意識することなく、単一のインターフェースで取引を行っています。"
+    },
+    {
+      "image": "",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "SQLiteでStrictテーブルを推奨する理由",
+      "summary": "SQLiteにおいてStrictテーブルの使用を推奨する理由は、数値カラムにテキストを挿入するなどのデータ型に関する問題を回避できるためです。これにより、データの整合性をより確実に保つことができます。"
+    },
+    {
+      "image": "",
+      "url": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-12T06:31:13.843139+09:00",
+      "title": "特異値分解の黎明期（1993年）",
+      "summary": "この記事は、特異値分解（SVD）がどのように発展してきたか、その初期の歴史について解説しています。PDF形式で提供されています。"
+    }
+  ],
+  "updated_at": "2026-07-12T06:31:29.058897+09:00"
+}
