@@ -119,7 +119,43 @@
       "collected_at": "2026-07-11T13:31:08.285198+09:00",
       "title": "SpaceX、帯域幅100倍のStarlink衛星10万機追加打ち上げを計画",
       "summary": "これにより地方の顧客はより高速なインターネットを利用できる可能性がありますが、一部からは懸念の声も上がっています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-11T21:31:11.640602+09:00",
+      "title": "InstagramのAI画像生成機能、プライバシー専門家らが警鐘",
+      "summary": "MetaはInstagramに新しいAI画像生成機能を導入しましたが、プライバシー専門家らはユーザーに対し、プライバシー設定の見直しを呼びかけています。"
+    },
+    {
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+      "url": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-11T21:31:11.640602+09:00",
+      "title": "Google検索、クリエイターのリーチを拡大し、より多くの情報を提供",
+      "summary": "Googleは、クリエイターがオンラインで行うあらゆる活動の中心となるハブとして、Google検索の機能を拡張しようとしています。これにより、クリエイターは自身のコンテンツのリーチに関するより詳細な情報を得られるようになります。"
+    },
+    {
+      "image": "",
+      "url": "https://alexandrepoupeau.com/otary/learn/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-11T21:31:11.640602+09:00",
+      "title": "Otary：画像・幾何学Pythonライブラリにチュートリアルが追加",
+      "summary": "画像処理と幾何学計算を扱うPythonライブラリ「Otary」に、利用者の学習を助けるチュートリアルが追加されました。これにより、ライブラリの機能や活用方法がより分かりやすくなりました。"
+    },
+    {
+      "image": "https://questdb.com/images/blog/2026-07-02/banner.webp",
+      "url": "https://questdb.com/blog/jvm-jit-known-bits/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-11T21:31:11.640602+09:00",
+      "title": "HotSpot JITコンパイラにおける「ビットを推論する」マスク：冗長なマスクとシフトを削除する仕組み",
+      "summary": "HotSpotのC2 JITコンパイラに最近追加された、LLVMやGCCでも利用されている「既知ビット」抽象化について解説します。この3値ビット抽象化により、JVMは冗長なマスクとシフト処理を削除できるようになりました。"
     }
   ],
-  "updated_at": "2026-07-11T13:31:16.056103+09:00"
+  "updated_at": "2026-07-11T21:31:40.544472+09:00"
 }
