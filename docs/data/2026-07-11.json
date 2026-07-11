@@ -54,7 +54,72 @@
       "collected_at": "2026-07-11T06:31:11.241900+09:00",
       "title": "カタツムリの歯が、自然界最強素材としてクモの糸を凌駕（2015年）",
       "summary": "カタツムリの歯は、岩を削って餌を食べるために使用される構造を持ち、その強度から自然界で最も強い素材であることが発見されました。この発見は、軟体動物の歯の驚異的な堅牢性を示しています。"
+    },
+    {
+      "image": "https://media.guim.co.uk/baab59d71778af796f26f609e8411abb8b4bc23b/764_0_3964_3172/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/11/most-popular-porn-sites-now-have-age-checks-for-australians-but-online-watchdog-to-assess-vpn-loopholes",
+      "category": "テクノロジー",
+      "time": "13:31",
+      "collected_at": "2026-07-11T13:31:08.285198+09:00",
+      "title": "オーストラリア、アダルトサイトの年齢確認回避にVPN使用の調査へ",
+      "summary": "オーストラリアのオンライン安全監督機関が、3月に施行された年齢確認法を受け、上位30件のアダルトサイトにおけるコンプライアンスを監視しています。",
+      "impact": "アダルトサイトの年齢確認回避が困難になり、未成年者の不健全な情報へのアクセスが抑制される可能性がある一方、VPN利用の監視強化はプライバシーへの懸念を生むかもしれません。"
+    },
+    {
+      "image": "https://media.guim.co.uk/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "category": "テクノロジー",
+      "time": "13:31",
+      "collected_at": "2026-07-11T13:31:08.285198+09:00",
+      "title": "Apple、OpenAIを提訴：AI企業が企業秘密を盗んだと主張",
+      "summary": "Appleは、OpenAIがAppleの従業員を引き抜き、機密情報を提供させてハードウェア開発に利用したと主張する訴訟を起こしました。",
+      "impact": "AppleとOpenAIの訴訟は、AI開発における企業秘密の保護と人材獲得競争のあり方に新たな議論を巻き起こし、業界全体の開発競争に影響を与える可能性があります。"
+    },
+    {
+      "image": "https://www.brown.edu/sites/default/files/styles/wide_lrg/public/2026-07/chemistry-stock.jpg?h=1d4b4ebd&amp;itok=Iv8YhdkV",
+      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-11T13:31:08.285198+09:00",
+      "title": "アインシュタインの相対性理論が重元素の化学結合に影響、新研究",
+      "summary": "重元素では相対性理論により教科書通りの三重結合構造が崩壊するという、初の直接的な実験的証拠が発見されました。"
+    },
+    {
+      "image": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2026/05/apple-openai.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1",
+      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-11T13:31:08.285198+09:00",
+      "title": "Apple、OpenAIを提訴、元従業員による企業秘密窃盗を告発",
+      "summary": "Appleは本日、OpenAIを企業秘密窃盗の疑いで提訴しました。具体的には、Appleの従業員が機密情報を盗み、OpenAIに提供したと主張しています。"
+    },
+    {
+      "image": "https://www.iroh.computer/api/og?title=Blog&amp;subtitle=An%20iroh%20powered%20smart%20fan",
+      "url": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-11T13:31:08.285198+09:00",
+      "title": "「iroh」搭載スマートファン、どこからでも温度確認可能",
+      "summary": "ESP32に「iroh」を搭載し、どこからでも確認できる温度駆動型スマートファンが開発されました。"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-11T13:31:08.285198+09:00",
+      "title": "住宅用プロキシとスクレイパー状況に関するアップデート",
+      "summary": "（記事本文が短いため、具体的な要約はできません。記事のタイトルから、住宅用プロキシやウェブスクレイピングに関する最新情報が提供される内容と推測されます。）"
+    },
+    {
+      "image": "https://www.zdnet.com/a/img/resize/2d7049a36d241cdf177935c0c0df5f03a2d52bf7/2026/07/10/f550fe8f-37ce-4eb1-b39c-c1e306d05a74/gettyimages-2280481321.jpg?auto=webp&amp;fit=crop&amp;height=675&amp;width=1200",
+      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-11T13:31:08.285198+09:00",
+      "title": "SpaceX、帯域幅100倍のStarlink衛星10万機追加打ち上げを計画",
+      "summary": "これにより地方の顧客はより高速なインターネットを利用できる可能性がありますが、一部からは懸念の声も上がっています。"
     }
   ],
-  "updated_at": "2026-07-11T06:31:14.549404+09:00"
+  "updated_at": "2026-07-11T13:31:16.056103+09:00"
 }

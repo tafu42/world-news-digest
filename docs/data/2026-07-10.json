@@ -47,36 +47,6 @@
       "summary": "Hy3"
     },
     {
-      "image": "https://media.guim.co.uk/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
-      "category": "テクノロジー",
-      "time": "13:31",
-      "collected_at": "2026-07-10T13:31:07.032472+09:00",
-      "title": "インスタグラムのAI画像生成機能、プライバシー専門家が警鐘",
-      "summary": "メタが導入した新しいAI画像生成機能により、インスタグラムユーザーはプライバシー設定の確認が必要です。専門家は、この機能がプライバシーに与える影響について懸念を表明しています。",
-      "impact": "このAI画像生成機能は、ユーザーが意図せずとも個人情報やプライベートな情報がAIに学習・利用されるリスクを高め、プライバシー侵害の懸念を生じさせます。これにより、ユーザーはより一層、自身の情報管理に対する意識を高める必要に迫られるでしょう。"
-    },
-    {
-      "image": "https://media.guim.co.uk/23e77b6016224b4eefe22b2d738952458461640c/719_0_7161_5733/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/09/parents-phone-screen-anxiety-children",
-      "category": "テクノロジー",
-      "time": "13:31",
-      "collected_at": "2026-07-10T13:31:07.032472+09:00",
-      "title": "親のスマホ依存、子どもの不安に繋がる可能性＝研究",
-      "summary": "親がスマホを優先する姿勢は、ティーンエイジャーに「軽視されている、無視されている、重要でない」と感じさせ、不安を引き起こす可能性があるという新たな研究結果が示されました。",
-      "impact": "親のスマホ依存は、子どもに孤独感や無力感を与え、長期的な精神的健康問題に繋がる可能性があります。"
-    },
-    {
-      "image": "https://media.guim.co.uk/d680a3e5eef209e23dc39ef025b9f1e582efe9ef/1_0_2999_2400/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/08/ai-ads-political-campaigns",
-      "category": "テクノロジー",
-      "time": "13:31",
-      "collected_at": "2026-07-10T13:31:07.032472+09:00",
-      "title": "AIは政治広告を平等にするか、それとも嘘の拡散ツールに留まるか",
-      "summary": "AIやディープフェイクの政治キャンペーンへの活用が拡大しており、その拡散規模が専門家の懸念を呼んでいます。AIが政治広告の公平性を保つのか、それとも偽情報の拡散に利用されるのかが問われています。",
-      "impact": "AIが政治広告の公平性を担保できれば、より多くの声が政治に届く可能性を秘める一方、偽情報拡散に利用されれば、民主主義の基盤を揺るがしかねません。"
-    },
-    {
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/6d4a0d28992ade92d6fa63646fd9c9d318245c6c-2400x1260.jpg",
       "url": "https://www.anthropic.com/news/ben-bernanke",
       "category": "海外IT",
