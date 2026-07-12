@@ -10,6 +10,7 @@ import json
 import time
 import requests
 from google import genai
+from google.genai import types
 from datetime import datetime, timezone, timedelta
 from dotenv import load_dotenv
 
@@ -47,20 +48,40 @@ TOP_COUNT = 6
 HN_CATEGORY = '海外IT'                  # Hacker News
 HN_COUNT = 6
 
-BATCH_SIZE = 8   # 翻訳バッチ（1回で複数記事を処理し呼び出しを減らす）
-ALERT_THRESHOLD = 4  # 再挑戦後もこの件数以上翻訳できなければLINE通知（軽微な失敗は鳴らさない）
+BATCH_SIZE = 4   # 翻訳・影響のバッチ。小さめにして記事の混線・件数ズレを防ぐ（枠に余裕ができたため）
+ALERT_THRESHOLD = 4  # この件数以上が英語のまま残ったらLINE通知（軽微な失敗は鳴らさない）
 
 
-# ---------- Gemini（無料枠：RPM10 / RPD20 に合わせて厳しく制御）----------
-# ・CALL_GAP：RPM10（1分10回）→ 6秒間隔が必要。余裕を見て7秒（最大約8回/分）
-# ・CALL_BUDGET：1回の収集で使える呼び出し上限。3回/日 × 5 = 最大15回/日（RPD20の内側）
-CALL_GAP = 7.0
-CALL_BUDGET = 5
+# ---------- Gemini（gemini-3.1-flash-lite: RPM15 / RPD500）----------
+# 2.5-flash-lite(RPD20)から乗り換え。RPD枠はモデルごとの別バケツで、3.1-flash-liteは桁違いに広い。
+# ・CALL_GAP：RPM15（1分15回）→ 4秒が下限。余裕を見て5秒（最大12回/分）
+# ・CALL_BUDGET：1収集の呼び出し上限（暴走防止の安全弁）。新着の翻訳＋保留分の再挑戦に
+#   十分な15回。3回/日 × 15 = 最大45回/日でもRPD500に対して大幅に余裕。
+CALL_GAP = 5.0
+CALL_BUDGET = 15
 _last_call = [0.0]
 _calls_used = [0]   # この収集で使った呼び出し回数（予算管理用）
 
+# 構造化出力のスキーマ（JSONモード）。出力の形をモデルに強制し、
+# マークダウンや説明文の混入によるJSON崩れ＝バッチ失敗を大幅に減らす。
+TRANSLATE_SCHEMA = types.Schema(
+    type=types.Type.ARRAY,
+    items=types.Schema(
+        type=types.Type.OBJECT,
+        properties={
+            'title': types.Schema(type=types.Type.STRING),
+            'summary': types.Schema(type=types.Type.STRING),
+        },
+        required=['title', 'summary'],
+    ),
+)
+IMPACT_SCHEMA = types.Schema(
+    type=types.Type.ARRAY,
+    items=types.Schema(type=types.Type.STRING),
+)
 
-def gemini_call(prompt):
+
+def gemini_call(prompt, schema):
     # ① 予算（1回の収集の呼び出し上限）を超えたら呼ばない＝雪だるま防止・RPD保護
     if _calls_used[0] >= CALL_BUDGET:
         raise RuntimeError('call budget reached')
@@ -71,7 +92,15 @@ def gemini_call(prompt):
     _last_call[0] = time.time()
     _calls_used[0] += 1
     client = genai.Client(api_key=GEMINI_API_KEY)
-    res = client.models.generate_content(model='gemini-2.5-flash-lite', contents=prompt)
+    # JSONモード（構造化出力）：返答の形を強制してJSON崩れを防ぐ
+    res = client.models.generate_content(
+        model='gemini-3.1-flash-lite',
+        contents=prompt,
+        config=types.GenerateContentConfig(
+            response_mime_type='application/json',
+            response_schema=schema,
+        ),
+    )
     return res.text.strip()
 
 
@@ -92,45 +121,59 @@ def looks_translated(s):
     return bool(_JP_RE.search(s or ''))
 
 
-def retry_translation(articles):
-    """タイトルor要約が英語のまま残った記事を待機列とみなし、
-    呼び出し予算が残っている時だけ1件ずつ再挑戦する（B案）。
-    予算を使い切ったら英語のまま残して打ち切る＝RPD/RPMを守る。"""
-    for a in articles:
-        if _calls_used[0] >= CALL_BUDGET:
-            break  # 予算切れ → リトライ終了
-        if looks_translated(a.get('title', '')) and looks_translated(a.get('summary', '')):
-            continue  # 両方すでに日本語ならスキップ
-        r = _translate_one(a)   # 予算が無ければ内部で英語のまま返る（API呼ばない）
-        if looks_translated(r.get('title', '')):
-            a['title'] = r['title']
-        if looks_translated(r.get('summary', '')):
-            a['summary'] = r['summary']
-
-
 def parse_json(text):
-    if '```' in text:
-        text = text.split('```')[1]
-        if text.startswith('json'):
-            text = text[4:]
-    return json.loads(text.strip())
+    """Geminiの返答からJSONを取り出す。モデルがコードフェンスや前後の説明文を
+    付けてくることがあるので、最初の [..] または {..} だけを抜き出して読む。"""
+    t = text.strip()
+    m = re.search(r'```(?:json)?\s*(.*?)```', t, re.S)
+    if m:
+        t = m.group(1).strip()
+    m = re.search(r'(\[.*\]|\{.*\})', t, re.S)
+    if m:
+        t = m.group(1)
+    return json.loads(t)
 
 
-def _gen_group(group, build_prompt, build_one):
+def _try_batch(group, build_prompt, schema, valid):
+    """1バッチをGeminiに投げ、件数一致＋各要素が妥当なら結果リストを返す。
+    失敗（JSON崩れ・件数ズレ・予算切れ・エラー）なら None。
+    ※1件ずつ処理は行わない（失敗の巻き添えでコストを食い潰さないため）。"""
     try:
-        arr = parse_json(gemini_call(build_prompt(group)))
-        if isinstance(arr, list) and len(arr) == len(group):
+        arr = parse_json(gemini_call(build_prompt(group), schema))
+        if isinstance(arr, list) and len(arr) == len(group) and all(valid(x) for x in arr):
             return arr
-    except Exception:
-        pass
-    return [build_one(a) for a in group]
+    except RuntimeError:
+        pass  # CALL_BUDGET到達（自前の打ち切り）＝正常系なのでエラー扱いしない
+    except Exception as e:
+        note_error(e)
+    return None
 
 
-def _gen_all(articles, build_prompt, build_one):
-    out = []
-    for i in range(0, len(articles), BATCH_SIZE):
-        out.extend(_gen_group(articles[i:i + BATCH_SIZE], build_prompt, build_one))
-    return out
+def _gen_all(articles, build_prompt, schema, valid, fallback):
+    """バッチ処理。失敗したバッチの記事は「保留プール」に入れ、全バッチを回し終えた後に
+    保留分だけもう一度まとめてバッチで再挑戦する。それでも埋まらない分だけ fallback
+    （Geminiは呼ばない）。→ 1件ずつ呼ぶ無駄をなくす。"""
+    results = [None] * len(articles)
+
+    def run_pass(index_list):
+        failed = []
+        for i in range(0, len(index_list), BATCH_SIZE):
+            idxs = index_list[i:i + BATCH_SIZE]
+            out = _try_batch([articles[j] for j in idxs], build_prompt, schema, valid)
+            if out is not None:
+                for j, r in zip(idxs, out):
+                    results[j] = r
+            else:
+                failed.extend(idxs)
+        return failed
+
+    pending = run_pass(list(range(len(articles))))   # パス1
+    if pending:
+        run_pass(pending)                            # パス2：失敗分だけ再バッチ
+    for j in range(len(articles)):
+        if results[j] is None:
+            results[j] = fallback(articles[j])
+    return results
 
 
 # --- タイトル＋要約を1回のリクエストでまとめて翻訳（呼び出しを半減・A案） ---
@@ -145,18 +188,18 @@ def _translate_prompt(group):
             '形式: [{"title": "日本語タイトル", "summary": "日本語要約"}]\n\n' + items)
 
 
-def _translate_one(a):
-    """1件だけ翻訳（予算切れ時は英語のままの辞書を返す）。"""
-    try:
-        obj = parse_json(gemini_call(
-            "次の英語ニュースを日本語にしてください。日本語タイトルと2文以内の要約を、"
-            'JSONで {"title":"...","summary":"..."} だけ返してください。\n'
-            f"Title: {a['en_title']}\nText: {a['en_text'][:300]}"
-        ))
-        return {'title': obj.get('title') or a['en_title'],
-                'summary': obj.get('summary') or ''}
-    except Exception:
-        return {'title': a['en_title'], 'summary': a.get('en_text', '')[:120]}
+def _translate_valid(x):
+    """タイトル・要約が両方そろい、かつ日本語になっていること（英語のまま返す失敗を弾く）。"""
+    return (isinstance(x, dict)
+            and looks_translated(x.get('title', ''))
+            and looks_translated(x.get('summary', '')))
+
+
+def _translate_fallback(a):
+    """再バッチでも翻訳できなかった＝英語のまま表示する（Gemini不使用）。
+    a['_failed']に印を付けて、呼び出し側で pending 扱い（次回収集で再挑戦）にできるようにする。"""
+    a['_failed'] = True
+    return {'title': a['en_title'], 'summary': a.get('en_text', '')[:120]}
 
 
 def _impact_prompt(group):
@@ -170,15 +213,13 @@ def _impact_prompt(group):
             '例: ["影響1", "影響2"]\n\n' + items)
 
 
-def _impact_one(a):
-    try:
-        return gemini_call(
-            "次のニュースで起こりうる社会への影響を日本語1〜2文で書いてください。本文のみ返してください。\n"
-            f"タイトル: {a['title']}\n要約: {a.get('summary','')}"
-        ).strip()
-    except Exception as e:
-        note_error(e)
-        return ''
+def _impact_valid(x):
+    return isinstance(x, str) and x.strip()
+
+
+def _impact_fallback(a):
+    """影響が生成できなくても記事自体は読めるので、空のままにする（pendingにはしない）。"""
+    return ''
 
 
 def line_alert(text):
@@ -390,69 +431,111 @@ def expire_guardian():
             os.remove(p)  # Guardianしか無かった日は丸ごと消える
 
 
+def _apply_translation(a, r, now_iso):
+    """翻訳結果を記事へ反映。失敗（_failed）なら pending を立て、材料(en_*)を残して次回に備える。"""
+    a['title'] = (r or {}).get('title') or a['en_title']
+    a['summary'] = (r or {}).get('summary') or ''
+    a['content_at'] = now_iso   # 内容が確定した時刻（改善したことを画面側で判別できる）
+    if a.pop('_failed', False):
+        a['pending'] = True     # 英語のまま → 次回収集で再挑戦（en_* は材料として保持）
+    else:
+        a.pop('pending', None)
+        a.pop('en_title', None)
+        a.pop('en_text', None)
+
+
+def retry_pending(articles, now_iso):
+    """pending（前回翻訳に失敗して英語のまま残った記事）を、残り予算で再バッチする。
+    成功したものだけ日本語に差し替えて pending を外す。失敗は据え置き（次回また挑戦）。
+    1件ずつは呼ばない。"""
+    pend = [a for a in articles if a.get('pending') and a.get('en_title')]
+    if not pend:
+        return 0
+    changed = 0
+    for a, r in zip(pend, _gen_all(pend, _translate_prompt, TRANSLATE_SCHEMA,
+                                   _translate_valid, lambda x: None)):
+        if isinstance(r, dict) and looks_translated(r.get('title', '')):
+            a['title'] = r['title']
+            a['summary'] = r.get('summary') or a.get('summary', '')
+            a.pop('pending', None)
+            a.pop('en_title', None)
+            a.pop('en_text', None)
+            a['content_at'] = now_iso
+            changed += 1
+    return changed
+
+
 def main():
-    today = datetime.now(JST).strftime('%Y-%m-%d')
-    yesterday = (datetime.now(JST) - timedelta(days=1)).strftime('%Y-%m-%d')
+    now = datetime.now(JST)
+    now_iso = now.isoformat()
+    today = now.strftime('%Y-%m-%d')
+    yesterday = (now - timedelta(days=1)).strftime('%Y-%m-%d')
 
     seen = known_urls([today, yesterday])
     new_articles = collect(seen)
 
-    if not new_articles:
-        print('新着記事なし。')
-        expire_guardian()
-        cleanup_old_days()
-        rebuild_index()
-        return
+    _calls_used[0] = 0  # この収集の呼び出し予算をリセット（新着＋保留の再挑戦で共有）
 
-    now = datetime.now(JST)
-    now_hm = now.strftime('%H:%M')
-    for a in new_articles:
-        a['time'] = now_hm
-        a['collected_at'] = now.isoformat()  # 24時間判定用（Guardian規約）
+    top_new = []
+    if new_articles:
+        now_hm = now.strftime('%H:%M')
+        for a in new_articles:
+            a['time'] = now_hm
+            a['collected_at'] = now.isoformat()  # 24時間判定用（Guardian規約）
 
-    _calls_used[0] = 0  # この収集の呼び出し予算をリセット
+        # ① タイトル＋要約を1回でまとめて翻訳（失敗分は pending として印を残す）
+        for a, r in zip(new_articles, _gen_all(new_articles, _translate_prompt,
+                                               TRANSLATE_SCHEMA, _translate_valid,
+                                               _translate_fallback)):
+            _apply_translation(a, r, now_iso)
 
-    # ① タイトル＋要約を1回でまとめて翻訳（呼び出し半減）
-    results = _gen_all(new_articles, _translate_prompt, _translate_one)
-    for a, r in zip(new_articles, results):
-        a['title'] = (r or {}).get('title') or a['en_title']
-        a['summary'] = (r or {}).get('summary') or ''
-
-    # ② 英語のまま残った分を、予算が残っている時だけ再挑戦（日本語化を優先）
-    retry_translation(new_articles)
-
-    # ③ 社会への影響（テクノロジーのみ・予算が残っていれば）
-    top_new = [a for a in new_articles if a['category'] == TOP_CATEGORY]
-    if top_new and _calls_used[0] < CALL_BUDGET:
-        for a, imp in zip(top_new, _gen_all(top_new, _impact_prompt, _impact_one)):
-            a['impact'] = imp
-
-    # 内部用フィールド除去
-    for a in new_articles:
-        a.pop('en_title', None)
-        a.pop('en_text', None)
+        # ② 社会への影響（テクノロジーのみ）
+        top_new = [a for a in new_articles if a['category'] == TOP_CATEGORY]
+        if top_new:
+            for a, imp in zip(top_new, _gen_all(top_new, _impact_prompt, IMPACT_SCHEMA,
+                                                _impact_valid, _impact_fallback)):
+                if imp:
+                    a['impact'] = imp
 
     day = load_day(today)
-    day['articles'].extend(new_articles)
-    day['updated_at'] = datetime.now(JST).isoformat()
-    save_day(day)
+    if new_articles:
+        day['articles'].extend(new_articles)
+
+    # ③ 保留分（英語のまま残った記事）を、残り予算で再挑戦（新着を処理した後なので新着が優先）
+    changed_today = retry_pending(day['articles'], now_iso)
+
+    if new_articles or changed_today:
+        day['updated_at'] = now_iso
+        save_day(day)
+
+    # 昨日の保留分も救済（日をまたいで残った場合）
+    changed_yday = 0
+    if os.path.exists(date_path(yesterday)):
+        yday = load_day(yesterday)
+        changed_yday = retry_pending(yday['articles'], now_iso)
+        if changed_yday:
+            yday['updated_at'] = now_iso
+            save_day(yday)
 
     expire_guardian()
     cleanup_old_days()
     rebuild_index()
-    print(f'追記完了（新着{len(new_articles)}件 / テック{len(top_new)}件 / {today} 累計{len(day["articles"])}件）')
 
-    # 再挑戦後も翻訳できなかった件数で通知を判断（軽微な失敗では鳴らさない）
-    untranslated = sum(
-        1 for a in new_articles
-        if not looks_translated(a.get('title', '')) or not looks_translated(a.get('summary', ''))
-    )
-    if untranslated >= ALERT_THRESHOLD:
-        if untranslated >= len(new_articles) * 0.5:
-            line_alert(f'⚠️ Gemini APIが上限に達した可能性があります'
-                       f'（{untranslated}/{len(new_articles)}件が翻訳できず）。時間をおくと回復します。')
-        else:
-            line_alert(f'⚠️ 翻訳に一部失敗しました（{untranslated}/{len(new_articles)}件）。')
+    if not new_articles and not changed_today and not changed_yday:
+        print('新着なし・改善なし。')
+        return
+
+    pend_left = sum(1 for a in day['articles'] if a.get('pending'))
+    print(f'完了（新着{len(new_articles)}件 / テック{len(top_new)}件 / '
+          f'改善 今日{changed_today}・昨日{changed_yday}件 / 保留残り{pend_left}件 / '
+          f'Gemini呼び出し{_calls_used[0]}回 / {today}）')
+
+    # 英語のまま残った記事が多いときだけLINEで警告（軽微な失敗では鳴らさない）
+    if pend_left >= ALERT_THRESHOLD:
+        line_alert(f'⚠️ 翻訳できなかった記事が{pend_left}件あります（英語のまま表示中）。\n'
+                   f'次回の収集で自動的に再挑戦します。')
+    elif 'quota' in gemini_errors:
+        line_alert('⚠️ Gemini APIが上限に達した可能性があります。時間をおくと回復します。')
 
 
 if __name__ == '__main__':

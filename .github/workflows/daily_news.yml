@@ -8,12 +8,19 @@ on:
 permissions:
   contents: write
 
+# 多重起動を防ぐ：収集が並列に走ると、各プロセスが自分の中では5秒間隔を守っていても、
+# 合算でGeminiのRPM15を突破して429を招く（手動実行と定時実行が重なる等）。
+# 同時に走るのは常に1つだけにし、重なった分は前の実行が終わるまで待たせる。
+concurrency:
+  group: collect-news
+  cancel-in-progress: false
+
 jobs:
   collect:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.11'
       - run: pip install -r requirements.txt
