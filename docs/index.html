@@ -13,6 +13,11 @@
       <select id="dateSelect" aria-label="日付を選択"></select>
     </header>
 
+    <nav class="tabs" id="tabs" aria-label="未読・既読の切り替え">
+      <button data-tab="unread" class="active">未読<span class="badge hidden" id="unreadBadge">0</span></button>
+      <button data-tab="read">既読</button>
+    </nav>
+
     <div id="feed" class="feed">
       <p class="loading">読み込み中…</p>
     </div>

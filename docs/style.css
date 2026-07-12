@@ -72,14 +72,81 @@ html, body {
 }
 .card::-webkit-scrollbar { display: none; }
 
+/* 未読・既読タブ（横スワイプでも切替） */
+.tabs {
+  flex: 0 0 auto;
+  display: flex;
+  background: rgba(0, 0, 0, 0.25);
+  z-index: 4;
+}
+.tabs button {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 9px 0;
+  border: none;
+  background: transparent;
+  color: #8a8a9a;
+  font-size: 0.85rem;
+  font-weight: bold;
+  border-bottom: 2px solid transparent;
+  cursor: pointer;
+}
+.tabs button.active {
+  color: #fff;
+  border-bottom-color: #1E88E5;
+}
+/* 通知バッジ風の未読件数 */
+.tabs .badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 18px;
+  height: 18px;
+  padding: 0 5px;
+  background: #E53935;
+  color: #fff;
+  font-size: 0.68rem;
+  font-weight: bold;
+  border-radius: 999px;
+}
+.tabs .badge.hidden { display: none; }
+
+.card .badges {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 10px;
+}
 .card .cat {
-  align-self: flex-start;
   font-size: 0.72rem;
   font-weight: bold;
   color: #fff;
   padding: 3px 10px;
   border-radius: 999px;
-  margin-bottom: 10px;
+}
+.card .updated {
+  font-size: 0.72rem;
+  font-weight: bold;
+  color: #1A1A2E;
+  background: #FFD54F;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+
+/* 日本語化が未完了（原文を暫定表示中）のお知らせ */
+.card .pending {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  color: #ffcf8a;
+  background: rgba(251, 140, 0, 0.12);
+  border-left: 3px solid #FB8C00;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 14px;
 }
 
 .card .title {

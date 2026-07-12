@@ -18,5 +18,1031 @@
     "2026-06-27",
     "2026-06-26",
     "2026-06-25"
-  ]
+  ],
+  "manifest": {
+    "2026-07-12": [
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+        "c": ""
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
+        "c": ""
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
+        "c": ""
+      },
+      {
+        "u": "https://antjs.org",
+        "c": ""
+      },
+      {
+        "u": "https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres",
+        "c": ""
+      },
+      {
+        "u": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+        "c": ""
+      },
+      {
+        "u": "https://timeseriesofindia.com/economy/reads/upi-architecture/",
+        "c": ""
+      },
+      {
+        "u": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
+        "c": ""
+      },
+      {
+        "u": "https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf",
+        "c": ""
+      }
+    ],
+    "2026-07-11": [
+      {
+        "u": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+        "c": ""
+      },
+      {
+        "u": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+        "c": ""
+      },
+      {
+        "u": "https://casp.ac/reports/ai-enabled-terrorism",
+        "c": ""
+      },
+      {
+        "u": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+        "c": ""
+      },
+      {
+        "u": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
+        "c": ""
+      },
+      {
+        "u": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+        "c": ""
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/11/most-popular-porn-sites-now-have-age-checks-for-australians-but-online-watchdog-to-assess-vpn-loopholes",
+        "c": ""
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+        "c": ""
+      },
+      {
+        "u": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+        "c": ""
+      },
+      {
+        "u": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+        "c": ""
+      },
+      {
+        "u": "https://www.iroh.computer/blog/an-iroh-powered-smart-fan",
+        "c": ""
+      },
+      {
+        "u": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+        "c": ""
+      },
+      {
+        "u": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
+        "c": ""
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
+        "c": ""
+      },
+      {
+        "u": "https://www.theverge.com/tech/961955/google-search-console-reach-platform-properties",
+        "c": ""
+      },
+      {
+        "u": "https://alexandrepoupeau.com/otary/learn/",
+        "c": ""
+      },
+      {
+        "u": "https://questdb.com/blog/jvm-jit-known-bits/",
+        "c": ""
+      }
+    ],
+    "2026-07-10": [
+      {
+        "u": "https://openai.com/index/gpt-5-6/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/JustVugg/colibri",
+        "c": ""
+      },
+      {
+        "u": "https://18words.com/",
+        "c": ""
+      },
+      {
+        "u": "https://www.wired.com/story/this-buried-apple-feature-turns-an-iphone-into-the-perfect-kids-dumb-phone/",
+        "c": ""
+      },
+      {
+        "u": "https://hy.tencent.com/research/hy3",
+        "c": ""
+      },
+      {
+        "u": "https://www.anthropic.com/news/ben-bernanke",
+        "c": ""
+      },
+      {
+        "u": "https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429",
+        "c": ""
+      },
+      {
+        "u": "http://yummymelon.com/devnull/in-emacs-everything-looks-like-a-service.html",
+        "c": ""
+      },
+      {
+        "u": "https://ec.europa.eu/commission/presscorner/home/en",
+        "c": ""
+      },
+      {
+        "u": "https://mappingignorance.org/2026/06/30/sagrada-familia/",
+        "c": ""
+      }
+    ],
+    "2026-07-09": [
+      {
+        "u": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
+        "c": ""
+      },
+      {
+        "u": "https://www.hmans.dev/blog/chatto-is-open-source",
+        "c": ""
+      },
+      {
+        "u": "https://combine-lab.github.io/blog/2026/07/07/fable-is-not-a-useful-model.html",
+        "c": ""
+      },
+      {
+        "u": "https://cognition.com/blog/swe-1-7",
+        "c": ""
+      },
+      {
+        "u": "https://www.cloudflare.com/drop/",
+        "c": ""
+      },
+      {
+        "u": "https://mistral.ai/news/robostral-navigate/",
+        "c": ""
+      },
+      {
+        "u": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
+        "c": ""
+      },
+      {
+        "u": "https://www.liamcvw.com/p/remote-attestation",
+        "c": ""
+      },
+      {
+        "u": "https://connectsci.au/news/news-parent/9703/Spider-venom-kills-varroa-mites-without-harming",
+        "c": ""
+      },
+      {
+        "u": "https://www.networkworld.com/article/4192827/meta-reuses-old-ram-in-new-servers-with-custom-bridge-chip.html",
+        "c": ""
+      },
+      {
+        "u": "https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/",
+        "c": ""
+      },
+      {
+        "u": "https://www.bbc.com/news/articles/cg5pd9z2487o",
+        "c": ""
+      },
+      {
+        "u": "https://bittlex-sim.petoi.com/",
+        "c": ""
+      }
+    ],
+    "2026-07-08": [
+      {
+        "u": "https://allaboutcookies.org/eu-mandatory-distracted-driver-system",
+        "c": ""
+      },
+      {
+        "u": "https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/",
+        "c": ""
+      },
+      {
+        "u": "https://streetcomplete.app/",
+        "c": ""
+      },
+      {
+        "u": "https://fightchatcontrol.eu/chat-control-overview",
+        "c": ""
+      },
+      {
+        "u": "https://davit.app",
+        "c": ""
+      },
+      {
+        "u": "https://herdr.dev/",
+        "c": ""
+      },
+      {
+        "u": "https://www.economist.com/interactive/finance-and-economics/2026/07/02/is-the-economist-always-wrong",
+        "c": ""
+      },
+      {
+        "u": "https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/",
+        "c": ""
+      },
+      {
+        "u": "https://www.gao.gov/products/gao-26-108193",
+        "c": ""
+      },
+      {
+        "u": "https://kb.cert.org/vuls/id/213560",
+        "c": ""
+      },
+      {
+        "u": "https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/",
+        "c": ""
+      },
+      {
+        "u": "https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211",
+        "c": ""
+      },
+      {
+        "u": "https://tris.sherliker.net/blog/obfuscated-self-evaluating-bash-script-by-cdn-akamai-being-supplied-to-consumers-via-retail-stores/",
+        "c": ""
+      },
+      {
+        "u": "https://www.apple.com/newsroom/2026/07/apple-to-increase-spend-with-broadcom-to-produce-billions-more-us-chips/",
+        "c": ""
+      },
+      {
+        "u": "https://noma.security/blog/gitlost-how-we-tricked-githubs-ai-agent-into-leaking-private-repos/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/dekart-xyz/geosql",
+        "c": ""
+      },
+      {
+        "u": "https://mydiplomaticlife.com/how-to-survive-3-years-in-north-korea-as-a-foreigner/",
+        "c": ""
+      }
+    ],
+    "2026-07-07": [
+      {
+        "u": "https://openwrt.org/toh/openwrt/one",
+        "c": ""
+      },
+      {
+        "u": "https://www.comaps.app/",
+        "c": ""
+      },
+      {
+        "u": "https://stevekrouse.com/learn-to-code",
+        "c": ""
+      },
+      {
+        "u": "https://www.anthropic.com/research/global-workspace",
+        "c": ""
+      },
+      {
+        "u": "https://cakehonolulu.github.io/linux-for-jaguar/",
+        "c": ""
+      },
+      {
+        "u": "https://www.lttlabs.com/articles/2026/07/06/amd-ryzen-ai-halo",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/MaximeRivest/Riddle",
+        "c": ""
+      },
+      {
+        "u": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+        "c": ""
+      },
+      {
+        "u": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+        "c": ""
+      },
+      {
+        "u": "https://spectrum.ieee.org/small-language-models-ai-pharmaceuticals",
+        "c": ""
+      },
+      {
+        "u": "https://www.nwo.nl/nieuws/eerste-internationale-wetenschappers-via-het-tulp-fonds-naar-nederland",
+        "c": ""
+      },
+      {
+        "u": "https://thisbugslife.com/2021/11/21/dolosse-a-south-african-invention-used-over-the-world/",
+        "c": ""
+      }
+    ],
+    "2026-07-06": [
+      {
+        "u": "https://organicmaps.app/",
+        "c": ""
+      },
+      {
+        "u": "https://intextbooks.science.uu.nl/workshop2026/files/itb26_s1s2.pdf",
+        "c": ""
+      },
+      {
+        "u": "https://blog.flipper.net/future-of-flipper-zero-development/",
+        "c": ""
+      },
+      {
+        "u": "https://www.opentools.studio/",
+        "c": ""
+      },
+      {
+        "u": "https://www.starringthecomputer.com/computers.html",
+        "c": ""
+      },
+      {
+        "u": "https://dhilst.github.io/algae/game/index.html",
+        "c": ""
+      },
+      {
+        "u": "https://twitter.com/thsottiaux/status/2073933490513752151",
+        "c": ""
+      },
+      {
+        "u": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
+        "c": ""
+      },
+      {
+        "u": "https://www.uncommonapps.nyc/p/castro-podcasts-things-i-got-wrong-support",
+        "c": ""
+      },
+      {
+        "u": "https://arxiv.org/abs/2605.20049",
+        "c": ""
+      },
+      {
+        "u": "https://www.map.signalbox.io",
+        "c": ""
+      },
+      {
+        "u": "https://elm-lang.org/news/faster-builds",
+        "c": ""
+      },
+      {
+        "u": "https://spectrum.ieee.org/us-engineered-sovereignty",
+        "c": ""
+      },
+      {
+        "u": "https://learngenomics.dev/docs/biological-foundations/cells-genomes-dna-chromosomes/",
+        "c": ""
+      }
+    ],
+    "2026-07-05": [
+      {
+        "u": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+        "c": ""
+      },
+      {
+        "u": "https://javoriuski.com/post/youtube",
+        "c": ""
+      },
+      {
+        "u": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+        "c": ""
+      },
+      {
+        "u": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/anthropics/claude-code/issues/74066",
+        "c": ""
+      },
+      {
+        "u": "https://peteris.rocks/blog/htop/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/openai/codex/issues/30364",
+        "c": ""
+      },
+      {
+        "u": "https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/",
+        "c": ""
+      },
+      {
+        "u": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+        "c": ""
+      },
+      {
+        "u": "https://ui.shadcn.com/docs/changelog",
+        "c": ""
+      },
+      {
+        "u": "https://craigmod.com/essays/fast_software/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/Trystan-SA/claude-design-system-prompt",
+        "c": ""
+      },
+      {
+        "u": "https://pandoc.org/lua-filters.html",
+        "c": ""
+      }
+    ],
+    "2026-07-04": [
+      {
+        "u": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/searxng/searxng",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/jamesob/local-llm",
+        "c": ""
+      },
+      {
+        "u": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+        "c": ""
+      },
+      {
+        "u": "https://crocidb.com/post/freebsd-ate-my-ram/",
+        "c": ""
+      },
+      {
+        "u": "https://interconnected.org/home/2026/07/03/factories",
+        "c": ""
+      },
+      {
+        "u": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+        "c": ""
+      },
+      {
+        "u": "https://www.wafer.ai/blog/glm52-amd",
+        "c": ""
+      },
+      {
+        "u": "https://mistral.ai/news/leanstral-1-5/",
+        "c": ""
+      },
+      {
+        "u": "https://surfingcomplexity.blog/2026/07/03/synthesis-is-harder-than-analysis/",
+        "c": ""
+      },
+      {
+        "u": "https://mrbruh.com/msicenter/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+        "c": ""
+      },
+      {
+        "u": "https://blog.mikebowler.ca/2026/07/03/co2-and-decision-making/",
+        "c": ""
+      },
+      {
+        "u": "https://www.quantamagazine.org/astrophysicists-puzzle-over-webbs-new-universe-20260702/",
+        "c": ""
+      },
+      {
+        "u": "https://www.marginalia.nu/log/a_135_learn/",
+        "c": ""
+      },
+      {
+        "u": "https://mirtitles.org",
+        "c": ""
+      }
+    ],
+    "2026-07-03": [
+      {
+        "u": "https://www.zachtronics.com/exapunks/",
+        "c": ""
+      },
+      {
+        "u": "https://mathstodon.xyz/@iblech/116769502749142438",
+        "c": ""
+      },
+      {
+        "u": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/EFF-letter-to-FTC-on-X-consent-order-7-2-26.pdf",
+        "c": ""
+      },
+      {
+        "u": "http://www.lmdb.tech/doc/",
+        "c": ""
+      },
+      {
+        "u": "https://blog.podman.io/2026/07/introducing-podman-v6-0-0/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/Chocobozzz/PeerTube",
+        "c": ""
+      },
+      {
+        "u": "https://stefan.schueller.net/posts/the-free-market-lie/",
+        "c": ""
+      },
+      {
+        "u": "https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data",
+        "c": ""
+      },
+      {
+        "u": "https://www.caseyliss.com/2026/7/2/carplay-is-additive-you-dolts",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/FractalFir/crustc",
+        "c": ""
+      },
+      {
+        "u": "https://righttointelligence.org/",
+        "c": ""
+      },
+      {
+        "u": "https://weli.dev/blog/half-baked-product/",
+        "c": ""
+      },
+      {
+        "u": "https://wordgard.net/",
+        "c": ""
+      },
+      {
+        "u": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03/",
+        "c": ""
+      }
+    ],
+    "2026-07-02": [
+      {
+        "u": "https://zcode.z.ai/cn",
+        "c": ""
+      },
+      {
+        "u": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+        "c": ""
+      },
+      {
+        "u": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+        "c": ""
+      },
+      {
+        "u": "https://hydrogenaudio.org/index.php/topic,129691.0.html",
+        "c": ""
+      },
+      {
+        "u": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+        "c": ""
+      },
+      {
+        "u": "https://www.workerowned.info/",
+        "c": ""
+      },
+      {
+        "u": "https://zcode.z.ai/en",
+        "c": ""
+      },
+      {
+        "u": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+        "c": ""
+      },
+      {
+        "u": "https://senior-swe-bench.snorkel.ai/",
+        "c": ""
+      },
+      {
+        "u": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+        "c": ""
+      },
+      {
+        "u": "https://tedium.co/2026/07/01/online-web-forums-retrospective/",
+        "c": ""
+      },
+      {
+        "u": "https://f-droid.org/2026/07/01/adv-malware.html",
+        "c": ""
+      },
+      {
+        "u": "https://voidzero.dev/posts/announcing-vite-plus-beta",
+        "c": ""
+      },
+      {
+        "u": "https://github.blog/changelog/2026-07-01-kimi-k2-7-is-now-available-in-github-copilot/",
+        "c": ""
+      },
+      {
+        "u": "https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy",
+        "c": ""
+      }
+    ],
+    "2026-07-01": [
+      {
+        "u": "https://www.anthropic.com/news/claude-sonnet-5",
+        "c": ""
+      },
+      {
+        "u": "https://thereallo.dev/blog/claude-code-prompt-steganography",
+        "c": ""
+      },
+      {
+        "u": "https://ngrok.com/blog/i-ported-kubernetes-to-the-browser",
+        "c": ""
+      },
+      {
+        "u": "https://claude.com/product/claude-science",
+        "c": ""
+      },
+      {
+        "u": "https://deepmind.google/models/gemini-image/flash-lite/",
+        "c": ""
+      },
+      {
+        "u": "https://gauthier-lechevalier.com/radar",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/google/copybara",
+        "c": ""
+      },
+      {
+        "u": "https://www.forbes.com/sites/suzannerowankelleher/2026/06/30/faa-supersonic-flight-no-boom/",
+        "c": ""
+      },
+      {
+        "u": "https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens",
+        "c": ""
+      },
+      {
+        "u": "https://twitter.com/AnthropicAI/status/2072106151890809341",
+        "c": ""
+      },
+      {
+        "u": "https://asahilinux.org/2026/06/progress-report-7-1/",
+        "c": ""
+      },
+      {
+        "u": "https://cleberg.net/blog/internet.html",
+        "c": ""
+      },
+      {
+        "u": "https://www.thefocalpoints.com/p/new-study-frog-derived-gut-bacterium",
+        "c": ""
+      },
+      {
+        "u": "https://phys.org/news/2026-06-newly-australian-ballista-spider-snare.html",
+        "c": ""
+      }
+    ],
+    "2026-06-30": [
+      {
+        "u": "https://quesma.com/blog/qwen-36-is-awesome/",
+        "c": ""
+      },
+      {
+        "u": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+        "c": ""
+      },
+      {
+        "u": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/deepreinforce-ai/Ornith-1",
+        "c": ""
+      },
+      {
+        "u": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
+        "c": ""
+      },
+      {
+        "u": "https://humphri.es/blog/WATaBoy/",
+        "c": ""
+      },
+      {
+        "u": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+        "c": ""
+      },
+      {
+        "u": "https://fil-c.org/context_switches",
+        "c": ""
+      },
+      {
+        "u": "https://longcat.chat/blog/longcat-2.0/",
+        "c": ""
+      },
+      {
+        "u": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+        "c": ""
+      },
+      {
+        "u": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+        "c": ""
+      },
+      {
+        "u": "https://europeancorrespondent.com/en/r/the-us-ambassador-had-belgian-police-stop-our-reporting",
+        "c": ""
+      },
+      {
+        "u": "https://karolina.mgdubiel.com/drone/",
+        "c": ""
+      },
+      {
+        "u": "https://cekrem.github.io/posts/parse-dont-validate-typescript/",
+        "c": ""
+      },
+      {
+        "u": "https://opensourcelowtech.org/",
+        "c": ""
+      },
+      {
+        "u": "https://arstechnica.com/gadgets/2026/06/sony-erases-digital-content-from-libraries-were-reminded-we-dont-own-what-we-buy/",
+        "c": ""
+      }
+    ],
+    "2026-06-29": [
+      {
+        "u": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+        "c": ""
+      },
+      {
+        "u": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+        "c": ""
+      },
+      {
+        "u": "https://pudding.cool/2026/06/menu-story/",
+        "c": ""
+      },
+      {
+        "u": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+        "c": ""
+      },
+      {
+        "u": "https://dam.stanford.edu/memory-prices.html",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/librepods-org/librepods",
+        "c": ""
+      },
+      {
+        "u": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+        "c": ""
+      },
+      {
+        "u": "https://betterimagesofai.org/",
+        "c": ""
+      },
+      {
+        "u": "https://www.cpushack.com/2026/06/03/sandia-national-labs-sa3000-8085-cpu/",
+        "c": ""
+      },
+      {
+        "u": "https://danunparsed.com/p/hackerrank-open-source-ats",
+        "c": ""
+      },
+      {
+        "u": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+        "c": ""
+      },
+      {
+        "u": "https://edera.dev/stories/numa-part-1-cores-memory-and-the-distance-between-them",
+        "c": ""
+      },
+      {
+        "u": "https://schamper.dev/dissecting-apples-sparse-image-format-asif/",
+        "c": ""
+      }
+    ],
+    "2026-06-28": [
+      {
+        "u": "https://ipcrawl.com/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/bikini/exploitarium",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/kageroumado/adrafinil",
+        "c": ""
+      },
+      {
+        "u": "https://www.openra.net/",
+        "c": ""
+      },
+      {
+        "u": "https://spectrum.ieee.org/ai-radio-chip-design",
+        "c": ""
+      },
+      {
+        "u": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
+        "c": ""
+      },
+      {
+        "u": "https://decomp-academy.dev",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+        "c": ""
+      },
+      {
+        "u": "https://evilbit.de/dns-resolver-guide.html",
+        "c": ""
+      },
+      {
+        "u": "https://devblogs.microsoft.com/oldnewthing/20260625-00/?p=112467",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/cfenollosa/bashblog",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/itsthelore/wayfinder-router",
+        "c": ""
+      }
+    ],
+    "2026-06-27": [
+      {
+        "u": "https://openai.com/index/previewing-gpt-5-6-sol/",
+        "c": ""
+      },
+      {
+        "u": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
+        "c": ""
+      },
+      {
+        "u": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
+        "c": ""
+      },
+      {
+        "u": "https://svpow.com/2026/05/15/the-bizarre-headgear-exhibit-at-the-sam-noble-museum-is-incredible/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/workweave/router",
+        "c": ""
+      },
+      {
+        "u": "https://mlc.ai/modern-gpu-programming-for-mlsys/",
+        "c": ""
+      },
+      {
+        "u": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+        "c": ""
+      },
+      {
+        "u": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+        "c": ""
+      },
+      {
+        "u": "https://kirill.korins.ky/articles/hellishly-slow-level-13-deflate-compression/",
+        "c": ""
+      },
+      {
+        "u": "https://www.sfwriter.com/wordstar.htm",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+        "c": ""
+      },
+      {
+        "u": "https://w.pitula.me/fintech-engineering-handbook/",
+        "c": ""
+      },
+      {
+        "u": "https://www.beercss.com",
+        "c": ""
+      },
+      {
+        "u": "https://www.economist.com/britain/2026/06/25/the-bbc-switches-off-its-oldest-service",
+        "c": ""
+      },
+      {
+        "u": "https://www.fosslinux.com/158206/linux-on-older-hardware-revival-guide.htm",
+        "c": ""
+      }
+    ],
+    "2026-06-26": [
+      {
+        "u": "https://scrollprize.org/firstscroll",
+        "c": ""
+      },
+      {
+        "u": "https://explorer.oxide.computer/",
+        "c": ""
+      },
+      {
+        "u": "https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/inkeep/open-knowledge",
+        "c": ""
+      },
+      {
+        "u": "https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/",
+        "c": ""
+      },
+      {
+        "u": "https://princechazz.com",
+        "c": ""
+      },
+      {
+        "u": "https://om.co/2026/06/24/1966-2026/",
+        "c": ""
+      },
+      {
+        "u": "https://graphicore.github.io/librebarcode/",
+        "c": ""
+      },
+      {
+        "u": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+        "c": ""
+      },
+      {
+        "u": "https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true",
+        "c": ""
+      },
+      {
+        "u": "https://expression.fire.org/p/the-papers-please-era-of-the-internet",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/mondaycom/HATCHA",
+        "c": ""
+      },
+      {
+        "u": "https://akrites.org/letter/",
+        "c": ""
+      }
+    ],
+    "2026-06-25": [
+      {
+        "u": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+        "c": ""
+      },
+      {
+        "u": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+        "c": ""
+      },
+      {
+        "u": "https://rubyllm.com/",
+        "c": ""
+      },
+      {
+        "u": "https://bunny.net/blog/were-making-bunny-dns-free/",
+        "c": ""
+      },
+      {
+        "u": "https://www.greptile.com/blog/prs-on-openclaw",
+        "c": ""
+      },
+      {
+        "u": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/",
+        "c": ""
+      },
+      {
+        "u": "https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/LuaJIT/LuaJIT/issues/1475",
+        "c": ""
+      },
+      {
+        "u": "https://blog.cloudflare.com/oauth-for-all/",
+        "c": ""
+      },
+      {
+        "u": "https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/",
+        "c": ""
+      },
+      {
+        "u": "https://github.com/wolfoo2931/linkedrecords/",
+        "c": ""
+      },
+      {
+        "u": "https://dolphin-emu.org/blog/2026/06/25/dolphin-progress-report-release-2606/",
+        "c": ""
+      },
+      {
+        "u": "https://hl2.slqnt.dev/",
+        "c": ""
+      },
+      {
+        "u": "https://9to5mac.com/2026/06/23/lastpass-notifies-users-of-yet-another-data-breach/",
+        "c": ""
+      }
+    ]
+  }
 }

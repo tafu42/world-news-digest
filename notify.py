@@ -44,8 +44,10 @@ def build_flex(day):
     _, m, d = day['date'].split('-')
     label = f'{int(m)}月{int(d)}日'
     count = len(day.get('articles', []))
-    top = next((a for a in day['articles'] if a.get('category') == '重大ニュース'), None)
+    top = next((a for a in day['articles'] if a.get('category') == 'テクノロジー'), None)
     headline = top['title'] if top else ''
+    # 日付つきリンク：この通知の日の記事が最初に表示される（古い通知からでもその日に飛べる）
+    link = f"{SITE_URL}?d={day['date']}"
     body = [
         {"type": "text", "text": f"{label}のニュースを更新しました", "size": "sm", "color": "#333333", "wrap": True},
         {"type": "text", "text": f"新着 {count}件", "size": "xs", "color": "#888888", "margin": "sm"},
@@ -61,7 +63,7 @@ def build_flex(day):
         "body": {"type": "box", "layout": "vertical", "paddingAll": "16px", "contents": body},
         "footer": {"type": "box", "layout": "vertical", "paddingAll": "12px",
                    "contents": [{"type": "button", "style": "primary", "color": "#1E88E5",
-                                 "action": {"type": "uri", "label": "サイトで読む", "uri": SITE_URL}}]},
+                                 "action": {"type": "uri", "label": "サイトで読む", "uri": link}}]},
     }
 
 
