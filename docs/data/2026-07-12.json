@@ -84,7 +84,62 @@
       "collected_at": "2026-07-12T06:31:13.843139+09:00",
       "title": "特異値分解の黎明期（1993年）",
       "summary": "この記事は、特異値分解（SVD）がどのように発展してきたか、その初期の歴史について解説しています。PDF形式で提供されています。"
+    },
+    {
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/07/CrackingLiquids-cr-Adapted-with-permission-from-Phys.-Rev.-Lett.-136-124002.-Copyrighted-by-the-American-Physical-Society.-Social.jpg",
+      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-12T13:31:07.920415+09:00",
+      "title": "単純な流体にもひび割れが生じることが判明",
+      "summary": "複雑な流体が分裂する要因は弾性であると考えられてきたが、非弾性の単純な流体でひび割れが確認された。この現象により、流体の分裂に関する既存の説が再考されている。",
+      "impact": "流体力学の基礎理論が見直される可能性がある。",
+      "content_at": "2026-07-12T13:31:07.920415+09:00"
+    },
+    {
+      "image": "https://softwaredoug.com//assets/media/2026/write-code/image1.png",
+      "url": "https://softwaredoug.com/blog/2026/07/09/write-code.html",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-12T13:31:07.920415+09:00",
+      "title": "2026年にコードを書く理由",
+      "summary": "2026年においてプログラムコードを書くことの意義について論じている。複数の理由が挙げられている。",
+      "impact": "ソフトウェア開発の役割が変化する中での、プログラミングの重要性や目的についての議論を促すと考えられる。",
+      "content_at": "2026-07-12T13:31:07.920415+09:00"
+    },
+    {
+      "image": "https://www.iroh.computer/api/og?title=Blog&amp;subtitle=Mesh%20LLM:%20distributed%20AI%20computing%20on%20iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-12T13:31:07.920415+09:00",
+      "title": "分散型AIコンピューティングを実現する「Mesh LLM」",
+      "summary": "Mesh LLMはirohを利用し、複数のマシンに存在するGPUリソースを統合して単一のOpenAI互換APIとして提供する技術である。既存のコンピューティングリソースを有効活用する仕組みとなっている。",
+      "impact": "GPUリソースの分散利用が進むことで、高額なAI計算環境へのアクセスが容易になる可能性がある。",
+      "content_at": "2026-07-12T13:31:07.920415+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://goeteia.dev",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-12T13:31:07.920415+09:00",
+      "title": "Pure Schemeによるウェブプログラミングツール",
+      "summary": "Pure Scheme言語を用いてウェブプログラミングを行うためのツールが公開された。このツールはウェブ開発の用途向けに設計されている。",
+      "impact": "特定のプログラミング言語を用いたウェブ開発の選択肢が一つ増えることになるとみられる。",
+      "content_at": "2026-07-12T13:31:07.920415+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://triapul.cz/automa/i_did_not_kill_stanley_lieber",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-12T13:31:07.920415+09:00",
+      "title": "私はスタンリー・リーバーを殺していない：描き方（9frontを使用）",
+      "summary": "「9front」というOSを利用した描画手法に関する記事である。タイトルにはスタンリー・リーバーを殺していないという主張が含まれている。",
+      "impact": "特定のコンピュータシステムやOS環境における技術的なハウツー情報として、愛好家や開発者間で共有される可能性がある。",
+      "content_at": "2026-07-12T13:31:07.920415+09:00"
     }
   ],
-  "updated_at": "2026-07-12T06:31:29.058897+09:00"
+  "updated_at": "2026-07-12T13:31:07.920415+09:00"
 }
