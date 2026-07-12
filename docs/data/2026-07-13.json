@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-13",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-13T06:31:08.440825+09:00",
+      "title": "InstagramのAI画像生成機能がプライバシー専門家に懸念を与える",
+      "summary": "Metaの新しいAI画像生成機能が導入されたことを受け、Instagramユーザーはプライバシー設定を確認するよう専門家が警告している。",
+      "impact": "ユーザーが自身のデータ利用設定を改めて見直すきっかけとなり、プラットフォーム側に対しプライバシー保護の透明性を求める声が高まる可能性がある。",
+      "content_at": "2026-07-13T06:31:08.440825+09:00"
+    },
+    {
+      "image": "https://scrapfly.dev/img/og-default.png",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-13T06:31:08.440825+09:00",
+      "title": "Chromium 148以降、Math.tanhを用いてOSを特定可能に",
+      "summary": "Chromium 148からMath.tanhなどの計算関数がホストのlibmを経由するようになったため、計算結果の端数処理の違いからブラウザが動作しているOSを特定できるようになった。",
+      "impact": "ウェブブラウザを通じたユーザーのデバイス特定（フィンガープリント）精度が向上し、プライバシー保護の観点から懸念される可能性がある。",
+      "content_at": "2026-07-13T06:31:08.440825+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-13T06:31:08.440825+09:00",
+      "title": "小型エミュレーターについて",
+      "summary": "小型のエミュレーターに関する情報が示されている。",
+      "impact": "特定の影響は不明であるが、小型化技術の進展に伴い、限られた環境でのレトロゲームやソフトウェアの実行が容易になる可能性がある。",
+      "content_at": "2026-07-13T06:31:08.440825+09:00"
+    },
+    {
+      "image": "https://systima.ai/images/claude-code-vs-opencode-banner.png",
+      "url": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-13T06:31:08.440825+09:00",
+      "title": "Claude CodeとOpenCodeのトークン消費量の比較",
+      "summary": "APIの境界におけるトークンオーバーヘッドを測定した結果、Claude Codeはプロンプトの読み込み前に33kトークン、OpenCodeは7kトークンを消費することが明らかになった。",
+      "impact": "開発者がAIエージェントを選択する際、APIの利用コストや効率性を判断する重要な指標の一つとなる可能性がある。",
+      "content_at": "2026-07-13T06:31:08.440825+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-13T06:31:08.440825+09:00",
+      "title": "LLMへの熱狂とAIに対する過熱気味な宣伝への嫌悪感",
+      "summary": "筆者は長年AI分野に従事し、大規模言語モデル（LLM）や自動運転技術などの進歩を高く評価している。一方で、AIをめぐる過剰な宣伝に対しては否定的な感情を抱いている。",
+      "impact": "AI技術の発展と市場の過熱を区別する視点が、今後より重要視される可能性がある。",
+      "content_at": "2026-07-13T06:31:08.440825+09:00"
+    },
+    {
+      "image": "https://image.theregister.com/4093897.jpg?imageId=4093897&x=0&y=0&cropw=100&croph=95.56&panox=0&panoy=0&panow=100&panoh=95.56&width=1200&height=683",
+      "url": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-13T06:31:08.440825+09:00",
+      "title": "アイルランドの電力消費の23%をデータセンターが占める",
+      "summary": "アイルランドにおけるデータセンターの電力消費量が前年比で10%増加した。現在、ダブリン周辺の新たな電力供給網への接続には制限が設けられている。",
+      "impact": "データセンターの急激な電力需要の増大は、今後同国のエネルギー供給インフラや電力政策にさらなる負荷をかける可能性がある。",
+      "content_at": "2026-07-13T06:31:08.440825+09:00"
+    }
+  ],
+  "updated_at": "2026-07-13T06:31:08.440825+09:00"
+}

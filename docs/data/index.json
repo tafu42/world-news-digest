@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-13",
     "2026-07-12",
     "2026-07-11",
     "2026-07-10",
@@ -20,19 +21,33 @@
     "2026-06-25"
   ],
   "manifest": {
+    "2026-07-13": [
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
+        "c": "2026-07-13T06:31:08.440825+09:00"
+      },
+      {
+        "u": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+        "c": "2026-07-13T06:31:08.440825+09:00"
+      },
+      {
+        "u": "https://floooh.github.io/tiny8bit-preview/index.html",
+        "c": "2026-07-13T06:31:08.440825+09:00"
+      },
+      {
+        "u": "https://systima.ai/blog/claude-code-vs-opencode-token-overhead",
+        "c": "2026-07-13T06:31:08.440825+09:00"
+      },
+      {
+        "u": "https://geohot.github.io//blog/jekyll/update/2026/07/12/i-love-llms.html",
+        "c": "2026-07-13T06:31:08.440825+09:00"
+      },
+      {
+        "u": "https://www.theregister.com/on-prem/2026/07/11/irish-datacenters-now-guzzle-23-of-the-countrys-electricity/5270013",
+        "c": "2026-07-13T06:31:08.440825+09:00"
+      }
+    ],
     "2026-07-12": [
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
-        "c": ""
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
-        "c": ""
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
-        "c": ""
-      },
       {
         "u": "https://antjs.org",
         "c": ""

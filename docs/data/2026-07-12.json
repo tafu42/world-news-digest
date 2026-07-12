@@ -2,36 +2,6 @@
   "date": "2026-07-12",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/afcefcf20e7c19d9b8290408e6e261cdc853a2c2/746_0_6830_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-12T06:31:13.843139+09:00",
-      "title": "EU、Metaに「中毒性のデザイン」によるメンタルヘルスリスクへの対応不足を指摘",
-      "summary": "EU規制当局は、FacebookとInstagramの自動再生や無限スクロールといった機能が「強迫的な利用」に繋がると指摘しています。Metaは、これらのデザインがメンタルヘルスに与えるリスクへの対応が不十分だと非難されています。",
-      "impact": "SNSの「中毒性のデザイン」への規制強化は、プラットフォーム運営企業によるユーザー体験の在り方や収益モデルの見直しを迫る可能性がある。"
-    },
-    {
-      "image": "https://media.guim.co.uk/668d582c14b027aeb83f04851b02e30cd094bacc/801_686_3645_2916/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-12T06:31:13.843139+09:00",
-      "title": "英小売店での顔認識システム導入に警鐘、即時通報で警察が対応",
-      "summary": "英国内のSainsbury'sやB&Mなどの小売店で、顧客の顔を即座に識別し警察に通報する顔認識システム「Facewatch」が導入され、懸念が広がっています。市民の自由団体は、このシステムを「危険なエスカレーション」と非難しています。",
-      "impact": "小売店での顔認識システム導入は、防犯効果が期待される一方で、プライバシー侵害や誤認識による人権侵害への懸念が高まり、監視社会化への議論を加速させる恐れがある。"
-    },
-    {
-      "image": "https://media.guim.co.uk/429a0ba83b3596a0e670ad87de729f1e68471a7a/683_0_6827_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-12T06:31:13.843139+09:00",
-      "title": "米上院議員、テクノロジーの害悪を抑制する法案パッケージを提案",
-      "summary": "米上院議員エド・マーキー氏は、データセンター、自動採用システム、子供への悪影響を抑制するための法案パッケージを発表しました。この「AI説明責任アジェンダ」は、テクノロジー業界の有害な影響に対処することを目的としています。",
-      "impact": "AIの悪影響を抑制する法案パッケージの提案は、テクノロジー企業の開発・運用に倫理的・法的制約をもたらし、AI技術の健全な発展と社会実装を促す一方、イノベーションを阻害する可能性も指摘される。"
-    },
-    {
       "image": "",
       "url": "https://antjs.org",
       "category": "海外IT",
