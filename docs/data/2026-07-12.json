@@ -139,7 +139,84 @@
       "summary": "「9front」というOSを利用した描画手法に関する記事である。タイトルにはスタンリー・リーバーを殺していないという主張が含まれている。",
       "impact": "特定のコンピュータシステムやOS環境における技術的なハウツー情報として、愛好家や開発者間で共有される可能性がある。",
       "content_at": "2026-07-12T13:31:07.920415+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/baab59d71778af796f26f609e8411abb8b4bc23b/764_0_3964_3172/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/11/most-popular-porn-sites-now-have-age-checks-for-australians-but-online-watchdog-to-assess-vpn-loopholes",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-12T21:31:10.174126+09:00",
+      "title": "オーストラリアの安全規制当局がポルノサイトの年齢確認回避に対する調査を実施へ",
+      "summary": "オーストラリアのオンライン安全規制当局は、3月に導入された年齢確認法に基づき、大手ポルノサイト30社の遵守状況を監視している。VPNを使用して年齢確認を回避する行為が調査対象となっている。",
+      "impact": "今回の調査によってポルノサイトの年齢確認体制が強化され、未成年者のアクセス制限がより厳格化される可能性がある。",
+      "content_at": "2026-07-12T21:31:10.174126+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-12T21:31:10.174126+09:00",
+      "title": "AppleがOpenAIを提訴、AI企業による企業秘密の窃取を主張",
+      "summary": "Appleは、OpenAIがAppleの従業員を引き抜き、ハードウェア開発に関連する機密情報を共有させたとして提訴した。同社はこれを企業秘密の窃取であると主張している。",
+      "impact": "この訴訟の行方次第で、大手テック企業間におけるAI開発をめぐる人材獲得や技術流出防止のあり方に大きな影響を与えると考えられる。",
+      "content_at": "2026-07-12T21:31:10.174126+09:00"
+    },
+    {
+      "image": "https://terrytao.wordpress.com/wp-content/uploads/2026/07/image-2.png",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-12T21:31:10.174126+09:00",
+      "title": "テレンス・タオ氏が語る、現代のコーディングエージェントを通じた新旧アプリの活用",
+      "summary": "数学者のテレンス・タオ氏は、1999年にJavaで数学教育用アプレットを制作して以来、機械を用いた数学の研究や指導に関心を持ち続けている。現代のコーディングエージェントを活用した数学的手法について自身の見解を示している。",
+      "impact": "教育や研究の現場で機械による支援が普及することで、複雑な数学の学習環境や研究手法が今後変化していく可能性がある。",
+      "content_at": "2026-07-12T21:31:10.174126+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://dakra.github.io/ghostel/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-12T21:31:10.174126+09:00",
+      "title": "libghosttyを搭載したターミナルエミュレーター「Ghostel.el」",
+      "summary": "「Ghostel.el」は、libghosttyを利用して開発された新しいターミナルエミュレーターである。",
+      "impact": "libghosttyベースのツールが増えることで、ターミナル環境のパフォーマンス向上や機能拡張の選択肢が広がる可能性がある。",
+      "content_at": "2026-07-12T21:31:10.174126+09:00"
+    },
+    {
+      "image": "https://imagenes.elpais.com/resizer/v2/RARJB5ZYAZDEDA2UYZOCBUZL54.jpeg?auth=4dbba1f63f170f2c936bc1d30dd46273565762f7cb05aa5681fb35b5f3b4c3cc&amp;width=1200",
+      "url": "https://english.elpais.com/international/2026-07-10/woman-rescued-in-brazil-after-being-enslaved-for-55-years-by-three-generations-of-the-same-family.html",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-12T21:31:10.174126+09:00",
+      "title": "ブラジルで7歳から55年間家政婦として働かされた女性がいた",
+      "summary": "7歳から同じ家庭で働き続け、給与や休暇を受け取っていなかった女性に対し、雇用主が補償を行うこととなった。この家族は3世代にわたり女性を無給で働かせていた。",
+      "impact": "現代社会においても強制労働や搾取が隠蔽されている実態が改めて浮き彫りとなっており、労働環境の監視や権利保護の強化を求める声が強まる可能性がある。",
+      "content_at": "2026-07-12T21:31:10.174126+09:00"
+    },
+    {
+      "image": "https://techcrunch.com/wp-content/uploads/2023/05/vint-cerf-GettyImages-454796419.jpg?resize=1200,723",
+      "url": "https://techcrunch.com/2026/06/30/the-father-of-the-internet-is-finally-retiring/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-12T21:31:10.174126+09:00",
+      "title": "「インターネットの父」の一人、ヴィント・サーフ氏がGoogleを退職へ",
+      "summary": "インターネットの基礎となるプロトコルを開発したヴィント・サーフ氏が、来週にもGoogleのチーフ・インターネット・エバンジェリストを退任する。",
+      "impact": "インターネットの設計に深く関わった人物が退任することで、今後Googleにおける技術戦略やインターネットの将来像に関する対外的な発信に変化が生じる可能性がある。",
+      "content_at": "2026-07-12T21:31:10.174126+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/65484c2f71cbd23918ac39611ff48690004862a89009bebe47171b4d5b5b694d/cosmtrek/mindwalk",
+      "url": "https://github.com/cosmtrek/mindwalk",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-12T21:31:10.174126+09:00",
+      "title": "コードベースを3Dマップで可視化するツール「Mindwalk」",
+      "summary": "コーディングエージェントの操作履歴をコードベースの3Dマップ上で再生できる視覚化ツールが公開された。このツールはcosmtrek/mindwalkとして提供されている。",
+      "impact": "AIを用いた開発プロセスを可視化することで、エンジニアのデバッグや開発フローの理解が効率化され、コーディング支援ツールの活用が促進される可能性がある。",
+      "content_at": "2026-07-12T21:31:10.174126+09:00"
     }
   ],
-  "updated_at": "2026-07-12T13:31:07.920415+09:00"
+  "updated_at": "2026-07-12T21:31:10.174126+09:00"
 }
