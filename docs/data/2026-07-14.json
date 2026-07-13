@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-14",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/baab59d71778af796f26f609e8411abb8b4bc23b/764_0_3964_3172/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/11/most-popular-porn-sites-now-have-age-checks-for-australians-but-online-watchdog-to-assess-vpn-loopholes",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "オーストラリアのネット安全監視機関、ポルノサイトの年齢確認回避に対するVPN利用を調査へ",
+      "summary": "オーストラリアのネット安全監視機関が、3月に施行された年齢確認法への準拠状況を監視している。上位30サイトを対象に、VPNを利用した年齢制限回避の実態を調査する。",
+      "impact": "今回の調査により、オンライン上の年齢制限を回避する手段が制限される可能性がある。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "AppleがOpenAIを提訴、営業秘密の侵害を主張",
+      "summary": "AppleがOpenAIを提訴した。訴状によると、OpenAIはAppleの従業員を引き抜き、独自のハードウェア開発を目的とした機密情報の共有を促したとされている。",
+      "impact": "本訴訟の行方は、AI企業による人材獲得競争や企業秘密の保護に関する議論に影響を与える可能性がある。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "https://cdn.neowin.com/news/images/uploaded/2026/07/1783952968_samsung-health_story.webp",
+      "url": "https://neow.in/cWsyMTV3",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "SamsungがAI学習への同意を拒否したユーザーのヘルスデータを削除へ",
+      "summary": "Samsungは「Samsung Health」のユーザーに対し、AI学習へのデータ利用に同意しない場合、既存の健康データを削除すると通知した。データの保持には利用への同意が必須条件となっている。",
+      "impact": "AI学習へのデータ提供を強制する仕組みに対し、プライバシーの観点から批判が高まる可能性がある。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1589254065878-42c9da997008?w=1200&amp;h=600&amp;fit=crop&amp;q=80",
+      "url": "https://get-inscribe.com/blog/apple-speech-api-benchmark.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "Appleの新しいSpeechAnalyzer API、Whisperなどとの性能比較が公開される",
+      "summary": "「LibriSpeech」の5,559件の音声データを用いて、Appleの「SpeechAnalyzer」と「SFSpeechRecognizer」、および「Whisper」の精度比較が行われた。Apple自身はこれまで精度数値を公表していなかったが、今回の検証により生データとともに比較結果が示された。",
+      "impact": "音声認識技術の精度が可視化されたことで、開発者によるエンジン選定の判断材料が増えると考えられる。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "Xcodeを開かずにMacおよびiOSアプリをビルド・配布する方法",
+      "summary": "Xcodeを使用せずにMacやiOS向けのアプリケーションをビルドおよび配布する手法についての言及。具体的な構築手順やツールについては記載されていない。",
+      "impact": "開発環境の簡略化や自動化が進むことで、アプリ開発のワークフローが効率化される可能性がある。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "https://www.whois.com/images/og.png",
+      "url": "https://www.whois.com/whois/t.me",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "Telegramのドメイン「t.me」が停止された",
+      "summary": "Telegramが利用する「t.me」ドメインが停止状態にある。Whois情報による調査でその状況が示されている。",
+      "impact": "該当ドメインを利用するリンクへのアクセスが阻害されるため、ユーザーの遷移や情報の共有に混乱が生じる可能性がある。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "https://playcode.io/assets/static/img/logo.png",
+      "url": "https://playcode.io/blog/real-price-of-frontier-models",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "AIモデルの実質的なコスト計算とトークン数の差異",
+      "summary": "AIコーディングエージェント使用時のコスト計算において、モデルのトークナイザーによってトークン数に大きな乖離がある。TypeScriptファイルを用いた比較では、ClaudeとGPT-5.xの間で約1.73倍の差が生じている。",
+      "impact": "AIモデルを選択する際、単価だけでなくトークナイザーによるトークン数の増減を考慮したコスト評価が重要になるとみられる。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+      "url": "https://werd.io/climate-gov-was-destroyed-open-data-saved-it/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-14T06:31:11.043957+09:00",
+      "title": "Climate.govの閉鎖とオープンデータによる復元",
+      "summary": "トランプ政権下でオフライン化されたNOAAの重要リソース「Climate.gov」を、退職した元職員らがオープンデータを用いて再構築した。このプロジェクトはRebecca Lindsey氏らによって遂行された。",
+      "impact": "政府のデータ公開が停止された場合でも、オープンデータが整備されていれば市民の力で重要な公共リソースを回復できる可能性がある。",
+      "content_at": "2026-07-14T06:31:11.043957+09:00"
+    }
+  ],
+  "updated_at": "2026-07-14T06:31:11.043957+09:00"
+}

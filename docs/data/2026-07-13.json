@@ -2,17 +2,6 @@
   "date": "2026-07-13",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/3b54d58e56432cfdd5ea4ccb50f9515661536d6b/508_0_5033_4024/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/09/instagram-ai-image-generator-privacy",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-13T06:31:08.440825+09:00",
-      "title": "InstagramのAI画像生成機能がプライバシー専門家に懸念を与える",
-      "summary": "Metaの新しいAI画像生成機能が導入されたことを受け、Instagramユーザーはプライバシー設定を確認するよう専門家が警告している。",
-      "impact": "ユーザーが自身のデータ利用設定を改めて見直すきっかけとなり、プラットフォーム側に対しプライバシー保護の透明性を求める声が高まる可能性がある。",
-      "content_at": "2026-07-13T06:31:08.440825+09:00"
-    },
-    {
       "image": "https://scrapfly.dev/img/og-default.png",
       "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
       "category": "海外IT",
