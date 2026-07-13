@@ -154,7 +154,95 @@
       "summary": "ラブラドール海の深海約400メートルで、南極探検家アーネスト・シャクルトン卿の最後の探検に使用された沈没船「クエスト号」が発見され、その映像が公開された。この調査により、船の現状が初めて明らかになった。",
       "impact": "歴史的な遺産の解明が進むことで、当時の探検活動や沈没の経緯についての歴史的知見が深まるとみられる。",
       "content_at": "2026-07-13T13:31:16.601894+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/d54bc0f6ffbe7f61c31d660dc4f73230d751048c/418_0_4164_3333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/13/nurses-new-york-ai",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "ニューヨークの看護師がAIに置き換えられた問題",
+      "summary": "モンテフィオーレ病院で12人の看護師が解雇された。労働組合は病院側がストライキで獲得した契約に違反したと主張している。",
+      "impact": "医療現場へのAI導入が雇用や医療の質に与える影響について、議論が広がる可能性がある。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/82fae54ed7ab50ce144a61f00eb1155616cac21a/481_0_4810_3848/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/13/young-men-report-more-sextortion-than-any-other-age-group-australias-online-safety-watchdog-says-ntwnfb",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "オーストラリアで若年男性のセクストーション被害が増加",
+      "summary": "オーストラリアのオンライン安全監視機関によると、昨年半年間で2,000件以上のセクストーション（性的脅迫）被害が報告された。全ての年齢層の中で、若年男性の報告数が最も多い。",
+      "impact": "ネット上での若年男性に対する被害防止に向けた対策や啓発活動が強化される可能性がある。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
+    },
+    {
+      "image": "https://raymyers.org/weblog-card-1.png",
+      "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "Zig言語の作成者がAnthropic社の主張を批判",
+      "summary": "プログラミング言語Zigの作成者が、AI技術によるソフトウェアエンジニアリングの終焉を過大評価しているとAnthropic社を批判した。テック業界でエンジニアの将来を巡る議論が起きている。",
+      "impact": "AIによるプログラミングの自動化がエンジニアの職業に及ぼす影響について、業界内での認識がさらに深まるとみられる。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jivx.com/densha",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "ボクセルで再現された東京で日本語を学ぶ",
+      "summary": "ボクセルで作成されたリアルタイムの東京を舞台に、山手線に乗車しながら日本語を学習できるコンテンツが登場した。",
+      "impact": "メタバースやゲームを活用した新しい語学学習の方法として注目される可能性がある。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1289616366/8cbab077-707b-40c8-a2c8-db043ecd5e2e",
+      "url": "https://github.com/floodtide/dom-docx",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "DOM-docx：HTMLをWord形式に変換するツール",
+      "summary": "HTMLフラグメントを編集可能なOOXML形式のWordドキュメントに変換するツール「DOM-docx」が公開された。MITライセンスで提供されている。",
+      "impact": "HTMLからWordへの変換作業を効率化する手段として開発者や事務作業者に利用される可能性がある。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://shkspr.mobi/blog/2026/07/another-ridiculous-interrail-holiday-6379km-and-13-countries-over-7-weeks/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "インターレイルによる7週間の旅：6,379kmを移動",
+      "summary": "インターレイルを利用して7週間で13カ国を巡り、計6,379kmを移動した旅行記録である。",
+      "impact": "欧州鉄道旅行の利便性やルート計画に関する具体的なデータとして、同様の旅行を検討する人々の参考になる可能性がある。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://andiroberts.com/citizenship/the-social-physics-of-conversation-citizenship-leadership",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "会話の社会物理学：コミュニケーションパターンの重要性",
+      "summary": "会話におけるコミュニケーションパターンが重要であるという「会話の社会物理学」に関するトピックである。",
+      "impact": "組織内のコミュニケーション分析や、チームの生産性向上に向けた新しい知見を提供する可能性がある。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mmapped.blog/posts/52-backtrack-free-cursive",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-13T21:31:12.793161+09:00",
+      "title": "バックトラック不要の筆記体",
+      "summary": "筆記体におけるバックトラック（逆行）を不要にする手法や概念に関するトピックである。",
+      "impact": "書道アルゴリズムやデジタル文字入力の効率化に貢献する可能性がある。",
+      "content_at": "2026-07-13T21:31:12.793161+09:00"
     }
   ],
-  "updated_at": "2026-07-13T13:31:16.601894+09:00"
+  "updated_at": "2026-07-13T21:31:12.793161+09:00"
 }
