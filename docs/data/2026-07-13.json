@@ -57,39 +57,6 @@
       "content_at": "2026-07-13T06:31:08.440825+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/afcefcf20e7c19d9b8290408e6e261cdc853a2c2/746_0_6830_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
-      "category": "テクノロジー",
-      "time": "13:31",
-      "collected_at": "2026-07-13T13:31:16.601894+09:00",
-      "title": "EU、メタ社の「中毒性のある設計」が精神衛生上のリスクを招いていると批判",
-      "summary": "欧州の規制当局は、FacebookやInstagramの自動再生や無限スクロールといった機能が、ユーザーの強迫的な利用を助長していると指摘した。これらの設計が利用者の精神的な健康にリスクをもたらしているとして、同社を非難している。",
-      "impact": "メタ社に対して利用者の安全を優先した仕様変更を求める声が強まり、今後のソーシャルメディアにおける設計指針に影響を与える可能性がある。",
-      "content_at": "2026-07-13T13:31:16.601894+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/668d582c14b027aeb83f04851b02e30cd094bacc/801_686_3645_2916/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/facewatch-facial-recognition-uk-shops-instantly-alerts-police-civil-liberties",
-      "category": "テクノロジー",
-      "time": "13:31",
-      "collected_at": "2026-07-13T13:31:16.601894+09:00",
-      "title": "英国の店舗で導入された警察通報型の顔認証システムに懸念の声",
-      "summary": "セインズベリーズやB&Mなどの店舗で、警察へ即座に通報する「Facewatch」システムが導入された。市民団体は、この技術の利用拡大を危険なエスカレーションであるとして批判している。",
-      "impact": "プライバシー保護の観点からさらなる議論が巻き起こり、店舗における監視技術の利用制限に関する法的な見直しが検討される可能性がある。",
-      "content_at": "2026-07-13T13:31:16.601894+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/429a0ba83b3596a0e670ad87de729f1e68471a7a/683_0_6827_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/us-senator-unveils-ai-accountability-agenda-bills",
-      "category": "テクノロジー",
-      "time": "13:31",
-      "collected_at": "2026-07-13T13:31:16.601894+09:00",
-      "title": "米上院議員がAIの害を抑制するための法案パッケージを公表",
-      "summary": "エド・マーキー上院議員は、データセンターの運用や自動採用システム、子どもへの被害などに対処するための法案を公開した。これはAIに関連するリスクを抑制するための「AIアカウンタビリティ（説明責任）アジェンダ」の一環である。",
-      "impact": "今後、AI技術の透明性や企業の説明責任を強化する法整備が米国内で進められる可能性がある。",
-      "content_at": "2026-07-13T13:31:16.601894+09:00"
-    },
-    {
       "image": "https://nebusec.ai/_astro/social-preview.BvQ1tugL.png",
       "url": "https://nebusec.ai/research/ionstack-part-2/",
       "category": "海外IT",

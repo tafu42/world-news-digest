@@ -88,7 +88,51 @@
       "summary": "トランプ政権下でオフライン化されたNOAAの重要リソース「Climate.gov」を、退職した元職員らがオープンデータを用いて再構築した。このプロジェクトはRebecca Lindsey氏らによって遂行された。",
       "impact": "政府のデータ公開が停止された場合でも、オープンデータが整備されていれば市民の力で重要な公共リソースを回復できる可能性がある。",
       "content_at": "2026-07-14T06:31:11.043957+09:00"
+    },
+    {
+      "image": "https://tech.supercarblondie.com/cdn-cgi/image/width=1200,height=675,quality=80,format=webp,fit=cover/wp-content/uploads/Japan-lithium-featured.webp",
+      "url": "https://tech.supercarblondie.com/japan-recovers-up-to-90-of-lithium-from-used-ev-batteries/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-14T13:31:12.273579+09:00",
+      "title": "日本、使用済みEVバッテリーから最大90%のリチウム回収技術を開発",
+      "summary": "日本の科学者が、使用済みの電気自動車用バッテリーから最大90%のリチウムを回収する手法を開発したと報じられた。この技術は地球環境保護に貢献するものとされている。",
+      "impact": "リチウムの回収率向上が進むことで、電気自動車の製造コスト低減や、バッテリーの持続可能な資源循環が促進される可能性がある。",
+      "content_at": "2026-07-14T13:31:12.273579+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://web.stanford.edu/~dntse/wireless_book.html",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-14T13:31:12.273579+09:00",
+      "title": "無線通信の基礎",
+      "summary": "無線通信の基本原理に関する内容である。",
+      "impact": "関連分野の学習者や技術者にとって、無線通信の基礎理論を理解する一助となると考えられる。",
+      "content_at": "2026-07-14T13:31:12.273579+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lalitm.com/post/git-history/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-14T13:31:12.273579+09:00",
+      "title": "Gitの履歴コマンドをもっと活用すべき理由",
+      "summary": "Gitで複数の変更を並行して扱うことは複雑で困難を伴う場合がある。Gitの代替ツールとして「jj」というツールが現在注目されている。",
+      "impact": "開発者がGitの履歴操作や代替ツールを再検討することで、並行作業におけるコード管理の効率性が改善される可能性がある。",
+      "content_at": "2026-07-14T13:31:12.273579+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://elasticity.institute/rsi-paper.pdf",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-14T13:31:12.273579+09:00",
+      "title": "再帰的自己改善の経済学",
+      "summary": "再帰的自己改善に関する経済的側面を扱った論文資料である。",
+      "impact": "人工知能などが自律的に進化する概念を経済的視点から分析することで、将来的な技術発展が経済に与える影響の考察に寄与するとみられる。",
+      "content_at": "2026-07-14T13:31:12.273579+09:00"
     }
   ],
-  "updated_at": "2026-07-14T06:31:11.043957+09:00"
+  "updated_at": "2026-07-14T13:31:12.273579+09:00"
 }
