@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-15",
     "2026-07-14",
     "2026-07-13",
     "2026-07-12",
@@ -22,15 +23,49 @@
     "2026-06-25"
   ],
   "manifest": {
+    "2026-07-15": [
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://prismml.com/news/bonsai-27b",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://2b2t.place/1million",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      },
+      {
+        "u": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+        "c": "2026-07-15T06:31:10.559819+09:00"
+      }
+    ],
     "2026-07-14": [
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/11/most-popular-porn-sites-now-have-age-checks-for-australians-but-online-watchdog-to-assess-vpn-loopholes",
-        "c": "2026-07-14T06:31:11.043957+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
-        "c": "2026-07-14T06:31:11.043957+09:00"
-      },
       {
         "u": "https://neow.in/cWsyMTV3",
         "c": "2026-07-14T06:31:11.043957+09:00"

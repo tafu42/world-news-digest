@@ -2,28 +2,6 @@
   "date": "2026-07-14",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/baab59d71778af796f26f609e8411abb8b4bc23b/764_0_3964_3172/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/11/most-popular-porn-sites-now-have-age-checks-for-australians-but-online-watchdog-to-assess-vpn-loopholes",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-14T06:31:11.043957+09:00",
-      "title": "オーストラリアのネット安全監視機関、ポルノサイトの年齢確認回避に対するVPN利用を調査へ",
-      "summary": "オーストラリアのネット安全監視機関が、3月に施行された年齢確認法への準拠状況を監視している。上位30サイトを対象に、VPNを利用した年齢制限回避の実態を調査する。",
-      "impact": "今回の調査により、オンライン上の年齢制限を回避する手段が制限される可能性がある。",
-      "content_at": "2026-07-14T06:31:11.043957+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/5272116c50862c7e9e98659c6272a969cab06a2c/333_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/apple-sues-openai-trade-secrets",
-      "category": "テクノロジー",
-      "time": "06:31",
-      "collected_at": "2026-07-14T06:31:11.043957+09:00",
-      "title": "AppleがOpenAIを提訴、営業秘密の侵害を主張",
-      "summary": "AppleがOpenAIを提訴した。訴状によると、OpenAIはAppleの従業員を引き抜き、独自のハードウェア開発を目的とした機密情報の共有を促したとされている。",
-      "impact": "本訴訟の行方は、AI企業による人材獲得競争や企業秘密の保護に関する議論に影響を与える可能性がある。",
-      "content_at": "2026-07-14T06:31:11.043957+09:00"
-    },
-    {
       "image": "https://cdn.neowin.com/news/images/uploaded/2026/07/1783952968_samsung-health_story.webp",
       "url": "https://neow.in/cWsyMTV3",
       "category": "海外IT",

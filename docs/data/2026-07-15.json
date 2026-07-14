@@ -1,0 +1,116 @@
+{
+  "date": "2026-07-15",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/77482423e65b48adbef4c14fc07323451468923d/233_0_2525_2019/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "英国、16歳・17歳の若者に深夜のSNS利用自粛を推奨へ",
+      "summary": "英国の労働党政権が、若者をオンラインの害から守るため、深夜0時から午前6時までのSNSアプリ等の利用制限を推進している。これは若者の保護に向けた取り組みの一環である。",
+      "impact": "この措置が導入されれば、若者の睡眠不足やネット上でのトラブルが減少する可能性がある。一方で、利用規制の実効性やプライバシー保護の観点から議論が起こると考えられる。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9b499f8346a55da156d361d621fd2d130f3bb990/1531_250_4460_3568/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "英中銀総裁、AIの脅威に対処するには国際協力が不可欠と指摘",
+      "summary": "イングランド銀行のアンドリュー・ベイリー総裁は、AIがもたらす脅威に対処するには米国単独では不十分であり、国際的な協力体制が必要であると警告した。",
+      "impact": "今後、AIに関する国際的な規制枠組みや連携強化に向けた動きが加速する可能性がある。各国間での協調が進まなければ、AIの安全性を確保するのが困難になる恐れがあるとみられる。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/8f50d1b5d196b5b8f43e9d29d39c2838c7b6d02f/688_0_6880_5504/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "IBMが業績低迷で株価急落、時価総額の4分の1を失う",
+      "summary": "IBMは第2四半期の決算が低調だったことを受け、業績見通しを引き下げた。これにより同社の株価は急落し、マイクロソフトを含むソフトウェア業界全体に売りが広がった。",
+      "impact": "テック業界全体に対する市場の警戒感が高まっており、他の大手テクノロジー企業の株価にも影響が及ぶ可能性がある。IT投資に対する慎重な見方が強まるとみられる。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f5d41198ae3cc2b1c475307fde6b096c7244361e/663_0_6627_5304/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "英、AI開発競争での遅れを危惧するも過度な投資には慎重な姿勢",
+      "summary": "英国は世界的なAI開発競争において遅れを取り戻そうとしているが、過度な投資や普及の遅れ、急激な技術革新によるリスクを懸念している。",
+      "impact": "英国はAI分野への慎重な投資戦略をとることで、過熱する市場の副作用を抑制しようとする可能性がある。一方で、慎重姿勢が維持されれば、他国と比較してAI産業の成長が緩やかになるリスクがあると考えられる。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/cd2a98fd77c0922afe1be3acbfe77a33d3664d81/2248_755_2693_2156/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "アンソニー・アルバニージー首相がAI投資促進のためデータセンターの承認迅速化を約束",
+      "summary": "オーストラリアのアルバニージー首相は、AIに関する経済・社会・安全保障・環境課題を一元管理する世界初の機関を設立すると表明した。また、AI投資を後押しするため、データセンター建設の承認プロセスを迅速化すると約束した。",
+      "impact": "データセンターの建設が加速し、オーストラリアがAI関連技術のハブとなる可能性がある。一方で、一元管理によるガバナンス体制がAIの利用環境にどのような変化をもたらすか注目される。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://prismml.com/news/bonsai-27b",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "スマートフォン上で動作する27BクラスのAIモデル「Bonsai 27B」",
+      "summary": "Bonsai 27Bは、スマートフォン上で実行可能な270億パラメータ規模のAIモデルである。モバイル端末での高度なAI処理の実現を目指して開発された。",
+      "impact": "インターネット接続なしで高性能なAI機能を利用できる端末が増え、プライバシー保護や利便性が向上する可能性がある。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "https://lucumr.pocoo.org/social/2026-07-13-the-tower-keeps-rising-social.png",
+      "url": "https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "タワーは上昇し続ける：バイブコーディングと共通言語の崩壊の可能性",
+      "summary": "バイブコーディング（感覚的なコーディング）の広がりにより、エンジニア間で共有されてきた共通言語が崩壊する可能性について論じられている。",
+      "impact": "プログラミング手法の変容により、開発コミュニティにおける技術的な意思疎通や標準化のあり方に影響が出る可能性がある。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "Cursorのゼロデイ脆弱性：フルディスクロージャーが唯一の保護手段となるとき",
+      "summary": "開発ツール「Cursor」におけるゼロデイ脆弱性が指摘された。問題の解決には、脆弱性情報を公開するフルディスクロージャーが残された唯一の防御策であるという主張がなされている。",
+      "impact": "ソフトウェアの脆弱性対応において、セキュリティの透明性を確保するための情報公開の重要性が改めて問われることになるだろう。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://2b2t.place/1million",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "容量15TBのMinecraftワールドが公開",
+      "summary": "Minecraftのワールドとしては最大級となる、合計15TBのデータが利用可能となった。",
+      "impact": "データ容量が非常に大きいため、ストレージ管理やデータ転送技術における新たな課題を提示する可能性がある。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "https://jola.dev/images/og/posts/how-to-stop-claude-from-saying-load-bearing.png",
+      "url": "https://jola.dev/posts/how-to-stop-claude-from-saying-load-bearing",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-15T06:31:10.559819+09:00",
+      "title": "Claude Codeの出力テキストを改変する方法",
+      "summary": "Claude Codeの出力テキストをハックし、その内容を変更する手法が紹介された。",
+      "impact": "ユーザーがAIの応答をより遊び心のあるものに変更できるようになる可能性がある。",
+      "content_at": "2026-07-15T06:31:10.559819+09:00"
+    }
+  ],
+  "updated_at": "2026-07-15T06:31:10.559819+09:00"
+}
