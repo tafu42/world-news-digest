@@ -132,7 +132,95 @@
       "summary": "再帰的自己改善に関する経済的側面を扱った論文資料である。",
       "impact": "人工知能などが自律的に進化する概念を経済的視点から分析することで、将来的な技術発展が経済に与える影響の考察に寄与するとみられる。",
       "content_at": "2026-07-14T13:31:12.273579+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "Microsoft Surface Laptop 8 レビュー：ハプティックタッチパッド搭載の高品質PC",
+      "summary": "Surface Laptop 8は、高速なパフォーマンスと長いバッテリー駆動時間を実現している。優れたキーボードに加え、新しいハプティックタッチパッドが搭載されている。",
+      "impact": "Windows 11搭載PCの選択肢として、操作性と生産性を重視するユーザーの関心を高める可能性がある。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/afcefcf20e7c19d9b8290408e6e261cdc853a2c2/746_0_6830_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "EUがMetaを提訴、依存的な設計によるメンタルヘルスリスクへの対処不足を指摘",
+      "summary": "EUの規制当局は、FacebookやInstagramにおける自動再生や無限スクロールといった機能が、ユーザーの強迫的な利用を助長していると指摘した。Metaがこれらのメンタルヘルスへのリスクに対して十分な対策を講じていないと非難している。",
+      "impact": "SNS運営企業に対し、依存性を抑える設計変更や規制強化がより強く求められるようになる可能性がある。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/05bec0e1e9208fbbbd0769f71473d9da3a497e4f4e1566a8066df9ad1d93d9da/openai/codex/issues/28058",
+      "url": "https://github.com/openai/codex/issues/28058",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "Codexがサブエージェントプロンプトの暗号化を開始",
+      "summary": "Codex CLIは、2026年6月5日にマージされた更新により、マルチエージェントv2のメッセージペイロードを暗号化する仕様に変更された。この変更が含まれるバージョンが影響を受ける。",
+      "impact": "エージェント間の通信セキュリティが向上する一方で、旧バージョンとの互換性や運用上の設定に影響が出る可能性がある。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
+    },
+    {
+      "image": "https://static.phemex.com/pubimg/5f24b9c7d4a63a9b37534cc0f17bac8297747a09775c6caafd6b97af02f9b372.png",
+      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "CodexがICMウェブサイトをスクレイピングし、2026年フィールズ賞受賞者リストを発見",
+      "summary": "CodexがICMのウェブサイトから情報を収集し、2026年のフィールズ賞受賞者リストを明らかにした。受賞者として、北京大学の卒業生であるHong WangとYu Dengの名前が挙げられている。",
+      "impact": "正式発表前の情報漏洩により、国際的な数学賞の管理体制や公開プロセスに対して懸念が生じる可能性がある。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
+    },
+    {
+      "image": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/cover-social.png",
+      "url": "https://thinkingmachines.ai/blog/the-future-worth-building-is-human/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "人間を中心としたAI開発の未来",
+      "summary": "自律性を重視するAIは人間を単なる受動的な観察者に変えてしまうと指摘されている。現在はそれとは異なる人間中心の未来を目指した開発が進められている。",
+      "impact": "AI開発の方向性が、人間を置き換えるものから人間を支援するものへと変化する可能性がある。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "「アプリ」ではなくWebページであるべきという指摘",
+      "summary": "アプリとして提供されているものの中には、本来Webページで十分であるという主張がなされている。筆者はそれに基づいて修正を行ったと述べている。",
+      "impact": "開発者がサービスを提供する際に、過剰なアプリ化を見直し、より効率的なWebベースの解決策を再検討するきっかけになる可能性がある。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
+    },
+    {
+      "image": "https://blog.incogni.com/wp-content/uploads/2026/07/digital-burnout_2.png",
+      "url": "https://blog.incogni.com/digital-fatigue-and-burnout/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "デジタル疲労とSNS利用の変化",
+      "summary": "SNSにおいて人々が積極的な参加を控え、静かに離脱する動きが見られる。アカウントの一斉削除は伴わないケースも多いが、活動を控えるユーザーが増えている。",
+      "impact": "SNSプラットフォームにおいて、ユーザーのエンゲージメントが低下し、サービスのあり方が見直される可能性がある。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
+    },
+    {
+      "image": "https://s0.wp.com/i/blank.jpg",
+      "url": "https://bartoszmilewski.com/2026/06/30/actegories/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-14T21:31:11.548634+09:00",
+      "title": "プログラミングにおけるアクトカテゴリの解説",
+      "summary": "プログラミングの光学（レンズ、プリズム、トラバーサルなど）において中心的な役割を果たす「アクトカテゴリ」について解説されている。ダブルカテゴリにおけるカン拡張の概念が先行トピックとして挙げられている。",
+      "impact": "この解説は、特定のプログラミングパラダイムを理解するための専門的な知識として、開発者の技術習得に寄与すると考えられる。",
+      "content_at": "2026-07-14T21:31:11.548634+09:00"
     }
   ],
-  "updated_at": "2026-07-14T13:31:12.273579+09:00"
+  "updated_at": "2026-07-14T21:31:11.548634+09:00"
 }
