@@ -110,7 +110,73 @@
       "summary": "Claude Codeの出力テキストをハックし、その内容を変更する手法が紹介された。",
       "impact": "ユーザーがAIの応答をより遊び心のあるものに変更できるようになる可能性がある。",
       "content_at": "2026-07-15T06:31:10.559819+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/864_0_4318_3455/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
+      "category": "テクノロジー",
+      "time": "13:31",
+      "collected_at": "2026-07-15T13:31:13.573083+09:00",
+      "title": "Metaが育休や病気休暇を取得した従業員をAIで選別し解雇したとの訴訟",
+      "summary": "数十人の従業員が、産休や障害を理由とした休暇を取得した人々が不釣り合いに解雇対象に選ばれたと主張し、Metaを提訴した。原告側はMetaが解雇対象者の選別にAIを用いたと指摘している。",
+      "impact": "大手テクノロジー企業におけるAIを用いた人事評価の公平性や透明性が、法的・倫理的な観点から厳しく問われる可能性がある。",
+      "content_at": "2026-07-15T13:31:13.573083+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://fabiensanglard.net/jurrasic_park_computers/index.html",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-15T13:31:13.573083+09:00",
+      "title": "映画「ジュラシック・パーク」に登場するコンピュータの詳細",
+      "summary": "映画「ジュラシック・パーク」で使用されたコンピュータについて詳細に解説している。作中の技術やデバイスに関する情報である。",
+      "impact": "映画ファンやテクノロジーの歴史に関心を持つ層の間で、作中のガジェットに対する注目が再燃する可能性がある。",
+      "content_at": "2026-07-15T13:31:13.573083+09:00"
+    },
+    {
+      "image": "https://vpd.ca/wp-content/uploads/2021/05/logo-vpd-white-270x318-1.png",
+      "url": "https://vpd.ca/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-15T13:31:13.573083+09:00",
+      "title": "バンクーバー警察のWebサイトに閲覧履歴を消去する「クイック脱出」ボタンを設置",
+      "summary": "バンクーバー警察のWebサイトに、閲覧履歴を即座に消去できる「クイック脱出」ボタンが設置された。同サイトは現在、情報の検索や問い合わせ窓口を提供している。",
+      "impact": "DV被害者などが安全に情報を閲覧できる環境が整備されることで、警察の公的サービスへのアクセス障壁が下がると考えられる。",
+      "content_at": "2026-07-15T13:31:13.573083+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/w77i7m8x/production/8e0455b2d9b33c6151016afdf2ea81d7623c2f04-1200x628.png",
+      "url": "https://tailscale.com/security-bulletins",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-15T13:31:13.573083+09:00",
+      "title": "Tailscale SSHの引数処理の不備によりroot権限へのアクセスを許した脆弱性",
+      "summary": "Tailscale SSHにおいて、引数の処理に不備がありroot権限へのアクセスが可能となる脆弱性が見つかった。Tailscale社はセキュリティ通知を通じて当該事案を公表している。",
+      "impact": "Tailscaleを利用するシステムにおいて、適切なアップデートが行われない場合、不正アクセスによりシステムが乗っ取られるリスクがある。",
+      "content_at": "2026-07-15T13:31:13.573083+09:00"
+    },
+    {
+      "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-improvements.jpg",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-15T13:31:13.573083+09:00",
+      "title": "Dependabotのバージョン更新にパッケージのクールダウン期間が導入",
+      "summary": "Dependabotは、レジストリで新しいリリースが公開されてから少なくとも3日間経過するまで、バージョン更新のプルリクエストを作成しない仕様に変更された。この待機期間がデフォルトの設定となった。",
+      "impact": "開発者はリリース直後の不安定なバージョンを避けられるため、プロジェクトの安定性が向上すると考えられる。",
+      "content_at": "2026-07-15T13:31:13.573083+09:00"
+    },
+    {
+      "image": "https://www.starfleetmath.com/og.png",
+      "url": "https://www.starfleetmath.com/",
+      "category": "海外IT",
+      "time": "13:31",
+      "collected_at": "2026-07-15T13:31:13.573083+09:00",
+      "title": "20個のCodexアカウントを並行稼働させ20のエルデシュ問題を解決",
+      "summary": "Lean 4を使用して未解決の数学的問題を解くAIシステムが開発された。生成されたすべての解はカーネルによって検証済みであり、ダウンロードが可能である。",
+      "impact": "数学の研究において、AIを用いた証明プロセスの自動化がさらに進む可能性がある。",
+      "content_at": "2026-07-15T13:31:13.573083+09:00"
     }
   ],
-  "updated_at": "2026-07-15T06:31:10.559819+09:00"
+  "updated_at": "2026-07-15T13:31:13.573083+09:00"
 }
