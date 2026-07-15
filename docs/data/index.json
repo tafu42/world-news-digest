@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-16",
     "2026-07-15",
     "2026-07-14",
     "2026-07-13",
@@ -23,27 +24,37 @@
     "2026-06-25"
   ],
   "manifest": {
+    "2026-07-16": [
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/15/elon-musk-wisconsin-election-payments",
+        "c": "2026-07-16T06:31:15.145480+09:00"
+      },
+      {
+        "u": "https://thinkingmachines.ai/news/introducing-inkling/",
+        "c": "2026-07-16T06:31:15.145480+09:00"
+      },
+      {
+        "u": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+        "c": "2026-07-16T06:31:15.145480+09:00"
+      },
+      {
+        "u": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+        "c": "2026-07-16T06:31:15.145480+09:00"
+      },
+      {
+        "u": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+        "c": "2026-07-16T06:31:15.145480+09:00"
+      },
+      {
+        "u": "https://www.plough.com/articles/who-is-americas-homer",
+        "c": "2026-07-16T06:31:15.145480+09:00"
+      },
+      {
+        "u": "https://brainless.swerdlow.dev",
+        "c": "2026-07-16T06:31:15.145480+09:00"
+      }
+    ],
     "2026-07-15": [
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/14/uk-16-17-year-olds-midnight-social-media-curfew",
-        "c": "2026-07-15T06:31:10.559819+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/14/global-cooperation-needed-to-tackle-ai-threats-says-bank-of-england-governor",
-        "c": "2026-07-15T06:31:10.559819+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/14/ibm-shares-profit-drop-value",
-        "c": "2026-07-15T06:31:10.559819+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/13/uk-catch-up-global-ai-race-risks",
-        "c": "2026-07-15T06:31:10.559819+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/14/anthony-albanese-promises-fast-track-approvals-for-datacentres-to-shore-up-ai-investment",
-        "c": "2026-07-15T06:31:10.559819+09:00"
-      },
       {
         "u": "https://prismml.com/news/bonsai-27b",
         "c": "2026-07-15T06:31:10.559819+09:00"

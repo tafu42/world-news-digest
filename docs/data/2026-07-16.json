@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-16",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/4f065ecd470c0623c2fe2566b919648fd22aa835/675_0_5935_4750/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/15/elon-musk-wisconsin-election-payments",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-07-16T06:31:15.145480+09:00",
+      "title": "イーロン・マスク氏の100万ドル懸賞キャンペーン、ウィスコンシン州の委員会が違法の可能性を指摘",
+      "summary": "ウィスコンシン州の委員会は、マスク氏が2025年の選挙前にトランプ氏の政策にとって重要だと主張して3人に賞金を分配した行為について、違法である可能性が高いと判断した。",
+      "impact": "今回の判断は、政治的な懸賞キャンペーンに対する法規制のあり方に影響を与える可能性がある。",
+      "content_at": "2026-07-16T06:31:15.145480+09:00"
+    },
+    {
+      "image": "https://thinkingmachines.ai/news/introducing-inkling/images/cover-social-inkling-post.png",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-16T06:31:15.145480+09:00",
+      "title": "Inklingが初のオープンウェイトモデルを発表",
+      "summary": "Inklingは、マルチモーダルかつMixture-of-Expertsを採用した初のオープンウェイトモデルを公開した。このモデルはTinker上でファインチューニングが可能である。",
+      "impact": "開発者がより柔軟にモデルをカスタマイズできるようになり、AI技術の多様な活用が進む可能性がある。",
+      "content_at": "2026-07-16T06:31:15.145480+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-16T06:31:15.145480+09:00",
+      "title": "StripeとAdventがPayPal買収を共同提案か",
+      "summary": "関係者によると、Stripeと投資会社のAdventが、PayPalの買収に向けて共同提案を行った。",
+      "impact": "この買収が実現すれば、決済業界の市場競争や企業のシェアに大きな変化が生じる可能性がある。",
+      "content_at": "2026-07-16T06:31:15.145480+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://elbowgreasegames.substack.com/p/misfits-attic-announces-duskers-20",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-16T06:31:15.145480+09:00",
+      "title": "コマンドラインゲーム『Duskers』の続編が制作決定",
+      "summary": "コマンドライン操作で進行するホラーゲーム『Duskers』の続編が制作されることが明らかになった。",
+      "impact": "前作のファン層を中心に、再び同ジャンルの注目度が高まるとみられる。",
+      "content_at": "2026-07-16T06:31:15.145480+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-16T06:31:15.145480+09:00",
+      "title": "13年前のXeon搭載PCでGemma 2 26Bを秒間5トークンで実行",
+      "summary": "GPUを搭載していない13年前のXeonプロセッサで、Gemma 2 26Bモデルを秒間5トークンの速度で実行した。特殊な環境下での動作が報告されている。",
+      "impact": "低スペックな旧型PCでも大規模言語モデルの動作が可能であることが示されたため、古いハードウェアの再利用や活用方法の選択肢が広がる可能性がある。",
+      "content_at": "2026-07-16T06:31:15.145480+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-16T06:31:15.145480+09:00",
+      "title": "アメリカのホメロスは誰か",
+      "summary": "アメリカにおけるホメロスのような存在は誰であるかという問いを投げかけている。特定の人物や文脈についての言及は含まれていない。",
+      "impact": "アメリカ文学や文化において、叙事詩的な役割を担う象徴的な作家についての議論を促す可能性がある。",
+      "content_at": "2026-07-16T06:31:15.145480+09:00"
+    },
+    {
+      "image": "https://brainless.swerdlow.dev/opengraph-image?234ed435f7768d62",
+      "url": "https://brainless.swerdlow.dev",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-07-16T06:31:15.145480+09:00",
+      "title": "Claude Code、Codex、Grok風のUIを再現したShadcnコンポーネント「Brainless」",
+      "summary": "Claude Code、Codex、Grokのインターフェースを模したShadcnコンポーネント群「Brainless」が公開された。これらのUIデザインを開発者が利用できる。",
+      "impact": "開発者が同様のデザインのウェブアプリケーションを効率的に構築できるようになり、UIデザインの統一や開発の迅速化に寄与するとみられる。",
+      "content_at": "2026-07-16T06:31:15.145480+09:00"
+    }
+  ],
+  "updated_at": "2026-07-16T06:31:15.145480+09:00"
+}
