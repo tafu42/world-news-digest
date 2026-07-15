@@ -112,28 +112,6 @@
       "content_at": "2026-07-14T13:31:12.273579+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/9a7849e339fab1515ff327f048f0345bf6b16341/748_0_5631_4505/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/14/microsoft-surface-laptop-8-review",
-      "category": "テクノロジー",
-      "time": "21:31",
-      "collected_at": "2026-07-14T21:31:11.548634+09:00",
-      "title": "Microsoft Surface Laptop 8 レビュー：ハプティックタッチパッド搭載の高品質PC",
-      "summary": "Surface Laptop 8は、高速なパフォーマンスと長いバッテリー駆動時間を実現している。優れたキーボードに加え、新しいハプティックタッチパッドが搭載されている。",
-      "impact": "Windows 11搭載PCの選択肢として、操作性と生産性を重視するユーザーの関心を高める可能性がある。",
-      "content_at": "2026-07-14T21:31:11.548634+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/afcefcf20e7c19d9b8290408e6e261cdc853a2c2/746_0_6830_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/10/eu-accuses-meta-failing-tackle-mental-health-risks-addictive-design",
-      "category": "テクノロジー",
-      "time": "21:31",
-      "collected_at": "2026-07-14T21:31:11.548634+09:00",
-      "title": "EUがMetaを提訴、依存的な設計によるメンタルヘルスリスクへの対処不足を指摘",
-      "summary": "EUの規制当局は、FacebookやInstagramにおける自動再生や無限スクロールといった機能が、ユーザーの強迫的な利用を助長していると指摘した。Metaがこれらのメンタルヘルスへのリスクに対して十分な対策を講じていないと非難している。",
-      "impact": "SNS運営企業に対し、依存性を抑える設計変更や規制強化がより強く求められるようになる可能性がある。",
-      "content_at": "2026-07-14T21:31:11.548634+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/05bec0e1e9208fbbbd0769f71473d9da3a497e4f4e1566a8066df9ad1d93d9da/openai/codex/issues/28058",
       "url": "https://github.com/openai/codex/issues/28058",
       "category": "海外IT",
