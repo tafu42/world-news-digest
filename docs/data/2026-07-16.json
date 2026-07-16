@@ -165,7 +165,106 @@
       "summary": "SpaceXAIのコーディングエージェント用ハーネスおよびTUIである「Grok Build」がオープンソースとして公開された。マウス操作が可能なフルスクリーン対応の拡張性を備えたツールである。",
       "impact": "開発者がこのツールを自由に改変・利用できるようになるため、AIを活用したプログラミング支援環境の開発や効率化が促進されるとみられる。",
       "content_at": "2026-07-16T13:31:11.279412+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/52eaaa0384fb38525ab7ae6446576a28de1033a0/645_0_3606_2885/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "ロンドンの交通ネットワークを攻撃したハッカー2人に実刑判決",
+      "summary": "ロンドン交通局に3900万ポンドの損害を与えたサイバー攻撃を行ったとして、20歳と19歳のハッカーがそれぞれ5年半の禁錮刑を言い渡された。",
+      "impact": "公共インフラに対するサイバー攻撃への厳罰化が進むことで、重要インフラを狙う犯罪の抑止につながる可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/7be389f39c0b867db9a13fbe8f10e9a4d8f47f29/468_0_4680_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "英規制当局、TikTokの年齢確認体制を調査へ",
+      "summary": "TikTokの年齢確認機能が不十分で、子どもが自傷行為や自殺に関連する投稿を目にするリスクがあるとして、英通信庁が懸念を表明し調査を開始した。",
+      "impact": "調査の結果次第では、プラットフォーム運営各社に対して、より厳格な年齢制限やコンテンツ監視体制の構築が義務付けられる可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f320a10eaf41733cd7e8c1645640db16e64dd685/204_0_1250_1000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/uber-buy-germany-delivery-hero-148bn-global-deal",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "Uberがドイツのデリバリーヒーローを148億ドルで買収",
+      "summary": "Uberは、99カ国でフードデリバリー事業を展開するデリバリーヒーローを買収する契約を148億ドルで締結した。この取引により、Uber Eatsの事業拡大とタクシーサービスの提供範囲拡大が見込まれる。",
+      "impact": "フードデリバリー業界の世界的な再編が加速し、市場での競争環境が大きく変化する可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/864_0_4318_3455/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "MetaがAIを使って休職者を解雇対象に選別したとの訴訟",
+      "summary": "Metaの元従業員数十人が、産休や傷病休暇を取得した従業員が不当に解雇対象として選別されたとして同社を提訴した。原告側は、同社がAIを用いてこれら休職者を識別したと主張している。",
+      "impact": "企業がAIを用いた人事評価や解雇選定を行う際の法的・倫理的基準が問われており、今後テクノロジー活用に関する新たな指針が求められる可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "https://community.oneplus.com/oneplus.png",
+      "url": "https://community.oneplus.com/thread/2170715118587871237",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "OnePlusが米国と欧州での事業を停止",
+      "summary": "OnePlusは米国と欧州での事業を停止した。今回の発表では、コミュニティ体験の刷新についても触れられている。",
+      "impact": "同地域のユーザーは今後OnePlus製品の利用やサポートに何らかの制約を受ける可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "https://www.theocharis.dev/jeremy-headshot.png",
+      "url": "https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "LLM批判は正しいが、それでも私は使い続ける",
+      "summary": "筆者はLLM（大規模言語モデル）に対する批判の多くに同意しつつも、日常的にLLMを頻繁に使用している。筆者自身、この行為が矛盾しているという自覚はある。",
+      "impact": "AI技術の欠陥を認識しながらも実用性を優先するユーザーが一定数存在することを示しており、AIの倫理や安全性に対する議論は今後も複雑化する可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/5dd4/live/ee156d40-80df-11f1-926f-c90d1bcfbc84.jpg",
+      "url": "https://www.bbc.com/news/articles/c5y680w62wno",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "英国の鉄鋼メーカーが国有化",
+      "summary": "英国政府は今週可決された新しい権限に基づき、スカンソープ製鉄所を正式に国有化した。これは重要な国内供給網を保護するための措置である。",
+      "impact": "政府の介入により当該工場の供給体制が安定する可能性がある一方で、公共資金による経営に対する議論が起こる可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/pu3h3rl5/production/61dfa8f019d1a62c96f4a72bfb734ede527e0c90-1920x1080.gif?rect=0,39,1920,1003&amp;w=1200&amp;h=627&amp;fit=crop&amp;auto=format",
+      "url": "https://www.pigeonsandplanes.com/read/music-piracy-what-cd-oink-nine-inch-nails-streaming",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "音楽海賊版がもたらした失われた喜び",
+      "summary": "音楽配信サービスが一般的になる中で、かつて存在したWhat.CDやOinkのような音楽コミュニティと、そこでの海賊版共有の体験が振り返られている。",
+      "impact": "ストリーミング全盛の現代において、かつての音楽収集やコミュニティ体験が再び注目を集める可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://joinedanthropic.com",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-16T21:31:10.302123+09:00",
+      "title": "YC出身創業者の現在の所属先：OpenAIやAnthropicが多数",
+      "summary": "Yコンビネーター（YC）出身の創業者105人が、その後OpenAIやAnthropicへ移籍するまでの経緯をまとめた時系列データが公開された。これには、創業者が過去に所属したYCのバッチの情報が含まれている。",
+      "impact": "大手AI企業にYC出身の起業家が集中している実態が明らかになったことで、今後のAI業界における人的ネットワークや技術革新のトレンドを分析する上での重要な指標となる可能性がある。",
+      "content_at": "2026-07-16T21:31:10.302123+09:00"
     }
   ],
-  "updated_at": "2026-07-16T13:31:11.279412+09:00"
+  "updated_at": "2026-07-16T21:31:10.302123+09:00"
 }
