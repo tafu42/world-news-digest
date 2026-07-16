@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-17",
     "2026-07-16",
     "2026-07-15",
     "2026-07-14",
@@ -24,11 +25,41 @@
     "2026-06-25"
   ],
   "manifest": {
-    "2026-07-16": [
+    "2026-07-17": [
       {
-        "u": "https://www.theguardian.com/technology/2026/jul/15/elon-musk-wisconsin-election-payments",
-        "c": "2026-07-16T06:31:15.145480+09:00"
+        "u": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
+        "c": "2026-07-17T06:30:53.691652+09:00"
       },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
+        "c": "2026-07-17T06:30:53.691652+09:00"
+      },
+      {
+        "u": "https://www.kimi.com/blog/kimi-k3",
+        "c": "2026-07-17T06:30:53.691652+09:00"
+      },
+      {
+        "u": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+        "c": "2026-07-17T06:30:53.691652+09:00"
+      },
+      {
+        "u": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+        "c": "2026-07-17T06:30:53.691652+09:00"
+      },
+      {
+        "u": "https://www.mixfont.com/experiments/decoy-font",
+        "c": "2026-07-17T06:30:53.691652+09:00"
+      },
+      {
+        "u": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+        "c": "2026-07-17T06:30:53.691652+09:00"
+      },
+      {
+        "u": "https://www.science.org/doi/10.1126/science.aea9708",
+        "c": "2026-07-17T06:30:53.691652+09:00"
+      }
+    ],
+    "2026-07-16": [
       {
         "u": "https://thinkingmachines.ai/news/introducing-inkling/",
         "c": "2026-07-16T06:31:15.145480+09:00"

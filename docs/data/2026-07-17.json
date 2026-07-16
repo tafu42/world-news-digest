@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-17",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/31ad85e820ffc4f4dbd840c33fc3892569e0bc8f/162_0_6792_5435/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "Kalshi、薬の臨床試験結果とFDAの規制判断への賭けを提供へ",
+      "summary": "予測プラットフォームの人気が高まる中、Kalshiが薬の治験結果や米食品医薬品局（FDA）の規制決定を賭けの対象とする。あらゆる出来事を賭けの対象とする動きが加速している。",
+      "impact": "投資家や一般人が規制当局の判断や科学的成果に対して金銭的な立場をとるようになることで、市場の予測精度が高まる可能性がある一方で、情報の取扱いに関する新たな倫理的議論が生じる可能性がある。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/78df403265afd2025881ed7e6dd1289ff1c26f35/88_0_3162_2530/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "豪州首相がAIオフィスを設立、クリエイターの著作権保護を誓約",
+      "summary": "アルバニージー首相はAIオフィスを新設し、テクノロジー企業によるオーストラリアのデータ無断利用を拒否する姿勢を示した。データセンター開発計画とともに、クリエイターの著作権を保護する方針を掲げた。",
+      "impact": "豪州国内のコンテンツ産業が保護される一方、AI開発企業が豪州でのデータ利用において厳しい制約を受ける可能性がある。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.kimi.com/blog/kimi-k3",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "Kimi K3: オープン・フロンティア・インテリジェンス",
+      "summary": "「Kimi K3: Open Frontier Intelligence」が発表された。",
+      "impact": "今後のAI技術の発展と公開状況により、開発エコシステムや競合するAIモデルの動向に影響を与える可能性がある。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    },
+    {
+      "image": "https://opensource.microsoft.com/blog/wp-content/uploads/2026/07/Microsoft365-FY26-Consumer-C2-ArtStudio-2749-RGB-scaled.jpg",
+      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "Microsoft Comic Chatがオープンソース化",
+      "summary": "MicrosoftのComic Chatがオープンソースとして公開された。このIRCクライアントは、会話をコミック形式に変換する機能で知られ、Comic Sansフォントの普及にも貢献した。",
+      "impact": "レトロなソフトウェアのコードが公開されることで、ソフトウェア開発史の研究や当時の技術を応用した新しいツール開発が進む可能性がある。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    },
+    {
+      "image": "https://files.lmstudio.ai/bionic/lm-studio-bionic-og.jpg",
+      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "オープンモデル向けAIエージェント「LM Studio Bionic」",
+      "summary": "LM Studio Bionicは、オープンモデルを利用してタスクを実行するために開発されたAIエージェントである。",
+      "impact": "オープンソースモデルの利便性が向上し、開発者によるAIエージェントの活用が進む可能性がある。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    },
+    {
+      "image": "https://static.mixfont.com/assets/20260715-083635-decoy-font-og-ctfx685m.webp",
+      "url": "https://www.mixfont.com/experiments/decoy-font",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "AIの読み取りを阻害する「Decoy Font」",
+      "summary": "Decoy Fontは、文字に偽の要素を組み合わせることで、AIによるテキストの読み取りを困難にするフォントである。ユーザーはメッセージを入力して試すことや、TTF形式でダウンロードができる。",
+      "impact": "AIによるデータ収集や自動処理を制限する手段として、プライバシー保護の観点から利用される可能性がある。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    },
+    {
+      "image": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6/opengraph-image-yqks0s?3313ef8f7f360358",
+      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "AIによるミュージックビデオ制作の比較実験",
+      "summary": "「Claude Fable 5」と「GPT-5.6 Sol」という2つのAIモデルに、予算とツールを与えて自律的にミュージックビデオを制作させる比較が行われた。",
+      "impact": "AIの自律的な映像制作能力が向上することで、低コストで高品質なコンテンツ制作が普及する可能性がある。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/doi/10.1126/science.aea9708",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-17T06:30:53.691652+09:00",
+      "title": "居住可能圏にある岩石惑星からのヘリウム流出を確認",
+      "summary": "居住可能圏に位置する近隣の岩石惑星の大気から、ヘリウムが宇宙空間へ流出していることが確認された。",
+      "impact": "惑星の大気の構成や維持メカニズムの理解が進むことで、系外惑星における生命居住可能性の研究に新たな知見をもたらすと考えられる。",
+      "content_at": "2026-07-17T06:30:53.691652+09:00"
+    }
+  ],
+  "updated_at": "2026-07-17T06:30:53.691652+09:00"
+}
