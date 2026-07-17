@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-18",
     "2026-07-17",
     "2026-07-16",
     "2026-07-15",
@@ -25,15 +26,49 @@
     "2026-06-25"
   ],
   "manifest": {
+    "2026-07-18": [
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://goliath32.com/blog/z80.html",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://isene.org/2026/07/Frame.html",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://simonwillison.net/2026/Jul/16/kimi-k3/",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      },
+      {
+        "u": "https://improvesomething.today/responses-to-problems/",
+        "c": "2026-07-18T06:30:49.289913+09:00"
+      }
+    ],
     "2026-07-17": [
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
-        "c": "2026-07-17T06:30:53.691652+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
-        "c": "2026-07-17T06:30:53.691652+09:00"
-      },
       {
         "u": "https://www.kimi.com/blog/kimi-k3",
         "c": "2026-07-17T06:30:53.691652+09:00"

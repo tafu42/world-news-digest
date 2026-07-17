@@ -2,28 +2,6 @@
   "date": "2026-07-17",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/31ad85e820ffc4f4dbd840c33fc3892569e0bc8f/162_0_6792_5435/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-17T06:30:53.691652+09:00",
-      "title": "Kalshi、薬の臨床試験結果とFDAの規制判断への賭けを提供へ",
-      "summary": "予測プラットフォームの人気が高まる中、Kalshiが薬の治験結果や米食品医薬品局（FDA）の規制決定を賭けの対象とする。あらゆる出来事を賭けの対象とする動きが加速している。",
-      "impact": "投資家や一般人が規制当局の判断や科学的成果に対して金銭的な立場をとるようになることで、市場の予測精度が高まる可能性がある一方で、情報の取扱いに関する新たな倫理的議論が生じる可能性がある。",
-      "content_at": "2026-07-17T06:30:53.691652+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/78df403265afd2025881ed7e6dd1289ff1c26f35/88_0_3162_2530/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/15/office-of-ai-artificial-intelligence-copyright-australia-government",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-17T06:30:53.691652+09:00",
-      "title": "豪州首相がAIオフィスを設立、クリエイターの著作権保護を誓約",
-      "summary": "アルバニージー首相はAIオフィスを新設し、テクノロジー企業によるオーストラリアのデータ無断利用を拒否する姿勢を示した。データセンター開発計画とともに、クリエイターの著作権を保護する方針を掲げた。",
-      "impact": "豪州国内のコンテンツ産業が保護される一方、AI開発企業が豪州でのデータ利用において厳しい制約を受ける可能性がある。",
-      "content_at": "2026-07-17T06:30:53.691652+09:00"
-    },
-    {
       "image": "",
       "url": "https://www.kimi.com/blog/kimi-k3",
       "category": "海外IT",
