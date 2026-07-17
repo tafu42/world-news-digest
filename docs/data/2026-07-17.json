@@ -121,7 +121,51 @@
       "summary": "2024年版のUSB Type-Cに関するエンジニア向けガイドが公開された。",
       "impact": "USB Type-Cの技術仕様や実装に関する正確な情報がエンジニアに共有されることで、関連する機器の開発や設計が円滑化されると考えられる。",
       "content_at": "2026-07-17T13:30:48.668041+09:00"
+    },
+    {
+      "image": "https://www.kaggle.com/open-graph/images/Competitions/128852",
+      "url": "https://www.kaggle.com/competitions/kaggle-measuring-agi/discussion/724918#3498423",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-17T21:30:50.642464+09:00",
+      "title": "DeepMindのKaggleコンペでAI生成コンテンツが優勝",
+      "summary": "フロンティアモデルの推論や判断能力を評価するベンチマークを作成するDeepMindのKaggleコンペにおいて、AI生成コンテンツが2万5000ドルの賞金を獲得した。この結果は、AIによる回答の質や評価手法に関する議論を呼んでいる。",
+      "impact": "AI生成物の評価基準が再検討される可能性がある。また、AIが生成したコンテンツの正当性やコンペの在り方について業界内で議論が深まることが予想される。",
+      "content_at": "2026-07-17T21:30:50.642464+09:00"
+    },
+    {
+      "image": "https://journals.plos.org/plosbiology/article/figure/image?id=10.1371/journal.pbio.3003876.g004&size=inline",
+      "url": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3003876",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-17T21:30:50.642464+09:00",
+      "title": "脳が同時に二つの音声ストリームを処理する仕組みを解明",
+      "summary": "脳が複数の音声の中から注意を切り替える際の神経活動を調査した研究で、新しい話し手への追跡が現在の話し手から離れる前に開始されることが判明した。この過程では、過渡的な二重エンコーディングとアルファ波の減少が聴覚情報の柔軟な処理を支えている。",
+      "impact": "この知見は、騒音環境下での聴覚障害の理解や、補聴器などの聴覚支援技術の向上に寄与する可能性がある。",
+      "content_at": "2026-07-17T21:30:50.642464+09:00"
+    },
+    {
+      "image": "https://repebble.com/assets/pebble-mega-update-july-2026-0-cleanshot_2026-07-14_at_07.14.362x-social.jpg",
+      "url": "https://repebble.com/blog/pebble-mega-update-july-2026",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-17T21:30:50.642464+09:00",
+      "title": "Pebble 2026年7月度のメガアップデート",
+      "summary": "Pebbleに関する2026年7月度のメガアップデートが公開された。",
+      "impact": "利用者にとって製品の最新情報や機能改善を確認する機会となる。",
+      "content_at": "2026-07-17T21:30:50.642464+09:00"
+    },
+    {
+      "image": "https://th-thumbnailer.cdn-si-edu.com/ZudUQfnkrl8Fi4cI7JTX8GvHVxo=/fit-in/1600x0/filters:focal(1024x683:1025x684)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/f8/ef/f8ef2bbf-1984-46d7-9fba-cb9324c82871/3917.jpg",
+      "url": "https://www.smithsonianmag.com/smart-news/how-has-roman-concrete-lasted-for-millennia-a-1900-year-old-latrine-offers-new-clues-about-the-materials-impressive-durability-180989115/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-17T21:30:50.642464+09:00",
+      "title": "古代ローマのコンクリートが長持ちする理由、1900年前の公衆トイレから判明",
+      "summary": "1900年前のローマの公衆トイレの調査により、ひび割れを埋める「炭酸化」という化学プロセスが建物の耐久性に寄与していることがわかった。研究者はこの知見を現代の建築材料の改良に活かしたいと考えている。",
+      "impact": "この研究成果は、より長寿命で持続可能な現代の建築資材を開発する上で重要なヒントになるとみられる。",
+      "content_at": "2026-07-17T21:30:50.642464+09:00"
     }
   ],
-  "updated_at": "2026-07-17T13:30:48.668041+09:00"
+  "updated_at": "2026-07-17T21:30:50.642464+09:00"
 }

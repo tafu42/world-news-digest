@@ -123,50 +123,6 @@
       "content_at": "2026-07-16T13:31:11.279412+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/52eaaa0384fb38525ab7ae6446576a28de1033a0/645_0_3606_2885/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
-      "category": "テクノロジー",
-      "time": "21:31",
-      "collected_at": "2026-07-16T21:31:10.302123+09:00",
-      "title": "ロンドンの交通ネットワークを攻撃したハッカー2人に実刑判決",
-      "summary": "ロンドン交通局に3900万ポンドの損害を与えたサイバー攻撃を行ったとして、20歳と19歳のハッカーがそれぞれ5年半の禁錮刑を言い渡された。",
-      "impact": "公共インフラに対するサイバー攻撃への厳罰化が進むことで、重要インフラを狙う犯罪の抑止につながる可能性がある。",
-      "content_at": "2026-07-16T21:31:10.302123+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/7be389f39c0b867db9a13fbe8f10e9a4d8f47f29/468_0_4680_3744/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
-      "category": "テクノロジー",
-      "time": "21:31",
-      "collected_at": "2026-07-16T21:31:10.302123+09:00",
-      "title": "英規制当局、TikTokの年齢確認体制を調査へ",
-      "summary": "TikTokの年齢確認機能が不十分で、子どもが自傷行為や自殺に関連する投稿を目にするリスクがあるとして、英通信庁が懸念を表明し調査を開始した。",
-      "impact": "調査の結果次第では、プラットフォーム運営各社に対して、より厳格な年齢制限やコンテンツ監視体制の構築が義務付けられる可能性がある。",
-      "content_at": "2026-07-16T21:31:10.302123+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/f320a10eaf41733cd7e8c1645640db16e64dd685/204_0_1250_1000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/uber-buy-germany-delivery-hero-148bn-global-deal",
-      "category": "テクノロジー",
-      "time": "21:31",
-      "collected_at": "2026-07-16T21:31:10.302123+09:00",
-      "title": "Uberがドイツのデリバリーヒーローを148億ドルで買収",
-      "summary": "Uberは、99カ国でフードデリバリー事業を展開するデリバリーヒーローを買収する契約を148億ドルで締結した。この取引により、Uber Eatsの事業拡大とタクシーサービスの提供範囲拡大が見込まれる。",
-      "impact": "フードデリバリー業界の世界的な再編が加速し、市場での競争環境が大きく変化する可能性がある。",
-      "content_at": "2026-07-16T21:31:10.302123+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/c1f65fac6b8a7f109e61bc731e7d728fa93be1be/864_0_4318_3455/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/14/meta-ai-mass-layoffs-lawsuit",
-      "category": "テクノロジー",
-      "time": "21:31",
-      "collected_at": "2026-07-16T21:31:10.302123+09:00",
-      "title": "MetaがAIを使って休職者を解雇対象に選別したとの訴訟",
-      "summary": "Metaの元従業員数十人が、産休や傷病休暇を取得した従業員が不当に解雇対象として選別されたとして同社を提訴した。原告側は、同社がAIを用いてこれら休職者を識別したと主張している。",
-      "impact": "企業がAIを用いた人事評価や解雇選定を行う際の法的・倫理的基準が問われており、今後テクノロジー活用に関する新たな指針が求められる可能性がある。",
-      "content_at": "2026-07-16T21:31:10.302123+09:00"
-    },
-    {
       "image": "https://community.oneplus.com/oneplus.png",
       "url": "https://community.oneplus.com/thread/2170715118587871237",
       "category": "海外IT",
