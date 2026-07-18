@@ -1,5 +1,6 @@
 {
   "dates": [
+    "2026-07-19",
     "2026-07-18",
     "2026-07-17",
     "2026-07-16",
@@ -26,23 +27,33 @@
     "2026-06-25"
   ],
   "manifest": {
+    "2026-07-19": [
+      {
+        "u": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+        "c": "2026-07-19T06:30:45.598987+09:00"
+      },
+      {
+        "u": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+        "c": "2026-07-19T06:30:45.598987+09:00"
+      },
+      {
+        "u": "https://haxxorwpm.0s.is/",
+        "c": "2026-07-19T06:30:45.598987+09:00"
+      },
+      {
+        "u": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+        "c": "2026-07-19T06:30:45.598987+09:00"
+      },
+      {
+        "u": "https://ykdojo.github.io/claude-controls-mac/",
+        "c": "2026-07-19T06:30:45.598987+09:00"
+      },
+      {
+        "u": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+        "c": "2026-07-19T06:30:45.598987+09:00"
+      }
+    ],
     "2026-07-18": [
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
-        "c": "2026-07-18T06:30:49.289913+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
-        "c": "2026-07-18T06:30:49.289913+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
-        "c": "2026-07-18T06:30:49.289913+09:00"
-      },
-      {
-        "u": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
-        "c": "2026-07-18T06:30:49.289913+09:00"
-      },
       {
         "u": "https://goliath32.com/blog/z80.html",
         "c": "2026-07-18T06:30:49.289913+09:00"

@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-19",
+  "articles": [
+    {
+      "image": "https://repository-images.githubusercontent.com/867866058/0fd49719-61f4-4a3d-bb6f-eda467526a0c",
+      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-19T06:30:45.598987+09:00",
+      "title": "500kb未満の音声認識およびTTS技術",
+      "summary": "音声エージェントやインターフェース構築向けの、超低遅延な音声認識・意図理解・音声合成技術である。moonshine-ai/moonshineによって公開された。",
+      "impact": "軽量な音声対話システムの開発が促進され、リソースの限られたデバイスでの音声操作が普及する可能性がある。",
+      "content_at": "2026-07-19T06:30:45.598987+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-19T06:30:45.598987+09:00",
+      "title": "GPT-5.6が凸最適化における30年越しの課題を解決",
+      "summary": "GPT-5.6がプロンプトを用いることで、凸最適化分野における30年来のギャップを埋める成果を上げた。",
+      "impact": "AIが科学的な難問の解決に寄与する事例として、研究開発プロセスにおいてAIを活用する動きが加速するとみられる。",
+      "content_at": "2026-07-19T06:30:45.598987+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://haxxorwpm.0s.is/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-19T06:30:45.598987+09:00",
+      "title": "開発者のためのタイピング速度テスト",
+      "summary": "開発者に特化したタイピング速度テストである。",
+      "impact": "プログラミングスキルの習得やコーディングの効率化を目的としたトレーニングツールとして利用される可能性がある。",
+      "content_at": "2026-07-19T06:30:45.598987+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!L0xO!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fbb128a68-b1f1-44c9-8d42-a01d689ca8c8_1554x908.png",
+      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-19T06:30:45.598987+09:00",
+      "title": "作れば、彼らはやってくる",
+      "summary": "対象となる記事のリード文に情報が記載されていないため、内容を要約できない。",
+      "impact": "内容が不明なため、社会への影響を予測することは困難である。",
+      "content_at": "2026-07-19T06:30:45.598987+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-19T06:30:45.598987+09:00",
+      "title": "予備のMacをClaude Codeで遠隔操作するための設定ガイド",
+      "summary": "予備のMacをClaude Codeが常時制御できる環境にするための手順を解説している。スマートフォンや別のMacからSSH経由で操作が可能になる。",
+      "impact": "開発者などが余ったハードウェアを有効活用し、リモート環境から効率的にコーディングや操作を行う手段として利用される可能性がある。",
+      "content_at": "2026-07-19T06:30:45.598987+09:00"
+    },
+    {
+      "image": "https://i0.wp.com/mssv.net/wp-content/uploads/2026/04/assembled-no-case.webp?fit=1200%2C900&#038;ssl=1",
+      "url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-19T06:30:45.598987+09:00",
+      "title": "ソーラーパンクをテーマにしたオリエンテーリングLarp「Strandfall」の制作",
+      "summary": "「Strandfall」というソーラーパンクを題材にしたオリエンテーリング形式のLarp（ライブアクション・ロールプレイング）を制作している。現実世界とデジタル世界を融合させる試みである。",
+      "impact": "現実空間とゲーム要素を掛け合わせた新しい遊びとして、特定のコミュニティやイベントにおける体験の幅を広げる可能性がある。",
+      "content_at": "2026-07-19T06:30:45.598987+09:00"
+    }
+  ],
+  "updated_at": "2026-07-19T06:30:45.598987+09:00"
+}

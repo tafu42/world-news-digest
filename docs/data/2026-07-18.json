@@ -2,50 +2,6 @@
   "date": "2026-07-18",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/35495f0dd1b9129c03e46d642ea7a4a6b50664ca/509_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-18T06:30:49.289913+09:00",
-      "title": "米上院議員、メタ社が内部告発者を破産させようとしていると非難",
-      "summary": "共和党のジョシュ・ホーリー上院議員は、マーク・ザッカーバーグ氏率いるメタ社が、内部告発者のサラ・ウィン＝ウィリアムズ氏を執拗に追及し、破産させようとしていると非難した。",
-      "impact": "巨大IT企業による内部告発者への対応が問題視され、企業統治や言論の自由に関する議論が活発化する可能性がある。",
-      "content_at": "2026-07-18T06:30:49.289913+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ad093e8329a29aecba6f1623b63fcffeb49c4113/368_0_3879_3106/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-18T06:30:49.289913+09:00",
-      "title": "AWSのシステム障害、顧客に最大1.5兆ドルの請求書が誤送付される",
-      "summary": "Amazon Web Services（AWS）で発生した世界的規模の障害により、一部の顧客に最大1.5兆ドルもの誤った請求書が送付された。英国の男性は、通常1ポンド未満の請求額が58億ポンドと表示され驚愕したと語った。",
-      "impact": "クラウドサービスの信頼性に対する懸念が広まり、システムの安全性向上と誤請求への適切な対応が求められると考えられる。",
-      "content_at": "2026-07-18T06:30:49.289913+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/7be389f39c0b867db9a13fbe8f10e9a4d8f47f29/468_0_4680_3744/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-18T06:30:49.289913+09:00",
-      "title": "TikTok、英当局が未成年者の保護について調査へ",
-      "summary": "英国の放送通信庁（Ofcom）は、TikTokの年齢確認機能が不十分であるとして調査を開始した。未成年者が自殺や自傷行為、ポルノなどの有害なコンテンツにさらされる懸念が指摘されている。",
-      "impact": "若年層の保護を目的としたソーシャルメディアへの規制が英国で強化される可能性がある。",
-      "content_at": "2026-07-18T06:30:49.289913+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/52eaaa0384fb38525ab7ae6446576a28de1033a0/645_0_3606_2885/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/hackers-2024-cyber-attack-transport-for-london-tfl-jailed",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-18T06:30:49.289913+09:00",
-      "title": "ロンドンの交通網を標的にしたハッカー2名に実刑判決",
-      "summary": "ロンドン交通局（TfL）へのサイバー攻撃を実行した20歳と19歳のハッカーに対し、各5年半の実刑判決が言い渡された。この攻撃による被害額は3900万ポンドに上る。",
-      "impact": "重要インフラに対するサイバー犯罪への厳罰化が強調されるとともに、組織のセキュリティ体制強化に向けた取り組みが加速するとみられる。",
-      "content_at": "2026-07-18T06:30:49.289913+09:00"
-    },
-    {
       "image": "",
       "url": "https://goliath32.com/blog/z80.html",
       "category": "海外IT",
