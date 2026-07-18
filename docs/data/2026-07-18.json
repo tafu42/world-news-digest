@@ -110,7 +110,62 @@
       "summary": "問題に直面した際、解決以外の手段として選択される3つの反応パターンについての言及があった。コンサルタントがこれらの反応にどう向き合うかが示されている。",
       "impact": "ビジネス現場における問題解決のプロセスにおいて、解決以外の反応を理解することで、コンサルタントの対応力が向上する可能性がある。",
       "content_at": "2026-07-18T06:30:49.289913+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/31ad85e820ffc4f4dbd840c33fc3892569e0bc8f/162_0_6792_5435/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/kalshi-betting-drug-trial-results",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-18T13:30:46.228729+09:00",
+      "title": "Kalshiが医薬品治験結果やFDAの規制決定への賭けを提供へ",
+      "summary": "予測プラットフォームの人気が高まる中、Kalshiは医薬品の治験結果やFDAの規制決定を賭けの対象に加える。あらゆる事象を対象とする賭けの機会を提供する動きである。",
+      "impact": "金融市場における予測市場の役割が拡大し、医療業界の意思決定や規制プロセスに投資家心理が反映される可能性がある。",
+      "content_at": "2026-07-18T13:30:46.228729+09:00"
+    },
+    {
+      "image": "https://i0.wp.com/localnewsmatters.org/wp-content/uploads/2026/07/LNM-20260713-MATTERSKAISER-01.jpg?fit=2000%2C1333&ssl=1",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-18T13:30:46.228729+09:00",
+      "title": "カイザー・パーマネンテの看護師らがAIや職場監視を批判",
+      "summary": "電話相談やトリアージを担当するカイザー・パーマネンテの看護師らは、職場でのAI活用や監視が患者へのケアに悪影響を及ぼしていると主張している。業務の質と患者への責任あるケアが脅かされているという訴えである。",
+      "impact": "医療現場へのAI導入や監視技術の運用に対し、従業員が権利保護を求める動きが強まる可能性がある。",
+      "content_at": "2026-07-18T13:30:46.228729+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://moonstone.sh/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-18T13:30:46.228729+09:00",
+      "title": "Zigで記述されたクロスプラットフォームのLuaランタイム「Moonstone」",
+      "summary": "「Moonstone」は、プログラミング言語Zigで開発された、現代的かつクロスプラットフォームに対応したLuaランタイムおよびパッケージマネージャーである。",
+      "impact": "Luaを利用する開発者にとって、より効率的で開発環境に適したツールが提供されることで、開発の柔軟性が向上する可能性がある。",
+      "content_at": "2026-07-18T13:30:46.228729+09:00"
+    },
+    {
+      "image": "/static/og-image.png",
+      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-18T13:30:46.228729+09:00",
+      "title": "ノートを使い捨てにする「ダート・ノートブック」の実践",
+      "summary": "執筆者はノートを大切にしすぎて汚せないという悩みを抱えていた。その解決策として、ノートを雑に扱う「ダート・ノートブック」を始めることにした。",
+      "impact": "ノートを記録の手段として気兼ねなく活用する一つの手法として、同様の悩みを持つ個人に心理的な変化をもたらす可能性がある。",
+      "content_at": "2026-07-18T13:30:46.228729+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/b109ed0a1ab99434f27464484d7cbd39236dfe5e7e536c7abac1559e66d49512/BadChemical/IoT-Vulnerability-Research-Public",
+      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-18T13:30:46.228729+09:00",
+      "title": "TP-Link Kasaカメラ、6年間にわたり認証なしのUDP経由でGPS情報を漏洩",
+      "summary": "IoT機器の脆弱性研究を行っているBadChemical氏により、TP-Link Kasaカメラが6年間にわたって認証なしのUDP通信でGPS情報を送信していたことが公表された。この問題は、ファームウェア分析や暗号化の欠陥を検証するプロセスの中で明らかになった。",
+      "impact": "利用者の詳細な位置情報が外部から取得されるリスクがあったと考えられ、プライバシー侵害の可能性がある。メーカーは修正パッチやセキュリティ対策の強化を迅速に行う必要があるとみられる。",
+      "content_at": "2026-07-18T13:30:46.228729+09:00"
     }
   ],
-  "updated_at": "2026-07-18T06:30:49.289913+09:00"
+  "updated_at": "2026-07-18T13:30:46.228729+09:00"
 }
