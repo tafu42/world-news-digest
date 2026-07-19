@@ -136,6 +136,100 @@ html, body {
   padding: 3px 10px;
   border-radius: 999px;
 }
+/* 保存タブで「いつの記事か」を示す日付チップ */
+.card .date-chip {
+  font-size: 0.72rem;
+  font-weight: bold;
+  color: #cfd8e3;
+  background: rgba(255, 255, 255, 0.14);
+  padding: 3px 10px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+/* Guardian保存記事は24時間で消える旨の注意チップ */
+.card .expiry-chip {
+  font-size: 0.72rem;
+  font-weight: bold;
+  color: #ffcf8a;
+  background: rgba(251, 140, 0, 0.18);
+  padding: 3px 10px;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+/* 記事タブに残したまま既読になった記事の印（控えめに） */
+.card .read-mark {
+  font-size: 0.72rem;
+  font-weight: bold;
+  color: #9a9aab;
+  background: rgba(255, 255, 255, 0.10);
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+/* しおりボタン（後で見る）。カード右端に寄せる */
+.card .save-btn {
+  margin-left: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34px;
+  height: 34px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: transparent;
+  color: rgba(255, 255, 255, 0.55);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  transition: color 0.15s, background 0.15s, transform 0.1s;
+}
+.card .save-btn svg {
+  width: 20px;
+  height: 20px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linejoin: round;
+}
+.card .save-btn:active { transform: scale(0.86); }
+.card .save-btn:hover { background: rgba(255, 255, 255, 0.08); color: #fff; }
+.card .save-btn.saved { color: #FFD54F; }
+.card .save-btn.saved svg { fill: currentColor; }
+
+/* 先頭に戻るボタン（下まで読み進めた時だけ出る） */
+.to-top {
+  position: absolute;
+  right: 14px;
+  bottom: 78px;
+  width: 44px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: rgba(30, 136, 229, 0.92);
+  color: #fff;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.45);
+  cursor: pointer;
+  z-index: 6;
+  -webkit-tap-highlight-color: transparent;
+  transition: opacity 0.2s, transform 0.1s;
+}
+.to-top svg {
+  width: 22px;
+  height: 22px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+.to-top:active { transform: scale(0.9); }
+.to-top.hidden {
+  opacity: 0;
+  pointer-events: none;
+}
 
 /* 日本語化が未完了（原文を暫定表示中）のお知らせ */
 .card .pending {

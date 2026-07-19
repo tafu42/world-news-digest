@@ -13,14 +13,19 @@
       <select id="dateSelect" aria-label="日付を選択"></select>
     </header>
 
-    <nav class="tabs" id="tabs" aria-label="未読・既読の切り替え">
-      <button data-tab="unread" class="active">未読<span class="badge hidden" id="unreadBadge">0</span></button>
+    <nav class="tabs" id="tabs" aria-label="記事・既読・保存の切り替え">
+      <button data-tab="unread" class="active">記事<span class="badge hidden" id="unreadBadge">0</span></button>
       <button data-tab="read">既読</button>
+      <button data-tab="saved">保存</button>
     </nav>
 
     <div id="feed" class="feed">
       <p class="loading">読み込み中…</p>
     </div>
+
+    <button class="to-top hidden" id="toTop" aria-label="先頭の記事に戻る" title="先頭に戻る">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 19V5M5 12l7-7 7 7"/></svg>
+    </button>
 
     <div class="hint" id="hint">⬆ スワイプで次の記事</div>
     <div class="credit">Powered by <a href="https://www.theguardian.com/" target="_blank" rel="noopener">The Guardian</a> &amp; <a href="https://news.ycombinator.com/" target="_blank" rel="noopener">Hacker News</a></div>

@@ -319,10 +319,21 @@ def hn_fetch(count):
     return items
 
 
+# 直近の収集で Guardian が生で何件取れたか（重複除外の前）。
+# 0 なら供給源が死んでいる合図。以前ここが1週間ほど0のまま気づけなかったので監視する。
+_guardian_raw = [0]
+
+
 def collect(seen_urls):
     new_articles = []
-    # Guardian テクノロジー
-    for a in guardian_fetch(TOP_SECTION, TOP_COUNT):
+    # Guardian テクノロジー。落ちても Hacker News の収集は続ける（道連れ防止）。
+    try:
+        guardian_items = guardian_fetch(TOP_SECTION, TOP_COUNT)
+    except Exception as e:
+        note_error(e)
+        guardian_items = []
+    _guardian_raw[0] = len(guardian_items)
+    for a in guardian_items:
         if not a['url'] or a['url'] in seen_urls:
             continue
         a['category'] = TOP_CATEGORY
@@ -368,10 +379,21 @@ def known_urls(dates):
     return urls
 
 
+def _epoch(iso):
+    """ISO時刻をエポック秒にする（31文字 → 10桁）。比較にしか使わないので秒で十分。"""
+    if not iso:
+        return 0
+    try:
+        return int(datetime.fromisoformat(iso).timestamp())
+    except ValueError:
+        return 0
+
+
 def rebuild_index():
     """日付一覧と、軽量マニフェスト（各日の記事の url と content_at だけ）を書き出す。
     画面側はこの1ファイルだけで日付ごとの未読数バッジを計算できる（中身は開いた日だけ取得）。
-    u=url, c=content_at（内容が確定した時刻。読了後に更新されたら未読へ戻す判定に使う）。"""
+    毎回読み込まれるファイルなので、content_at はエポック秒に縮め、整形用の空白も入れない。
+    （URLはHN経由で数百ホストに散らばり共通接頭辞が無いので、そのまま持つ）。"""
     dates = [n[:-5] for n in os.listdir(DATA_DIR)
              if n.endswith('.json') and n != 'index.json']
     dates.sort(reverse=True)
@@ -380,11 +402,12 @@ def rebuild_index():
         try:
             with open(date_path(d), 'r', encoding='utf-8') as f:
                 arts = json.load(f).get('articles', [])
-            manifest[d] = [{'u': a.get('url', ''), 'c': a.get('content_at', '')} for a in arts]
+            manifest[d] = [{'u': a.get('url', ''), 'c': _epoch(a.get('content_at', ''))} for a in arts]
         except Exception:
             manifest[d] = []
     with open(INDEX_FILE, 'w', encoding='utf-8') as f:
-        json.dump({'dates': dates, 'manifest': manifest}, f, ensure_ascii=False, indent=2)
+        json.dump({'dates': dates, 'manifest': manifest}, f,
+                  ensure_ascii=False, separators=(',', ':'))
 
 
 def cleanup_old_days():
@@ -532,6 +555,13 @@ def main():
     expire_guardian()
     cleanup_old_days()
     rebuild_index()
+
+    # Guardianが生で0件＝供給源の異常（APIキーの期限・上限、一時障害など）。
+    # 新着ゼロで早期returnする前に、必ずここで警告する（静かに壊れ続けるのを防ぐ）。
+    if _guardian_raw[0] == 0:
+        line_alert('⚠️ Guardianの記事が取得できませんでした（今回の収集で0件）。\n'
+                   'APIキーの期限・上限、または一時障害の可能性があります。\n'
+                   'Hacker Newsの記事だけで更新されています。')
 
     if not new_articles and not changed_today and not changed_yday:
         print('新着なし・改善なし。')
