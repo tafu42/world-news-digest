@@ -66,7 +66,95 @@
       "summary": "「Strandfall」というソーラーパンクを題材にしたオリエンテーリング形式のLarp（ライブアクション・ロールプレイング）を制作している。現実世界とデジタル世界を融合させる試みである。",
       "impact": "現実空間とゲーム要素を掛け合わせた新しい遊びとして、特定のコミュニティやイベントにおける体験の幅を広げる可能性がある。",
       "content_at": "2026-07-19T06:30:45.598987+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/35495f0dd1b9129c03e46d642ea7a4a6b50664ca/509_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "米上院議員、メタ社が内部告発者を弾圧しようとしていると非難",
+      "summary": "共和党のジョシュ・ホーリー上院議員は、マーク・ザッカーバーグ氏率いるメタ社が内部告発者のサラ・ウィン＝ウィリアムズ氏を執拗に追及し、破産に追い込もうとしていると非難した。",
+      "impact": "同社の企業倫理に対する批判が高まり、内部告発者保護を巡る法的な議論や監視が強まる可能性がある。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ad093e8329a29aecba6f1623b63fcffeb49c4113/368_0_3879_3106/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "AWSでシステム障害、顧客に最大1.5兆ドルの誤請求が発生",
+      "summary": "世界的なシステム障害により、Amazon Web Servicesの顧客に対し、通常とはかけ離れた巨額の請求書が発行される事態となった。あるイギリス人男性は、普段は1ポンド未満の請求額に対し58億ポンドの請求を受け取った。",
+      "impact": "クラウドサービスの信頼性に一時的な懸念が生じる可能性がある。誤請求による混乱が収束するまで、該当企業には顧客への迅速な対応と補償が求められると考えられる。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/7be389f39c0b867db9a13fbe8f10e9a4d8f47f29/468_0_4680_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/tiktok-uk-investigation-ofcom-child-protection-self-harm-suicide",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "TikTok、年齢確認の不備と児童への有害な影響で英当局が調査へ",
+      "summary": "英通信局Ofcomは、TikTokの年齢確認機能が不十分であり、子供が自殺、自傷行為、ポルノ関連の投稿にさらされている懸念を表明した。現在、同社に対する調査が行われている。",
+      "impact": "調査の結果次第では、同社に対してより厳格な安全基準の導入や罰金などの措置がとられる可能性がある。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "Transcribe.cppについて",
+      "summary": "Transcribe.cppに関する情報である。",
+      "impact": "具体的な内容が明記されていないため、社会的な影響を予測することは困難である。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/597cada71c199c610b7e35f3758cdb37925b0d740d396e7af05e302fba89017f/stupside/castor",
+      "url": "https://github.com/stupside/castor",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "IPTVよりも優れ安価な動画キャストツール",
+      "summary": "Webページ上の動画を検出し、ストリームを抽出・変換してリアルタイムでテレビにキャストするツールである。字幕を焼き付ける機能も備えている。",
+      "impact": "既存のIPTVサービスの利用が減少する可能性がある。ユーザーは安価で柔軟な視聴環境を享受できると考えられる。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-approves-first-oral-pcsk9-inhibitor-lower-ldl-cholesterol-adults-high-cholesterol",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "FDAが新しいタイプのコレステロール治療薬を承認",
+      "summary": "米国食品医薬品局（FDA）が、新しい種類のコレステロール低下薬を承認した。",
+      "impact": "高コレステロール血症の治療選択肢が広がる可能性がある。患者の健康管理に新たな道が開かれるとみられる。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
+    },
+    {
+      "image": "https://static.scientificamerican.com/dam/asset/1caac706-e03e-4760-8ef0-cc5a554737df/GettyImages-168351286-math-chalkboard.jpeg?m=1783946841.043&w=1200",
+      "url": "https://www.scientificamerican.com/article/mathematicians-still-dont-know-the-fastest-way-to-multiply-numbers/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "数学における数値の高速乗算手法の未解明問題",
+      "summary": "23歳の学生が、数学の最も単純な演算の一つである乗算に関する古い予測を覆した。現在も乗算の最速手法については未解明のままである。",
+      "impact": "計算機科学のアルゴリズム最適化に影響を与える可能性がある。将来的に複雑な計算の効率化が進むことが期待される。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://amigafreeware.downer.tech/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-19T13:30:50.018709+09:00",
+      "title": "往年のAmiga向けゲームが無料でダウンロード可能に",
+      "summary": "かつての人気プラットフォームであるAmigaの古典的なタイトルが、無料でダウンロードできるようになった。",
+      "impact": "レトロゲームの愛好家にとってコンテンツへのアクセスが容易になる。当時のソフトウェア資産を保護・再評価する動きが促進される可能性がある。",
+      "content_at": "2026-07-19T13:30:50.018709+09:00"
     }
   ],
-  "updated_at": "2026-07-19T06:30:45.598987+09:00"
+  "updated_at": "2026-07-19T13:30:50.018709+09:00"
 }
