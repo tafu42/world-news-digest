@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-20",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/67b57494983948c140e7be703392fe6d49cac634/1085_0_6041_4833/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/18/tell-us-are-you-wearing-the-new-meta-glasses",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-20T06:30:52.242482+09:00",
+      "title": "Metaのスマートグラス利用者に対する調査依頼",
+      "summary": "Metaの新しいスマートグラスのユーザーに対し、使用方法や周囲の反応についての体験談を募集している。利用状況だけでなく、周囲に他人が同製品を着用していることに対する感情についても意見を求めている。",
+      "impact": "ウェアラブルデバイスの普及に伴い、プライバシーや公共の場でのマナーに関する社会的な議論が深まる可能性がある。",
+      "content_at": "2026-07-20T06:30:52.242482+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/084704b047341a565d01ac2d669e0f274dda5c13/335_0_4510_3610/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-20T06:30:52.242482+09:00",
+      "title": "Googleの従業員4,500名超がレイオフ対策を求めて署名運動",
+      "summary": "AIブームの中、Googleの従業員らがCEOのサンダー・ピチャイ氏に対し、レイオフからの保護を求める請願書を提出した。この請願には4,500名を超える署名が集まり、買い取りオプションの導入などが求められている。",
+      "impact": "テック業界におけるAIシフトに伴う雇用の不安定化が、従業員による労働環境改善要求を加速させる可能性がある。",
+      "content_at": "2026-07-20T06:30:52.242482+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-20T06:30:52.242482+09:00",
+      "title": "Windowsの起動が可能なIntel Itanium (IA-64) エミュレーターの登場",
+      "summary": "Windowsを起動できる新しいIntel Itanium (IA-64) アーキテクチャ用エミュレーターが公開された。",
+      "impact": "旧来のハードウェアで動作していたソフトウェアの移行や検証が容易になり、レガシーシステムの維持管理に貢献する可能性がある。",
+      "content_at": "2026-07-20T06:30:52.242482+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://justsomebody.dev/blog/mikrotik-home-router",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-20T06:30:52.242482+09:00",
+      "title": "ホームラボ導入事例：MikroTikをホームルーターとして活用",
+      "summary": "ホームラボ構築の第1弾として、MikroTik社製品をホームルーターとして利用する方法が紹介されている。",
+      "impact": "ネットワーク機器に関心のある個人ユーザーの間で、高機能な業務用機器を家庭環境へ導入する試みが広がる可能性がある。",
+      "content_at": "2026-07-20T06:30:52.242482+09:00"
+    },
+    {
+      "image": "https://www.minecraft.net/content/dam/minecraftnet/article-asset/2026/minecraft-26-3-snapshot-4/new-article-hero-image.jpg",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-20T06:30:52.242482+09:00",
+      "title": "Minecraft Java EditionがSDL3を採用",
+      "summary": "Minecraft 26.3 Snapshot 4において、Java EditionがSDL3を使用するようになった。本バージョンよりライブラリのアップデートが行われている。",
+      "impact": "ゲームの動作や周辺機器との互換性に変化が生じる可能性がある。",
+      "content_at": "2026-07-20T06:30:52.242482+09:00"
+    },
+    {
+      "image": "https://smolnero.com/social_previews/posts/the-zen-of-parallel-programming.png",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-20T06:30:52.242482+09:00",
+      "title": "並列プログラミングの禅：通信の本質",
+      "summary": "『An Introduction to Parallel Programming』を読み進める中で、プロセッサ間の通信と人間同士のコミュニケーション、そして自己の内部にある通信の間に共通点が見出されている。著者はこれらの通信の類似性に注目している。",
+      "impact": "並列処理の概念を人間関係や自己理解という多角的な視点から再考するきっかけとなる可能性がある。",
+      "content_at": "2026-07-20T06:30:52.242482+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-20T06:30:52.242482+09:00",
+      "title": "Claude CodeがRust版Bunを採用",
+      "summary": "6月17日にリリースされたClaude Code v2.1.181以降、Rustで書き直されたBunが採用されている。これによりスタートアップ速度が10%向上した。",
+      "impact": "Rust製Bunの採用により、開発ツールの起動効率が改善され、今後の開発効率化に寄与する可能性がある。",
+      "content_at": "2026-07-20T06:30:52.242482+09:00"
+    }
+  ],
+  "updated_at": "2026-07-20T06:30:52.242482+09:00"
+}
