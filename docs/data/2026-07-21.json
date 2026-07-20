@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-21",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/baf01a2fa2c02f915864fa10d32a7dc4ccfc0297/267_0_1531_1224/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-21T06:30:48.304258+09:00",
+      "title": "AIに意識は宿るのか",
+      "summary": "専門家はAIが意識を持つ可能性を認めている。AIがもたらす倫理的影響に対処するための計画が緊急に求められている。",
+      "impact": "今後、AIの権利や倫理規定に関する法整備が進む可能性がある。",
+      "content_at": "2026-07-21T06:30:48.304258+09:00"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
+      "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-21T06:30:48.304258+09:00",
+      "title": "中国のオープンウェイトAI戦略が優位に",
+      "summary": "中国のオープンウェイト戦略が成功を収め、現地企業が主導権を握っている。一方で、米国のクローズド戦略は失敗する運命にあり、米国経済に悪影響を及ぼす可能性がある。",
+      "impact": "世界的なAI開発の主導権争いが激化し、各国の技術戦略や経済政策に変化が生じると考えられる。",
+      "content_at": "2026-07-21T06:30:48.304258+09:00"
+    },
+    {
+      "image": "https://kimi-file.moonshot.cn/prod-chat-kimi/kfs/4/2/2026-06-02/1d8fc8k76rtp4tqdea4ng?x-tos-process=image%2Fauto-orient%2C1%2Fstrip%2Fignore-error%2C1",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-21T06:30:48.304258+09:00",
+      "title": "デスクトップAI「Kimi Work」",
+      "summary": "デスクトップで動作するAIツールであり、ワークフローの自動化やファイル整理、ウェブ操作を行う。300のエージェントが金融調査や分析、事務作業を支援する。",
+      "impact": "業務プロセスの自動化により、オフィス業務の生産性が向上する可能性がある。",
+      "content_at": "2026-07-21T06:30:48.304258+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jelly-ui.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-21T06:30:48.304258+09:00",
+      "title": "Jelly UI：ネイティブHTMLフォームコントロール向けのソフトボディ物理エンジン",
+      "summary": "Jelly UIは、ネイティブなHTMLフォームコントロールに対してソフトボディ物理挙動を実装するライブラリである。",
+      "impact": "ウェブインターフェースの表現が多様化し、ユーザー体験のデザインに新たな選択肢が加わるとみられる。",
+      "content_at": "2026-07-21T06:30:48.304258+09:00"
+    },
+    {
+      "image": "https://xenaproject.wordpress.com/wp-content/uploads/2020/05/cropped-twitchpfc.png?w=200",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-21T06:30:48.304258+09:00",
+      "title": "数学界におけるAIツールと形式化の影響",
+      "summary": "数学的な反例を巡る近況について、形式化やAIツールの活用という観点から論じられている。著者が数学界で起きている状況を独自の視点でまとめたものである。",
+      "impact": "数学の証明プロセスにAIが深く関与することで、今後は数学研究の手法や効率性が大きく変化する可能性がある。",
+      "content_at": "2026-07-21T06:30:48.304258+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/16/e9/16e9a748-ca66-4b3c-8590-85537131f696/content/images/2026/07/000-RBN-logo-4.png",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-21T06:30:48.304258+09:00",
+      "title": "ルーマニアの土地登記データベースがハッキング被害",
+      "summary": "ルーマニアの土地登記データベースがハッカーにより消去される事件が発生した。また、Graykey関連の訴訟やHugging Faceのハッキング、WordPressの脆弱性についても報じられている。",
+      "impact": "公的なデータ管理の脆弱性が浮き彫りになっており、デジタル社会におけるセキュリティ対策の強化が急務となると考えられる。",
+      "content_at": "2026-07-21T06:30:48.304258+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blaizzy.github.io/nativ/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-21T06:30:48.304258+09:00",
+      "title": "Macで最先端のオープンモデルを実行するNativ",
+      "summary": "アカウント登録やサブスクリプション、クラウド接続を必要とせず、Mac上で最先端のオープンAIモデルをローカル実行できるツールである。",
+      "impact": "個人のPC環境で高度なAIモデルが利用可能になることで、プライバシー保護を重視するユーザーや開発者によるAI活用が加速する可能性がある。",
+      "content_at": "2026-07-21T06:30:48.304258+09:00"
+    }
+  ],
+  "updated_at": "2026-07-21T06:30:48.304258+09:00"
+}

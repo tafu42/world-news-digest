@@ -2,28 +2,6 @@
   "date": "2026-07-20",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/67b57494983948c140e7be703392fe6d49cac634/1085_0_6041_4833/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/18/tell-us-are-you-wearing-the-new-meta-glasses",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-20T06:30:52.242482+09:00",
-      "title": "Metaのスマートグラス利用者に対する調査依頼",
-      "summary": "Metaの新しいスマートグラスのユーザーに対し、使用方法や周囲の反応についての体験談を募集している。利用状況だけでなく、周囲に他人が同製品を着用していることに対する感情についても意見を求めている。",
-      "impact": "ウェアラブルデバイスの普及に伴い、プライバシーや公共の場でのマナーに関する社会的な議論が深まる可能性がある。",
-      "content_at": "2026-07-20T06:30:52.242482+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/084704b047341a565d01ac2d669e0f274dda5c13/335_0_4510_3610/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/16/google-workers-layoff-protections-ai",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-20T06:30:52.242482+09:00",
-      "title": "Googleの従業員4,500名超がレイオフ対策を求めて署名運動",
-      "summary": "AIブームの中、Googleの従業員らがCEOのサンダー・ピチャイ氏に対し、レイオフからの保護を求める請願書を提出した。この請願には4,500名を超える署名が集まり、買い取りオプションの導入などが求められている。",
-      "impact": "テック業界におけるAIシフトに伴う雇用の不安定化が、従業員による労働環境改善要求を加速させる可能性がある。",
-      "content_at": "2026-07-20T06:30:52.242482+09:00"
-    },
-    {
       "image": "",
       "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
       "category": "海外IT",
