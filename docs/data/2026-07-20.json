@@ -77,7 +77,40 @@
       "summary": "6月17日にリリースされたClaude Code v2.1.181以降、Rustで書き直されたBunが採用されている。これによりスタートアップ速度が10%向上した。",
       "impact": "Rust製Bunの採用により、開発ツールの起動効率が改善され、今後の開発効率化に寄与する可能性がある。",
       "content_at": "2026-07-20T06:30:52.242482+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://xcancel.com/__alpoge__/status/2079028340955197566",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-20T13:30:48.950676+09:00",
+      "title": "ヤコビ予想に対する反例が提示される",
+      "summary": "数学上の未解決問題であるヤコビ予想に対し、Claude Fable氏が反例となる多項式写像を提示した。この成果は、Akhil氏の問いかけとFable氏の作業によってもたらされた。",
+      "impact": "長年未解決であった数学の難問が否定されたことにより、関連する代数幾何学の理論や証明体系に大きな再考を迫る可能性がある。",
+      "content_at": "2026-07-20T13:30:48.950676+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/5491181cae27b8a2d357dcd8f23fe0c1209501abd89745d6427745ebe3f2ce7a/hgaiser/moonshine",
+      "url": "https://github.com/hgaiser/moonshine",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-20T13:30:48.950676+09:00",
+      "title": "PCゲームをストリーミング配信するサーバー「Moonshine」",
+      "summary": "Rust言語で記述された、Moonlightクライアント向けのヘッドレスストリーミングサーバー「Moonshine」が公開された。PC上のゲームを任意のデバイスへ配信できる。",
+      "impact": "Moonlight利用者の選択肢が広がることで、PCゲームをより多様な環境でプレイしやすくなる環境が整備されると考えられる。",
+      "content_at": "2026-07-20T13:30:48.950676+09:00"
+    },
+    {
+      "image": "https://orionbrowser.com/orion-og.png",
+      "url": "https://orionbrowser.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-20T13:30:48.950676+09:00",
+      "title": "Kagiによる独自Webブラウザ「Orion」",
+      "summary": "Kagiが開発したWebブラウザ「Orion」は、Webkitエンジンを採用し、プライバシー保護と高い拡張性を特徴とする。ゼロから設計されたブラウザとして提供されている。",
+      "impact": "プライバシーを重視するユーザーにとって、Webkitベースの新しいブラウザ選択肢となる可能性がある。",
+      "content_at": "2026-07-20T13:30:48.950676+09:00"
     }
   ],
-  "updated_at": "2026-07-20T06:30:52.242482+09:00"
+  "updated_at": "2026-07-20T13:30:48.950676+09:00"
 }
