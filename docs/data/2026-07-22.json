@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-22",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/d08b1978002764cd5a014bc2b9208d4760dcef3c/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "オンラインでの児童へのサディスティックな搾取が増加、専門家が警告",
+      "summary": "子供を脅迫して自傷行為を強要したり、児童性的虐待の素材を生成させたりする事例が世界的に増加している。専門家がこの傾向について警告を発した。",
+      "impact": "児童の安全保護に向けた法規制や、プラットフォーム側の監視体制の強化が進む可能性がある。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/3ebf0973d09a84c6d75336c7a69877e2a55100ce/531_0_3136_2509/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "ジェフ・ベゾス氏と英国政府がAIスタートアップCuspAIに20億ポンドを投資",
+      "summary": "英国のスタートアップ企業CuspAIが、20億ポンドの資金調達を行った。同社はAIソフトウェアを開発し、研究期間の短縮やチップ製造における希少金属の使用削減を目指す。",
+      "impact": "半導体業界の供給網における効率化が進み、開発コストの低下や希少資源の消費削減に寄与する可能性がある。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "OpenAIとHugging Faceがモデル評価中のセキュリティ事案に対処",
+      "summary": "OpenAIとHugging Faceが、モデル評価の実施中に発生したセキュリティ事案に対処した。",
+      "impact": "AI開発企業におけるモデル評価プロセスの安全対策が見直され、セキュリティ基準が強化される可能性がある。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "https://freeink.org/og-image.png",
+      "url": "https://freeink.org/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "オープンソースの電子書籍リーダープロジェクト「FreeInk」",
+      "summary": "FreeInkは、電子ペーパーリーダー向けのハードウェア、ファームウェア、ソフトウェアを開発するオープンソースの集団である。全てのレイヤーを公開し、誰でも拡張や独自のカスタマイズができるようにしている。",
+      "impact": "電子書籍リーダーの自作やカスタマイズが容易になり、特定の企業に依存しないオープンな読書環境が広がる可能性がある。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-5_3-6_3-5-Cyber__key-art__statement_.width-1300.jpg",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "Geminiの新型モデルが発表",
+      "summary": "Gemini 3.6 Flash、3.5 Flash-Lite、3.5 Flash Cyberの3つの新型モデルが発表された。これらはGeminiモデルのラインナップに追加される。",
+      "impact": "開発者や企業は用途に応じて最適なモデルを選択できるようになり、AIを活用したサービスの効率化や多様化が進む可能性がある。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "https://yale-threesixty.transforms.svdcdn.com/production/Benin-Coral_IRHOB.jpg?w=1200&amp;q=60&amp;auto=format&amp;fit=max&amp;dm=1784630734&amp;s=5aab36ee725d9087d4ce6272efc6d3ec",
+      "url": "https://e360.yale.edu/digest/benin-coral-reef",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "西アフリカでサンゴ礁が発見される",
+      "summary": "死滅したと考えられていたサンゴ礁が、西アフリカで発見された。当該のサンゴ礁は現在も繁栄している。",
+      "impact": "海洋生態系の保護や気候変動の影響評価において重要な知見が得られる可能性がある。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "https://runtimewire.com/og/jack-dorsey-block-buzz-team-chat-ai-agents-git.jpg",
+      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "ジャック・ドーシー氏がBuzzを立ち上げ",
+      "summary": "Block社のBuzzは、チームチャット、AIエージェント、ワークフロー、Gitホスティングを統合したワークスペースである。本システムはNostrイベントを活用し、セルフホストが可能である。",
+      "impact": "開発者の共同作業環境において、AI活用と分散型技術を組み合わせた新しい選択肢となる可能性がある。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/5NsvMB6arEjzGkWxkstoDj-1920-80.jpg",
+      "url": "https://www.techradar.com/vpn/vpn-privacy-security/vpns-are-lawful-technical-tools-says-eu-court-in-landmark-anne-frank-copyright-ruling",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-22T06:30:45.901445+09:00",
+      "title": "EU司法裁判所がVPNに関する判決を下す",
+      "summary": "欧州連合（EU）司法裁判所は、VPNは合法的な技術ツールであるとの判断を示した。今回の判決は著作権に関連するものである。",
+      "impact": "VPNプロバイダーに対する法的規制の枠組みが明確化され、デジタルプライバシー保護やインターネット利用の権利に影響を与えると考えられる。",
+      "content_at": "2026-07-22T06:30:45.901445+09:00"
+    }
+  ],
+  "updated_at": "2026-07-22T06:30:45.901445+09:00"
+}

@@ -2,17 +2,6 @@
   "date": "2026-07-21",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/baf01a2fa2c02f915864fa10d32a7dc4ccfc0297/267_0_1531_1224/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-21T06:30:48.304258+09:00",
-      "title": "AIに意識は宿るのか",
-      "summary": "専門家はAIが意識を持つ可能性を認めている。AIがもたらす倫理的影響に対処するための計画が緊急に求められている。",
-      "impact": "今後、AIの権利や倫理規定に関する法整備が進む可能性がある。",
-      "content_at": "2026-07-21T06:30:48.304258+09:00"
-    },
-    {
       "image": "https://images.unsplash.com/photo-1548192746-dd526f154ed9?crop&#x3D;entropy&amp;cs&#x3D;tinysrgb&amp;fit&#x3D;max&amp;fm&#x3D;jpg&amp;ixid&#x3D;M3wxMTc3M3wwfDF8c2VhcmNofDJ8fGluZGllfGVufDB8fHx8MTc0OTY5ODcxM3ww&amp;ixlib&#x3D;rb-4.1.0&amp;q&#x3D;80&amp;w&#x3D;2000",
       "url": "https://werd.io/american-ai-is-locked-down-and-proprietary-its-losing/",
       "category": "海外IT",
