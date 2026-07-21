@@ -90,50 +90,6 @@
       "content_at": "2026-07-20T13:30:48.950676+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/d08b1978002764cd5a014bc2b9208d4760dcef3c/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-20T21:30:46.632908+09:00",
-      "title": "子供を標的としたオンライン搾取の急増に専門家が警鐘",
-      "summary": "子供を強要して自傷行為をさせたり、性的虐待コンテンツを生成させたりするケースが世界的に増加している。専門家はこの問題の深刻化に対して警告を発した。",
-      "impact": "被害の拡大を防ぐため、プラットフォーム側の対策強化や国際的な捜査協力がさらに求められる可能性がある。",
-      "content_at": "2026-07-20T21:30:46.632908+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/3ebf0973d09a84c6d75336c7a69877e2a55100ce/531_0_3136_2509/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-20T21:30:46.632908+09:00",
-      "title": "英スタートアップCuspAIにジェフ・ベゾス氏と英政府が20億ポンドを投資",
-      "summary": "CuspAIは、研究時間の短縮やチップサプライチェーンにおける希少金属の使用削減を目的としたAIソフトウェアを開発している。この企業に対し、ジェフ・ベゾス氏と英政府が投資を行った。",
-      "impact": "効率的な新素材開発が促進され、半導体関連のサプライチェーンにおいてコスト削減や持続可能性の向上が期待される可能性がある。",
-      "content_at": "2026-07-20T21:30:46.632908+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/35495f0dd1b9129c03e46d642ea7a4a6b50664ca/509_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/17/meta-whistleblower-sarah-wynn-williams-us-senator-josh-hawley",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-20T21:30:46.632908+09:00",
-      "title": "米上院議員、メタ社が内部告発者を破滅させようとしていると非難",
-      "summary": "共和党のジョシュ・ホーリー上院議員が、メタ社が内部告発者のサラ・ウィン＝ウィリアムズ氏を執拗に追い詰め、破産させようとしていると主張した。マーク・ザッカーバーグ氏率いる同社への批判が強まっている。",
-      "impact": "ビッグテック企業の透明性や内部告発者保護に関する議論が再燃し、規制強化の圧力が高まる可能性がある。",
-      "content_at": "2026-07-20T21:30:46.632908+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ad093e8329a29aecba6f1623b63fcffeb49c4113/368_0_3879_3106/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/17/amazon-web-services-customers-trillion-dollar-bills-global-glitch",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-20T21:30:46.632908+09:00",
-      "title": "AWSで世界的障害発生、顧客に最大1.5兆ドルの請求書が届く事態に",
-      "summary": "Amazon Web Services（AWS）で発生した世界的システム障害により、顧客に対して誤った過大な請求が行われた。通常は少額の利用料金である顧客の元に、数十億ポンド規模の請求書が届くケースも確認されている。",
-      "impact": "クラウドサービスの信頼性が問われる事態となり、各企業におけるバックアップ体制や誤請求への対応策の見直しが進むとみられる。",
-      "content_at": "2026-07-20T21:30:46.632908+09:00"
-    },
-    {
       "image": "",
       "url": "https://slcyber.io/research-center/exploit-brokers-pay-500000-for-a-wordpress-rce-i-found-one-with-gpt5-6/",
       "category": "海外IT",
