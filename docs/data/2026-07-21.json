@@ -77,7 +77,51 @@
       "summary": "アカウント登録やサブスクリプション、クラウド接続を必要とせず、Mac上で最先端のオープンAIモデルをローカル実行できるツールである。",
       "impact": "個人のPC環境で高度なAIモデルが利用可能になることで、プライバシー保護を重視するユーザーや開発者によるAI活用が加速する可能性がある。",
       "content_at": "2026-07-21T06:30:48.304258+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/67b57494983948c140e7be703392fe6d49cac634/1085_0_6041_4833/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/18/tell-us-are-you-wearing-the-new-meta-glasses",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-21T13:30:54.122631+09:00",
+      "title": "Meta社のスマートグラスに関する体験談の募集",
+      "summary": "Meta社の新しいスマートグラスのユーザーに対し、使用状況についての情報を募集している。また、周囲に同製品の着用者がいることに対する人々の感情についても意見を求めている。",
+      "impact": "ウェアラブルデバイスの普及に伴い、利用者の利便性だけでなく、プライバシーや周囲への影響に対する社会的な議論が深まる可能性がある。",
+      "content_at": "2026-07-21T13:30:54.122631+09:00"
+    },
+    {
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvaTAud3AuY29tXC9zdHJhdGVjaGVyeS5jb21cL3dwLWNvbnRlbnRcL3VwbG9hZHNcLzIwMThcLzAzXC9jcm9wcGVkLWFuZHJvaWQtY2hyb21lLTUxMng1MTItMS5wbmc_Zml0PTUxMiUyQzUxMiZzc2w9MSIsInR4dCI6IlN0cmF0ZWNoZXJ5IGJ5IEJlbiBUaG9tcHNvbiIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxODgwNDM0MTV9.5VWck4PcKPWCTPe_HVznn3n3xsgn-G0b3d2OeiNNC7cMQ",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-21T13:30:54.122631+09:00",
+      "title": "中国のAIモデルに対する懸念と米国での代替案",
+      "summary": "中国のAIモデルに対して広範な懸念が存在する一方、最先端の研究機関は適応可能であるという見解が示されている。米国においてオープンな代替手段を整備する必要性が説かれている。",
+      "impact": "AI技術の覇権争いが激化する中、米国で独自のオープンな技術基盤が強化されることで、国際的なAI開発の競争環境や規制のあり方が変化する可能性がある。",
+      "content_at": "2026-07-21T13:30:54.122631+09:00"
+    },
+    {
+      "image": "https://content.instructables.com/FIM/IWCR/MRPABNRQ/FIMIWCRMRPABNRQ.jpg?auto=webp&amp;frame=1",
+      "url": "https://www.instructables.com/A-Koi-Pond-Mosaic-Made-From-10-Pounds-of-3D-Printe/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-21T13:30:54.122631+09:00",
+      "title": "3Dプリンターの廃材を利用した鯉の池のモザイク画",
+      "summary": "3Dプリンターから出る失敗作や不要なプラスチック廃材を3年間収集し、それを利用して鯉の池を模したモザイク画を制作した。合計で10ポンドの廃プラスチックが使用された。",
+      "impact": "個人のクリエイティブな活動を通じて、3Dプリンター運用に伴う廃棄物問題に対する意識が高まる可能性がある。",
+      "content_at": "2026-07-21T13:30:54.122631+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.armaangomes.com/blogs/doom/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-21T13:30:54.122631+09:00",
+      "title": "自作CPU上でDoomを動作させ話題に",
+      "summary": "独自に開発したCPU上でゲームソフト「Doom」を動作させる試みが行われ、注目を集めている。",
+      "impact": "個人によるハードウェア開発の技術水準が示されることで、技術コミュニティにおける自作ハードウェアへの関心や開発意欲が刺激される可能性がある。",
+      "content_at": "2026-07-21T13:30:54.122631+09:00"
     }
   ],
-  "updated_at": "2026-07-21T06:30:48.304258+09:00"
+  "updated_at": "2026-07-21T13:30:54.122631+09:00"
 }
