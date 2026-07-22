@@ -88,7 +88,51 @@
       "summary": "欧州連合（EU）司法裁判所は、VPNは合法的な技術ツールであるとの判断を示した。今回の判決は著作権に関連するものである。",
       "impact": "VPNプロバイダーに対する法的規制の枠組みが明確化され、デジタルプライバシー保護やインターネット利用の権利に影響を与えると考えられる。",
       "content_at": "2026-07-22T06:30:45.901445+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/pv37i0yn/production/4f0b611f9b0ec4e15ea45aabe369a3ba88fe4abf-2048x1152.svg",
+      "url": "https://fireworks.ai/blog/kimik3-fable",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-22T13:30:45.203427+09:00",
+      "title": "Kimi K3とFableの組み合わせが新たな最先端モデルに",
+      "summary": "1,000以上のエージェントタスクを用いたベンチマークの結果、Kimi K3とFable 5を組み合わせたルーティング手法が、単独モデルの性能を上回る新たな最先端（SoTA）となった。両モデルは一般のベンチマークにおいて競合する性能を示している。",
+      "impact": "エージェントタスクにおけるAIの精度が向上する可能性がある。複数のモデルを使い分けるルーティング技術が、今後のAI開発の主流となるかもしれない。",
+      "content_at": "2026-07-22T13:30:45.203427+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://krebsonsecurity.com/2026/07/lg-to-ban-residential-proxies-from-smart-tv-apps/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-22T13:30:45.203427+09:00",
+      "title": "LG、スマートテレビアプリでのレジデンシャルプロキシ利用を禁止へ",
+      "summary": "LGはスマートテレビのアプリにおいて、レジデンシャルプロキシの利用を禁止する。",
+      "impact": "テレビのネットワーク通信が制限されることで、特定のアプリの動作や広告配信の仕組みに影響が出る可能性がある。",
+      "content_at": "2026-07-22T13:30:45.203427+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ads.openai.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-22T13:30:45.203427+09:00",
+      "title": "ChatGPTにおける広告展開",
+      "summary": "ChatGPT上で広告を展開する。",
+      "impact": "ユーザー体験が変化する可能性があるほか、企業にとっては新たなマーケティングチャネルとなることが見込まれる。",
+      "content_at": "2026-07-22T13:30:45.203427+09:00"
+    },
+    {
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1784694276",
+      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-22T13:30:45.203427+09:00",
+      "title": "ヤコビ予想の反例に関する解説",
+      "summary": "悪名高いヤコビ予想は、複素数体上の写像として具体的に定式化できる。",
+      "impact": "数学界における難問であるヤコビ予想の理解が進むことで、関連する代数幾何学などの数学分野において新たな理論展開に寄与する可能性がある。",
+      "content_at": "2026-07-22T13:30:45.203427+09:00"
     }
   ],
-  "updated_at": "2026-07-22T06:30:45.901445+09:00"
+  "updated_at": "2026-07-22T13:30:45.203427+09:00"
 }
