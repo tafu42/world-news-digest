@@ -2,28 +2,6 @@
   "date": "2026-07-22",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/d08b1978002764cd5a014bc2b9208d4760dcef3c/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/20/online-exploitation-children-warning",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-22T06:30:45.901445+09:00",
-      "title": "オンラインでの児童へのサディスティックな搾取が増加、専門家が警告",
-      "summary": "子供を脅迫して自傷行為を強要したり、児童性的虐待の素材を生成させたりする事例が世界的に増加している。専門家がこの傾向について警告を発した。",
-      "impact": "児童の安全保護に向けた法規制や、プラットフォーム側の監視体制の強化が進む可能性がある。",
-      "content_at": "2026-07-22T06:30:45.901445+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/3ebf0973d09a84c6d75336c7a69877e2a55100ce/531_0_3136_2509/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/20/jeff-bezos-uk-government-invest-in-2bn-british-startup-cuspai",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-22T06:30:45.901445+09:00",
-      "title": "ジェフ・ベゾス氏と英国政府がAIスタートアップCuspAIに20億ポンドを投資",
-      "summary": "英国のスタートアップ企業CuspAIが、20億ポンドの資金調達を行った。同社はAIソフトウェアを開発し、研究期間の短縮やチップ製造における希少金属の使用削減を目指す。",
-      "impact": "半導体業界の供給網における効率化が進み、開発コストの低下や希少資源の消費削減に寄与する可能性がある。",
-      "content_at": "2026-07-22T06:30:45.901445+09:00"
-    },
-    {
       "image": "",
       "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
       "category": "海外IT",

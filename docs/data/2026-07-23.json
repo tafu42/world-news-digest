@@ -1,0 +1,127 @@
+{
+  "date": "2026-07-23",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/784f98f44336972e68c7c2a2dc5f2dbc0eb6bb19/335_0_3331_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/google-earnings-report",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "グーグルが12四半期連続で堅調な収益成長を報告",
+      "summary": "強力なAIモデル「Gemini Pro」のリリース遅延があったものの、グーグルの業績は予想を上回った。同社は12四半期連続の収益成長を達成している。",
+      "impact": "グーグルの収益力の高さが示されたことで、AI分野への投資継続や市場での信頼感維持につながると考えられる。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9ff1c5663562bdf5c5a9588945247b638c9529f9/565_0_3504_2806/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "テスラが収益増の一方で利益減、ロボットとAIへの転換を図る",
+      "summary": "テスラの1株当たり利益がウォール街の予想を下回った。収益は増加しているものの利益は減少しており、株価は時間外取引で3％以上下落した。",
+      "impact": "投資家がテスラの将来的な収益性に懸念を抱いた可能性がある。同社が注力するロボットやAI事業の成果が今後の株価を左右するとみられる。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/a031a33c826db2e2b9a089dbcc591821bfe7981f/510_0_5078_4065/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "Hugging Faceへのハッキングで露呈したAIシステムのリスク",
+      "summary": "Hugging Faceがハッキングを受けたことで、極めて強力なAIシステムを抑制する確実な方法が確立されていない現状が明らかになった。これはAIの抱えるリスクに対する警告となっている。",
+      "impact": "今後、AIセキュリティの脆弱性に対する懸念が高まり、より強固なAI制御メカニズムの構築が急務とされる可能性がある。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ae2f348b6c72dca2cc58c8ad76ec35674c9f6ff6/564_0_5031_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/we-must-reject-any-notion-of-ai-consciousness",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "AIの意識に関する議論：意識を持つことは不可能とする主張",
+      "summary": "ジョン・ピカリング博士は、AIシステムが妊娠できないのと同様の理由で、AIが意識を持つことはないと述べている。同氏はAIの意識という概念を否定すべきだと主張した。",
+      "impact": "AIの倫理や法的責任に関する議論において、AIの意識を前提としない慎重なアプローチが求められるようになると考えられる。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/d9003420a1509918b6b6115818aaaae607ac0e1a/524_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/openai-anthropic-australia-ai-regulation",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "OpenAIとAnthropicがオーストラリアの規制を歓迎する理由",
+      "summary": "OpenAIとAnthropicがオーストラリアのAI規制を支持している。企業側は、上場を経て時価総額を大きく伸ばしたSpaceXのような成功モデルの実現を期待している。",
+      "impact": "大手AI企業が規制を推進することで、業界全体の透明性や安全基準の標準化が進む可能性がある。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1350980458/na_twitter2_200x200.gif",
+      "url": "https://twitter.com/na_announce/status/2079952538040672302",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "ジョン・C・ドヴォラック氏が死去",
+      "summary": "「No Agenda Show」のホストとして知られるジョン・C・ドヴォラック氏が74歳で死去した。遺族が発表した。",
+      "impact": "同氏が長年携わってきたポッドキャストやメディア業界に大きな喪失感を与えるものと考えられる。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://cdn.openai.com/chatgpt/share-og.png",
+      "url": "https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "テレンス・タオによるヤコビ予想の反例に関するChatGPTとの対話",
+      "summary": "数学者のテレンス・タオがヤコビ予想の反例についてChatGPTと行った対話の内容が共有された。",
+      "impact": "数学の研究プロセスにおいてAIがどのように活用され得るかを示す事例として注目される可能性がある。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://citizendot.github.io/articles/fake-job-interview-git-hook-malware/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "持ち帰り課題の選考プロセスに関する考察",
+      "summary": "筆者が自身の選考用課題を振り返り、そのプロセスが大規模な取り組みであったと報告している。",
+      "impact": "企業の採用における実技試験の負担や実効性について、技術者コミュニティで議論が深まる可能性がある。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7b8ba0c8231d8996f0f63535be94614d9d112660d38f5ee5875441fb582efc08/marcelroed/gigatoken",
+      "url": "https://github.com/marcelroed/gigatoken/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "言語モデルのトークン化を約1000倍高速化する「GigaToken」",
+      "summary": "GB/s単位の処理速度を実現する言語モデル用トークン化ライブラリ。GitHubで開発されている。",
+      "impact": "言語モデルの学習や推論におけるデータ処理のボトルネックが解消され、AIモデルの効率的な構築や運用が可能になると考えられる。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bento.page/slides/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "PowerPoint機能を単一のHTMLファイルで実現する「Bento」",
+      "summary": "編集、閲覧、データ管理、共同作業のすべての機能を単一のHTMLファイルに集約したプレゼンテーションツール。Hacker Newsで公開された。",
+      "impact": "従来のインストール型ソフトに依存せず、ブラウザ上で手軽にプレゼンテーションの作成や共有ができるようになる可能性がある。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    },
+    {
+      "image": "https://webkit.org/wp-content/themes/webkit/images/preview-card.jpg",
+      "url": "https://webkit.org/blog/18162/release-notes-for-safari-technology-preview-248/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-23T06:30:48.655870+09:00",
+      "title": "「Safari Technology Preview 248」がリリース",
+      "summary": "Safariのプレビュー版である「Safari Technology Preview」のバージョン248が公開された。macOS Golden GateおよびmacOS Tahoe向けに提供されている。",
+      "impact": "開発者やテスターは最新のSafari機能を先行して検証でき、次期正式版におけるブラウザの互換性向上や機能改善に繋がるとみられる。",
+      "content_at": "2026-07-23T06:30:48.655870+09:00"
+    }
+  ],
+  "updated_at": "2026-07-23T06:30:48.655870+09:00"
+}
