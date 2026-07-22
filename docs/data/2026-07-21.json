@@ -101,50 +101,6 @@
       "content_at": "2026-07-21T13:30:54.122631+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/e8094a6a97533611adab0cc9c3b1dff72987ac20/451_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/20/china-google-ai-race",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-21T21:30:48.159461+09:00",
-      "title": "中国のAI技術躍進と米シリコンバレーの苦境",
-      "summary": "米国のテクノロジー業界における優位性が、中国の新しいAIモデルによって再び疑問視されている。GoogleのAI開発における苦戦がその兆候として挙げられている。",
-      "impact": "中国のAI技術が米国のリードを追い上げることで、両国のテクノロジー競争が激化し、世界的な市場シェアや開発の勢力図が変化する可能性がある。",
-      "content_at": "2026-07-21T21:30:48.159461+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/56bb5b877c5752e1b71707cbefc7103e54ed3fbc/0_0_3000_2400/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-21T21:30:48.159461+09:00",
-      "title": "AIの導入で高まるシリコンバレーの労働組合結成",
-      "summary": "シリコンバレー特有の「例外主義」という神話が揺らぐ中、労働者がAIの導入に対抗するため集団交渉を選択する動きが強まっている。テック業界における労働組合結成の機運が高まっている。",
-      "impact": "今後、テック企業における労働者の発言力が増し、AIの企業導入プロセスや労働条件に関する交渉がこれまで以上に活発化するとみられる。",
-      "content_at": "2026-07-21T21:30:48.159461+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/b06cb76a8d1930cd7908c77e28a524a5ece8ed02/671_0_6726_5381/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/21/tell-us-your-experiences-living-near-ai-datacentres-uk",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-21T21:30:48.159461+09:00",
-      "title": "英国のAIデータセンター近隣住民への意識調査",
-      "summary": "AIデータセンターの近隣に住む人々に対して、その経験や懸念についての意見を募集している。",
-      "impact": "地域住民の懸念が浮き彫りになることで、今後のデータセンター建設における環境配慮や住民との合意形成のあり方に影響を与える可能性がある。",
-      "content_at": "2026-07-21T21:30:48.159461+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/fb9fb4791540eb607b72629f7d348a9cd01bd704/250_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/21/election-voting-advice-ai-chatbots-inaccurate-unreliable-hungary",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-21T21:30:48.159461+09:00",
-      "title": "ハンガリー選挙で見られたAIチャットボットの不正確な投票助言",
-      "summary": "ハンガリーの選挙期間中の調査により、AIチャットボットが立候補していない政党を推奨したり、同一の質問に対して不安定な回答を示したりしたことが明らかになった。",
-      "impact": "選挙におけるAIの活用が有権者を誤導し、民主的なプロセスに悪影響を及ぼすリスクが懸念される。今後の選挙においてAIの信頼性と規制の重要性がより一層高まると考えられる。",
-      "content_at": "2026-07-21T21:30:48.159461+09:00"
-    },
-    {
       "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
       "url": "https://qwen.ai/blog?id=qwen-image-3.0",
       "category": "海外IT",
