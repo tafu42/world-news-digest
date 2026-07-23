@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-24",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/15a8a83c1d30c6a9ddd613bae1543a761f8eed4b/252_0_3377_2703/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-24T06:30:46.861018+09:00",
+      "title": "イーロン・マスク氏、トランプ氏への関与について「やりすぎた」と語る",
+      "summary": "イーロン・マスク氏はインタビューで、自身の会社に集中すべきだったと述べつつ、物議を醸す政治的見解は維持していると語った。また、過激な予測も共有している。",
+      "impact": "世界的な経営者の政治的スタンスが、企業経営や公的な世論にどのような影響を及ぼし続けるのか、注目される可能性がある。",
+      "content_at": "2026-07-24T06:30:46.861018+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-24T06:30:46.861018+09:00",
+      "title": "手書きが脳にもたらす効果",
+      "summary": "手書きをすることは脳にとって良い影響がある。",
+      "impact": "デジタル化が進む現代において、学習や認知能力の維持を目的とした手書きの重要性が改めて再認識される可能性がある。",
+      "content_at": "2026-07-24T06:30:46.861018+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/article/exclusive-death-girl-chinese-gene-editing-trial-was-never-made-public",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-24T06:30:46.861018+09:00",
+      "title": "遺伝子編集治療に80万ドル超を支払った夫婦、娘が死亡",
+      "summary": "娘のために80万ドル以上の費用をかけて遺伝子編集治療を受けた夫婦だが、娘は死亡した。",
+      "impact": "高額な先端医療のリスクや有効性について、倫理的および安全性の観点から議論が深まる可能性がある。",
+      "content_at": "2026-07-24T06:30:46.861018+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!6bjM!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e89262a-a687-40ab-8c52-f9190202cec9_1200x720.png",
+      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-24T06:30:46.861018+09:00",
+      "title": "映画業界のデータサイト「The Numbers」に何が起きたのか",
+      "summary": "映画業界関係者の多くは、意識していなくてもThe Numbersが提供するデータを利用している可能性がある。",
+      "impact": "映画産業における情報源の現状や将来性に注目が集まる可能性がある。",
+      "content_at": "2026-07-24T06:30:46.861018+09:00"
+    },
+    {
+      "image": "https://glinscott.github.io/beam-engine/social-card.jpg",
+      "url": "https://glinscott.github.io/beam-engine/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-24T06:30:46.861018+09:00",
+      "title": "ビームエンジンの仕組みを学ぶ",
+      "summary": "蒸気や圧力、ワットなどの要素を探求できるインタラクティブな3D図を用いて、ビームエンジンの動作原理を紹介している。",
+      "impact": "エンジニアリングの歴史や蒸気機関の構造を理解するための教材として役立つ可能性がある。",
+      "content_at": "2026-07-24T06:30:46.861018+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lukekanies.com/writing/building-on-atproto/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-24T06:30:46.861018+09:00",
+      "title": "ATProto上での開発について",
+      "summary": "ATProto上での開発に関する情報である。",
+      "impact": "分散型プロトコルであるATProtoを活用したアプリケーション開発の普及や、関連する技術コミュニティの活性化に影響を与える可能性がある。",
+      "content_at": "2026-07-24T06:30:46.861018+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-24T06:30:46.861018+09:00",
+      "title": "スタートアップ創業者が米政府に中国のオープンウェイトAIの制限回避を求める",
+      "summary": "スタートアップの創業者らが、中国のオープンウェイトAIを遮断しないよう米政府に要請した。",
+      "impact": "AI技術の規制とイノベーションのバランスをめぐる政策判断に影響を与え、グローバルなAI開発環境や技術の開放性に変化をもたらす可能性がある。",
+      "content_at": "2026-07-24T06:30:46.861018+09:00"
+    }
+  ],
+  "updated_at": "2026-07-24T06:30:46.861018+09:00"
+}
