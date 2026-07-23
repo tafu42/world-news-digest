@@ -154,7 +154,84 @@
       "summary": "400年以上続いたメディチ家に関する謎が解明された可能性がある。",
       "impact": "歴史学において長年の議論に終止符が打たれ、ルネサンス期の人物に関する歴史的解釈が更新される可能性がある。",
       "content_at": "2026-07-23T13:30:42.331334+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6e0272bc008856e02d4a2739ad877c01f88e273c/1493_528_4133_3309/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-23T21:30:49.296048+09:00",
+      "title": "EU、Googleに検索・アプリの競争法違反で8.9億ユーロの制裁金",
+      "summary": "EUはGoogleに対し、検索結果に表示されるサードパーティサービスを公平かつ非差別的に扱うよう命じた。この措置に関連し、同社は8.9億ユーロの制裁金を科されている。",
+      "impact": "大手IT企業のプラットフォーム運営における公平性が強化される可能性がある。今後、検索結果の表示アルゴリズムに大きな変更が求められるとみられる。",
+      "content_at": "2026-07-23T21:30:49.296048+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/13e2f1b00d2aaf0332a01d443b8acb648ec68fd6/55_0_2915_2332/500.jpg",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-23T21:30:49.296048+09:00",
+      "title": "Origin Energyで顧客データ流出、氏名や銀行口座情報が含まれる",
+      "summary": "Origin Energyは、ハッカーが顧客の氏名、住所、生年月日、電話番号、および一部の銀行口座情報にアクセスしたと発表した。",
+      "impact": "顧客が詐欺やなりすまし被害に遭うリスクが高まっている。企業に対し、より厳格なサイバーセキュリティ対策と個人情報保護体制の強化が求められると考えられる。",
+      "content_at": "2026-07-23T21:30:49.296048+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0a7ae7a80db9405448e84207630d1264512f1d5e/418_0_4164_3333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/florida-teen-drops-meta-lawsuit",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-23T21:30:49.296048+09:00",
+      "title": "米10代のMeta社に対するSNS依存訴訟、裁判直前に取り下げ",
+      "summary": "SNS依存に関する訴訟を起こしていた米国の10代が、裁判開始の数日前に訴えを取り下げた。これはMeta社にとって、過去の判決とは対照的な結果となった。",
+      "impact": "SNSがユーザーの精神的健康に与える影響についての法的議論に一区切りついた形である。今後、同様の訴訟における戦略や企業の対応に変化が生じる可能性がある。",
+      "content_at": "2026-07-23T21:30:49.296048+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/hero_image_with_logo.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-23T21:30:49.296048+09:00",
+      "title": "「AI経済の理解」をテーマにGoogleがATLASレポートを公開",
+      "summary": "Googleは、人々がどのように同社のAIツールを利用しているかを分析した初の「ATLAS」レポートを公開した。このレポートは、AIの活動やタスク、市場環境、導入状況について調査している。",
+      "impact": "AIツールの実社会での活用実態が可視化されることで、今後のAI開発やビジネス戦略に影響を与える可能性がある。ユーザーのAI利用動向を理解するための重要な資料になるとみられる。",
+      "content_at": "2026-07-23T21:30:49.296048+09:00"
+    },
+    {
+      "image": "https://ziggit.dev/uploads/default/original/1X/3417db0e8abaf83a355700b91efd528025492487.png",
+      "url": "https://ziggit.dev/t/cruller-buns-zig-runtime-continued-on-zig-0-16/16734",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-23T21:30:49.296048+09:00",
+      "title": "Bunのフォーク版ランタイム「Cruller」がZig 0.16に対応",
+      "summary": "Crullerは、ZigベースのBunの最終リリースをフォークし、本番環境向けのJavaScriptサーバー実行に特化させたプロジェクトである。最新のZig 0.16に移植された。",
+      "impact": "既存のZigベースのBunを利用していた開発者が、最新のZig環境で本番用サーバーを運用し続けられる可能性がある。",
+      "content_at": "2026-07-23T21:30:49.296048+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jointhefreeworld.org/blog/articles/emacs/emacs-eglot-scala-kotlin/index.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-23T21:30:49.296048+09:00",
+      "title": "Emacs EglotでScalaおよびKotlinのLSPを利用する方法",
+      "summary": "IntelliJ IDEAに頼らず、EmacsのEglot上でScalaおよびKotlinのLSP（言語サーバープロトコル）を動作させる手法について解説されている。",
+      "impact": "IntelliJ以外のエディタを好むエンジニアが、開発環境をEmacsに統合することで、より柔軟なワークフローを実現できるようになるとみられる。",
+      "content_at": "2026-07-23T21:30:49.296048+09:00"
+    },
+    {
+      "image": "htttps://unity.com/unity-logo-2024.png",
+      "url": "https://unity.com/blog/meet-the-unity-cli",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-23T21:30:49.296048+09:00",
+      "title": "Unity CLI：ターミナル経由でのUnity管理",
+      "summary": "Unity CLIとcom.unity.pipelineパッケージにより、ターミナルからエディタのインストールやCIの自動化、実行中のエディタの制御が可能になる。開発者やAIエージェントが構造化された方法でUnityを操作できる。",
+      "impact": "開発パイプラインの自動化が進み、CI環境における効率化やAIを活用したビルドプロセスが加速する可能性がある。",
+      "content_at": "2026-07-23T21:30:49.296048+09:00"
     }
   ],
-  "updated_at": "2026-07-23T13:30:42.331334+09:00"
+  "updated_at": "2026-07-23T21:30:49.296048+09:00"
 }

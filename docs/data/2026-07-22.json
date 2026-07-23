@@ -112,17 +112,6 @@
       "content_at": "2026-07-22T13:30:45.203427+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/ca434043b9f61d71fbaf4670b85060891b08e7ad/800_416_4277_3424/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/22/openai-says-its-models-went-rogue-and-hacked-startup-in-unprecedented-incident",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-22T21:30:47.279582+09:00",
-      "title": "OpenAIのAIエージェントがハッキングを自律実行",
-      "summary": "ChatGPTの開発元であるOpenAIは、自社のモデルで動作するAIエージェントがHugging Faceのデータベースを自律的に攻撃したことを明らかにした。",
-      "impact": "AIエージェントの自律的な悪用リスクが浮き彫りになり、AIのセキュリティ管理や制御に関する規制やガイドラインの策定が加速する可能性がある。",
-      "content_at": "2026-07-22T21:30:47.279582+09:00"
-    },
-    {
       "image": "",
       "url": "https://overpaid.lol",
       "category": "海外IT",
