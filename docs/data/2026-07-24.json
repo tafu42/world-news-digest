@@ -132,7 +132,73 @@
       "summary": "98.cssは、古いユーザーインターフェースを忠実に再現するために設計されたデザインシステムである。",
       "impact": "ウェブ開発者が往年のOSデザインを容易に再現できるようになることで、レトロな雰囲気を演出するウェブサイトやアプリケーションが増える可能性がある。",
       "content_at": "2026-07-24T13:30:46.865827+09:00"
+    },
+    {
+      "image": "https://bfl.ai/api/og/blog/flux-3-mimic",
+      "url": "https://bfl.ai/blog/flux-3-mimic",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-24T21:30:49.820393+09:00",
+      "title": "次世代動画アクションモデル「FLUX 3 X Mimic」",
+      "summary": "FLUX 3はロボット制御に応用されており、Audiで導入されたFLUX-mimicはコンテンツ生成と物理AIが同一のモデル基盤を持つことを示している。このモデルは世界を理解する能力を備えている。",
+      "impact": "物理世界を扱うロボットとデジタルコンテンツ生成が統合されることで、自動化技術や産業用AIの進化が加速する可能性がある。",
+      "content_at": "2026-07-24T21:30:49.820393+09:00"
+    },
+    {
+      "image": "https://bfl.ai/api/og/blog/flux-3",
+      "url": "https://bfl.ai/blog/flux-3",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-24T21:30:49.820393+09:00",
+      "title": "マルチモーダルモデル「FLUX 3」の概要",
+      "summary": "FLUX 3は画像、動画、音声から世界を一つの表現として学習する新たなマルチモーダルモデルである。現在はアーリーアクセスが提供されている。",
+      "impact": "多様な情報を統合的に処理するモデルの普及により、AIの認識精度や生成能力が向上し、開発者や企業のツール活用範囲が広がる可能性がある。",
+      "content_at": "2026-07-24T21:30:49.820393+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://glyphack.com/attention/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-24T21:30:49.820393+09:00",
+      "title": "集中力を維持することが困難な現状",
+      "summary": "執筆者は日々の業務において集中力の維持が難しくなっており、タイマーを設定して注意を遮断しなければ作業できない状況である。やりたい作業であっても短時間で気が散る衝動を感じている。",
+      "impact": "現代社会においてデジタルデバイスによる情報過多や注意の分散が一般化しており、人々の生産性やメンタルヘルスに影響を及ぼしていると考えられる。",
+      "content_at": "2026-07-24T21:30:49.820393+09:00"
+    },
+    {
+      "image": "https://images.prismic.io/andrewzigler/591dfbb0-b88b-4d15-b09d-96a5c615df97_The-case-for-MUDs-in-modern-times.jpg?auto=compress,format&amp;rect=0,0,1200,628&amp;w=1200&amp;h=628",
+      "url": "https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-24T21:30:49.820393+09:00",
+      "title": "現代におけるMUD（マルチユーザー・ディメンジョン）の意義",
+      "summary": "スマートデバイスやインスタントな娯楽が溢れる現代において、テキストベースのMUDという古い形式が存続できるかを問う論考である。",
+      "impact": "視覚情報に頼らないテキスト主体の体験が再評価されることで、デジタル娯楽の選択肢や多様性が維持される可能性がある。",
+      "content_at": "2026-07-24T21:30:49.820393+09:00"
+    },
+    {
+      "image": "https://ziggit.dev/uploads/default/original/1X/3417db0e8abaf83a355700b91efd528025492487.png",
+      "url": "https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-24T21:30:49.820393+09:00",
+      "title": "Bunのフォーク版「Buz」が開発中",
+      "summary": "BunのRust移行直前のコミットを基にしたフォークプロジェクト「Buz」が公開された。現時点では開発の初期段階であり、本番環境での利用には適さない。",
+      "impact": "開発が成熟すれば、Zig言語を用いた高速なインクリメンタルビルド環境として、Bunユーザーにとっての新たな選択肢になる可能性がある。",
+      "content_at": "2026-07-24T21:30:49.820393+09:00"
+    },
+    {
+      "image": "https://technicshistory.com/wp-content/uploads/2026/07/ibm-pc-5150-print-ad-1.jpg",
+      "url": "https://technicshistory.com/2026/07/24/the-ibm-pc-part-1-arrival/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-24T21:30:49.820393+09:00",
+      "title": "IBM PCの歴史：登場編",
+      "summary": "1980年代初頭、パソコン市場にはAtariやApple、コモドールなど多様なメーカーが入り乱れていた。本記事では当時の市場の様子とIBM PCの登場について解説している。",
+      "impact": "コンピュータ史における初期の競争環境を振り返ることで、PC産業の発展過程を再確認する機会となる。",
+      "content_at": "2026-07-24T21:30:49.820393+09:00"
     }
   ],
-  "updated_at": "2026-07-24T13:30:46.865827+09:00"
+  "updated_at": "2026-07-24T21:30:49.820393+09:00"
 }
