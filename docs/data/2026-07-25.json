@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-25",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/6e0272bc008856e02d4a2739ad877c01f88e273c/1493_528_4133_3309/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "EU、検索とアプリでの競争法違反でGoogleに8億9000万ユーロの制裁金",
+      "summary": "EUはGoogleに対し、検索結果におけるサードパーティサービスを公平かつ非差別的に扱うよう命じた。これに関連し、同社には8億9000万ユーロの制裁金が科された。",
+      "impact": "今回の制裁により、Googleのプラットフォーム運営方針が見直される可能性がある。また、IT大手による自社サービス優遇に対する欧州の規制が今後さらに強まるものとみられる。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/13e2f1b00d2aaf0332a01d443b8acb648ec68fd6/55_0_2915_2332/500.jpg",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "Origin Energyがハッキング被害、顧客の個人・銀行口座情報が流出",
+      "summary": "Origin Energyは、ハッカーが同社の顧客データに不正アクセスしたと発表した。流出した情報には氏名、住所、生年月日、電話番号および一部の銀行口座情報が含まれている。",
+      "impact": "被害を受けた顧客はフィッシング詐欺などの二次被害に遭う可能性がある。企業側にはサイバーセキュリティ対策の強化と、被害者への迅速な補償・支援が求められると考えられる。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "「Claude Opus 5」発表、エージェント性能とコーディング能力が向上",
+      "summary": "Opus 5は、長期実行エージェントの性能を強化し、コーディングやプロフェッショナルな業務における能力を向上させた。Opus階層の重要な改善版である。",
+      "impact": "高度な自動化エージェントの実用性が高まることで、開発者や専門職の生産性が向上する可能性がある。AI技術の進化により、ビジネスにおける業務フローが効率化されるとみられる。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "https://image.cnbcfm.com/api/v1/image/108173882-1752844539526-gettyimages-2225696381-mms28707_1cm2uml7.jpeg?v=1752844582&amp;w=1920&amp;h=1080",
+      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "NvidiaやMicrosoftらがオープンウェイトモデルへの過度な規制に反対",
+      "summary": "Nvidia、Microsoft、Metaなどの企業は、オープンウェイトモデルに対する過度な規制に警告を発した。背景には、中国製モデルが米国の主要な製品に対抗して台頭している現状がある。",
+      "impact": "AIモデルのオープン化を巡る議論が激化し、各国でAI規制の在り方が左右される可能性がある。米中間の技術競争がAIモデルの開発・公開戦略に影響を与えるとみられる。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "PostgresのLISTEN/NOTIFY機能の拡張性について",
+      "summary": "PostgresのLISTEN/NOTIFY機能が実際に拡張可能であることが示された。",
+      "impact": "データベースのリアルタイム通知機能の活用が進み、より効率的なシステム設計が可能になる可能性がある。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "セキュリティカメラからGitHubの管理トークンが流出",
+      "summary": "販売されたセキュリティカメラのログインページに、GitHubの管理用トークンが含まれていた。",
+      "impact": "製品のセキュリティ設計の不備により、関連するサービスやデータへの不正アクセスが発生するリスクがあると考えられる。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2285958264-1152x648.jpg",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "インド初の民間開発ロケットが打ち上げに成功",
+      "summary": "インドで初めて民間開発されたロケットが、初打ち上げで軌道に到達した。",
+      "impact": "宇宙開発における民間企業の参入が加速し、宇宙産業のコスト削減や技術革新が進む可能性がある。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=5F-2Y1LPRek",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-25T06:30:45.088199+09:00",
+      "title": "Fil-C：メモリ安全性の確保に向けた取り組み",
+      "summary": "「Fil-C: Garbage In, Memory Safety Out」と題された動画が公開された。",
+      "impact": "ソフトウェア開発におけるメモリ安全性の向上に関する新しい技術が普及し、脆弱性の低減に貢献する可能性がある。",
+      "content_at": "2026-07-25T06:30:45.088199+09:00"
+    }
+  ],
+  "updated_at": "2026-07-25T06:30:45.088199+09:00"
+}
