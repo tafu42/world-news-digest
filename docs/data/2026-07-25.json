@@ -132,7 +132,95 @@
       "summary": "AIモデルの品質、価格、速度などを指標とするArtificial Analysisの評価にて、Opus 5が現在1位にランクされている。",
       "impact": "特定のAIモデルが性能指標で優位に立つことは、開発企業間の競争を促進し、今後の生成AI市場の勢力図を変える可能性がある。",
       "content_at": "2026-07-25T13:30:52.652548+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/57521dd6a0e31fdbe82b284a2ca5f0e1477265c4/335_0_3331_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/tesla-stock-drops-elon-musk",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "テスラの株価が急落、近年の最悪な一日を記録",
+      "summary": "イーロン・マスク氏率いるテスラの株価が今年に入り4分の1下落した。利益の低迷とAI・ロボット分野への巨額投資が背景にある。",
+      "impact": "同社の財務状況に対する市場の不信感が高まり、投資家の判断に大きな影響を与える可能性がある。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9ff1c5663562bdf5c5a9588945247b638c9529f9/565_0_3504_2806/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "テスラの収益が予想を下回る、ロボティクスとAIへ注力",
+      "summary": "テスラの売上は増加したものの、1株あたり利益が市場予想を下回り、株価が時間外取引で3%超下落した。同社は事業の軸足をロボティクスとAIへ移行させている。",
+      "impact": "同社の成長戦略に対する市場の再評価が進み、株価の変動が続く可能性がある。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/784f98f44336972e68c7c2a2dc5f2dbc0eb6bb19/335_0_3331_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/22/google-earnings-report",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "Google、12四半期連続の増収を達成",
+      "summary": "Googleの売上高は1,200億ドルに達し、市場予想を上回る好決算となった。高性能AIモデル「Gemini Pro」のリリース遅延があったものの、増収基調は維持された。",
+      "impact": "AI分野への投資が続く中で、依然として高い収益力を維持していることが示された。今後もAI技術開発への先行投資が加速するとみられる。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "Android、端末内ADBの制限を検討中",
+      "summary": "AndroidのADBに関する提案された変更により、オープンソースアプリや開発者用ツール、Shizukuベースのプライバシー関連ツールが利用できなくなる可能性がある。",
+      "impact": "上級ユーザーや開発者向けのカスタマイズ性が損なわれ、Androidのオープンなエコシステムに大きな制限がかかる懸念がある。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.maths.cam.ac.uk/features/professor-hannah-fry-wins-leelavati-prize",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "ハンナ・フライ氏、2026年リーラヴァティ賞を受賞",
+      "summary": "数学者ハンナ・フライ氏が2026年のリーラヴァティ賞を受賞した。",
+      "impact": "数学の普及活動が評価されることで、数学に対する一般の関心が高まる可能性がある。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
+    },
+    {
+      "image": "https://img.itch.zone/aW1nLzI3ODI4MzEzLmpwZw==/original/O5Mglt.jpg",
+      "url": "https://saffroncr.itch.io/katavatis/devlog/1534514/building-a-tiny-3d-renderer-for-a-tiny-handheld",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "小型携帯ゲーム機向け3Dソフトレンダラーの開発",
+      "summary": "Playdate向けの3Dソフトウェアレンダラー開発の取り組みについて記述している。開発当初は性能の基準や実現可能性が不明確な状態から開始した。",
+      "impact": "リソースの限られた小型デバイスにおけるグラフィックス技術の発展に寄与する可能性がある。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
+    },
+    {
+      "image": "https://arcprize.org/media/images/og-image-default.jpg",
+      "url": "https://arcprize.org/leaderboard",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "ARC-AGIリーダーボード",
+      "summary": "ARC-AGIリーダーボードについて記されている。",
+      "impact": "汎用人工知能の開発において、評価基準が明確化される可能性がある。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
+    },
+    {
+      "image": "https://erinmurphy.dev/nano.png",
+      "url": "https://erinmurphy.dev/projects/project-2/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-25T21:30:51.943531+09:00",
+      "title": "ニューヨークのマンション向けアクアポニックス",
+      "summary": "マンションサイズの規模で構築可能なアクアポニックスシステムのガイドである。",
+      "impact": "都市部居住者が自宅で食料を生産する家庭菜園の手法として普及する可能性がある。",
+      "content_at": "2026-07-25T21:30:51.943531+09:00"
     }
   ],
-  "updated_at": "2026-07-25T13:30:52.652548+09:00"
+  "updated_at": "2026-07-25T21:30:51.943531+09:00"
 }
