@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-26",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/e9dc22d7de9bd5d0f413d80dd7b363bb0c6517cc/688_0_6880_5504/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/25/ai-jobs-apocalypse-human-labor",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-26T06:30:45.968335+09:00",
+      "title": "AIによる雇用への影響はすぐには訪れない可能性",
+      "summary": "人工知能が経済に大きな機会をもたらすという約束は、人類が支払えるコストの範囲内では実現しない可能性がある。AIが労働市場にもたらす劇的な変化はすぐには起こらないとみられる。",
+      "impact": "AI技術の普及に伴う労働市場の激変を懸念する声に対し、過度な不安を抑える影響を与える可能性がある。一方で、長期的には経済構造の変化を見極める慎重な姿勢が求められるとみられる。",
+      "content_at": "2026-07-26T06:30:45.968335+09:00"
+    },
+    {
+      "image": "https://images.ctfassets.net/7k34737a5krf/4YwinRclOQQw2uiKPSSyy0/ce9fa4fffeba5c026667e8cc8d286dcf/stolen-buttons-og.jpg?fm=jpg&amp;w=1200&amp;h=630&amp;fit=fill&amp;q=65",
+      "url": "https://anatolyzenkov.com/stolen-buttons",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-26T06:30:45.968335+09:00",
+      "title": "ウェブサイトのボタンを収集するプロジェクト",
+      "summary": "筆者が訪問したウェブサイトからボタンを盗み、自身のコレクションとして公開している。この活動は独自のデジタルアーカイブとして紹介されている。",
+      "impact": "ウェブサイトのUIデザインにおける多様性を可視化する試みである。個人の趣味的な活動として、ウェブデザインのトレンドを記録する一助となる可能性がある。",
+      "content_at": "2026-07-26T06:30:45.968335+09:00"
+    },
+    {
+      "image": "https://ammoniaenergy.org/wp-content/uploads/2026/07/uminn-morris.png",
+      "url": "https://ammoniaenergy.org/articles/flexible-renewable-ammonia-demonstrator-now-operational-in-minnesota/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-26T06:30:45.968335+09:00",
+      "title": "ミネソタ州モリスで風力を用いたアンモニア・肥料生産プロジェクトが進行",
+      "summary": "2013年に成功したパイロットプロジェクトを拡大したものであり、農家協同組合向けの肥料を生産する拠点ネットワークへと発展する可能性がある。",
+      "impact": "再生可能エネルギーを利用した肥料生産が普及すれば、農業分野の脱炭素化が進む可能性がある。地域ごとの肥料供給網が確立されることで、農業コストや供給の安定性に寄与するとみられる。",
+      "content_at": "2026-07-26T06:30:45.968335+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://tobi.knaup.me/2026-07-25-open-weight-ai-is-having-its-kubernetes-moment/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-26T06:30:45.968335+09:00",
+      "title": "オープンウェイトAIが迎えるKubernetesの瞬間",
+      "summary": "オープンウェイトAIがKubernetesと同様の重要な転換点を迎えている。技術の標準化や普及のプロセスが加速している状況を示唆している。",
+      "impact": "オープンウェイトAIの技術が標準化されることで、開発者や企業による採用が加速する可能性がある。AIインフラの整備がより広範に行われることで、業界全体のイノベーションが促進されるとみられる。",
+      "content_at": "2026-07-26T06:30:45.968335+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://brandonli.net/semisim/animations",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-26T06:30:45.968335+09:00",
+      "title": "トランジスタのアニメーションを作成",
+      "summary": "投稿者がトランジスタの仕組みを解説するアニメーションを作成した。",
+      "impact": "エンジニアや学生にとって、電子回路の基礎を視覚的に理解する一助となる可能性がある。",
+      "content_at": "2026-07-26T06:30:45.968335+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://brolly.sh/forecast/RWFP2qW8",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-26T06:30:45.968335+09:00",
+      "title": "テキストベースの天気予報サイト「Brolly」",
+      "summary": "イギリス・ヨークの天気予報を提供するテキスト形式のWebサイト「Brolly」が公開された。7日間の予報や気象条件、紫外線、空気質、花粉データなどの情報が含まれている。",
+      "impact": "情報量を絞ったテキストベースの形式は、通信環境が制限された状況や軽量な情報を求めるユーザーにとって有用であると考えられる。",
+      "content_at": "2026-07-26T06:30:45.968335+09:00"
+    }
+  ],
+  "updated_at": "2026-07-26T06:30:45.968335+09:00"
+}

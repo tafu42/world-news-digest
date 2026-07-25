@@ -2,28 +2,6 @@
   "date": "2026-07-25",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/6e0272bc008856e02d4a2739ad877c01f88e273c/1493_528_4133_3309/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/eu-fines-google-for-competition-breaches-over-search-and-apps",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-25T06:30:45.088199+09:00",
-      "title": "EU、検索とアプリでの競争法違反でGoogleに8億9000万ユーロの制裁金",
-      "summary": "EUはGoogleに対し、検索結果におけるサードパーティサービスを公平かつ非差別的に扱うよう命じた。これに関連し、同社には8億9000万ユーロの制裁金が科された。",
-      "impact": "今回の制裁により、Googleのプラットフォーム運営方針が見直される可能性がある。また、IT大手による自社サービス優遇に対する欧州の規制が今後さらに強まるものとみられる。",
-      "content_at": "2026-07-25T06:30:45.088199+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/13e2f1b00d2aaf0332a01d443b8acb648ec68fd6/55_0_2915_2332/500.jpg",
-      "url": "https://www.theguardian.com/australia-news/2026/jul/23/personal-and-banking-details-among-customer-data-stolen-in-origin-energy-hack",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-25T06:30:45.088199+09:00",
-      "title": "Origin Energyがハッキング被害、顧客の個人・銀行口座情報が流出",
-      "summary": "Origin Energyは、ハッカーが同社の顧客データに不正アクセスしたと発表した。流出した情報には氏名、住所、生年月日、電話番号および一部の銀行口座情報が含まれている。",
-      "impact": "被害を受けた顧客はフィッシング詐欺などの二次被害に遭う可能性がある。企業側にはサイバーセキュリティ対策の強化と、被害者への迅速な補償・支援が求められると考えられる。",
-      "content_at": "2026-07-25T06:30:45.088199+09:00"
-    },
-    {
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png",
       "url": "https://www.anthropic.com/news/claude-opus-5",
       "category": "海外IT",
