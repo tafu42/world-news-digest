@@ -88,7 +88,51 @@
       "summary": "「Fil-C: Garbage In, Memory Safety Out」と題された動画が公開された。",
       "impact": "ソフトウェア開発におけるメモリ安全性の向上に関する新しい技術が普及し、脆弱性の低減に貢献する可能性がある。",
       "content_at": "2026-07-25T06:30:45.088199+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/15a8a83c1d30c6a9ddd613bae1543a761f8eed4b/252_0_3377_2703/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-07-25T13:30:52.652548+09:00",
+      "title": "イーロン・マスク氏、トランプ氏への関与について「行き過ぎた」と振り返る",
+      "summary": "イーロン・マスク氏はインタビューで、自身の政治的関与が行き過ぎていたと述べ、本来は自身の会社に取り組むべきだったと語った。同氏は今後についても極端な予測を披露している。",
+      "impact": "同氏の政治的スタンスの変化や発言は、米国政界やテスラ社を含む関連企業の動向に影響を与える可能性がある。",
+      "content_at": "2026-07-25T13:30:52.652548+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.wsj.com/health/taylor-farms-cyclospora-recall-delay-call-41fef0bc",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-25T13:30:52.652548+09:00",
+      "title": "テイラー・ファームズ社、ホワイトハウスに対しサイクロスポーラ汚染によるリコール延期を要請",
+      "summary": "テイラー・ファームズ社が、サイクロスポーラ汚染に伴う食品リコールの実施を遅らせるようホワイトハウスに働きかけていた。",
+      "impact": "食品安全行政への企業による政治的な働きかけとして、公衆衛生上の懸念や企業の危機管理姿勢に対する監視が強まる可能性がある。",
+      "content_at": "2026-07-25T13:30:52.652548+09:00"
+    },
+    {
+      "image": "https://i.snap.as/ifLMxP9Z.png",
+      "url": "https://unattributed.cc/re-bye-bye-gravatar",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-25T13:30:52.652548+09:00",
+      "title": "Automattic社による「Gravatar」の仕様変更に批判の声",
+      "summary": "Automattic社が提供するGravatarにおいて、ユーザーから不評な機能変更が行われた。",
+      "impact": "既存サービスの改変がユーザーの利便性を損なうことで、プラットフォームへの信頼性や利用状況に影響が及ぶ可能性がある。",
+      "content_at": "2026-07-25T13:30:52.652548+09:00"
+    },
+    {
+      "image": "https://artificialanalysis.ai/opengraph-image.png?732728ccc2829321",
+      "url": "https://artificialanalysis.ai/models",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-07-25T13:30:52.652548+09:00",
+      "title": "「Opus 5」がArtificial AnalysisのAIリーダーボードで1位を獲得",
+      "summary": "AIモデルの品質、価格、速度などを指標とするArtificial Analysisの評価にて、Opus 5が現在1位にランクされている。",
+      "impact": "特定のAIモデルが性能指標で優位に立つことは、開発企業間の競争を促進し、今後の生成AI市場の勢力図を変える可能性がある。",
+      "content_at": "2026-07-25T13:30:52.652548+09:00"
     }
   ],
-  "updated_at": "2026-07-25T06:30:45.088199+09:00"
+  "updated_at": "2026-07-25T13:30:52.652548+09:00"
 }
