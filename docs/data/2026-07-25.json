@@ -101,39 +101,6 @@
       "content_at": "2026-07-25T13:30:52.652548+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/57521dd6a0e31fdbe82b284a2ca5f0e1477265c4/335_0_3331_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/tesla-stock-drops-elon-musk",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-25T21:30:51.943531+09:00",
-      "title": "テスラの株価が急落、近年の最悪な一日を記録",
-      "summary": "イーロン・マスク氏率いるテスラの株価が今年に入り4分の1下落した。利益の低迷とAI・ロボット分野への巨額投資が背景にある。",
-      "impact": "同社の財務状況に対する市場の不信感が高まり、投資家の判断に大きな影響を与える可能性がある。",
-      "content_at": "2026-07-25T21:30:51.943531+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/9ff1c5663562bdf5c5a9588945247b638c9529f9/565_0_3504_2806/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/22/tesla-profits-earnings",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-25T21:30:51.943531+09:00",
-      "title": "テスラの収益が予想を下回る、ロボティクスとAIへ注力",
-      "summary": "テスラの売上は増加したものの、1株あたり利益が市場予想を下回り、株価が時間外取引で3%超下落した。同社は事業の軸足をロボティクスとAIへ移行させている。",
-      "impact": "同社の成長戦略に対する市場の再評価が進み、株価の変動が続く可能性がある。",
-      "content_at": "2026-07-25T21:30:51.943531+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/784f98f44336972e68c7c2a2dc5f2dbc0eb6bb19/335_0_3331_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/22/google-earnings-report",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-25T21:30:51.943531+09:00",
-      "title": "Google、12四半期連続の増収を達成",
-      "summary": "Googleの売上高は1,200億ドルに達し、市場予想を上回る好決算となった。高性能AIモデル「Gemini Pro」のリリース遅延があったものの、増収基調は維持された。",
-      "impact": "AI分野への投資が続く中で、依然として高い収益力を維持していることが示された。今後もAI技術開発への先行投資が加速するとみられる。",
-      "content_at": "2026-07-25T21:30:51.943531+09:00"
-    },
-    {
       "image": "",
       "url": "https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/",
       "category": "海外IT",

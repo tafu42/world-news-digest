@@ -143,7 +143,73 @@
       "summary": "オープンソースとオープンサイエンスを通じてAIの民主化を推進する取り組みの一環として、小規模なパラメータ数での音声生成モデルが公開された。",
       "impact": "モデルの軽量化により、計算リソースの限られた環境でも高度な音声合成技術が利用可能となり、AI活用のすそ野が広がる可能性がある。",
       "content_at": "2026-07-26T13:30:44.823424+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/15a8a83c1d30c6a9ddd613bae1543a761f8eed4b/252_0_3377_2703/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/elon-musk-regret-trump-doge-ai",
+      "category": "テクノロジー",
+      "time": "21:31",
+      "collected_at": "2026-07-26T21:31:19.940291+09:00",
+      "title": "イーロン・マスク氏、トランプ氏への関与について「やりすぎた」と振り返る",
+      "summary": "イーロン・マスク氏はインタビューで、自身の会社に注力すべきだったと述べ、トランプ氏への関与について「やりすぎた」と語った。また、同氏は過激な予測も披露している。",
+      "impact": "世界的な経営者の政治的スタンスの変化は、関連企業の株価や政策提言の方向性に影響を与える可能性がある。",
+      "content_at": "2026-07-26T21:31:19.940291+09:00"
+    },
+    {
+      "image": "https://astral.sh/static/PNG/Ruff_v_0_16_0.png",
+      "url": "https://astral.sh/blog/ruff-v0.16.0",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-26T21:31:19.940291+09:00",
+      "title": "Python高速化ツール「Ruff」がバージョン0.16.0をリリース",
+      "summary": "Pythonの高速なコードチェックツールであるRuffの新しい安定版がリリースされた。本バージョンではデフォルトのルール数が59から413へと大幅に増加している。",
+      "impact": "開発環境の標準ルールが拡充されることで、Python開発におけるコード品質の向上や保守性の改善が期待される。",
+      "content_at": "2026-07-26T21:31:19.940291+09:00"
+    },
+    {
+      "image": "https://refp.se/logo.png",
+      "url": "https://refp.se/articles/your-shell-and-the-magic-colon",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-26T21:31:19.940291+09:00",
+      "title": "シェルスクリプトにおける「コロン」コマンドの活用法",
+      "summary": "シェルスクリプトにおいて「コロン」記号が実質的な動作をしない特性について解説している。執筆者はこの特性を利用したテクニックの有用性について言及した。",
+      "impact": "この手法が広く知られることで、シェルスクリプトのコードの可読性や記述方法に新たな知見が加わる可能性がある。",
+      "content_at": "2026-07-26T21:31:19.940291+09:00"
+    },
+    {
+      "image": "https://discuss.grapheneos.org/opengraph.png",
+      "url": "https://discuss.grapheneos.org/d/40700-grapheneos-protections-against-data-extraction-from-locked-devices",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-26T21:31:19.940291+09:00",
+      "title": "GrapheneOSのロック中デバイスに対するデータ抽出保護機能",
+      "summary": "GrapheneOSにおける、デバイスがロックされている状態でのデータ抽出に対する保護機能について記されている。",
+      "impact": "モバイルデバイスのセキュリティ性能を重視するユーザーにとって、より高度なデータ保護環境を提供するものとみられる。",
+      "content_at": "2026-07-26T21:31:19.940291+09:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/82/Karte_bauernkrieg3.jpg",
+      "url": "https://en.wikipedia.org/wiki/German_Peasants%27_War",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-26T21:31:19.940291+09:00",
+      "title": "ドイツ農民戦争",
+      "summary": "ドイツ農民戦争に関する概要である。",
+      "impact": "歴史上の出来事であるため、現代社会への直接的な影響はないと考えられる。",
+      "content_at": "2026-07-26T21:31:19.940291+09:00"
+    },
+    {
+      "image": "https://s0.wp.com/i/blank.jpg",
+      "url": "https://etbe.coker.com.au/2026/07/24/systemd-linger/",
+      "category": "海外IT",
+      "time": "21:31",
+      "collected_at": "2026-07-26T21:31:19.940291+09:00",
+      "title": "systemdのユーザープロセス終了機能",
+      "summary": "systemdにおける、ユーザーがログアウトした際にプロセスを終了させる機能が議論を呼んでいる。当初はこの機能によりscreenやtmux、nohupなどのプロセスも終了していた。",
+      "impact": "サーバー管理において意図しないプロセスの停止を防ぐため、設定の見直しが必要になる可能性がある。",
+      "content_at": "2026-07-26T21:31:19.940291+09:00"
     }
   ],
-  "updated_at": "2026-07-26T13:30:44.823424+09:00"
+  "updated_at": "2026-07-26T21:31:19.940291+09:00"
 }
