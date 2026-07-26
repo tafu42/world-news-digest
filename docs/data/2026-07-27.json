@@ -1,0 +1,94 @@
+{
+  "date": "2026-07-27",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/711eb47fbb76b6d8c67d0ebadffbb777acda8af6/94_0_1005_804/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/26/manzoor-hussain-obituary",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "マンズール・フセイン氏の訃報",
+      "summary": "ワトフォードの政治や地域活動で重要な役割を果たしたエンジニア兼講師、マンズール・フセイン氏が死去した。本記事は同氏の経歴を振り返る追悼記事である。",
+      "impact": "地域コミュニティや政治活動に貢献した人物の足跡が記録されることで、地域の歴史的記憶が継承されると考えられる。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/57521dd6a0e31fdbe82b284a2ca5f0e1477265c4/335_0_3331_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/23/tesla-stock-drops-elon-musk",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "テスラの株価が急落、過去数年で最悪の一日を記録",
+      "summary": "イーロン・マスク氏率いるテスラは、利益の低迷やAI・ロボット分野への巨額投資が響き、今年に入って時価総額の4分の1を失った。この日、同社株は2桁台の急落を見せた。",
+      "impact": "業績の低迷や投資負担の重さが市場の懸念を招いており、今後の経営戦略やAI・ロボティクス分野への投資計画を見直す圧力が強まる可能性がある。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://beyondloom.com/decker/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "Hypercardの伝統を受け継ぐプラットフォーム「Decker」",
+      "summary": "Deckerは、Hypercardおよび初期のmacOSの設計思想や遺産を継承して構築されたプラットフォームである。",
+      "impact": "レガシーなソフトウェアの概念を現代に蘇らせることで、ソフトウェア開発の歴史を再評価する動きや、独自性の高いアプリ開発に関心を持つ層に影響を与える可能性がある。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://davidnicholaswilliams.com/its-not-empowering-to-hand-off-the-details/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "細部を他人に委ねることは権限委譲ではない",
+      "summary": "業務における細かな詳細を他人に任せることが、必ずしも他者の能力向上や権限委譲にはつながらないという見解を示した記事である。",
+      "impact": "マネジメントのあり方や、適切な権限委譲の定義についてビジネス現場で再考を促すきっかけになる可能性がある。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "データ指向設計の紹介 (PDF)",
+      "summary": "データ指向設計に関する入門資料（PDF）が公開された。",
+      "impact": "開発者がデータ構造を重視する設計手法を学ぶ一助となる可能性がある。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    },
+    {
+      "image": "https://stephango.com/assets/covers/design-is-compromise.png",
+      "url": "https://stephango.com/design-is-compromise",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "デザインとは妥協である",
+      "summary": "デザインにおける妥協は日常的な意思決定や優先順位付けの一部であり、二つの要素間の適切なバランスを見つける行為である。",
+      "impact": "設計の意思決定プロセスにおいて、トレードオフを検討することの重要性が再認識されると考えられる。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    },
+    {
+      "image": "https://imgproxy.fourthwall.dev/fFacE7iRN78e36VJLwizpILfnQcPu0ke2aIoxlQ7jc0/w:1200/sm:1/enc/EwYqh2EzXPAU7H04/BMXqquHCApkGKbGh/LoFc40D31bsD6gv4/lJ5EIYZduCxm8qAG/13LlpWyyziWbLs7D/Xi4TfM5SZiC5kSsq/f-tOQtISSQdUx14H/3kaNrBbOOijmZBov/fuUJOdCo4m-eyLcf/7A97CwuTeNBI_GsD/K81ThuM9c3cS1p--/oRP_PAY7b_W4O2kr/rRJzjKSc6clktadC/XRtwNg.png",
+      "url": "https://swag.htmx.org/en-cad/products/htmx-4-the-game",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "ゲームボーイ専用JavaScriptライブラリ「Htmx 4.0」が登場",
+      "summary": "JavaScriptライブラリ「Htmx 4.0」がゲームボーイ向けにリリースされた。携帯ゲーム機上でHTMXの機能が利用可能になる。",
+      "impact": "レトロゲームプラットフォームにおけるWeb技術の活用というユニークな事例として注目される可能性がある。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/cfb7c8ece0fb994c4115cd3ab8858f012e5ee40aa6ae45ad66878b3347122ed6/gmrandazzo/CheapSecurity",
+      "url": "https://github.com/gmrandazzo/CheapSecurity",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-27T06:30:40.914164+09:00",
+      "title": "Linuxシングルボードコンピュータ向け軽量CCTVシステム「CheapSecurity」",
+      "summary": "Linuxシングルボードコンピュータで動作する、セルフホスト型の軽量監視カメラシステム「CheapSecurity」がGitHubで公開されている。",
+      "impact": "安価なハードウェアを用いて、プライバシーを重視した監視システムを構築したいユーザーにとって有益な選択肢となる可能性がある。",
+      "content_at": "2026-07-27T06:30:40.914164+09:00"
+    }
+  ],
+  "updated_at": "2026-07-27T06:30:40.914164+09:00"
+}
