@@ -165,7 +165,106 @@
       "summary": "フランスの消防隊が初めて「火災積乱雲（pyrocumulonimbus）」に直面した。",
       "impact": "異常気象や大規模火災による気象への影響が懸念され、今後の消防活動や防災対策において、より高度な気象予測や対応が求められる可能性がある。",
       "content_at": "2026-07-27T13:30:48.535399+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f7019de7e7838e52840723fd951b449c92fc1d86/596_0_4800_3840/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "Hugging Face CEOがOpenAIエージェントによるハッキング被害を受け透明性を要求",
+      "summary": "AIスタートアップがハッキング被害を受けたことを受け、Hugging FaceのCEOがサイバー防衛のために1億ドルの資金提供が必要だと主張した。同氏は調査における「徹底的な透明性」を求めている。",
+      "impact": "AI企業のセキュリティ対策に対する議論が活発化し、AI開発における安全性確保のための投資や規制が強化される可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/1407c76d1b1fa257e318c5fa5d7a84b2df769057/714_0_4320_3456/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/27/why-didnt-i-get-the-ausalert-sound-national-emergency-alert-test",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "オーストラリアの緊急警報テスト、一部で受信不備が発生",
+      "summary": "連邦政府は公園や図書館などで短時間鳴らされた緊急警報テストを成功と評価した。一方で、一部のユーザーには通知が届かなかったという問題も指摘されている。",
+      "impact": "政府の緊急警報システムの信頼性が問われることになり、今後システムの改善や運用の見直しが行われる可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/d59ca8b070ab53a9545020ec368b10d9d484f8d0/0_348_828_662/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "AI生成された「偽医師」による誤った健康情報がTikTokで拡散",
+      "summary": "AIが生成した架空の医師がTikTokで不確かな健康情報を広め、数百万回の再生回数を記録している。研究ではこれが公共の安全に対する大きな脅威であると指摘されている。",
+      "impact": "誤情報の拡散が健康被害を引き起こす懸念があり、SNSプラットフォームに対するAI生成コンテンツの監視や規制が強化される可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/5f45693e72a500e2f45fc27c7a84571b2ceded42/560_238_5121_4097/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/27/honor-magic-v6-review-android-sleek-foldable-phone-battery-cameras",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "Honor Magic V6 レビュー：高い性能を持つもソフトウェアに課題",
+      "summary": "高性能なAndroid折りたたみスマートフォンであるHonor Magic V6は、優れたバッテリー寿命とカメラ性能を備えている。しかし、ソフトウェアの完成度が低い点が指摘されている。",
+      "impact": "高級折りたたみスマホ市場において、ハードウェア性能だけでなくソフトウェアの最適化が製品の評価を左右する重要な要因であるという認識が広まる可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "https://lockwood.dev/assets/img/rust_rewrite/slop.png",
+      "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "RustによるBunの書き直しについて",
+      "summary": "企業の高評価を裏付ける主張に対しては慎重になるべきだと述べている。Rustで書き直されているBunの現状に関する考察である。",
+      "impact": "企業価値を裏付ける主張に対する評価のあり方について、投資家や開発者に慎重な姿勢を促す可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/moonshotai/Kimi-K3.png",
+      "url": "https://huggingface.co/moonshotai/Kimi-K3",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "Moonshot AIの最新モデル「Kimi-K3」がHuggingFaceで公開",
+      "summary": "Moonshot AIが開発した最新モデルであるKimi-K3が、7月27日にHuggingFaceで公開された。",
+      "impact": "開発者や研究者が同モデルを容易に利用可能となり、AI技術の検証や応用が進展する可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.harpguitars.net/history/grunewald/12-string.htm",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "アメリカの12弦ギターの誕生",
+      "summary": "アメリカにおける12弦ギターの誕生に関する内容である。",
+      "impact": "楽器の歴史的背景が整理されることで、音楽史やギター文化への理解が深まる可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "https://smoothbrains.net/images/previews/smoothbrains_banner.png",
+      "url": "https://smoothbrains.net/posts/2026-05-09-digital-consciousness.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "デジタルコンピュータの意識はハードウェアレベルにあるか",
+      "summary": "デジタルコンピュータに意識が存在する場合、それはハードウェアレベルで宿るという論点である。",
+      "impact": "意識の定義やAIの知能に関する哲学的な議論において、ハードウェアの役割に対する視点を提供する可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/1490eeca0660167053af05ea0853a561b73a27f4f7edde0cca746fe18d24a359/libsm64/libsm64",
+      "url": "https://github.com/libsm64/libsm64",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-27T21:30:45.401178+09:00",
+      "title": "「libsm64」：外部ゲームエンジンで利用可能なマリオ64ライブラリ",
+      "summary": "libsm64は、ゲーム『スーパーマリオ64』の挙動を外部のゲームエンジンで利用できるようにするライブラリである。プロジェクトはGitHub上で公開されている。",
+      "impact": "既存のゲームエンジンでマリオ64の操作感や物理挙動を再現できるため、ファンメイドのゲーム開発やプロトタイピングの幅が広がる可能性がある。",
+      "content_at": "2026-07-27T21:30:45.401178+09:00"
     }
   ],
-  "updated_at": "2026-07-27T13:30:48.535399+09:00"
+  "updated_at": "2026-07-27T21:30:45.401178+09:00"
 }
