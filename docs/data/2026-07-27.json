@@ -2,28 +2,6 @@
   "date": "2026-07-27",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/711eb47fbb76b6d8c67d0ebadffbb777acda8af6/94_0_1005_804/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/26/manzoor-hussain-obituary",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-27T06:30:40.914164+09:00",
-      "title": "マンズール・フセイン氏の訃報",
-      "summary": "ワトフォードの政治や地域活動で重要な役割を果たしたエンジニア兼講師、マンズール・フセイン氏が死去した。本記事は同氏の経歴を振り返る追悼記事である。",
-      "impact": "地域コミュニティや政治活動に貢献した人物の足跡が記録されることで、地域の歴史的記憶が継承されると考えられる。",
-      "content_at": "2026-07-27T06:30:40.914164+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/57521dd6a0e31fdbe82b284a2ca5f0e1477265c4/335_0_3331_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/23/tesla-stock-drops-elon-musk",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-27T06:30:40.914164+09:00",
-      "title": "テスラの株価が急落、過去数年で最悪の一日を記録",
-      "summary": "イーロン・マスク氏率いるテスラは、利益の低迷やAI・ロボット分野への巨額投資が響き、今年に入って時価総額の4分の1を失った。この日、同社株は2桁台の急落を見せた。",
-      "impact": "業績の低迷や投資負担の重さが市場の懸念を招いており、今後の経営戦略やAI・ロボティクス分野への投資計画を見直す圧力が強まる可能性がある。",
-      "content_at": "2026-07-27T06:30:40.914164+09:00"
-    },
-    {
       "image": "",
       "url": "https://beyondloom.com/decker/",
       "category": "海外IT",

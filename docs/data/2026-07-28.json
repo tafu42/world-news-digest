@@ -1,0 +1,72 @@
+{
+  "date": "2026-07-28",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-28T06:30:41.958864+09:00",
+      "title": "Go言語の新しいガベージコレクタによるヒープの動作",
+      "summary": "Go言語の新しいガベージコレクタがヒープ上をどのように動作するのかを解説する。",
+      "impact": "Go言語のメモリ管理プロセスの理解が深まり、より効率的なアプリケーション開発に役立つ可能性がある。",
+      "content_at": "2026-07-28T06:30:41.958864+09:00"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/4e3194_f51bf439cad241aeb0d95b6e4e3b095d~mv2.png/v1/fit/w_2500,h_1330,al_c/4e3194_f51bf439cad241aeb0d95b6e4e3b095d~mv2.png",
+      "url": "https://www.rise-reforming.com",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-28T06:30:41.958864+09:00",
+      "title": "Rise Reforming (YC S26)による廃ガスの化学資源化",
+      "summary": "YC S26参加企業のRise Reformingが、廃ガスを価値ある化学物質へと変換する技術を発表した。",
+      "impact": "廃ガスの資源化により、産業界の環境負荷低減や新たな資源循環モデルの構築につながる可能性がある。",
+      "content_at": "2026-07-28T06:30:41.958864+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-28T06:30:41.958864+09:00",
+      "title": "自己完結型で移植性の高いPython配布パッケージ",
+      "summary": "自己完結しており、移植性に優れたPythonの配布手法について記述されている。",
+      "impact": "Pythonアプリケーションのデプロイ環境における依存関係の問題が解消され、実行の柔軟性が向上するとみられる。",
+      "content_at": "2026-07-28T06:30:41.958864+09:00"
+    },
+    {
+      "image": "https://s7d1.scene7.com/is/image/CENODS/News--Powerful-adhesive-binds-to-Teflon--can-be-wiped-clean---534105:Widescreen?$responsive$&amp;qlt&#61;90,0&amp;resMode&#61;sharp2&amp;fmt&#61;webp",
+      "url": "https://cen.acs.org/materials/adhesives/glue-bonds-nonstick-surfaces-wipes-clean/104/web/2026/07",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-28T06:30:41.958864+09:00",
+      "title": "非粘着性表面に接着しエタノールで除去可能な接着剤",
+      "summary": "非粘着性の表面に接着可能で、エタノールで拭き取ることができる接着剤が開発された。外部専門家はフッ素化分子が環境に与える影響の調査が必要だと指摘している。",
+      "impact": "接着剤の用途が広がる一方、使用される化学物質の安全性や環境負荷について慎重な評価が進められる可能性がある。",
+      "content_at": "2026-07-28T06:30:41.958864+09:00"
+    },
+    {
+      "image": "https://spectrum.ieee.org/media-library/black-and-white-image-of-two-women-operating-a-wall-sized-1940s-computer.jpg?id=67520993&width=1200&height=600&coordinates=0%2C125%2C0%2C125",
+      "url": "https://spectrum.ieee.org/colossus-computer-ieee-milestone",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-28T06:30:41.958864+09:00",
+      "title": "第二次世界大戦の勝利に貢献したコンピュータ",
+      "summary": "コロッサスはドイツ軍の暗号化された通信を解読した。このコンピュータは第二次世界大戦の勝利を支援した。",
+      "impact": "このニュースは歴史的な技術的功績を伝えており、現代のコンピュータ開発の原点として再評価される可能性がある。",
+      "content_at": "2026-07-28T06:30:41.958864+09:00"
+    },
+    {
+      "image": "https://gpuopen.com/images/rt_massive_teaser_gamma_featured.C4yHI1jh.jpg",
+      "url": "https://gpuopen.com/learn/ray-tracing-massive-amounts-animated-geometry/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-28T06:30:41.958864+09:00",
+      "title": "四面体ケージを用いた大規模なアニメーション形状のレイトレーシング",
+      "summary": "四面体ケージをアニメーション化し、静的なミニBLASを再利用することで、数億個の三角形をリアルタイムでレイトレーシングする手法が提案された。これにより、植物や群衆などの密集した表現におけるフレームごとの更新コストとメモリコストが大幅に削減される。",
+      "impact": "この手法の導入により、リアルタイムレンダリングにおける計算負荷が軽減され、より高精細な映像表現がゲームや映像制作の現場で可能になるとみられる。",
+      "content_at": "2026-07-28T06:30:41.958864+09:00"
+    }
+  ],
+  "updated_at": "2026-07-28T06:30:41.958864+09:00"
+}
