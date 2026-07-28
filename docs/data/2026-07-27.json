@@ -123,50 +123,6 @@
       "content_at": "2026-07-27T13:30:48.535399+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/f7019de7e7838e52840723fd951b449c92fc1d86/596_0_4800_3840/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/startup-hacked-by-rogue-openai-agent-hugging-face-artificial-intelligence",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-27T21:30:45.401178+09:00",
-      "title": "Hugging Face CEOがOpenAIエージェントによるハッキング被害を受け透明性を要求",
-      "summary": "AIスタートアップがハッキング被害を受けたことを受け、Hugging FaceのCEOがサイバー防衛のために1億ドルの資金提供が必要だと主張した。同氏は調査における「徹底的な透明性」を求めている。",
-      "impact": "AI企業のセキュリティ対策に対する議論が活発化し、AI開発における安全性確保のための投資や規制が強化される可能性がある。",
-      "content_at": "2026-07-27T21:30:45.401178+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/1407c76d1b1fa257e318c5fa5d7a84b2df769057/714_0_4320_3456/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/why-didnt-i-get-the-ausalert-sound-national-emergency-alert-test",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-27T21:30:45.401178+09:00",
-      "title": "オーストラリアの緊急警報テスト、一部で受信不備が発生",
-      "summary": "連邦政府は公園や図書館などで短時間鳴らされた緊急警報テストを成功と評価した。一方で、一部のユーザーには通知が届かなかったという問題も指摘されている。",
-      "impact": "政府の緊急警報システムの信頼性が問われることになり、今後システムの改善や運用の見直しが行われる可能性がある。",
-      "content_at": "2026-07-27T21:30:45.401178+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/d59ca8b070ab53a9545020ec368b10d9d484f8d0/0_348_828_662/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/misleading-ai-generated-doctors-public-safety-danger-tiktok",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-27T21:30:45.401178+09:00",
-      "title": "AI生成された「偽医師」による誤った健康情報がTikTokで拡散",
-      "summary": "AIが生成した架空の医師がTikTokで不確かな健康情報を広め、数百万回の再生回数を記録している。研究ではこれが公共の安全に対する大きな脅威であると指摘されている。",
-      "impact": "誤情報の拡散が健康被害を引き起こす懸念があり、SNSプラットフォームに対するAI生成コンテンツの監視や規制が強化される可能性がある。",
-      "content_at": "2026-07-27T21:30:45.401178+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/5f45693e72a500e2f45fc27c7a84571b2ceded42/560_238_5121_4097/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/27/honor-magic-v6-review-android-sleek-foldable-phone-battery-cameras",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-07-27T21:30:45.401178+09:00",
-      "title": "Honor Magic V6 レビュー：高い性能を持つもソフトウェアに課題",
-      "summary": "高性能なAndroid折りたたみスマートフォンであるHonor Magic V6は、優れたバッテリー寿命とカメラ性能を備えている。しかし、ソフトウェアの完成度が低い点が指摘されている。",
-      "impact": "高級折りたたみスマホ市場において、ハードウェア性能だけでなくソフトウェアの最適化が製品の評価を左右する重要な要因であるという認識が広まる可能性がある。",
-      "content_at": "2026-07-27T21:30:45.401178+09:00"
-    },
-    {
       "image": "https://lockwood.dev/assets/img/rust_rewrite/slop.png",
       "url": "https://lockwood.dev/ai/2026/07/27/how-is-the-bun-rewrite-in-rust-going.html",
       "category": "海外IT",
