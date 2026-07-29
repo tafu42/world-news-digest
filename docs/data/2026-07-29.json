@@ -165,7 +165,73 @@
       "summary": "Wayland環境下で複数のマウスカーソルを扱うための取り組みが行われている。",
       "impact": "将来的に特定のUI操作やマルチユーザー環境での操作性が向上する可能性がある。",
       "content_at": "2026-07-29T13:30:56.294498+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://koreader.rocks/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-29T21:30:48.457742+09:00",
+      "title": "KOReaderについて",
+      "summary": "KOReaderに関する紹介である。",
+      "content_at": "2026-07-29T21:30:48.457742+09:00",
+      "impact": "対象となるソフトウェアの認知度や利用状況に影響を与える可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-29T21:30:48.457742+09:00",
+      "title": "Word向けCopilotで自己増殖するAIワーム",
+      "summary": "Microsoftの製品チームおよびセキュリティ対応センターとの協力により、文書を介したAIワームの脆弱性についての技術的な分析と緩和策が公開された。この知見は著者の見解に基づくものである。",
+      "content_at": "2026-07-29T21:30:48.457742+09:00",
+      "impact": "AI機能を備えたオフィスソフトにおけるセキュリティ上の脆弱性が可視化されたことで、企業環境でのAI利用におけるセキュリティ基準が見直される可能性がある。"
+    },
+    {
+      "image": "https://tailscale.com/api/og-image?id=42fbec2c-0569-42cb-86c8-dbf1e2f2fa4a",
+      "url": "https://tailscale.com/blog/jailbroken-kindle-proxy-tun-modes",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-29T21:30:48.457742+09:00",
+      "title": "脱獄済みKindleで利用可能なTailscaleの活用術",
+      "summary": "コミュニティのアップデートにより、脱獄済みKindleでのTailscale SSHやプロキシモード、TUNモードなどの利用が可能になった。また、KoboやPocket Reader向けのプラグインも提供されている。",
+      "content_at": "2026-07-29T21:30:48.457742+09:00",
+      "impact": "電子書籍リーダーのカスタマイズ性が向上し、特定のユーザー層においてデバイスのネットワーク利用の幅が広がる可能性がある。"
+    },
+    {
+      "image": "https://amiga.lychesis.net/assets/Articles/Home.png",
+      "url": "https://amiga.lychesis.net/index.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-29T21:30:48.457742+09:00",
+      "title": "Amigaグラフィックス・アーカイブ",
+      "summary": "1985年に登場したCommodore Amigaは、独自のカスタムチップにより当時の個人用コンピュータとしては比類のないグラフィックス性能を実現した。本サイトはそのグラフィックスに特化している。",
+      "content_at": "2026-07-29T21:30:48.457742+09:00",
+      "impact": "往年のコンピュータの技術的な歴史を保存し、レトロコンピューティングに関心を持つユーザーにとって貴重な資料となる可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://docs.imiron.io/v/0.5.10/en/tour.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-29T21:30:48.457742+09:00",
+      "title": "形式仕様を記述するためのプラットフォーム「SpecForge」",
+      "summary": "SpecForgeは、形式仕様を記述するためのプラットフォームである。",
+      "impact": "形式仕様の記述作業が効率化される可能性がある。",
+      "content_at": "2026-07-29T21:30:48.457742+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.datagubbe.se/scenegui/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-07-29T21:30:48.457742+09:00",
+      "title": "デモシーンにおけるユーザーインターフェース",
+      "summary": "デモシーンで用いられるユーザーインターフェースに関する内容である。",
+      "impact": "デモシーンにおけるインターフェース設計の知見が共有されると考えられる。",
+      "content_at": "2026-07-29T21:30:48.457742+09:00"
     }
   ],
-  "updated_at": "2026-07-29T13:30:56.294498+09:00"
+  "updated_at": "2026-07-29T21:30:48.457742+09:00"
 }
