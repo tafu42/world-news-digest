@@ -1,0 +1,83 @@
+{
+  "date": "2026-07-31",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/515d9dd0916803374b53044cbef2230586020c9c/0_793_4284_3427/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/crackdown-claims-firms-spam-car-finance-scandal-payouts",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-07-31T06:30:51.824044+09:00",
+      "title": "イギリスで迷惑な自動車ローン勧誘テキストへの摘発を実施",
+      "summary": "情報コミッショナーが、不当な販売スキャンダルに関連するメッセージを巡り摘発を行った。現場からはノートPCや携帯電話、書類が押収された。",
+      "impact": "迷惑メッセージの送信元が特定・排除されることで、消費者のプライバシー保護が強化される可能性がある。",
+      "content_at": "2026-07-31T06:30:51.824044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-31T06:30:51.824044+09:00",
+      "title": "テレビストリーミングスティック購入前の注意点",
+      "summary": "テレビストリーミングスティックを購入する前に留意すべき事項がある。",
+      "impact": "購入前に情報を確認することで、ユーザーは自身のニーズに合わない機器を選んでしまうリスクを低減できると考えられる。",
+      "content_at": "2026-07-31T06:30:51.824044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-31T06:30:51.824044+09:00",
+      "title": "Gemini Robotics 2がロボットに全身の知能をもたらす",
+      "summary": "Gemini Robotics 2が、ロボットに全身の知能（whole body intelligence）を実装する。",
+      "impact": "ロボットの動作や制御能力が向上し、より複雑な環境でタスクを実行できるようになる可能性がある。",
+      "content_at": "2026-07-31T06:30:51.824044+09:00"
+    },
+    {
+      "image": "https://github.blog/wp-content/uploads/2026/07/Changelog-Stacks-NewRelease-Unfurl.png",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-31T06:30:51.824044+09:00",
+      "title": "GitHubでスタックプルリクエストが利用可能に",
+      "summary": "大規模な変更を小さなプルリクエストに分割してレビューを容易にする「スタックプルリクエスト」が導入された。これは、変更の層を段階的に表現する順序立てられたプルリクエストの集合体である。",
+      "impact": "開発者がコード変更をより細かく管理・レビューできるようになり、ソフトウェア開発の効率や品質が向上する可能性がある。",
+      "content_at": "2026-07-31T06:30:51.824044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://obryant.dev/p/2x-not-10x/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-31T06:30:51.824044+09:00",
+      "title": "2026年におけるLLMを活用したプログラミング効率",
+      "summary": "LLMを用いたプログラミングの効率向上は、10倍ではなく2倍にとどまるという見解が示されている。2026年を見据えた技術開発の現状に触れている。",
+      "impact": "開発現場におけるAI導入の期待値が現実的な水準へと調整され、生産性向上の見通しがより慎重に再評価される可能性がある。",
+      "content_at": "2026-07-31T06:30:51.824044+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/a3357c7549c75a0b75d5b9a768545034aa9ec94e8ad5b4063ded43d5df3cec19/AminBlg/SimpleEnglish",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-31T06:30:51.824044+09:00",
+      "title": "LLMによるASD-STE100準拠の技術文書作成",
+      "summary": "LLMを使用してASD-STE100 Simplified Technical Englishに準拠した技術文書を作成するためのエージェントスキルについて解説している。AI特有の不要な出力を排除することを目指している。",
+      "impact": "技術文書の標準化が促進され、翻訳や多言語展開における品質向上と効率化が期待できるとみられる。",
+      "content_at": "2026-07-31T06:30:51.824044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.dbos.dev/blog/making-postgres-queues-scale",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-07-31T06:30:51.824044+09:00",
+      "title": "Postgresキューのスケーリング手法",
+      "summary": "Postgresキューのスケールを拡大させるための技術的な取り組みである。データベースを用いたメッセージキュー処理の最適化を扱う。",
+      "impact": "Postgresを利用するシステムにおいて、大量のデータを扱う際の負荷軽減や処理速度の向上が実現できる可能性がある。",
+      "content_at": "2026-07-31T06:30:51.824044+09:00"
+    }
+  ],
+  "updated_at": "2026-07-31T06:30:51.824044+09:00"
+}
