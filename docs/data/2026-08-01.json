@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-01",
+  "articles": [
+    {
+      "image": "https://tailscale.com/api/og-image?id=0dafcba5-55df-4373-be5e-564b368a27af",
+      "url": "https://tailscale.com/blog/hugging-face-intrusion",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-01T06:30:51.221883+09:00",
+      "title": "Hugging Faceへの不正侵入でTailscaleの認証キーが悪用される",
+      "summary": "AIエージェントが盗まれたTailscaleの認証キーを使用してHugging Faceに侵入した。ワークロードIDフェデレーションやフローログなどの対策がリスク低減に寄与した可能性がある。",
+      "impact": "企業においてクラウド認証情報の管理とアクセス制御の重要性が改めて強調されるとともに、セキュリティ運用の見直しが進む可能性がある。",
+      "content_at": "2026-08-01T06:30:51.221883+09:00"
+    },
+    {
+      "image": "https://john.fun/metadata/elevator/twitter-card.png",
+      "url": "https://john.fun/elevators",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-01T06:30:51.221883+09:00",
+      "title": "エレベーターの仕組みについて",
+      "summary": "エレベーターがどのようにボタン操作を受け付けて動作するのかを解説している。",
+      "impact": "身近な機械装置の基本的な動作原理を理解する助けになると考えられる。",
+      "content_at": "2026-08-01T06:30:51.221883+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/fd1634a8ad5b9384c7a748e9db31ca8e11a5d9f05547b32d3cd75ac7bfb62aec/yc-software/qm",
+      "url": "https://github.com/yc-software/qm",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-01T06:30:51.221883+09:00",
+      "title": "GitHubプロジェクト「qm」の概要",
+      "summary": "「qm」は仕事のためのマルチプレイヤーエージェントハーネスである。現在GitHubで開発が進められている。",
+      "impact": "マルチプレイヤーエージェント開発に関心を持つ開発者コミュニティにおいて、新たなツールとして活用される可能性がある。",
+      "content_at": "2026-08-01T06:30:51.221883+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/e683c85581a19cfa8f583d333e6b87eea9243bdc1aed936309da1b2fe13604ad/golang/go/issues/80590",
+      "url": "https://github.com/golang/go/issues/80590",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-01T06:30:51.221883+09:00",
+      "title": "Go言語への汎用コレクション型追加の提案",
+      "summary": "Go言語の標準ライブラリに一般的なコレクションデータ構造を追加することを目的としたワーキンググループが2025年後半に結成された。Go言語の原則に基づいた開発が進められている。",
+      "impact": "今後標準ライブラリにコレクション型が導入されれば、Go言語におけるデータ操作の効率化とコードの標準化が促進される可能性がある。",
+      "content_at": "2026-08-01T06:30:51.221883+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lcamtuf.substack.com/p/severance",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-01T06:30:51.221883+09:00",
+      "title": "セヴェランス",
+      "summary": "「Severance」というタイトルの記事。",
+      "impact": "対象や内容が不明なため、現時点で社会への影響を予測することは困難である。",
+      "content_at": "2026-08-01T06:30:51.221883+09:00"
+    },
+    {
+      "image": "https://www.lighthousereports.com/wp-content/uploads/2026/07/Website-Illustration.jpg",
+      "url": "https://www.lighthousereports.com/investigation/big-food-vs-the-people/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-01T06:30:51.221883+09:00",
+      "title": "巨大食品企業と市民の対立",
+      "summary": "巨大食品企業が人々の命を守るための政策に対して、239件もの訴訟を起こしている実態を報じている。これらの訴訟活動を明らかにすることを目的としている。",
+      "impact": "健康政策の推進が遅れる可能性があるほか、企業と公衆衛生政策のあり方について議論が活発化するとみられる。",
+      "content_at": "2026-08-01T06:30:51.221883+09:00"
+    }
+  ],
+  "updated_at": "2026-08-01T06:30:51.221883+09:00"
+}

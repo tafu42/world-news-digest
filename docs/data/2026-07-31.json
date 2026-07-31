@@ -2,17 +2,6 @@
   "date": "2026-07-31",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/515d9dd0916803374b53044cbef2230586020c9c/0_793_4284_3427/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/30/crackdown-claims-firms-spam-car-finance-scandal-payouts",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-07-31T06:30:51.824044+09:00",
-      "title": "イギリスで迷惑な自動車ローン勧誘テキストへの摘発を実施",
-      "summary": "情報コミッショナーが、不当な販売スキャンダルに関連するメッセージを巡り摘発を行った。現場からはノートPCや携帯電話、書類が押収された。",
-      "impact": "迷惑メッセージの送信元が特定・排除されることで、消費者のプライバシー保護が強化される可能性がある。",
-      "content_at": "2026-07-31T06:30:51.824044+09:00"
-    },
-    {
       "image": "",
       "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
       "category": "海外IT",
