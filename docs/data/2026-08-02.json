@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-02",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/8e9145c9178f46d349d7a59d97341cc385714546/0_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "オーストラリアの古書店がAIによる希少本の廃棄に警鐘",
+      "summary": "オーストラリアの古書店主らは、希少な書籍がAI学習用のデータとしてスキャンされた後に廃棄されている可能性があると指摘している。古書がAI開発のサプライチェーンに組み込まれているという懸念が広がっている。",
+      "impact": "AI学習のために書籍が処分されることで、希少価値の高い歴史的資料が失われる可能性がある。著作権や文化遺産の保護の観点から、AI企業と出版業界の間で新たな規制議論が活発化する可能性がある。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/406704301905abb072d8bd2b3d9d87864722bf4a/0_21_3000_2399/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/31/ai-labels-to-be-compulsory-on-authentic-looking-content-under-eu-rules",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "EU、AIで生成されたコンテンツへの表示義務化を決定",
+      "summary": "EUの新たなルールにより、企業は本物のように見えるAI生成コンテンツに対し、AIラベルの表示が義務付けられる。対象は画像、音声、テキストなど、AIによって生成された全てのコンテンツを含む。",
+      "impact": "消費者がAIコンテンツを容易に識別できるようになることで、情報の信頼性や透明性が向上するとみられる。企業側はAI利用に関する厳格なガバナンスへの対応を迫られることになる。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "https://openrss.orghttps://openrss.org/media/google-links-break.jpg",
+      "url": "https://openrss.org/blog/how-google-helped-destroy-adoption-of-rss-feeds",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "GoogleがRSSフィードの普及を阻害した経緯",
+      "summary": "大手テック企業であるGoogleが、RSSフィードの普及を阻止する役割を果たしたという歴史的経緯について解説している。多くの人々がRSSを利用しなくなった理由の一端が明らかになった。",
+      "impact": "RSSの衰退はインターネットの情報収集方法が特定のプラットフォームに依存する構造を強めたと考えられる。今後のWeb標準の在り方や、コンテンツ流通の分散化に関する議論に影響を与える可能性がある。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "https://zaksa.zip/images/share.png",
+      "url": "https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "シリコンバレーにおける創業者の過酷な現実",
+      "summary": "テック業界への参入を目指すプログラミングブートキャンプの参加者の事例を紹介し、シリコンバレーにおける起業家やエンジニア候補の厳しい状況について触れている。彼らの私生活における経済的な困窮や社会的な背景が描かれている。",
+      "impact": "テック業界の華やかな側面に隠れた、野心的な若者が直面する過酷な経済的現実を浮き彫りにしている。業界内での競争がいかに個人の生活を追い詰める可能性があるかという点について、社会的な関心を喚起するとみられる。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://diataxis.fr/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "Diátaxisについて",
+      "summary": "Diátaxisに関する情報である。",
+      "impact": "情報が限られているため、社会への具体的な影響を予測することは困難である。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "カーネルの健全性に関するバグ #14576の事後検証",
+      "summary": "カーネルの健全性に影響を及ぼしたバグ「#14576」についての事後検証結果である。",
+      "impact": "この検証報告は、同様のカーネルバグを防ぐための技術的な改善指針として活用される可能性がある。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nostarch.com/art-64-bit-assembly-v2",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "64ビットアセンブリの技術",
+      "summary": "64ビットアセンブリ言語に関する解説である。",
+      "impact": "低レイヤーのプログラミング知識を深めるための教育的役割を果たすと考えられる。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-02T06:30:45.876056+09:00",
+      "title": "計算機でLinuxは動作するか",
+      "summary": "計算機上でLinuxが動作するかという問いに関する内容である。",
+      "impact": "組み込みデバイスの可能性を探る技術的関心や、ハッキング文化の一環としてコミュニティに話題を提供する可能性がある。",
+      "content_at": "2026-08-02T06:30:45.876056+09:00"
+    }
+  ],
+  "updated_at": "2026-08-02T06:30:45.876056+09:00"
+}
