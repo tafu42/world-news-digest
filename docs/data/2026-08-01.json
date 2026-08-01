@@ -66,7 +66,62 @@
       "summary": "巨大食品企業が人々の命を守るための政策に対して、239件もの訴訟を起こしている実態を報じている。これらの訴訟活動を明らかにすることを目的としている。",
       "impact": "健康政策の推進が遅れる可能性があるほか、企業と公衆衛生政策のあり方について議論が活発化するとみられる。",
       "content_at": "2026-08-01T06:30:51.221883+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/515d9dd0916803374b53044cbef2230586020c9c/0_793_4284_3427/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/crackdown-claims-firms-spam-car-finance-scandal-payouts",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-01T13:30:46.714601+09:00",
+      "title": "英国で迷惑な自動車ローン勧誘テキストの一斉取り締まり",
+      "summary": "情報コミッショナーが、自動車ローンの不当販売に関するメッセージを問題視し、PCや電話、書類などを押収する一斉捜査を行った。",
+      "impact": "今回の取り締まりにより、迷惑な勧誘メッセージが減少する可能性がある。また、個人情報の取り扱いに対する規制が強化されるとみられる。",
+      "content_at": "2026-08-01T13:30:46.714601+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://microsoft.github.io/flint-chart/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-01T13:30:46.714601+09:00",
+      "title": "AI時代の可視化言語「Flint」",
+      "summary": "AI時代に向けた新しい可視化言語として「Flint」が提示された。",
+      "impact": "データ可視化のプロセスが効率化され、AI活用における表現の幅が広がる可能性がある。",
+      "content_at": "2026-08-01T13:30:46.714601+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-01T13:30:46.714601+09:00",
+      "title": "開発パイプラインは生産システムであるという考え方",
+      "summary": "プログラミングや技術に関する考察として、開発パイプラインが生産システムであるという概念が示された。",
+      "impact": "開発現場において、ソフトウェア開発を製造プロセスとして再定義し、生産性を向上させる手法が浸透する可能性がある。",
+      "content_at": "2026-08-01T13:30:46.714601+09:00"
+    },
+    {
+      "image": "https://www.raptitude.com/wp-content/uploads/2026/07/coffeeexist.jpg",
+      "url": "https://www.raptitude.com/2026/07/how-to-exist/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-01T13:30:46.714601+09:00",
+      "title": "存在する方法",
+      "summary": "向こう見ずな人のための実験として、特定の2つのルールに従い3分間座り続けることが提案されている。",
+      "impact": "個人の精神的な集中や瞑想に近い活動として、新たな習慣づけの知見が得られる可能性がある。",
+      "content_at": "2026-08-01T13:30:46.714601+09:00"
+    },
+    {
+      "image": "https://www.ajwaxman.com/og/software-for-one.png",
+      "url": "https://www.ajwaxman.com/writing/software-for-one",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-01T13:30:46.714601+09:00",
+      "title": "個人向けソフトウェア開発の実現",
+      "summary": "ロビン・スローンは家族のためのアプリを1日で構築できるHyperCardのようなソフトを望んでいた。その願望が現実のものとなった。",
+      "impact": "個人の開発者が複雑な技術なしでアプリを作成できる環境が整い、パーソナルなソフトウェア開発が普及する可能性がある。",
+      "content_at": "2026-08-01T13:30:46.714601+09:00"
     }
   ],
-  "updated_at": "2026-08-01T06:30:51.221883+09:00"
+  "updated_at": "2026-08-01T13:30:46.714601+09:00"
 }

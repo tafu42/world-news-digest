@@ -68,61 +68,6 @@
       "content_at": "2026-07-31T06:30:51.824044+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/ebf66ef2fc761ca986ec34ee126faa393835c357/479_0_4771_3819/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/30/apple-amazon-second-quarter-revenues",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-07-31T13:30:56.176720+09:00",
-      "title": "アップルとアマゾンが第2四半期決算で増収を報告",
-      "summary": "アップルとアマゾンの両社は、第2四半期の収益がウォール街の予測を上回った。投資家の関心が一部のハイテク株へと向かっている。",
-      "impact": "両社の好調な決算は、ハイテク株全体の市場評価を安定させる可能性がある。",
-      "content_at": "2026-07-31T13:30:56.176720+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/db3b65f63901c50ad81da54c8c452b36373cb6e7/248_0_2088_1672/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-07-31T13:30:56.176720+09:00",
-      "title": "Metaが予想を下回る決算を発表、株価は約8％下落",
-      "summary": "Metaの第2四半期決算は市場予想を下回った。ザッカーバーグCEOはAIの積極的な推進を強調したが、株価は急落した。",
-      "impact": "AI投資に対する投資家の警戒感が高まり、同社の今後の事業戦略に慎重な見方が強まる可能性がある。",
-      "content_at": "2026-07-31T13:30:56.176720+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/67943a1805dcd14298318dd9ce2dc650e53a61dc/533_0_4640_3712/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/department-for-education-police-hackers-cybercrime",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-07-31T13:30:56.176720+09:00",
-      "title": "英国の教育省と警察から個人情報が流出",
-      "summary": "サイバー犯罪者が英国の教育省と警察から情報を盗み出した。流出したデータには保護者や職員のメールアドレスや電話番号が含まれている。",
-      "impact": "被害者の個人情報が悪用されるリスクがあり、政府機関におけるサイバーセキュリティ対策の強化が求められるとみられる。",
-      "content_at": "2026-07-31T13:30:56.176720+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/0caeb0bd7eee01976ca2fefea5ea35599ab8807c/384_0_3840_3072/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/excessive-time-spent-online-linked-to-stress-and-worse-mood-study",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-07-31T13:30:56.176720+09:00",
-      "title": "オンライン時間が長すぎることはストレスや気分の悪化に関連：ドイツの研究",
-      "summary": "ドイツの研究グループがゲーム、ポルノ、オンラインショッピングを行う成人を対象に調査を実施した。オンラインで過ごす時間が長すぎると、ストレスや気分が悪化する傾向が確認された。",
-      "impact": "デジタル社会における過度なネット利用がメンタルヘルスに及ぼす影響について、社会的な議論や注意喚起が促されると考えられる。",
-      "content_at": "2026-07-31T13:30:56.176720+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/007185a39351cf5afc94baca619846d0b03e3338/365_0_4667_3737/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/reclaiming-your-peace-on-whatsapp",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-07-31T13:30:56.176720+09:00",
-      "title": "WhatsAppでの心の平穏を取り戻すために",
-      "summary": "Tallis MorrisとKim Wareが、メッセージの既読通知機能に関するPolly Hudsonの記事に対し意見を寄せた。",
-      "impact": "SNS上の機能が個人の精神的負担に与える影響について、ユーザー間で議論が深まる可能性がある。",
-      "content_at": "2026-07-31T13:30:56.176720+09:00"
-    },
-    {
       "image": "",
       "url": "https://www.science.org/content/article/california-aquifer-may-have-crossed-point-no-return",
       "category": "海外IT",
