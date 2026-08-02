@@ -112,50 +112,6 @@
       "content_at": "2026-08-01T13:30:46.714601+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-01T21:30:52.394961+09:00",
-      "title": "中国の技術的進歩がシリコンバレーからホワイトハウスまで混乱を招いている",
-      "summary": "中国の新たなAIモデル、高度なロボット、特殊なコンピュータチップが、市場や米国の技術業界を動揺させている。これら技術の進歩が幅広い領域で懸念を引き起こしている。",
-      "impact": "米国における技術開発や政策決定において、競争力の再評価や規制の強化が議論される可能性がある。",
-      "content_at": "2026-08-01T21:30:52.394961+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/6b42c3746cfdd05043f25836119a504f5e5340d7/460_0_4835_3868/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-01T21:30:52.394961+09:00",
-      "title": "英国で見られる「デジタルデトックス」の動き",
-      "summary": "スマートフォンを使わないパブや電波の届かないキャビンなど、人々がスマートフォンから離れるための試みが広がっている。ドゥームスクロール（ネガティブな情報を読み続けること）からの解放を求める動きである。",
-      "impact": "人々のメンタルヘルス改善を目的として、デジタルデバイスと距離を置くライフスタイルが今後さらに普及する可能性がある。",
-      "content_at": "2026-08-01T21:30:52.394961+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ebf66ef2fc761ca986ec34ee126faa393835c357/479_0_4771_3819/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/30/apple-amazon-second-quarter-revenues",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-01T21:30:52.394961+09:00",
-      "title": "AppleとAmazonが第2四半期決算で増収を報告",
-      "summary": "AppleとAmazonの両社は、第2四半期においてウォール街の予測を上回る収益を報告した。一方で、一部のテック株からは投資家が離れる動きも見られる。",
-      "impact": "大手テック企業の業績が堅調であることを示し、今後の株式市場におけるテックセクターへの投資判断に影響を与える可能性がある。",
-      "content_at": "2026-08-01T21:30:52.394961+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/db3b65f63901c50ad81da54c8c452b36373cb6e7/248_0_2088_1672/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-01T21:30:52.394961+09:00",
-      "title": "Metaの決算が予想を下回り株価が約8%下落",
-      "summary": "CEOがAIのポジティブな効果を積極的にアピールしたものの、Metaの四半期決算は期待外れの結果となった。これを受けて株価は急落した。",
-      "impact": "AI分野への多額の投資に対する市場の評価が厳しくなり、AI戦略を推進する他社にとっても警戒感が高まる可能性がある。",
-      "content_at": "2026-08-01T21:30:52.394961+09:00"
-    },
-    {
       "image": "https://weeraman.com/images/the-prototype-isnt-the-product/the-prototype-isnt-the-product.jpg",
       "url": "https://weeraman.com/the-prototype-isnt-the-product/",
       "category": "海外IT",
