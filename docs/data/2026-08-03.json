@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-03",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "中国の技術的進歩がシリコンバレーからホワイトハウスまで混乱を招く",
+      "summary": "新しいAIモデルや高度なロボット、特殊なコンピュータチップが市場と米国のテック業界を動揺させている。これらは技術的な進歩を背景としている。",
+      "impact": "米国のテック業界における競争環境が変化し、政府が新たな規制や政策の検討を迫られる可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6b42c3746cfdd05043f25836119a504f5e5340d7/460_0_4835_3868/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "スマホからの解放：英国で見られるデジタルデトックスの動き",
+      "summary": "スマートフォンを使わないパブや電波の届かないキャビンなど、デジタル機器から離れるための多様な手段が紹介されている。これらは人々をスマホ依存から解放する試みである。",
+      "impact": "デジタル機器との距離を置くライフスタイルが注目され、同様のサービスや環境を提供する施設が各地で広まる可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ebf66ef2fc761ca986ec34ee126faa393835c357/479_0_4771_3819/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/jul/30/apple-amazon-second-quarter-revenues",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "AppleとAmazonが第2四半期決算で収益増を報告",
+      "summary": "AppleとAmazonの両社は、第2四半期の収益においてウォール街の予測を上回る結果を出した。一方で、一部のテック株に対しては投資家の関心が離れる動きも見られる。",
+      "impact": "好決算がテック企業全体の評価を下支えする一方で、個別の成長期待値の変化が今後の投資家心理に影響を与える可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://seanhelvey.com/tools-and-their-tools/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "AIブーム：チューリップからトークンまで",
+      "summary": "AIに対する過熱した人気を、歴史的な投機的バブルと比較する内容となっている。",
+      "impact": "AI市場に対する投資家の警戒感が高まり、将来的な市場の不安定化や期待値の調整が起こる可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/amplify_video_thumb/2083744791876292608/img/tWEKnM_bdE_nlfYD.jpg",
+      "url": "https://twitter.com/karpathy/status/2083749667410727319",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "LLMのテスト手法：Karpathyによる新たな試み",
+      "summary": "大規模言語モデル（LLM）の性能を評価する従来のプロンプトに対し、新たな一般化の手法として「ロード・オブ・ザ・リング」の冒頭を用いたテストを検討している。100万トークンの予算（約10ドル）を設定し、Opus 5に特定のタスクを依頼した。",
+      "impact": "LLMの性能評価において、より大規模かつ複雑な入力を用いた評価手法が普及する可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/75655a1acfc59e2c36ac6bc5a2e3024db08361ea88a1de9710318acdb9494dea/wie-project/kakehashi",
+      "url": "https://github.com/wie-project/kakehashi",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "Linux ARM用macOSバイナリ実行環境「Kakehashi」",
+      "summary": "Kakehashiは、Linux ARM64環境でmacOSバイナリを実行するためのユーザー空間翻訳レイヤーである。現在、GitHubを通じて開発が進められている。",
+      "impact": "Linux上でmacOS向けのアプリケーションが動作するようになれば、OS間のソフトウェア利用の垣根が低くなる可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "https://i.snap.as/91youjmK.jpeg",
+      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "ノート作成とパーソナルナレッジマネジメント（PKM）の再考",
+      "summary": "Brennan Kenneth Brown氏の「ノート作成とPKMは実際に何を達成したのか」という記事について言及されている。",
+      "impact": "個人の知識管理ツールがもたらす実際の効果や意義について、改めて議論が深まる可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "https://frogs.vaguespac.es/og.png",
+      "url": "https://frogs.vaguespac.es/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "AIの描画能力を測る新たな個人ベンチマーク",
+      "summary": "「ハプスブルク家の顎を持つカエル」というプロンプトでSVGファイルを生成させる独自のベンチマークを考案した。各モデルにつき月3回まで試行を行っている。",
+      "impact": "AIモデルごとの特有の指示理解能力や描画スキルの差を可視化する指標の一つとなる可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    },
+    {
+      "image": "https://cdn.stackoverflow.co/images/jo7n4k8s/production/29bbae9c01de534b803084e4f0b9a77f9cd90e5c-12000x6300.jpg?w=1200&h=630&auto=format",
+      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-03T06:30:50.885761+09:00",
+      "title": "開発者がツールに愛着を持つ理由は、ツールが信頼をコード化しているからである",
+      "summary": "開発者が特定のツールに愛着を持つのは、そのツールが信頼性を組み込んでいるためである。開発プロセスにおける信頼とツールの関係性について述べられている。",
+      "impact": "開発者がツールを選択する際に、機能性だけでなく信頼性や構築されるコードの質が重視されるようになる可能性がある。",
+      "content_at": "2026-08-03T06:30:50.885761+09:00"
+    }
+  ],
+  "updated_at": "2026-08-03T06:30:50.885761+09:00"
+}
