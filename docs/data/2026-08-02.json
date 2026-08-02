@@ -88,7 +88,62 @@
       "summary": "計算機上でLinuxが動作するかという問いに関する内容である。",
       "impact": "組み込みデバイスの可能性を探る技術的関心や、ハッキング文化の一環としてコミュニティに話題を提供する可能性がある。",
       "content_at": "2026-08-02T06:30:45.876056+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.regen.co.uk/insights/plug-in-solar-is-coming-plug-in-batteries-should-follow",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-02T13:30:45.349662+09:00",
+      "title": "プラグインソーラーの到来とバッテリーの重要性",
+      "summary": "プラグイン式のソーラーパネルが登場する中で、同様のプラグイン式バッテリーも追随すべきであるという指摘がなされている。",
+      "impact": "家庭用のエネルギー蓄電システムが簡便化され、個人による再生可能エネルギーの導入と利用が促進される可能性がある。",
+      "content_at": "2026-08-02T13:30:45.349662+09:00"
+    },
+    {
+      "image": "https://victoriametrics.com/blog/go-1-27/preview.webp",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-02T13:30:45.349662+09:00",
+      "title": "Go 1.27 インタラクティブツアー",
+      "summary": "Go 1.27における言語、ランタイム、標準ライブラリの重要な変更点を網羅したインタラクティブなツアーが公開された。ブラウザ上で編集および実行可能なサンプルコードを通じて変更内容を確認できる。",
+      "impact": "Go言語の開発者は、効率的に新機能や変更点を学習でき、開発環境の移行やコードのアップデートが円滑に進むとみられる。",
+      "content_at": "2026-08-02T13:30:45.349662+09:00"
+    },
+    {
+      "image": "",
+      "url": "http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-02T13:30:45.349662+09:00",
+      "title": "MkLinuxとApple Workgroup Server 9150のカスタマイズ",
+      "summary": "MkLinuxとカスタマイズされたApple Workgroup Server 9150に関する記事である。",
+      "impact": "特定のレトロなハードウェアとOSの組み合わせに関する知見が共有されることで、技術的関心の高いユーザー層の間で歴史的なコンピューティングに対する理解が深まる可能性がある。",
+      "content_at": "2026-08-02T13:30:45.349662+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-02T13:30:45.349662+09:00",
+      "title": "Seedance 2.5のリリース",
+      "summary": "Seedance 2.5がリリースされた。",
+      "impact": "本ソフトウェアを利用しているユーザーにとって、最新版へのアップデートが必要になる可能性がある。",
+      "content_at": "2026-08-02T13:30:45.349662+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-02T13:30:45.349662+09:00",
+      "title": "ASRock BC-250を使用した低価格Steamマシンの構築",
+      "summary": "ASRock BC-250を用いた低価格なSteamマシンの構築について述べられている。このハードウェア構成によるPC作成の試みである。",
+      "impact": "低価格なゲーミングPCの選択肢が増えることで、PCゲーム市場の裾野が広がる可能性がある。",
+      "content_at": "2026-08-02T13:30:45.349662+09:00"
     }
   ],
-  "updated_at": "2026-08-02T06:30:45.876056+09:00"
+  "updated_at": "2026-08-02T13:30:45.349662+09:00"
 }
