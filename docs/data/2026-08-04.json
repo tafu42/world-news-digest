@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-04",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/a9ca276f41a77afae4b3ca024f1aea41fc82cfdc/471_0_4681_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "Appleが英政府のデータアクセス要求に対して法的異議を申し立て",
+      "summary": "英国の内務省は、英国内のユーザーの暗号化されたiCloudデータへの「バックドア」アクセスを新たに要求した。これに対しAppleは法的異議を申し立てている。",
+      "impact": "大手IT企業と政府との間で、プライバシー保護と捜査権限のバランスをめぐる議論がさらに激化する可能性がある。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/846a6e8d239a59250ce7b068bc835772aaadd639/0_282_1170_935/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/03/fred-stone-obituary",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "フレッド・ストーン氏の訃報",
+      "summary": "玩具や機械の部品を製造する会社を経営したエンジニアであり、模型製作の専門家でもあったフレッド・ストーン氏が死去した。",
+      "impact": "特定の業界やコミュニティにおいて同氏の功績が追悼されることになる。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f3c5945bf000f1a831b643986588a8d2fb63555a/213_0_2133_1707/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "株式市場の混乱が不透明なAI経済に光を当てる",
+      "summary": "中国による西洋の半導体メーカーの支配に対する異例の挑戦を受け、投資家が市場への対応に追われている。この事態がAI経済の不透明さを浮き彫りにした。",
+      "impact": "半導体業界やAI関連企業の市場評価が変動し、グローバルなサプライチェーンの再編が議論される可能性がある。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "https://www.seangoedecke.com/og-image.jpg",
+      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "大規模言語モデル（LLM）は専門知識を報いる",
+      "summary": "大規模言語モデル（LLM）において、専門知識が重要であるという指摘がなされている。",
+      "impact": "今後、LLMを最大限に活用するために、利用者側には高度な専門的知見やスキルが求められるようになると考えられる。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/ten-advances-in-mathematics/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "数学と理論計算機科学における10の進歩",
+      "summary": "数学および理論計算機科学の分野における10の進歩について紹介されている。",
+      "impact": "これらの進歩は関連する科学技術の発展に寄与する可能性がある。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "https://blog.exe.dev/static/og-card.png",
+      "url": "https://blog.exe.dev/devtools-must-be-open-source",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "開発ツールはオープンソースであるべきだ",
+      "summary": "パーソナライズされたソフトウェアの時代が到来したと述べられている。",
+      "impact": "今後、ソフトウェア開発におけるツール選定やライセンス形態に関する議論が活性化する可能性がある。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "Kermit誕生45周年、15年ぶりのC-Kermit新リリース",
+      "summary": "Kermitの誕生45周年を記念し、C-Kermitの15年ぶりとなる新バージョンがリリースされた。",
+      "impact": "長年利用されている通信プロトコルやソフトウェアの保守・運用に関心が高まる可能性がある。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01KZ1Q04GM9SA4QGPGPKWJQSJ6.png",
+      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "KimiやGLMを大規模に運用するための小型化・高速化・安全性向上",
+      "summary": "KimiやGLMといったモデルを大規模運用する際のGPUメモリ不足に対し、量子化やモデル圧縮、整合性チェックを用いた高速かつ低コストで安全な手法が解説されている。",
+      "impact": "大規模言語モデルの運用コストが削減され、より多くの環境で高度なAIモデルが利用可能になる可能性がある。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "https://200ms.thenodebook.com/og.png",
+      "url": "https://200ms.thenodebook.com",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-04T06:30:48.507790+09:00",
+      "title": "HTTPリクエストの全容を可視化する「200 Milliseconds」",
+      "summary": "ウェブ上のクリックからDNS、TCP、TLS、カーネル、Nodeに至るまで、一つのHTTPリクエストの一生をリアルタイムで追跡するコンテンツである。",
+      "impact": "ウェブ開発者が通信の仕組みを深く理解する助けとなり、パフォーマンス改善のための技術的洞察が得られる可能性がある。",
+      "content_at": "2026-08-04T06:30:48.507790+09:00"
+    }
+  ],
+  "updated_at": "2026-08-04T06:30:48.507790+09:00"
+}

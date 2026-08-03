@@ -2,39 +2,6 @@
   "date": "2026-08-03",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-03T06:30:50.885761+09:00",
-      "title": "中国の技術的進歩がシリコンバレーからホワイトハウスまで混乱を招く",
-      "summary": "新しいAIモデルや高度なロボット、特殊なコンピュータチップが市場と米国のテック業界を動揺させている。これらは技術的な進歩を背景としている。",
-      "impact": "米国のテック業界における競争環境が変化し、政府が新たな規制や政策の検討を迫られる可能性がある。",
-      "content_at": "2026-08-03T06:30:50.885761+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/6b42c3746cfdd05043f25836119a504f5e5340d7/460_0_4835_3868/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-03T06:30:50.885761+09:00",
-      "title": "スマホからの解放：英国で見られるデジタルデトックスの動き",
-      "summary": "スマートフォンを使わないパブや電波の届かないキャビンなど、デジタル機器から離れるための多様な手段が紹介されている。これらは人々をスマホ依存から解放する試みである。",
-      "impact": "デジタル機器との距離を置くライフスタイルが注目され、同様のサービスや環境を提供する施設が各地で広まる可能性がある。",
-      "content_at": "2026-08-03T06:30:50.885761+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ebf66ef2fc761ca986ec34ee126faa393835c357/479_0_4771_3819/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/jul/30/apple-amazon-second-quarter-revenues",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-03T06:30:50.885761+09:00",
-      "title": "AppleとAmazonが第2四半期決算で収益増を報告",
-      "summary": "AppleとAmazonの両社は、第2四半期の収益においてウォール街の予測を上回る結果を出した。一方で、一部のテック株に対しては投資家の関心が離れる動きも見られる。",
-      "impact": "好決算がテック企業全体の評価を下支えする一方で、個別の成長期待値の変化が今後の投資家心理に影響を与える可能性がある。",
-      "content_at": "2026-08-03T06:30:50.885761+09:00"
-    },
-    {
       "image": "",
       "url": "https://seanhelvey.com/tools-and-their-tools/",
       "category": "海外IT",
