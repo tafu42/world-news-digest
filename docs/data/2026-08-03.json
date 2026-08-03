@@ -176,7 +176,62 @@
       "summary": "手書きで執筆を行うことで思考の速度を落とし、本質的な思索を促すブログプラットフォームが登場した。アルゴリズムによるフィードや「いいね」機能を排除し、RSS配信に対応している。",
       "impact": "SNSなどの即時的な情報発信に疲弊した層に対し、じっくりと思索する新たな対話や表現の場を提供する可能性がある。",
       "content_at": "2026-08-03T13:30:53.795359+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://research.jfrog.com/post/sqlite-critical-cves-or-llm-slops/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-03T21:30:50.768625+09:00",
+      "title": "存在しないSQLiteの脆弱性に緊急CVEが発行される",
+      "summary": "実在しないSQLiteの脆弱性に対して、緊急のCVE（共通脆弱性識別子）が発行された。",
+      "impact": "誤った情報に基づいたCVEの発行により、セキュリティ情報の信頼性管理やデータベース運用の現場で混乱が生じる可能性がある。",
+      "content_at": "2026-08-03T21:30:50.768625+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://gruhn.me/blog/2026-08-03/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-03T21:30:50.768625+09:00",
+      "title": "「肉のプロキシ」になるな",
+      "summary": "「肉のプロキシ（meat proxy）」になることへの注意喚起がなされている。",
+      "impact": "この表現が指す文脈次第だが、人間が自動化システムの代用として機能することへの警鐘であり、AI活用における労働のあり方に影響を与える可能性がある。",
+      "content_at": "2026-08-03T21:30:50.768625+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/760279d6017da102f91aece33be23f9651bea5949ea55d84a01b782c05b5f8c9/janestreet/bonsai",
+      "url": "https://github.com/janestreet/bonsai",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-03T21:30:50.768625+09:00",
+      "title": "Jane StreetのUIライブラリ「Bonsai」",
+      "summary": "Bonsaiは、Js_of_ocamlを用いて動的なウェブアプリケーションを構築するためのライブラリである。",
+      "impact": "OCaml開発者にとって、フロントエンド開発の選択肢が広がることで、型安全性を重視したウェブ開発がより普及する可能性がある。",
+      "content_at": "2026-08-03T21:30:50.768625+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/e6b57a1a38da19557b6bb7cc9986c356dfe1e46c1a3923a13fdaa2d0efa21aaa/garagehq/nightcrawler",
+      "url": "https://github.com/garagehq/nightcrawler/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-03T21:30:50.768625+09:00",
+      "title": "スマートフォンで動作するAIペンテストエージェント「Nightcrawler」",
+      "summary": "Nightcrawlerは、スマートフォン上で動作するAIを活用したレッドチーム演習用のツールである。",
+      "impact": "モバイルデバイスでペネトレーションテストが可能になることで、セキュリティ評価の機動性が向上する一方、悪用された場合にはリスクとなる可能性がある。",
+      "content_at": "2026-08-03T21:30:50.768625+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-03T21:30:50.768625+09:00",
+      "title": "LLM生成コードを手入力することで認知負債を防ぐ",
+      "summary": "LLMが生成したコードを手動で再入力することが、認知負債を防ぐ方法として提案されている。",
+      "impact": "開発者が自身のコード理解を深めることで、保守性や品質が向上する可能性がある。",
+      "content_at": "2026-08-03T21:30:50.768625+09:00"
     }
   ],
-  "updated_at": "2026-08-03T13:30:53.795359+09:00"
+  "updated_at": "2026-08-03T21:30:50.768625+09:00"
 }
