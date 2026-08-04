@@ -99,7 +99,62 @@
       "summary": "ウェブ上のクリックからDNS、TCP、TLS、カーネル、Nodeに至るまで、一つのHTTPリクエストの一生をリアルタイムで追跡するコンテンツである。",
       "impact": "ウェブ開発者が通信の仕組みを深く理解する助けとなり、パフォーマンス改善のための技術的洞察が得られる可能性がある。",
       "content_at": "2026-08-04T06:30:48.507790+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/81fcb075f5eb538d8327f56e2ea009632c7e7e2d/516_0_5160_4128/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/01/china-silicon-valley-white-house",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-04T13:30:46.912775+09:00",
+      "title": "中国の技術進歩が米国のテック業界に動揺をもたらす",
+      "summary": "新しいAIモデルや高度なロボット、特殊なコンピュータチップが市場と米国のテック業界を不安定にさせている。これらの中国の技術的進歩は、シリコンバレーからホワイトハウスに至るまで影響を及ぼしている。",
+      "impact": "米国のテック業界における競争戦略の再考を促す可能性があるほか、国家間の技術覇権争いがより深刻化する可能性がある。",
+      "content_at": "2026-08-04T13:30:46.912775+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6b42c3746cfdd05043f25836119a504f5e5340d7/460_0_4835_3868/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/01/great-british-switch-off-fun-freeing-ways-ditch-smartphone-doomscrolling",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-04T13:30:46.912775+09:00",
+      "title": "スマートフォンから解放される英国の新たなトレンド",
+      "summary": "スマートフォンの過度な利用に疲れた人々の間で、モバイルフリーのパブやサウナの読書グループなど、デジタル機器から離れる動きが広がっている。電波の届かないキャビンに滞在するなど、デバイスを手放すための様々な手段が提案されている。",
+      "impact": "デジタルデトックスの需要が高まり、対面でのコミュニケーションを重視する場所やサービスへの注目が集まると考えられる。",
+      "content_at": "2026-08-04T13:30:46.912775+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-04T13:30:46.912775+09:00",
+      "title": "アマゾンの文明、森林の3％の範囲に推定300万人が居住",
+      "summary": "かつてのアマゾン文明において、森林地帯のわずか3％の範囲に推定300万人が居住していたことが示された。",
+      "impact": "過去の人口密集に関する学説が修正され、熱帯雨林における文明形成に関する理解が深まる可能性がある。",
+      "content_at": "2026-08-04T13:30:46.912775+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/29fa5560714cf29326162bacceddeea976d7b6ab6e2fef180583534a3880a39c/leonickson1/Swiftlet",
+      "url": "https://github.com/leonickson1/Swiftlet",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-04T13:30:46.912775+09:00",
+      "title": "MacやiPhoneで大規模言語モデルを軽量実行する「Swiftlet」",
+      "summary": "GitHub上で開発が進められている「Swiftlet」により、Macで80BのQwenモデルを4.3GBのRAMで動作させることが可能となった。iPhone上でも35Bモデルの実行が可能である。",
+      "impact": "高性能なAIモデルをローカル環境で動かすためのハードルが下がり、モバイルデバイスでのAI活用が加速する可能性がある。",
+      "content_at": "2026-08-04T13:30:46.912775+09:00"
+    },
+    {
+      "image": "https://ochagavia.nl/images/headshot.jpg",
+      "url": "https://ochagavia.nl/blog/that-time-when-i-failed-the-microsoft-interview/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-04T13:30:46.912775+09:00",
+      "title": "マイクロソフトの面接に失敗した時の回想",
+      "summary": "筆者はコンピュータサイエンス専攻の学部生だった2015年に、オープンソースへの貢献を通じて自信を持ち、マイクロソフトの夏季インターンに応募した。当時を振り返る内容である。",
+      "impact": "個人の失敗体験の共有が、同様の目標を持つ学生や就職活動者に教訓を与える可能性がある。",
+      "content_at": "2026-08-04T13:30:46.912775+09:00"
     }
   ],
-  "updated_at": "2026-08-04T06:30:48.507790+09:00"
+  "updated_at": "2026-08-04T13:30:46.912775+09:00"
 }
