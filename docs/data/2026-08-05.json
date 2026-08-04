@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-05",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/612dfa703511b341162b81618cf403090baf635f/835_0_3085_2470/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/04/fcc-ban-china-datacenter-devices",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "トランプ政権、中国製データセンター機器の輸入禁止を検討か",
+      "summary": "トランプ氏の連邦通信委員会（FCC）が、中国製データセンター機器の新規モデルの輸入を禁止する措置を検討していると報じられた。関係者への取材により明らかになった。",
+      "impact": "実施されれば、米国内のデータセンター事業者に調達先の見直しを迫る可能性がある。また、米中間の技術貿易摩擦がさらに激化する恐れがある。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/fb45fb5649c6673eb30a8f88eecd0161b10e73f4/587_293_3840_3072/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/04/x-twitter-blocks-dissident-accounts-saudi-arabia",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "イーロン・マスク氏のX、サウジアラビア国内で反体制派のアカウントを凍結",
+      "summary": "サウジアラビア国内で、X（旧Twitter）のアカウント60件以上が閲覧不能になった。SnapchatやFacebookでも同様の措置が確認されている。",
+      "impact": "SNS企業が各国の検閲当局の要求に応じている実態が浮き彫りとなった。今後、表現の自由を巡る国際的な批判が高まる可能性がある。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c9030c31febd27bc428218b316c3c7c4b5d83db2/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/us-news/2026/aug/03/palantir-second-quarter-earnings",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "パランティアの決算が予想を大幅に上回り株価が急騰",
+      "summary": "パランティアの年間収益が93%増加し、決算が市場予想を大幅に上回った。一方で、トランプ氏の移民政策への関与に対する批判が強まっている。",
+      "impact": "同社の業績拡大はIT市場の注目を集める一方、政府の政策に関与する企業に対する社会的・倫理的な反発が今後の経営リスクになる可能性がある。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/size/w1200/2024/02/Screenshot-2024-02-22-at-12.26.43-unnumbered-1.png",
+      "url": "https://www.troyhunt.com/thanks-fedex-this-is-why-we-keep-getting-phished/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "FedExを騙るフィッシング詐欺メールへの注意喚起",
+      "summary": "FedExを装った「荷物を配達できなかった」とするフィッシング攻撃が頻発している。筆者自身も同様の被害を受けていることを報告した。",
+      "impact": "技術的な防御をすり抜ける手口であるため、今後も一般消費者が詐欺に遭うリスクは高いとみられる。個人の警戒意識の向上が求められる。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "https://mistral.ai/cms-media/api/media/file/Thumbnail-Model%3DShieldstral.jpg",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "Mistral AIがマルチモーダル安全分類モデル「Shieldstral」を公開",
+      "summary": "Mistral AIは、3Bのオープンウェイトなマルチモーダル安全分類モデル「Shieldstral」を発表した。このモデルは、最大7倍のサイズのモデルを上回る性能を持つ。",
+      "impact": "AIモデルの安全性向上が効率的に行えるようになり、より軽量なデバイスでのコンテンツモデレーションが容易になる可能性がある。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "https://toneyalexander.github.io/inclusive-color-space/img/preview.png",
+      "url": "https://toneyalexander.github.io/inclusive-color-space/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "多様な肌色を生成するシンプルなアルゴリズムと色空間",
+      "summary": "デジタルアートやゲーム開発において、包括的な肌色を選択するためのシンプルな数式とカラーピッカーが開発された。カスタム色空間を用いて多様な肌色を生成する。",
+      "impact": "クリエイターによるキャラクター制作において、より多様で包括的な肌色の表現が容易になることが見込まれる。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://writings.stephenwolfram.com/2026/08/in-memory-of-my-wife-elise-cawley-1961-2026-with-thanks-for-36-wonderful-years/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "妻エリース・コーリーを偲んで",
+      "summary": "36年間の素晴らしい人生を共に歩んだ妻、エリース・コーリーを追悼する記事である。",
+      "impact": "個人的な追悼記事であるため、社会的な影響は特にない。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://waymo.com/blog/shorts/dallas-open-to-all/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "Waymoの自動運転タクシーがダラスで一般利用可能に",
+      "summary": "Waymoはダラスにおいて、すべての利用者を対象としたサービス展開を開始した。",
+      "impact": "ダラスにおける自動運転タクシーの利用が拡大することで、地域の交通手段の選択肢が増加し、都市の移動環境が変化する可能性がある。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    },
+    {
+      "image": "https://pudding.cool/2026/06/mow/assets/og.png",
+      "url": "https://pudding.cool/2026/06/mow/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-05T06:30:57.752079+09:00",
+      "title": "仮想の芝刈りにおける効率性の分析",
+      "summary": "13万件を超える仮想芝刈りの試行データを分析した。人々がどのように芝を刈るかの効率性について調査したものである。",
+      "impact": "この分析結果は、作業効率を最適化するアルゴリズムやシミュレーション技術の向上に役立つ可能性がある。",
+      "content_at": "2026-08-05T06:30:57.752079+09:00"
+    }
+  ],
+  "updated_at": "2026-08-05T06:30:57.752079+09:00"
+}

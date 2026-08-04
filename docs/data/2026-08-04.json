@@ -2,39 +2,6 @@
   "date": "2026-08-04",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/a9ca276f41a77afae4b3ca024f1aea41fc82cfdc/471_0_4681_3744/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-04T06:30:48.507790+09:00",
-      "title": "Appleが英政府のデータアクセス要求に対して法的異議を申し立て",
-      "summary": "英国の内務省は、英国内のユーザーの暗号化されたiCloudデータへの「バックドア」アクセスを新たに要求した。これに対しAppleは法的異議を申し立てている。",
-      "impact": "大手IT企業と政府との間で、プライバシー保護と捜査権限のバランスをめぐる議論がさらに激化する可能性がある。",
-      "content_at": "2026-08-04T06:30:48.507790+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/846a6e8d239a59250ce7b068bc835772aaadd639/0_282_1170_935/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/03/fred-stone-obituary",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-04T06:30:48.507790+09:00",
-      "title": "フレッド・ストーン氏の訃報",
-      "summary": "玩具や機械の部品を製造する会社を経営したエンジニアであり、模型製作の専門家でもあったフレッド・ストーン氏が死去した。",
-      "impact": "特定の業界やコミュニティにおいて同氏の功績が追悼されることになる。",
-      "content_at": "2026-08-04T06:30:48.507790+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/f3c5945bf000f1a831b643986588a8d2fb63555a/213_0_2133_1707/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/02/stock-market-turmoil-nvidia-china-light-ai-economy",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-04T06:30:48.507790+09:00",
-      "title": "株式市場の混乱が不透明なAI経済に光を当てる",
-      "summary": "中国による西洋の半導体メーカーの支配に対する異例の挑戦を受け、投資家が市場への対応に追われている。この事態がAI経済の不透明さを浮き彫りにした。",
-      "impact": "半導体業界やAI関連企業の市場評価が変動し、グローバルなサプライチェーンの再編が議論される可能性がある。",
-      "content_at": "2026-08-04T06:30:48.507790+09:00"
-    },
-    {
       "image": "https://www.seangoedecke.com/og-image.jpg",
       "url": "https://www.seangoedecke.com/llms-reward-expertise/",
       "category": "海外IT",
