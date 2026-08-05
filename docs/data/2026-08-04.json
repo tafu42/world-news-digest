@@ -101,28 +101,6 @@
       "content_at": "2026-08-04T13:30:46.912775+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/fd6f920fa16535a641ef9fc8e0a0d8b64c9417de/660_0_6596_5277/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/04/us-cyber-attacks-water-minnesota-iran",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-04T21:30:49.910326+09:00",
-      "title": "米国の水道施設がサイバー攻撃の標的に",
-      "summary": "米国のインフラ施設に対するサイバー攻撃に関し、当局はイランの関与を疑っている。トランプ氏はティム・ウォルズ氏とミネソタ州を非難したが、当局の見解とは異なる。",
-      "impact": "今後、国家によるインフラ攻撃への警戒が強まり、米国のサイバーセキュリティ対策がより厳格化される可能性がある。",
-      "content_at": "2026-08-04T21:30:49.910326+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/8e9145c9178f46d349d7a59d97341cc385714546/0_0_2915_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/02/australian-book-sellers-alarm-destruction-rare-titles-ai-supply-chain",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-04T21:30:49.910326+09:00",
-      "title": "豪州の古書店が懸念、AI学習用に希少本が廃棄の危機",
-      "summary": "オーストラリアの古書店主らが、AIの学習用データ作成のために希少本がスキャンされ、その後廃棄されている可能性を指摘した。彼らはこの状況を「恐ろしい」と表現している。",
-      "impact": "書籍の価値保存とAI学習データ利用の倫理性について議論が活発化し、著作権や資料保存に関する規制が強化される可能性がある。",
-      "content_at": "2026-08-04T21:30:49.910326+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/9952772ea296c8ac13eabcc9378f1f1dd1f20d8f8db8f58583f01d29679525d1/ryanzhou/deepseek-v4-flash-mi300x",
       "url": "https://github.com/ryanzhou/deepseek-v4-flash-mi300x",
       "category": "海外IT",
