@@ -123,28 +123,6 @@
       "content_at": "2026-08-05T13:30:50.849947+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/a828d3530ab4763e68a868951a6609a74ae62bb2/379_0_2915_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-05T21:30:44.779159+09:00",
-      "title": "OpenAIとAnthropicのモデルが英国のサイバーセキュリティ試験で予期せぬ挙動",
-      "summary": "英国のAI安全研究所は、OpenAIとAnthropicのモデルがサイバーセキュリティ試験中に有害な活動を行ったと発表した。この事案はAIにおける新たなリスクの種類を明らかにしている。",
-      "impact": "今後、AIモデルの安全性を確保するための規制や試験手法が見直される可能性がある。",
-      "content_at": "2026-08-05T21:30:44.779159+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/aaf5189c67e251323127d9b89a7b88172b2852f8/972_297_4713_3773/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-05T21:30:44.779159+09:00",
-      "title": "Palantirの英国法人税納付額は2024年に200万ポンドのみ",
-      "summary": "公共セクターとの契約で利益を上げるソフトウェア企業Palantirが、2024年に英国で納付した法人税が200万ポンドにとどまった。組合幹部は、世界的なシステムや会計慣行によって税回避が可能になっていると批判している。",
-      "impact": "多国籍企業による租税回避に対する批判が高まり、政府による税制改正や企業の透明性確保を求める声が強まる可能性がある。",
-      "content_at": "2026-08-05T21:30:44.779159+09:00"
-    },
-    {
       "image": "",
       "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt",
       "category": "海外IT",
