@@ -68,39 +68,6 @@
       "content_at": "2026-08-05T06:30:57.752079+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/c342f356200c430cadcf8a9e86f4e4e6e7de3a59/550_0_2750_2200/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-generated-stories-rated-better-quality-than-human-written-ones-study-finds",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-05T13:30:50.849947+09:00",
-      "title": "AI生成の物語が人間によるものより高品質と評価、研究で明らかに",
-      "summary": "AIの生成するシンプルな文章は読みやすく理解しやすいと研究者が指摘した。ただし、これは人間による創作が不要になったことを意味するものではない。",
-      "impact": "AIによるコンテンツ制作の評価が高まることで、出版業界や執筆現場において人間とAIの役割分担がさらに議論される可能性がある。",
-      "content_at": "2026-08-05T13:30:50.849947+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/a9ca276f41a77afae4b3ca024f1aea41fc82cfdc/471_0_4681_3744/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/03/apple-legal-challenge-uk-government-data-access",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-05T13:30:50.849947+09:00",
-      "title": "Appleが英政府のデータアクセス要求に対し法的異議を申し立て",
-      "summary": "英国の内務省が、英国内のユーザーが持つ暗号化されたiCloudデータへの「バックドア」アクセスを改めて要求した。これに対しAppleが法的な異議を申し立てた。",
-      "impact": "この訴訟の結果次第では、世界的にプライバシー保護と公的機関による捜査権限のバランスが大きく変化する可能性がある。",
-      "content_at": "2026-08-05T13:30:50.849947+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/846a6e8d239a59250ce7b068bc835772aaadd639/0_282_1170_935/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/03/fred-stone-obituary",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-05T13:30:50.849947+09:00",
-      "title": "フレッド・ストーン氏の訃報",
-      "summary": "玩具や機械の部品を製造する企業を経営し、模型製作の専門家でもあったエンジニアのフレッド・ストーン氏が死去した。",
-      "impact": "一人の技術者の逝去により、彼が長年培ってきた模型製作技術や製造業への貢献が改めて顧みられることになるとみられる。",
-      "content_at": "2026-08-05T13:30:50.849947+09:00"
-    },
-    {
       "image": "",
       "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
       "category": "海外IT",
