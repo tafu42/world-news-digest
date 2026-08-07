@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-08",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/322d673de4caefebcc835d06eb2026a449cc9847/662_0_6620_5296/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "中国のAIエコシステムと開放性のあり方について",
+      "summary": "中国の駐英大使の記事に対し、ポール・H・クレバリー教授は共通の開放基準を提唱した。一方、クレア・ジェンキンス博士は英国のAIが独自性のある道を提供できると主張した。",
+      "impact": "国際的なAI技術の共有や規制基準を巡る議論が活性化し、各国が協力的な枠組みを模索するきっかけになる可能性がある。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/7ce8054f254a606d1854615c45acd006752f5615/0_424_1600_1280/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "スマートグラスによる隠し撮りとプライバシーへの懸念",
+      "summary": "スマートグラスによる隠し撮り行為に対して「変質者のメガネ」との批判が高まっている。一方で、障害を持つ人々からは当該技術が生活を一変させる可能性も指摘されている。",
+      "impact": "ウェアラブルデバイスの普及に伴い、プライバシー保護のあり方や公共の場での使用に関する議論が深まり、新たな法規制や社会的ルールが策定される可能性がある。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f276d32beb56627ed775be15d1716250d9d0635b/346_0_5808_4648/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "ホワイトハウスによるAI検証計画の透明性欠如",
+      "summary": "トランプ政権のAIテストに関するフレームワークについて、透明性が欠けているという指摘がある。また、同計画には多くの未解決の疑問が残されている。",
+      "impact": "AIの安全性に対する信頼性が損なわれる恐れがあるほか、政府による技術監視のあり方について議論を呼ぶと考えられる。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
+      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "DeepSeek V4 Flash 0731の推論バリエーション",
+      "summary": "DeepSeek V4 Flash 0731の推論バリエーションに関する、ARC-AGI-1、ARC-AGI-2、およびARC-AGI-3における性能評価である。",
+      "impact": "特定のベンチマークにおけるAIモデルの推論能力が明らかになり、今後のAI開発の指標や評価手法に影響を与える可能性がある。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/635104ee75f2a2f41e6f0cd69e8d05a39d83f6731b499bb694d2bc307052c801/xoreaxeaxeax/asm-hall-of-shame",
+      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "CPU性能の限界を追求する「Assembly Hall of Shame」",
+      "summary": "GitHub上で展開されている、CPU性能の底辺を競うプロジェクトである。開発者によるコントリビューションを募集している。",
+      "impact": "低効率なコードの研究を通じて、プログラミングの最適化に関する新たな知見が得られる可能性がある。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://ancientlibrary.net/wp-content/uploads/ancientlibrary/og-default.png",
+      "url": "https://ancientlibrary.net/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "古代ギリシャ・ラテン語文献1,060作品を解析できるWebライブラリ",
+      "summary": "古代ギリシャ語およびラテン語の古典作品1,060点を原文で閲覧できる。すべての単語について解析と辞書定義が提供されている。",
+      "impact": "古典文献学の学習効率が向上し、専門的な翻訳や研究に携わる人々の負担が軽減されるとみられる。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "次なる重要なサイバー能力の最前線への対応",
+      "summary": "サイバー能力に関する次なる最前線の課題へ対応するための取り組みである。",
+      "impact": "この取り組みにより、サイバーセキュリティ分野における脅威への備えが強化される可能性がある。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://www.sdss.org/wp-content/uploads/2022/09/sdss-new-logo-72dpi.png",
+      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "50万個の超大質量ブラックホールを捉えた全天マップ",
+      "summary": "「ブラックホール・マッパー」が南半球での光学観測を開始し、全天の超大質量ブラックホールをマッピングするマイルストーンに到達した。eROSITAのX線データと連携して追跡調査が行われている。",
+      "impact": "ブラックホールの成長や宇宙の構造進化に関する理解が深まり、天文学における新たな発見につながると考えられる。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://noemamag.imgix.net/2026/08/HR_Knitting_Noema_LeonieBos-copy.jpg?fit=crop&fm=pjpg&h=628&ixlib=php-3.3.1&rect=0%2C32%2C945%2C495&w=1200&wpsize=noema-social-facebook&s=ff77fe7391cba53b40080273232ce909",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-08T06:30:47.490951+09:00",
+      "title": "ナレッジワーカーが自身のキャリアに失望した場合の影響",
+      "summary": "知識労働の大半が無意味であると気付く人々が増えている。AIの台頭により、知識労働者という階級がキャリアへの信頼を失った場合に何が起こるのかが明らかになる可能性がある。",
+      "impact": "知識労働に対する社会的な価値観が大きく変化する可能性がある。労働力の流動化が進んだり、AIを前提とした新しい働き方が普及したりする可能性があるとみられる。",
+      "content_at": "2026-08-08T06:30:47.490951+09:00"
+    }
+  ],
+  "updated_at": "2026-08-08T06:30:47.490951+09:00"
+}
