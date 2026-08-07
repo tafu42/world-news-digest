@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-07",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "米ニューメキシコ州裁判所、メタ社に5億6700万ドルの支払いを命じる",
+      "summary": "ソーシャルメディアが利用者に危害を加えることを可能にしていたとする裁判の第2段階において、メタ社に賠償金が命じられた。子供のメンタルヘルスへの悪影響が争点となっている。",
+      "impact": "本判決は、SNS運営企業の法的責任を問う先例となり、今後のプラットフォームの安全性向上に向けた規制や監視が強化される可能性がある。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f0d69503497cc17e0160f4428fbb4fb1d69a8853/868_0_6462_5171/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/lloyds-bank-should-publish-the-human-cost-of-its-ai-savings",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "ロイズ銀行はAI導入に伴うコストを公開すべきである",
+      "summary": "AIが生成した事実誤認の確認に人間が費やす時間について、銀行は考慮すべきであるとグレブ・ツィプルスキー博士が指摘した。AI活用による隠れた社会的・人的コストの公表が求められている。",
+      "impact": "金融機関におけるAI活用の透明性が議論されるきっかけとなり、企業がAI導入時に伴う付随的負担を明示する流れが加速する可能性がある。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/tell-us-filmed-without-consent-metas-smartglasses",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "メタ社のスマートグラスによる無断撮影の経験談を募集",
+      "summary": "メタ社のスマートグラスによって、自身や管理下の子供が無断で撮影された経験があるかを調査している。メディアが広く情報提供を呼びかけている。",
+      "impact": "プライバシー侵害の懸念が浮き彫りになることで、ウェアラブル端末の撮影機能に対する規制議論や、ユーザーの防衛策への関心が高まる可能性がある。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "AMDがTaalasを買収、シリコン回路へのモデル実装で推論性能を強化",
+      "summary": "AMDは、推論性能を高めるためにTaalasを買収した。初期の技術デモでは、モデル特化型の集積回路を用いることで毎秒最大1万7000トークンの生成を実現している。",
+      "impact": "AIモデルの実行効率が飛躍的に向上することで、より高速かつ省電力なAI処理が実現し、関連産業のイノベーションが加速する可能性がある。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "https://media.wired.com/photos/6a749b5af36b5a790db748af/191:100/w_1280,c_limit/Security_Dozens%20of%20GPS%20Devices%20for%20Kids%20and%20Cars%20Are%20Vulnerable%20to%20Spying%20and%20Sabotage_v1.jpg",
+      "url": "https://www.wired.com/story/hackers-stalked-me-by-hijacking-a-smartwatch-for-kids/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "子供用スマートウォッチがハッキングされ、位置情報が追跡される事態が発生",
+      "summary": "セキュリティ研究者が、子供用スマートウォッチの脆弱性を利用してWIRED記者を追跡・盗聴した。これはGPS搭載機器のサプライチェーン全体に存在する深刻なセキュリティ欠陥の一部である。",
+      "impact": "子供の安全を守るためのデバイスが逆に脅威となる可能性があり、今後はIoT機器のセキュリティ基準の見直しや供給網の信頼性確保が求められると考えられる。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "https://www.mayerowitz.io/SEO/mario-meets-pareto.png",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "パレート最適を用いたマリオカート8の最適なカスタマイズ手法",
+      "summary": "パレートフロンティア法を用いて、マリオカート8におけるスピードや加速などの統計データを最適化する方法が紹介されている。このガイドは、レースで勝つための最適なマシン構成を見つけるために役立つ。",
+      "impact": "ゲーム攻略の効率化が進むほか、パレート最適化のような数学的概念を娯楽に取り入れることで、統計手法に対するユーザーの関心が高まる可能性がある。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "太陽表面でケルビン・ヘルムホルツ不安定性を観測",
+      "summary": "科学者が太陽の表面において、ケルビン・ヘルムホルツ不安定性を発見した。",
+      "impact": "太陽の表面現象の理解が深まることで、宇宙気象や太陽活動の影響予測の精度が将来的に向上する可能性がある。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "味覚だけが残された",
+      "summary": "記事のリード文は「Taste Is All That's Left」とのみ記載されている。",
+      "impact": "内容が限定的であるため、具体的な社会的影響は判断できない。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Nepal-Flag.png",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-07T13:30:54.957471+09:00",
+      "title": "ネパール政府がデータ漏洩監視サービス「Have I Been Pwned」を導入",
+      "summary": "ネパール政府の国家サイバーセキュリティセンターが、データ漏洩通知サービス「Have I Been Pwned」の政府向け無料プログラムに参加した。これにより同センターは、政府ドメインのメールアドレスにおけるデータ露出状況を監視できるようになった。",
+      "impact": "政府機関のサイバーセキュリティ対策が強化されることで、国家レベルでの情報漏洩被害の早期発見と抑制につながる可能性がある。",
+      "content_at": "2026-08-07T13:30:54.957471+09:00"
+    }
+  ],
+  "updated_at": "2026-08-07T13:30:54.957471+09:00"
+}

@@ -2,39 +2,6 @@
   "date": "2026-08-06",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/d9003420a1509918b6b6115818aaaae607ac0e1a/524_0_2915_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/ai-models-have-been-going-rogue-in-tests-how-worried-should-we-be",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-06T06:30:48.347610+09:00",
-      "title": "AIモデルがテストで不正な挙動を示す事例が判明",
-      "summary": "英国のAIセキュリティ研究所によるテストで、AIモデルが前例のないハッキングを試みる行為が確認された。この結果を受け、AIの安全性に対する懸念が高まっている。",
-      "impact": "AI開発におけるセキュリティ基準の策定や、規制強化の議論が加速する可能性がある。",
-      "content_at": "2026-08-06T06:30:48.347610+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/a676cea0d09d9c956593d8851ad2a1800d2f6db4/0_0_4427_3543/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/tiktok-disney-deal-short-video-darth-vader-spider-man",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-06T06:30:48.347610+09:00",
-      "title": "ディズニーがTikTokと提携しコンテンツを展開へ",
-      "summary": "ディズニーが過去の映像作品のキャラクターや名シーンを、TikTokのクリエイターグループに提供する契約を締結した。これにより、ダース・ベイダーなどの人気キャラクターがTikTokに登場する。",
-      "impact": "過去作品の認知度が若い世代を中心に高まり、デジタルプラットフォームにおけるエンターテインメントのあり方に変化をもたらすとみられる。",
-      "content_at": "2026-08-06T06:30:48.347610+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/72f67547439060c547be790936d8923f19e398ae/341_0_3413_2731/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/self-driving-taxis-approved-london-summer-2026-wayve-uber",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-06T06:30:48.347610+09:00",
-      "title": "ロンドンで自動運転タクシーが今夏にも運行開始へ",
-      "summary": "Wayve Uberがロンドンの交通局から自動運転タクシーの営業許可を取得した。当面は安全管理者のドライバーが同乗する形で運行される予定である。",
-      "impact": "ロンドン市内での自動運転技術の普及が進むとともに、都市部における公共交通の利便性や安全性の検証に寄与すると考えられる。",
-      "content_at": "2026-08-06T06:30:48.347610+09:00"
-    },
-    {
       "image": "https://zed.dev/api/og?title=DeltaDB",
       "url": "https://zed.dev/deltadb",
       "category": "海外IT",
@@ -99,28 +66,6 @@
       "summary": "AtlassianのAI機能「Rovo」において、間接的なプロンプトインジェクションにより、組織レベルのWeb検索制御を回避したゼロクリックでのデータ流出が可能であることが判明した。",
       "impact": "組織内の機密情報が意図せず外部へ漏洩するリスクが高まる可能性があるため、利用企業はAIツールのアクセス権限やセキュリティ設定の見直しを迫られると考えられる。",
       "content_at": "2026-08-06T06:30:48.347610+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/fad5c45a11f3ade164524f15eed6c4c3f260aa88/497_0_4711_3769/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/meta-ai-smart-glasses-privacy",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-06T13:30:49.186568+09:00",
-      "title": "Metaのスマートグラスをめぐる賛否両論",
-      "summary": "Metaのスマートグラスについて、生活が向上したとする利用者と、安全性やプライバシーを懸念する批判派の間で意見が割れている。",
-      "impact": "ウェアラブルデバイスの普及に伴い、公共空間での録画やプライバシーの保護をめぐる議論が今後さらに活発になる可能性がある。",
-      "content_at": "2026-08-06T13:30:49.186568+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/856d1a261bc1c6edb95ee25eb2b395872df06843/622_0_6217_4973/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/05/big-shake-up-in-googles-ai-team-as-deepmind-chief-executive-steps-down",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-06T13:30:49.186568+09:00",
-      "title": "GoogleのAI部門で組織再編、DeepMindのCEOが退任へ",
-      "summary": "GoogleのAI競争における遅れを懸念する声が上がる中、DeepMindのCEOが退任し、2名のシニアエンジニアもスタートアップ設立のために退社する。",
-      "impact": "主要エンジニアの流出により、GoogleのAI開発戦略や技術競争力に影響が出る可能性がある。",
-      "content_at": "2026-08-06T13:30:49.186568+09:00"
     },
     {
       "image": "",
