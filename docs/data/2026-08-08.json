@@ -99,7 +99,51 @@
       "summary": "知識労働の大半が無意味であると気付く人々が増えている。AIの台頭により、知識労働者という階級がキャリアへの信頼を失った場合に何が起こるのかが明らかになる可能性がある。",
       "impact": "知識労働に対する社会的な価値観が大きく変化する可能性がある。労働力の流動化が進んだり、AIを前提とした新しい働き方が普及したりする可能性があるとみられる。",
       "content_at": "2026-08-08T06:30:47.490951+09:00"
+    },
+    {
+      "image": "https://discourse.nixos.org/uploads/default/original/3X/a/5/a5e0d7873e3d34aecf874c577c91a1c06490f436.svg",
+      "url": "https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-08T13:30:53.648459+09:00",
+      "title": "Nixpkgsコアチームが解散を発表",
+      "summary": "Nixpkgsコアチームが解散を決定した。チームは過去10ヶ月間の取り組みや新たなコミッターの選出プロセス改革などを成果として挙げている。",
+      "impact": "プロジェクトのガバナンス体制に変更が生じることで、今後の開発プロセスやコミュニティ運営に影響を与える可能性がある。",
+      "content_at": "2026-08-08T13:30:53.648459+09:00"
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/THvP2fXPd8rkVuYiU2LB97-2000-80.jpg",
+      "url": "https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-08T13:30:53.648459+09:00",
+      "title": "NASA、打ち上げから48年経過したボイジャー2号の運用を継続へ",
+      "summary": "NASAは電力供給の設定を変更し、年内に予定されていたボイジャー2号の観測機器の停止を回避した。これにより、運用がさらに1年継続される。",
+      "impact": "長期間稼働する宇宙探査機からのデータ収集が継続されることで、太陽圏外の観測に関する貴重な知見が今後も得られると考えられる。",
+      "content_at": "2026-08-08T13:30:53.648459+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://genesisopenmodels.anl.gov/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-08T13:30:53.648459+09:00",
+      "title": "米国エネルギー省が「Genesis Open Models Initiative」を立ち上げ",
+      "summary": "米国エネルギー省が、Genesis Open Models Initiativeを開始した。",
+      "impact": "エネルギー分野におけるオープンモデルの活用が推進されることで、関連技術の研究や開発が加速する可能性がある。",
+      "content_at": "2026-08-08T13:30:53.648459+09:00"
+    },
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod/images/88dcdb12-99d6-4f27-b6f5-c55b47133641.jpg?crop=1xw:1.0xh;center,top&amp;resize=1200:*",
+      "url": "https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-08T13:30:53.648459+09:00",
+      "title": "飼い主がハムスターの回し車をStravaと連動させ、走行距離を記録",
+      "summary": "生後10ヶ月のハムスター「モリー」の回し車がStravaと連動され、毎晩の走行距離が記録されている。",
+      "impact": "ペットの活動をテクノロジーで可視化する事例として、趣味の範囲で人々の関心を集める可能性がある。",
+      "content_at": "2026-08-08T13:30:53.648459+09:00"
     }
   ],
-  "updated_at": "2026-08-08T06:30:47.490951+09:00"
+  "updated_at": "2026-08-08T13:30:53.648459+09:00"
 }

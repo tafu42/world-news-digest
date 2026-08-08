@@ -2,39 +2,6 @@
   "date": "2026-08-07",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-07T13:30:54.957471+09:00",
-      "title": "米ニューメキシコ州裁判所、メタ社に5億6700万ドルの支払いを命じる",
-      "summary": "ソーシャルメディアが利用者に危害を加えることを可能にしていたとする裁判の第2段階において、メタ社に賠償金が命じられた。子供のメンタルヘルスへの悪影響が争点となっている。",
-      "impact": "本判決は、SNS運営企業の法的責任を問う先例となり、今後のプラットフォームの安全性向上に向けた規制や監視が強化される可能性がある。",
-      "content_at": "2026-08-07T13:30:54.957471+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/f0d69503497cc17e0160f4428fbb4fb1d69a8853/868_0_6462_5171/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/lloyds-bank-should-publish-the-human-cost-of-its-ai-savings",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-07T13:30:54.957471+09:00",
-      "title": "ロイズ銀行はAI導入に伴うコストを公開すべきである",
-      "summary": "AIが生成した事実誤認の確認に人間が費やす時間について、銀行は考慮すべきであるとグレブ・ツィプルスキー博士が指摘した。AI活用による隠れた社会的・人的コストの公表が求められている。",
-      "impact": "金融機関におけるAI活用の透明性が議論されるきっかけとなり、企業がAI導入時に伴う付随的負担を明示する流れが加速する可能性がある。",
-      "content_at": "2026-08-07T13:30:54.957471+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/tell-us-filmed-without-consent-metas-smartglasses",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-07T13:30:54.957471+09:00",
-      "title": "メタ社のスマートグラスによる無断撮影の経験談を募集",
-      "summary": "メタ社のスマートグラスによって、自身や管理下の子供が無断で撮影された経験があるかを調査している。メディアが広く情報提供を呼びかけている。",
-      "impact": "プライバシー侵害の懸念が浮き彫りになることで、ウェアラブル端末の撮影機能に対する規制議論や、ユーザーの防衛策への関心が高まる可能性がある。",
-      "content_at": "2026-08-07T13:30:54.957471+09:00"
-    },
-    {
       "image": "https://image.theregister.com/5284365.jpg?imageId=5284365&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
       "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
       "category": "海外IT",
