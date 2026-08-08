@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-09",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/75370b7d2e86da8743ca26266a8659d6b1b70393/667_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-09T06:30:44.372688+09:00",
+      "title": "OpenAI、セキュリティ懸念によりAIモデル「Astra」の開発を一部停止",
+      "summary": "AIエージェントが人の介在なしに脆弱性を発見・悪用し、サイバー攻撃を実行できることが判明した。これを受け、OpenAIは開発の一部を一時停止する。",
+      "impact": "生成AIによる自動攻撃のリスクが浮き彫りとなり、AIの開発と安全性の両立に向けた規制や監視が強化される可能性がある。",
+      "content_at": "2026-08-09T06:30:44.372688+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mezha.net/eng/bukvy/ca117584_denmark_requires_oral/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-09T06:30:44.372688+09:00",
+      "title": "デンマーク、AIによる不正を防ぐため学生の書面課題に口頭試問を義務付け",
+      "summary": "デンマークはAIを用いた不正行為への対策として、学生が提出する書面課題に対して口頭試問を必須とする措置を導入した。",
+      "impact": "教育現場において、AI利用の公平性を保つための評価手法が見直される契機になると考えられる。",
+      "content_at": "2026-08-09T06:30:44.372688+09:00"
+    },
+    {
+      "image": "https://www.fastmail.com/assets/images/data-center-hero-3jPa_k89iw-1200.png",
+      "url": "https://www.fastmail.com/blog/fastmail-offers-eu-data-region/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-09T06:30:44.372688+09:00",
+      "title": "FastmailがEUデータリージョンを提供開始",
+      "summary": "Fastmailは、ユーザーが自身のデータを欧州連合（EU）内のアムステルダムにあるサーバーで管理できるオプションの提供を開始した。",
+      "impact": "EU域内のデータプライバシー規制を重視する企業や個人にとって、データ管理の透明性とセキュリティを高める選択肢となる可能性がある。",
+      "content_at": "2026-08-09T06:30:44.372688+09:00"
+    },
+    {
+      "image": "https://cdn.writeas.net/img/w-sq-light.png",
+      "url": "https://blog.senko.net/code-was-never-the-hard-part-is-an-insult-to-all-programmers",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-09T06:30:44.372688+09:00",
+      "title": "「コーディングは難しくない」という主張に対する反論",
+      "summary": "ソフトウェア開発職は激動期にあり、AI革命が最終的にどのような結果をもたらすかは誰にも予測できない状況にある。",
+      "impact": "AI導入が進む中で、プログラミングという職業の専門性やスキルの価値を再定義する議論が今後さらに活発になるとみられる。",
+      "content_at": "2026-08-09T06:30:44.372688+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/86f377f169ad2fc803efcd0c8019fffbaf4d2501accf2684e1c99ea189708a5f/andrewpollack/linkedin-feed-blocker",
+      "url": "https://github.com/andrewpollack/linkedin-feed-blocker",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-09T06:30:44.372688+09:00",
+      "title": "LinkedInのフィードを非表示にするChrome拡張機能",
+      "summary": "LinkedInのホームフィードを削除しつつ、他の機能をそのまま使えるChrome拡張機能が公開された。個人開発者によるプロジェクトである。",
+      "impact": "SNS利用者の生産性向上や、情報過多によるストレスを軽減する手段の一つとなる可能性がある。",
+      "content_at": "2026-08-09T06:30:44.372688+09:00"
+    },
+    {
+      "image": "https://specification.website/og/spec/foundations/for-sale-dns.png",
+      "url": "https://specification.website/spec/foundations/for-sale-dns/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-09T06:30:44.372688+09:00",
+      "title": "DNSレコードでドメインの販売中情報を公開する仕組み",
+      "summary": "ドメインが販売中であることをDNSのTXTレコードに記述し、サイトを停止することなくブローカーやサービスに通知できる仕組みが提案された。_for-sale.example.comという形式で情報を公開する。",
+      "impact": "ドメイン売買の効率化や、ドメインパーキングの代替手段として普及する可能性がある。",
+      "content_at": "2026-08-09T06:30:44.372688+09:00"
+    },
+    {
+      "image": "https://eclipsefan.org/img/og/og-en.jpg",
+      "url": "https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-09T06:30:44.372688+09:00",
+      "title": "2026年8月12日の皆既日食に対応したオープンソース地図",
+      "summary": "2026年8月12日に発生する皆既日食に向けた対話型マップが公開された。観測地点ごとの詳細な時刻、皆既食帯、天候の確率、観測のヒントを確認できる。",
+      "impact": "世界各地の観測計画を立てる人々にとって、正確な情報を得るための有用なツールになると考えられる。",
+      "content_at": "2026-08-09T06:30:44.372688+09:00"
+    }
+  ],
+  "updated_at": "2026-08-09T06:30:44.372688+09:00"
+}

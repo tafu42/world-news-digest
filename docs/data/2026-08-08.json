@@ -2,39 +2,6 @@
   "date": "2026-08-08",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/322d673de4caefebcc835d06eb2026a449cc9847/662_0_6620_5296/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-08T06:30:47.490951+09:00",
-      "title": "中国のAIエコシステムと開放性のあり方について",
-      "summary": "中国の駐英大使の記事に対し、ポール・H・クレバリー教授は共通の開放基準を提唱した。一方、クレア・ジェンキンス博士は英国のAIが独自性のある道を提供できると主張した。",
-      "impact": "国際的なAI技術の共有や規制基準を巡る議論が活性化し、各国が協力的な枠組みを模索するきっかけになる可能性がある。",
-      "content_at": "2026-08-08T06:30:47.490951+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/7ce8054f254a606d1854615c45acd006752f5615/0_424_1600_1280/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-08T06:30:47.490951+09:00",
-      "title": "スマートグラスによる隠し撮りとプライバシーへの懸念",
-      "summary": "スマートグラスによる隠し撮り行為に対して「変質者のメガネ」との批判が高まっている。一方で、障害を持つ人々からは当該技術が生活を一変させる可能性も指摘されている。",
-      "impact": "ウェアラブルデバイスの普及に伴い、プライバシー保護のあり方や公共の場での使用に関する議論が深まり、新たな法規制や社会的ルールが策定される可能性がある。",
-      "content_at": "2026-08-08T06:30:47.490951+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/f276d32beb56627ed775be15d1716250d9d0635b/346_0_5808_4648/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-08T06:30:47.490951+09:00",
-      "title": "ホワイトハウスによるAI検証計画の透明性欠如",
-      "summary": "トランプ政権のAIテストに関するフレームワークについて、透明性が欠けているという指摘がある。また、同計画には多くの未解決の疑問が残されている。",
-      "impact": "AIの安全性に対する信頼性が損なわれる恐れがあるほか、政府による技術監視のあり方について議論を呼ぶと考えられる。",
-      "content_at": "2026-08-08T06:30:47.490951+09:00"
-    },
-    {
       "image": "https://arcprize.org/results/deepseek-v4-flash-0731/opengraph-image?7e3c06b0774752c2",
       "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
       "category": "海外IT",
