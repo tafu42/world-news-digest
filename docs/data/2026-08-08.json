@@ -143,7 +143,84 @@
       "summary": "生後10ヶ月のハムスター「モリー」の回し車がStravaと連動され、毎晩の走行距離が記録されている。",
       "impact": "ペットの活動をテクノロジーで可視化する事例として、趣味の範囲で人々の関心を集める可能性がある。",
       "content_at": "2026-08-08T13:30:53.648459+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ebebc2365335048edba6b74991c6a785fd79484c/0_1054_8736_6989/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-08T21:30:46.191098+09:00",
+      "title": "Google DeepMindの共同創業者デミス・ハサビス氏がAI部門での役割を変更",
+      "summary": "Google DeepMindの共同創業者デミス・ハサビス氏がAI部門での役割を変更した。同部門の独立性が失われ、商業的な現実が優先されているとの懸念が示されている。",
+      "impact": "GoogleのAI戦略における意思決定の優先順位が変化し、今後の技術開発の方向性に影響を与える可能性がある。",
+      "content_at": "2026-08-08T21:30:46.191098+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/518184ea461f32002734db1dfcd6d1e8d169a1a8/581_0_4448_3559/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-08T21:30:46.191098+09:00",
+      "title": "イギリスで自分のディープフェイク画像を目撃する子供が急増",
+      "summary": "イギリスで、自分自身の性的なディープフェイク画像を目撃したと報告する子供の数が増加している。AI技術により、性的な画像や裸の画像を生成することが容易になっていることが背景にある。",
+      "impact": "子供の安全やプライバシー保護を目的としたAI規制の強化や、SNSプラットフォームに対する監視体制の強化が議論される可能性がある。",
+      "content_at": "2026-08-08T21:30:46.191098+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-08T21:30:46.191098+09:00",
+      "title": "米ニューメキシコ州裁判所、メタ社に5億6700万ドルの賠償命令",
+      "summary": "米ニューメキシコ州の裁判所は、メタ社が子供のメンタルヘルスに悪影響を与えたとして、5億6700万ドルの支払いを命じた。この判決は、同社がユーザーへの被害を助長したと認定された裁判の第二段階で下された。",
+      "impact": "ソーシャルメディア企業に対する責任追及が加速し、児童のメンタルヘルス保護に関する法整備や企業ポリシーの変更を迫る事例となる可能性がある。",
+      "content_at": "2026-08-08T21:30:46.191098+09:00"
+    },
+    {
+      "image": "https://trinixy.ru/pics2/20070801/ussr_01.jpg",
+      "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-08T21:30:46.191098+09:00",
+      "title": "写真で振り返るソ連：100枚の写真",
+      "summary": "本書『The USSR in 100 Photographs』は、100枚の写真を通してソビエト連邦の歴史を振り返るものである。",
+      "impact": "ソ連時代の歴史的背景や当時の社会状況を視覚的に理解する機会を提供すると考えられる。",
+      "content_at": "2026-08-08T21:30:46.191098+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-08T21:30:46.191098+09:00",
+      "title": "DeepMindの気象予測モデル「WeatherNext」がサイクロン予測で進歩",
+      "summary": "DeepMindの気象予測モデル「WeatherNext」が、サイクロンの予測において大きな進歩を遂げた。同モデルは気象予測の精度向上を目指している。",
+      "impact": "気象予測の精度が向上することで、サイクロン発生時の早期避難や災害対策がより効率的になる可能性がある。",
+      "content_at": "2026-08-08T21:30:46.191098+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/a31dbb310f3dbdcc7e9cad7065e7a5df26d3bbab225da6bd52881289b13343b8/xoreaxeaxeax/rosenbridge",
+      "url": "https://github.com/xoreaxeaxeax/rosenbridge",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-08T21:30:46.191098+09:00",
+      "title": "一部のx86 CPUにおけるハードウェアバックドアの存在",
+      "summary": "一部のx86 CPUにハードウェアバックドアが存在することが報告されている。GitHub上のプロジェクト「rosenbridge」を通じて、この問題に関する情報が共有されている。",
+      "impact": "CPUの脆弱性が悪用されることで、セキュリティリスクが増大する可能性がある。信頼性の高いシステム構築やハードウェアの安全性評価がより重視されるようになるとみられる。",
+      "content_at": "2026-08-08T21:30:46.191098+09:00"
+    },
+    {
+      "image": "https://ecosophia.net/wp-content/uploads/2026/07/25170f08a958b77958c3f7c1ebccbca2-300x200.jpg",
+      "url": "https://ecosophia.net/a-tome-of-forbidden-technologies/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-08T21:30:46.191098+09:00",
+      "title": "禁断のテクノロジーに関するブログ記事",
+      "summary": "5回の水曜日がある月の終わりに、読者が投票によって記事のテーマを決めるという恒例の企画が実施された。今回のテーマは「禁断のテクノロジー」である。",
+      "impact": "読者の関心に基づいた特定の技術分野が紹介されることで、読者コミュニティ内でそれらの技術に関する議論が深まる可能性がある。",
+      "content_at": "2026-08-08T21:30:46.191098+09:00"
     }
   ],
-  "updated_at": "2026-08-08T13:30:53.648459+09:00"
+  "updated_at": "2026-08-08T21:30:46.191098+09:00"
 }
