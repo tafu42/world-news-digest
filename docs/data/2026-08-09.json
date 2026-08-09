@@ -165,7 +165,51 @@
       "summary": "ディザリング処理を施したQRコードに関する内容である。",
       "impact": "QRコードのデザイン性や視覚的な表現方法の幅が広がる可能性がある。",
       "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://gukov.dev/math/2026/08/02/new-magic-hexagons.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-09T21:30:47.686149+09:00",
+      "title": "あらゆる次数の魔法の六角形",
+      "summary": "魔法の六角形における数字の19の特異性について問いかけている。",
+      "impact": "数学的なパズルや図形の性質に関心を持つ層に対して、新たな視点を提供する可能性がある。",
+      "content_at": "2026-08-09T21:30:47.686149+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/3771487f4934ffecbfbd65a8de599d9693bffb8741784731a868f1f7e4edf820/jmarshall23/msword",
+      "url": "https://github.com/jmarshall23/msword",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-09T21:30:47.686149+09:00",
+      "title": "Microsoft Word 1.1aのWindows向けx64ネイティブ移植",
+      "summary": "研究目的のために、Microsoft Word 1.1aをx64環境へ移植したプロジェクトである。",
+      "impact": "レガシーソフトウェアの現代環境への適応という側面から、ソフトウェアの保存や互換性に関する技術的な議論を呼ぶ可能性がある。",
+      "content_at": "2026-08-09T21:30:47.686149+09:00"
+    },
+    {
+      "image": "http://static1.squarespace.com/static/55ac34e4e4b0170ef54be632/55ac3907e4b03d1c8c9deff1/6a72041df4a29740324d5c13/1785857138473/PREN_E106_Geocells_1c.jpg?format=1500w",
+      "url": "https://practical.engineering/blog/2026/8/4/the-grid-that-doubles-the-strength-of-the-ground",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-09T21:30:47.686149+09:00",
+      "title": "地盤の強度を2倍にするグリッド",
+      "summary": "米国で2番目に混雑する港であるカリフォルニア州のロングビーチ港について解説している。",
+      "impact": "港湾インフラの強化に関する技術が、物流拠点における地盤改良の新たな手法として採用される可能性がある。",
+      "content_at": "2026-08-09T21:30:47.686149+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://oskrim.github.io/hardware/2026/08/09/remarkable-over-ssh.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-09T21:30:47.686149+09:00",
+      "title": "4年前のreMarkable 2の復旧",
+      "summary": "2021年に購入し、約4年間使用されずに放置されていた電子ペーパータブレット「reMarkable 2」の状況について触れている。",
+      "impact": "長期間放置された電子デバイスの再利用やメンテナンス方法に関する関心が高まる可能性がある。",
+      "content_at": "2026-08-09T21:30:47.686149+09:00"
     }
   ],
-  "updated_at": "2026-08-09T13:30:45.512244+09:00"
+  "updated_at": "2026-08-09T21:30:47.686149+09:00"
 }

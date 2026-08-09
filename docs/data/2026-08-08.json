@@ -112,39 +112,6 @@
       "content_at": "2026-08-08T13:30:53.648459+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/ebebc2365335048edba6b74991c6a785fd79484c/0_1054_8736_6989/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-08T21:30:46.191098+09:00",
-      "title": "Google DeepMindの共同創業者デミス・ハサビス氏がAI部門での役割を変更",
-      "summary": "Google DeepMindの共同創業者デミス・ハサビス氏がAI部門での役割を変更した。同部門の独立性が失われ、商業的な現実が優先されているとの懸念が示されている。",
-      "impact": "GoogleのAI戦略における意思決定の優先順位が変化し、今後の技術開発の方向性に影響を与える可能性がある。",
-      "content_at": "2026-08-08T21:30:46.191098+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/518184ea461f32002734db1dfcd6d1e8d169a1a8/581_0_4448_3559/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-08T21:30:46.191098+09:00",
-      "title": "イギリスで自分のディープフェイク画像を目撃する子供が急増",
-      "summary": "イギリスで、自分自身の性的なディープフェイク画像を目撃したと報告する子供の数が増加している。AI技術により、性的な画像や裸の画像を生成することが容易になっていることが背景にある。",
-      "impact": "子供の安全やプライバシー保護を目的としたAI規制の強化や、SNSプラットフォームに対する監視体制の強化が議論される可能性がある。",
-      "content_at": "2026-08-08T21:30:46.191098+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/6e9c72f1d4d1541ee16137214046b3255b6a1981/410_0_6827_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-08T21:30:46.191098+09:00",
-      "title": "米ニューメキシコ州裁判所、メタ社に5億6700万ドルの賠償命令",
-      "summary": "米ニューメキシコ州の裁判所は、メタ社が子供のメンタルヘルスに悪影響を与えたとして、5億6700万ドルの支払いを命じた。この判決は、同社がユーザーへの被害を助長したと認定された裁判の第二段階で下された。",
-      "impact": "ソーシャルメディア企業に対する責任追及が加速し、児童のメンタルヘルス保護に関する法整備や企業ポリシーの変更を迫る事例となる可能性がある。",
-      "content_at": "2026-08-08T21:30:46.191098+09:00"
-    },
-    {
       "image": "https://trinixy.ru/pics2/20070801/ussr_01.jpg",
       "url": "https://trinixy.ru/7039-sssr_v_fotografijakh_100_foto.html",
       "category": "海外IT",
