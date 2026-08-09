@@ -77,7 +77,95 @@
       "summary": "2026年8月12日に発生する皆既日食に向けた対話型マップが公開された。観測地点ごとの詳細な時刻、皆既食帯、天候の確率、観測のヒントを確認できる。",
       "impact": "世界各地の観測計画を立てる人々にとって、正確な情報を得るための有用なツールになると考えられる。",
       "content_at": "2026-08-09T06:30:44.372688+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/322d673de4caefebcc835d06eb2026a449cc9847/662_0_6620_5296/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "中国のAIエコシステムにおける開放性の議論",
+      "summary": "中国の駐英大使の記事に対し、ポール・H・クレバリー教授は共有された開放基準を提唱し、クレア・ジェンキンス博士は英国のAIが独自性のある道を提供できると主張した。",
+      "impact": "国際的なAI開発において、国ごとの開放性基準の違いが議論されるきっかけになるとみられる。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/fbf959ad6238a0fb4743a400b755c7834110ec22/0_477_1600_1279/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "スマートグラスによる隠し撮りとプライバシーの課題",
+      "summary": "スマートグラスによる盗撮行為に対する反発が高まる一方、障害を持つ人々からはこの技術が生活を一変させる可能性があると指摘されている。",
+      "impact": "スマートグラスの使用を巡るプライバシー保護の規制が強化される可能性がある一方で、福祉分野での技術活用への理解が進むとみられる。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f276d32beb56627ed775be15d1716250d9d0635b/346_0_5808_4648/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "ホワイトハウスのAI安全性検証計画の不透明性",
+      "summary": "トランプ政権下のAIテストに関する枠組みは透明性に欠けており、多くの疑問が残されたままである。",
+      "impact": "AIの安全性検証プロセスにおける不透明さが、政策に対する信頼性やAI開発の基準設定に影響を与える可能性がある。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "https://seg6.space/img/phone-server/system-dashboard.png",
+      "url": "https://seg6.space/posts/phone-server/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "CMF Phone 1をサーバーとして活用する試み",
+      "summary": "CMF Phone 1をルート化し、個人のインフラを自宅で実行させる取り組みが行われた。",
+      "impact": "モバイルデバイスをサーバーとして流用する技術的な試みが、個人のデータ管理やインフラ構築の手法に新たな選択肢を提示する可能性がある。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "https://os8088.com/img/og.png",
+      "url": "https://os8088.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "IBM XTや286/386で動作するMac風OS「Os8088」",
+      "summary": "Intel 8086/8088向けに開発された、Macintosh System 1のようなGUIを持つOS。フロッピーディスクから起動可能で、256KBのメモリで動作する。",
+      "impact": "レトロPC環境で現代的な操作性を求めるユーザーにとって、新たな利用の選択肢となる可能性がある。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.redblobgames.com/pathfinding/heuristics/differential.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "A*経路探索におけるヒューリスティックの改善",
+      "summary": "A*経路探索アルゴリズムにおけるヒューリスティックの改善手法について述べた内容である。",
+      "impact": "経路探索アルゴリズムの効率化が進むことで、ゲームやロボティクスの分野における計算速度の向上が期待される。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/d5a289aad251536cebddff8378b429f0.png",
+      "url": "https://shopify.engineering/scaling-inventory-reservations",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "Shopifyが在庫管理のデータベースをRedisからMySQLへ移行",
+      "summary": "Shopifyが在庫予約システムにおいて、RedisからMySQLへの移行を実施した。スケールの目標を達成するために、SKIP LOCKEDや複合主キー、接続の可視化を活用した。",
+      "impact": "高負荷な環境下でのデータベース選定において、MySQLの活用事例が参考になる可能性がある。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.andrewt.net/dithered-qr-codes/wtf/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-09T13:30:45.512244+09:00",
+      "title": "ディザリング処理を用いたQRコード",
+      "summary": "ディザリング処理を施したQRコードに関する内容である。",
+      "impact": "QRコードのデザイン性や視覚的な表現方法の幅が広がる可能性がある。",
+      "content_at": "2026-08-09T13:30:45.512244+09:00"
     }
   ],
-  "updated_at": "2026-08-09T06:30:44.372688+09:00"
+  "updated_at": "2026-08-09T13:30:45.512244+09:00"
 }
