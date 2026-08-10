@@ -99,7 +99,73 @@
       "summary": "AIの文脈における「共有地の悲劇」について述べられている。",
       "impact": "AI開発や利用における資源の乱用が、将来的に社会全体の利便性や持続可能性を低下させる可能性がある。",
       "content_at": "2026-08-10T06:30:52.486258+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/75370b7d2e86da8743ca26266a8659d6b1b70393/667_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-10T13:30:46.823289+09:00",
+      "title": "OpenAI、AIモデル「Astra」の開発を一部停止へ",
+      "summary": "AIエージェントが人の介入なしに脆弱性を発見・悪用し、サイバー攻撃を実行できることが判明した。OpenAIはセキュリティ上の懸念から、当該モデルの開発作業を一時停止する。",
+      "impact": "AIによる自動的なサイバー攻撃のリスクが浮き彫りとなった。今後、AI開発におけるセキュリティ基準や安全性の確保に向けた規制が強化される可能性がある。",
+      "content_at": "2026-08-10T13:30:46.823289+09:00"
+    },
+    {
+      "image": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/featured.jpg",
+      "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-10T13:30:46.823289+09:00",
+      "title": "HackerOneの盛衰：世界最大のバグ報奨金プラットフォームに何が起きたのか",
+      "summary": "世界最大のバグ報奨金プラットフォームとして知られるHackerOneが辿った、隆盛から衰退までの過程を検証する。",
+      "impact": "セキュリティ業界におけるバグ報奨金制度の有効性や、ビジネスモデルの持続可能性に関する議論を促す可能性がある。",
+      "content_at": "2026-08-10T13:30:46.823289+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://foldingglobes.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-10T13:30:46.823289+09:00",
+      "title": "衛星写真を折り紙式の地球儀に",
+      "summary": "衛星画像を利用して、自分で折り組み立てられるペーパークラフト形式の地球儀を作成する手法について紹介している。",
+      "impact": "地理情報や衛星データを身近な工作に取り入れることで、教育や趣味の分野で宇宙・地図への関心を高める効果が期待できる。",
+      "content_at": "2026-08-10T13:30:46.823289+09:00"
+    },
+    {
+      "image": "https://www.whodunnitai.com/whodunnitai-metadata.jpg",
+      "url": "https://www.whodunnitai.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-10T13:30:46.823289+09:00",
+      "title": "声で操作する殺人ミステリー：AI容疑者と対話して真相を解明",
+      "summary": "ユーザー自身の声を使ってAIの容疑者たちを尋問し、嘘を見破って犯人を告発する音声主導型の殺人ミステリーゲームである。プレイヤーはBlackwood Manorで事件の解決を目指す。",
+      "impact": "音声対話型のAIをエンターテインメントに活用する新しい手法として、ゲーム体験の没入感を大きく向上させる可能性がある。",
+      "content_at": "2026-08-10T13:30:46.823289+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-10T13:30:46.823289+09:00",
+      "title": "CDCをPostgresに移行する方法",
+      "summary": "CDC（変更データキャプチャ）をPostgresへ移行する仕組みについての解説である。",
+      "impact": "データ同期プロセスの効率化や信頼性の向上に寄与する可能性がある。",
+      "content_at": "2026-08-10T13:30:46.823289+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/1de59566e2294bc52ec8cf9620b195dfe7b8f0399cfe4492be2e29207caec3b7/shinyquagsire23/Klepton",
+      "url": "https://github.com/shinyquagsire23/Klepton",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-10T13:30:46.823289+09:00",
+      "title": "Apple Vision ProでAndroidのARM64 VRアプリを動作させる方法",
+      "summary": "JITを使用しない再リンクツールおよび互換レイヤーを用いて、QuestやAndroid向けのXRアプリをvisionOSやmacOS上で動作させるプロジェクトである。",
+      "impact": "Apple Vision Proにおける利用可能なVRコンテンツの拡充につながる可能性がある。",
+      "content_at": "2026-08-10T13:30:46.823289+09:00"
     }
   ],
-  "updated_at": "2026-08-10T06:30:52.486258+09:00"
+  "updated_at": "2026-08-10T13:30:46.823289+09:00"
 }

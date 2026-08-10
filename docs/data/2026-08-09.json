@@ -68,39 +68,6 @@
       "content_at": "2026-08-09T06:30:44.372688+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/322d673de4caefebcc835d06eb2026a449cc9847/662_0_6620_5296/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/07/china-ai-ecosystem-is-not-as-open-as-it-claims-nor-is-any-other-country",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-09T13:30:45.512244+09:00",
-      "title": "中国のAIエコシステムにおける開放性の議論",
-      "summary": "中国の駐英大使の記事に対し、ポール・H・クレバリー教授は共有された開放基準を提唱し、クレア・ジェンキンス博士は英国のAIが独自性のある道を提供できると主張した。",
-      "impact": "国際的なAI開発において、国ごとの開放性基準の違いが議論されるきっかけになるとみられる。",
-      "content_at": "2026-08-09T13:30:45.512244+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/fbf959ad6238a0fb4743a400b755c7834110ec22/0_477_1600_1279/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/ai-smartglasses-camera-film-privacy-consent",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-09T13:30:45.512244+09:00",
-      "title": "スマートグラスによる隠し撮りとプライバシーの課題",
-      "summary": "スマートグラスによる盗撮行為に対する反発が高まる一方、障害を持つ人々からはこの技術が生活を一変させる可能性があると指摘されている。",
-      "impact": "スマートグラスの使用を巡るプライバシー保護の規制が強化される可能性がある一方で、福祉分野での技術活用への理解が進むとみられる。",
-      "content_at": "2026-08-09T13:30:45.512244+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/f276d32beb56627ed775be15d1716250d9d0635b/346_0_5808_4648/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/07/white-house-ai",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-09T13:30:45.512244+09:00",
-      "title": "ホワイトハウスのAI安全性検証計画の不透明性",
-      "summary": "トランプ政権下のAIテストに関する枠組みは透明性に欠けており、多くの疑問が残されたままである。",
-      "impact": "AIの安全性検証プロセスにおける不透明さが、政策に対する信頼性やAI開発の基準設定に影響を与える可能性がある。",
-      "content_at": "2026-08-09T13:30:45.512244+09:00"
-    },
-    {
       "image": "https://seg6.space/img/phone-server/system-dashboard.png",
       "url": "https://seg6.space/posts/phone-server/",
       "category": "海外IT",
