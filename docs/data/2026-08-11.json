@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-11",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/a0a85c92c66d043112ebdf2fc0fb7dde3a5b1fe7/754_377_3212_2569/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-11T06:30:54.246686+09:00",
+      "title": "バーニー・サンダース氏、AI開発の「一時停止」をシリコンバレーに要求",
+      "summary": "米上院議員のバーニー・サンダース氏が、Meta、OpenAI、Anthropicに対し、人間が制御不能な機械の開発を止めるよう求めた。人類の利益を考慮した措置を主張している。",
+      "impact": "今後、AIの安全性確保や規制強化に向けた政治的な議論が活発化する可能性がある。",
+      "content_at": "2026-08-11T06:30:54.246686+09:00"
+    },
+    {
+      "image": "https://linuxstans.com/wp-content/uploads/2026/08/illinois-hb5511-operating-system-age-verification.png",
+      "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-11T06:30:54.246686+09:00",
+      "title": "イリノイ州、OSに年齢確認を義務付ける新法を可決",
+      "summary": "イリノイ州は7月31日にHB5511法案を可決した。この法律はオペレーティングシステムに対し、オープンソースであるかに関わらず、年齢確認機能の搭載を義務付けている。",
+      "impact": "オープンソースOSの開発や配布において、技術的な実装負担や法的なコンプライアンス上の課題が生じる可能性がある。",
+      "content_at": "2026-08-11T06:30:54.246686+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-11T06:30:54.246686+09:00",
+      "title": "GPU上のRust SIMD対応",
+      "summary": "GPUコードにおいて、RustのポータブルSIMDが利用可能になった。実装の手法と、それによってGPUプログラミングにもたらされる恩恵について解説されている。",
+      "impact": "GPUを用いたプログラムの並列処理において、Rustによる開発効率やコードのポータビリティが向上すると考えられる。",
+      "content_at": "2026-08-11T06:30:54.246686+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-11T06:30:54.246686+09:00",
+      "title": "Sonic Pi v5の登場",
+      "summary": "音楽プログラミング環境である「Sonic Pi」の最新バージョン、v5がリリースされた。",
+      "impact": "ライブコーディングによる音楽制作において、新しい機能や改善によりユーザーの表現の幅が広がる可能性がある。",
+      "content_at": "2026-08-11T06:30:54.246686+09:00"
+    },
+    {
+      "image": "https://cactuscompute.com/opengraph-image?9df76a35fe8276e2",
+      "url": "https://cactuscompute.com/needle",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-11T06:30:54.246686+09:00",
+      "title": "スマホやIoT機器向け14MBの軽量エージェントAI「Needle2」が登場",
+      "summary": "ツール呼び出しやデバイス操作、データ抽出に対応した45Mパラメーターのオープンソースモデル。14MBのバイナリで動作し、セッションRAMは28MBを消費する。",
+      "impact": "スマートフォンやウェアラブルデバイスなどのリソースが限られた機器で、高度なAI機能が利用可能になる可能性がある。",
+      "content_at": "2026-08-11T06:30:54.246686+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-11T06:30:54.246686+09:00",
+      "title": "マーク・ザッカーバーグ氏、クローズドなAI開発企業を批判",
+      "summary": "Metaがオープンソースモデルへの回帰を表明する中で、マーク・ザッカーバーグ氏がクローズドなAI開発を行う競合他社を批判した。",
+      "impact": "AI開発の主流がオープンソースとクローズドソースのどちらに傾くか、業界の動向に大きな影響を与える可能性がある。",
+      "content_at": "2026-08-11T06:30:54.246686+09:00"
+    }
+  ],
+  "updated_at": "2026-08-11T06:30:54.246686+09:00"
+}

@@ -2,39 +2,6 @@
   "date": "2026-08-10",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-10T06:30:52.486258+09:00",
-      "title": "Meta社のスマートグラスを用いた動画投稿、インフルエンサーへの批判が急増",
-      "summary": "Meta社製の「スパイグラス」を使用して撮影されたコンテンツに対し、インフルエンサーのもとに否定的なコメントが殺到している。一部のクリエイターは、これによるフォロワーの減少を報告している。",
-      "impact": "スマートデバイスによる撮影がプライバシーや倫理の観点で問題視されており、今後デバイスの利用ルールやコンテンツ制作のガイドラインが見直される可能性がある。",
-      "content_at": "2026-08-10T06:30:52.486258+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ebebc2365335048edba6b74991c6a785fd79484c/0_1054_8736_6989/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/google-demis-hassabis-deepmind-shifts-role",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-10T06:30:52.486258+09:00",
-      "title": "Google DeepMindの共同創業者デミス・ハサビス氏がAI部門での役割を変更",
-      "summary": "Google DeepMindの共同創業者デミス・ハサビス氏がAI部門における役割を変更した。この変化に対し、部門の独立性が失われ、商業的な判断が優先されるようになったのではないかと懸念の声が上がっている。",
-      "impact": "同社の経営方針が技術追求から商業重視へとシフトすることで、今後のAI開発の方向性や成果に影響を与える可能性があるとみられる。",
-      "content_at": "2026-08-10T06:30:52.486258+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/518184ea461f32002734db1dfcd6d1e8d169a1a8/581_0_4448_3559/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/uk-children-explicit-deepfake-images-ai",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-10T06:30:52.486258+09:00",
-      "title": "英国で子どもの自身の不適切なディープフェイク被害が増加",
-      "summary": "英国において、子どもが自分自身の性的なディープフェイク画像や映像を見たと報告するケースが急増している。AI技術の普及により、そのようなコンテンツの作成が容易になっていると監視機関が指摘している。",
-      "impact": "児童に対する深刻な性的搾取が懸念されており、AIコンテンツの規制強化や法整備の必要性が高まると考えられる。",
-      "content_at": "2026-08-10T06:30:52.486258+09:00"
-    },
-    {
       "image": "",
       "url": "https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/",
       "category": "海外IT",
