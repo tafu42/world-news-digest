@@ -165,7 +165,84 @@
       "summary": "JITを使用しない再リンクツールおよび互換レイヤーを用いて、QuestやAndroid向けのXRアプリをvisionOSやmacOS上で動作させるプロジェクトである。",
       "impact": "Apple Vision Proにおける利用可能なVRコンテンツの拡充につながる可能性がある。",
       "content_at": "2026-08-10T13:30:46.823289+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0d2e0a4f1818504df6b31a8554fc63fa67875154/1546_517_3882_3106/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/samsung-galaxy-z-fold-8-review-folding-phone",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-10T21:30:44.921510+09:00",
+      "title": "Samsung Galaxy Z Fold 8 レビュー",
+      "summary": "Samsung Galaxy Z Fold 8は、折りたたむとコンパクトなスマートフォン、開くとiPadのような大画面として利用できる端末である。高い処理能力と十分なバッテリー駆動時間を備えている。",
+      "impact": "折りたたみ式スマートフォンの利便性が向上することで、モバイルデバイスを用いたマルチタスクや動画視聴のあり方が変化する可能性がある。",
+      "content_at": "2026-08-10T21:30:44.921510+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6951203ead30f3218ee1c5b13c35cf57f7ecb4e9/47_0_4562_3650/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/uk-companies-cyber-attack-third-jlr",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-10T21:30:44.921510+09:00",
+      "title": "英製造業でサイバー攻撃の脅威が増加",
+      "summary": "調査によると、昨年にサイバー攻撃を受けた英製造業企業は30%に上った。多くの企業が絶えず脅威にさらされていると報告する一方で、対応計画を策定済みなのは全体の半数にとどまる。",
+      "impact": "セキュリティ対策の遅れがさらなる被害を招く恐れがあり、業界全体での早急なインシデント対応体制の構築が求められると考えられる。",
+      "content_at": "2026-08-10T21:30:44.921510+09:00"
+    },
+    {
+      "image": "https://lookaside.fbsbx.com/elementpath/media/?media_id=2272911630133843&amp;version=1786289182",
+      "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-10T21:30:44.921510+09:00",
+      "title": "MetaがオープンなコーディングAIモデル「Muse Glimmer」を発表",
+      "summary": "Meta Superintelligence Labsが開発した「Muse Glimmer」は、300億のパラメータを持つオープンなエージェント型モデルである。一般向けハードウェアでの常時稼働を想定して最適化されている。",
+      "impact": "ローカル環境で高度なコーディング支援が利用可能になることで、開発者の生産性向上や開発環境の柔軟性が高まる可能性がある。",
+      "content_at": "2026-08-10T21:30:44.921510+09:00"
+    },
+    {
+      "image": "https://bytecode.news/opengraph-image",
+      "url": "https://bytecode.news/posts/2026/08/because-it-s-not-fun-enough",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-10T21:30:44.921510+09:00",
+      "title": "プログラミング言語が衰退する理由についての考察",
+      "summary": "プログラミングは仕事であり芸術でもある。言語を必要以上に複雑にすると、代替可能になった時点でその言語は淘汰されるという分析がなされている。",
+      "impact": "言語の普及と存続には技術的な優位性だけでなく、ユーザーにとっての扱いやすさが重要であることが改めて示唆される。",
+      "content_at": "2026-08-10T21:30:44.921510+09:00"
+    },
+    {
+      "image": "https://www.docker.com/app/uploads/2024/02/docker-default-meta-image-1110x583.png",
+      "url": "https://www.docker.com/products/docker-sandboxes/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-10T21:30:44.921510+09:00",
+      "title": "AIエージェント向けDockerサンドボックス",
+      "summary": "Claude CodeやGemini、CodexなどのAIエージェント向けのセキュアなサンドボックス環境。マイクロVM技術を用いてコード実行時の分離を実現している。",
+      "impact": "AIエージェントによるコード実行の安全性が向上し、開発現場での導入が進む可能性がある。",
+      "content_at": "2026-08-10T21:30:44.921510+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/Articles/1034703/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-10T21:30:44.921510+09:00",
+      "title": "C言語における末尾呼び出し最適化の歴史",
+      "summary": "C言語における末尾呼び出し最適化は、比較的最近導入された機能である。",
+      "impact": "プログラミング言語の歴史や最適化技術への理解を深める一助になると考えられる。",
+      "content_at": "2026-08-10T21:30:44.921510+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lordgoati.us/blog/tail-call/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-10T21:30:44.921510+09:00",
+      "title": "Rustにおける末尾呼び出しインタープリタ",
+      "summary": "Jimmy Ostler氏によるRustを用いた末尾呼び出しインタープリタについての解説。",
+      "impact": "Rust言語を使用したインタープリタ開発の参考事例となり、言語の仕様実装に関する知見が広がる可能性がある。",
+      "content_at": "2026-08-10T21:30:44.921510+09:00"
     }
   ],
-  "updated_at": "2026-08-10T13:30:46.823289+09:00"
+  "updated_at": "2026-08-10T21:30:44.921510+09:00"
 }
