@@ -66,7 +66,95 @@
       "summary": "Metaがオープンソースモデルへの回帰を表明する中で、マーク・ザッカーバーグ氏がクローズドなAI開発を行う競合他社を批判した。",
       "impact": "AI開発の主流がオープンソースとクローズドソースのどちらに傾くか、業界の動向に大きな影響を与える可能性がある。",
       "content_at": "2026-08-11T06:30:54.246686+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/cd0bd0a37decfe6b55b7536fa608f30dd1282b36/453_0_4533_3626/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/mark-zuckerberg-superintelligent-ai-essay-meta",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "Metaのザッカーバーグ氏、汎用人工知能の開発とオープンソース化を推進",
+      "summary": "MetaのCEOであるザッカーバーグ氏が、6,000語に及ぶエッセイでAIに関する自身の展望を明らかにした。この発表は、シリコンバレーでAIの政府規制を巡る議論が続く中で行われた。",
+      "impact": "Metaが推進するAI戦略が、今後の技術開発や政府によるAI規制の枠組みに影響を与える可能性がある。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/09/i-kept-catching-people-giving-me-dirty-looks-the-backlash-against-meta-smart-glasses",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "Meta製の「スマートグラス」を使った投稿、インフルエンサーが批判の対象に",
+      "summary": "Metaが販売するカメラ付きの眼鏡を使用したコンテンツ投稿に対し、インフルエンサーらに批判的なコメントが寄せられている。この眼鏡は一部から「変質者の眼鏡」などと呼称されている。",
+      "impact": "スマートグラスを用いた撮影がプライバシー問題として関心を集め、ウェアラブル端末の利用に対する社会的な倫理規定が見直される可能性がある。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
+    },
+    {
+      "image": "https://www.effort.news/images/article-graphics/uk-lobby/reset-bipartite-graph-cover.png",
+      "url": "https://www.effort.news/uk-lobby",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "英国の匿名性排除を求める動きが米国へ波及",
+      "summary": "英国で匿名性を制限する活動を行ってきた非政府組織（NGO）が、米国においても同様の動きを見せている。",
+      "impact": "オンライン上での匿名性を巡る議論が米国でも活発化し、将来的にはネット利用者の身元確認やプラットフォームの管理手法に変更が生じる可能性がある。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/ea1b411d684189233a08c4da2e92e49650b8cfd20cd412dfaad3e92f65fbeae2/antirez/h3.c",
+      "url": "https://github.com/antirez/h3.c",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "Appleシリコン向けMiniMax-H3推論エンジン「H3-metal」が公開",
+      "summary": "MacコンピューターでMiniMax H3モデルを実行するための推論エンジン「H3-metal」がGitHubで公開された。開発者向けのオープンソースプロジェクトとして提供されている。",
+      "impact": "Appleシリコン搭載のMacにおいて、効率的なAIモデルの実行が可能となり、開発者の開発環境が向上する可能性がある。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://code.call-cc.org/releases/6.0.0/NEWS",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "Chicken Scheme 6.0がリリース",
+      "summary": "プログラミング言語であるChicken Schemeのバージョン6.0が公開された。",
+      "impact": "利用者は新しい仕様に対応したコードの移行が必要になる可能性がある。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
+    },
+    {
+      "image": "https://everycube.alen.is/opengraph-image?e65a545ab414fc11",
+      "url": "https://everycube.alen.is/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "ルービックキューブの全状態を閲覧できるサイト",
+      "summary": "ルービックキューブの到達可能なすべての順列をスクロールして閲覧できる。",
+      "impact": "ルービックキューブの数学的構造や複雑性を視覚的に理解する助けになると考えられる。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.floppydisk.com/recycle",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "フロッピーディスクのリサイクル事業",
+      "summary": "古いフロッピーディスクをリサイクルし、新しいフロッピーディスクの購入も行っている。",
+      "impact": "フロッピーディスクを必要とするレガシーシステムの維持に貢献する可能性がある。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-11T13:30:58.970689+09:00",
+      "title": "マーク・トウェインの人生を破綻させた「機械の奇跡」",
+      "summary": "マーク・トウェインの人生に破滅をもたらした機械について紹介されている。",
+      "impact": "技術的進歩が個人の生活や財政に大きな影響を与え得るという教訓として捉えられる可能性がある。",
+      "content_at": "2026-08-11T13:30:58.970689+09:00"
     }
   ],
-  "updated_at": "2026-08-11T06:30:54.246686+09:00"
+  "updated_at": "2026-08-11T13:30:58.970689+09:00"
 }

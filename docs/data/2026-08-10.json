@@ -68,17 +68,6 @@
       "content_at": "2026-08-10T06:30:52.486258+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/75370b7d2e86da8743ca26266a8659d6b1b70393/667_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/08/openai-astra-security-concerns",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-10T13:30:46.823289+09:00",
-      "title": "OpenAI、AIモデル「Astra」の開発を一部停止へ",
-      "summary": "AIエージェントが人の介入なしに脆弱性を発見・悪用し、サイバー攻撃を実行できることが判明した。OpenAIはセキュリティ上の懸念から、当該モデルの開発作業を一時停止する。",
-      "impact": "AIによる自動的なサイバー攻撃のリスクが浮き彫りとなった。今後、AI開発におけるセキュリティ基準や安全性の確保に向けた規制が強化される可能性がある。",
-      "content_at": "2026-08-10T13:30:46.823289+09:00"
-    },
-    {
       "image": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/featured.jpg",
       "url": "https://blog.teknogeek.io/posts/what-happened-to-hackerone/",
       "category": "海外IT",
