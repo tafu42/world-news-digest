@@ -2,17 +2,6 @@
   "date": "2026-08-11",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/a0a85c92c66d043112ebdf2fc0fb7dde3a5b1fe7/754_377_3212_2569/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/10/bernie-sanders-ai-development-pause-letter",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-11T06:30:54.246686+09:00",
-      "title": "バーニー・サンダース氏、AI開発の「一時停止」をシリコンバレーに要求",
-      "summary": "米上院議員のバーニー・サンダース氏が、Meta、OpenAI、Anthropicに対し、人間が制御不能な機械の開発を止めるよう求めた。人類の利益を考慮した措置を主張している。",
-      "impact": "今後、AIの安全性確保や規制強化に向けた政治的な議論が活発化する可能性がある。",
-      "content_at": "2026-08-11T06:30:54.246686+09:00"
-    },
-    {
       "image": "https://linuxstans.com/wp-content/uploads/2026/08/illinois-hb5511-operating-system-age-verification.png",
       "url": "https://linuxstans.com/illinois-hb5511-operating-system-age-verification/",
       "category": "海外IT",

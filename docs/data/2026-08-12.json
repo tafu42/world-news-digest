@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-12",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/3ca2b8fa6173ec8e5e147356a5d95543ed41cb8b/60_48_1463_1170/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "SpotifyがAIアーティストにラベル表示、AI生成楽曲の推奨を制限へ",
+      "summary": "SpotifyはAIによって生成されたアーティストや楽曲を識別するための「AIパーソナ」ラベルを導入する。偽のアーティストを取り締まる目的で、プロフィールや楽曲リストにこのラベルを表示する。",
+      "impact": "音楽プラットフォームにおけるAI生成コンテンツの透明性が向上する。AI楽曲の露出が調整されることで、人間による音楽制作の価値が見直される可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/60c16c51afb0ee89b7d02519aa2c93e163f953f3/250_0_2500_2001/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "Nvidiaがウォール街と提携、AIインフラ構築へ5,000億ドルの資金調達",
+      "summary": "Nvidiaはアポロ、ブラックロック、ゴールドマン・サックス、KKRなどの金融大手と協力し、AIインフラ構築に向けた5,000億ドル規模の資金調達を進めている。",
+      "impact": "AI基盤技術への大規模な資本流入により、AI開発がさらに加速するとみられる。業界全体のインフラ整備が大きく前進し、AI関連市場の拡大がより強固なものになる可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
+      "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "Nvidiaが軽量モデル「Nemotron 3.5 Lightning」とルーティング・ライブラリを発表",
+      "summary": "Nvidiaは新しい軽量オープンモデル「Nemotron 3.5 Lightning」およびルーティング・ライブラリ「NeMo Switchyard」を発表した。エッジデバイスからクラウドまで、AIデータとワークフローの制御能力を向上させる。",
+      "impact": "デバイスを問わず効率的にAIを活用できるようになり、幅広い環境でのAI実装が容易になると考えられる。特にエッジコンピューティングやPC環境でのAI利便性が向上する可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "https://ngrok.com/blog-assets/images/2026-08-11-compression-is-prediction/og.png",
+      "url": "https://ngrok.com/blog/compression-is-prediction",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "圧縮と予測の関係性：LLMの仕組みを読み解く",
+      "summary": "データ圧縮と大規模言語モデル（LLM）は、共に「次に何が来るかを予測する」という同じ問題を解決しようとしている。データ圧縮の基礎と、精度の高い予測がデータの縮小にどうつながるかを解説する。",
+      "impact": "LLMの学習やデータ処理における効率化の理論的基盤への理解が深まる。今後のモデル開発やデータ最適化技術に影響を与える可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "Mojo 1.0のリリース",
+      "summary": "プログラミング言語Mojoのバージョン1.0がリリースされた。",
+      "impact": "Mojoの普及により、AI開発におけるプログラミング効率が向上する可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://stolen-thoughts.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "LLM APIからの推論トレースの窃取",
+      "summary": "独自LLM APIから推論トレースを盗み出す手法に関する報告である。",
+      "impact": "AIモデルの知的財産保護やセキュリティ対策がより重要視されるようになる可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/99/08/9908ec0b-b3d5-476b-bc3c-632c5b087809/content/images/size/w1200/2026/08/absolutvision-bSlHKWxxXak-unsplash.jpg",
+      "url": "https://ironicsans.ghost.io/how-we-used-to-get-jobs/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "新聞の求人広告の歴史",
+      "summary": "かつての求職手段であった新聞の求人広告に関する物語である。",
+      "impact": "求職活動のデジタル化という歴史的変化を振り返る機会となる可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.jordan.matelsky.com/Penplotter-holography/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-12T06:30:49.780637+09:00",
+      "title": "ペンプロッターを用いたホログラム製作",
+      "summary": "eBayで購入したペンプロッターを修理し、ホログラムの製作を行ったという報告である。",
+      "impact": "安価な機材を再利用するDIY手法が、特定の制作コミュニティで注目される可能性がある。",
+      "content_at": "2026-08-12T06:30:49.780637+09:00"
+    }
+  ],
+  "updated_at": "2026-08-12T06:30:49.780637+09:00"
+}
