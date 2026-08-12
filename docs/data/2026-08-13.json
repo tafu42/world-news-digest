@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-13",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "AIエージェントによる損害の法的責任の所在について",
+      "summary": "オーストラリアで発生した自動ハッキング事故を受け、専門家はAIエージェントの導入者や開発者がボットの行動に対して法的責任を問われる可能性があると警告している。",
+      "impact": "今後、AI導入企業の法的責任の境界が明確化され、企業側はAI利用におけるリスク管理体制の強化を迫られると考えられる。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6e9c72f1d4d1541ee16137214046b3255b6a1981/683_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "Meta社の子供の安全性に関する課題とGoogle幹部の相次ぐ離職",
+      "summary": "Meta社は子供の安全性に関連する多額のコストを伴う問題に直面している。同時に、AI開発競争の激化の中でGoogleの幹部が離職している。",
+      "impact": "大手テック企業における安全性への対応負担の増大や、AI業界の人材流動化が加速する可能性がある。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/442_0_3221_2577/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "イングランドとウェールズの裁判所でMeta製スマートグラスが使用禁止に",
+      "summary": "イングランドおよびウェールズの裁判所は、裁判所内へのMeta製スマートグラスの持ち込みを禁止した。持ち込まれた場合は没収され、退去時に返却される。",
+      "impact": "裁判所内でのプライバシーや情報の機密性がより厳格に管理されることになる。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/5afde02d70b45b8bc2c25022c24ff47ed3db6340/798_0_4596_3677/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "AIの気候変動対策への貢献よりも化石燃料産業への寄与が上回る",
+      "summary": "AIの活用による生産性向上は、石炭、石油、ガス産業において再生可能エネルギー分野での削減量を上回る排出を誘発していることがモデル分析で判明した。",
+      "impact": "AI技術が気候変動対策として推奨される一方で、化石燃料産業への利用抑制を求める議論が強まる可能性がある。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "DeepSeek V4 Pro 0813の発表",
+      "summary": "DeepSeekは大規模な混合エキスパートモデル「DeepSeek V4 Pro 0813」を公開した。100万トークンを超えるコンテキストウィンドウと高いコスト効率を特徴とする。",
+      "impact": "低コストかつ長大なコンテキストに対応したモデルの普及により、AIを活用したデータ分析や開発の効率化が進む可能性がある。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://images.zed.dev/blog/introducing-delta/thumbnail.webp",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "Zedによるマルチプレイヤーコーディング環境「Delta」",
+      "summary": "コードエディタ「Zed」の開発チームが、AIエージェントと連携してコーディングを行うためのマルチプレイヤー環境「Delta」を発表した。",
+      "impact": "開発者同士やAIエージェントとの協調作業が円滑化し、ソフトウェア開発の生産性が向上するとみられる。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://tailscale.com/api/og-image?id=45389fc1-da6e-4e0d-82f6-140651c6ba57",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "TailscaleがSQLiteのバグによるデータ破損を特定",
+      "summary": "TailscaleとSQLiteの開発者は、発生していたデータ破損の原因が16年前のSQLiteにおけるWALリセットのバグと、その後の式インデックスのバグであることを突き止めた。",
+      "impact": "長年放置されていたバグが修正されることで、SQLiteを利用するシステムの信頼性と安定性が向上すると考えられる。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-2.4T-A95B.png",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "Qwen3.8-2.4Tの発表",
+      "summary": "オープンソースとオープンサイエンスを通じて人工知能を発展・民主化するための取り組みの一環として、「Qwen3.8-2.4T」が発表された。",
+      "impact": "オープンソースAIモデルの公開により、研究開発コミュニティにおける技術革新が加速する可能性がある。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/6vfeftx9/articles/c65c69aedff721b918591059a76f55147f87d9ef-716x668.png?w=1200&amp;auto=format",
+      "url": "https://artificialanalysis.ai/articles/grok-4-6-benchmarks-and-analysis",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-13T06:30:48.416776+09:00",
+      "title": "Grok 4.6が「Artificial Analysis Intelligence Index」で61を獲得",
+      "summary": "SpaceXAIのGrok 4.6が、エージェント性能とコスト効率を強みとしてインテリジェンスの最前線に復帰した。同モデルは「Artificial Analysis Intelligence Index」において61のスコアを記録した。",
+      "impact": "AIモデルのコスト効率とエージェント性能が向上することで、企業や開発者にとってAI活用の選択肢が広がる可能性がある。",
+      "content_at": "2026-08-13T06:30:48.416776+09:00"
+    }
+  ],
+  "updated_at": "2026-08-13T06:30:48.416776+09:00"
+}

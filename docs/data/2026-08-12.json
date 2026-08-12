@@ -2,28 +2,6 @@
   "date": "2026-08-12",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/3ca2b8fa6173ec8e5e147356a5d95543ed41cb8b/60_48_1463_1170/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-12T06:30:49.780637+09:00",
-      "title": "SpotifyがAIアーティストにラベル表示、AI生成楽曲の推奨を制限へ",
-      "summary": "SpotifyはAIによって生成されたアーティストや楽曲を識別するための「AIパーソナ」ラベルを導入する。偽のアーティストを取り締まる目的で、プロフィールや楽曲リストにこのラベルを表示する。",
-      "impact": "音楽プラットフォームにおけるAI生成コンテンツの透明性が向上する。AI楽曲の露出が調整されることで、人間による音楽制作の価値が見直される可能性がある。",
-      "content_at": "2026-08-12T06:30:49.780637+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/60c16c51afb0ee89b7d02519aa2c93e163f953f3/250_0_2500_2001/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/11/nvidia-wall-street-finance-ai-infrastructure",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-12T06:30:49.780637+09:00",
-      "title": "Nvidiaがウォール街と提携、AIインフラ構築へ5,000億ドルの資金調達",
-      "summary": "Nvidiaはアポロ、ブラックロック、ゴールドマン・サックス、KKRなどの金融大手と協力し、AIインフラ構築に向けた5,000億ドル規模の資金調達を進めている。",
-      "impact": "AI基盤技術への大規模な資本流入により、AI開発がさらに加速するとみられる。業界全体のインフラ整備が大きく前進し、AI関連市場の拡大がより強固なものになる可能性がある。",
-      "content_at": "2026-08-12T06:30:49.780637+09:00"
-    },
-    {
       "image": "https://blogs.nvidia.com/wp-content/uploads/2026/08/image1.jpeg",
       "url": "https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/",
       "category": "海外IT",
