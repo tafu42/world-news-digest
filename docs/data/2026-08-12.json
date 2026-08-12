@@ -88,7 +88,40 @@
       "summary": "eBayで購入したペンプロッターを修理し、ホログラムの製作を行ったという報告である。",
       "impact": "安価な機材を再利用するDIY手法が、特定の制作コミュニティで注目される可能性がある。",
       "content_at": "2026-08-12T06:30:49.780637+09:00"
+    },
+    {
+      "image": "https://aresluna.org/images/the-hardest-working-font-in-manhattan/ogimage.png",
+      "url": "https://aresluna.org/the-hardest-working-font-in-manhattan/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-12T13:30:49.933598+09:00",
+      "title": "マンハッタンで最も使われている知られざるフォント",
+      "summary": "150年もの歴史を持ちながら、あまり知られていないフォントについての物語。日常の中で多くの人が目にする機会のあるフォントである。",
+      "impact": "特定のフォントが長期間にわたり都市の景観や情報伝達を支えているという認識が広まり、書体デザインの歴史的価値に対する注目が高まる可能性がある。",
+      "content_at": "2026-08-12T13:30:49.933598+09:00"
+    },
+    {
+      "image": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/assets/worldclaw-share.jpg",
+      "url": "https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-12T13:30:49.933598+09:00",
+      "title": "WorldClawによる大規模なエージェント型3Dオープンワールド生成",
+      "summary": "単一のオープンエンドなプロンプトから、探索や編集が可能な3D世界を生成する技術。大規模な環境構築を可能にする。",
+      "impact": "ゲーム開発や仮想空間の構築プロセスが効率化され、コンテンツ制作のコストや時間が大幅に削減される可能性がある。",
+      "content_at": "2026-08-12T13:30:49.933598+09:00"
+    },
+    {
+      "image": "https://whdh.com/wp-content/uploads/sites/3/2026/08/Horseshoe-Crabs.jpg?quality=60&strip=color",
+      "url": "https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-12T13:30:49.933598+09:00",
+      "title": "カブトガニの青い血液に隠された救命の秘密",
+      "summary": "数十年にわたって人命救助に貢献してきたカブトガニが、保護を必要とする状況にある。初夏になるとカブトガニが海岸に現れる。",
+      "impact": "医療分野での利用が不可欠なカブトガニの個体数減少により、医療資源の供給に影響が出る可能性があるため、保護活動の重要性が高まるとみられる。",
+      "content_at": "2026-08-12T13:30:49.933598+09:00"
     }
   ],
-  "updated_at": "2026-08-12T06:30:49.780637+09:00"
+  "updated_at": "2026-08-12T13:30:49.933598+09:00"
 }
