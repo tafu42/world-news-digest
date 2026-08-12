@@ -121,7 +121,84 @@
       "summary": "数十年にわたって人命救助に貢献してきたカブトガニが、保護を必要とする状況にある。初夏になるとカブトガニが海岸に現れる。",
       "impact": "医療分野での利用が不可欠なカブトガニの個体数減少により、医療資源の供給に影響が出る可能性があるため、保護活動の重要性が高まるとみられる。",
       "content_at": "2026-08-12T13:30:49.933598+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/7f3afc0d9b6e673a4c0f7f4207a13737e3df983d/0_0_2939_2351/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/12/ai-job-destruction",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-12T21:30:47.572368+09:00",
+      "title": "AIが雇用を破壊するという予測は実現していない",
+      "summary": "AIによる雇用の崩壊は発生していない。しかし、雇用形態は変化し続けており、経済学者は今後さらなる変化が起こると予測している。",
+      "impact": "AI導入による労働市場への影響は限定的である可能性があるが、働き方やスキル要件が長期的に変化していくとみられる。",
+      "content_at": "2026-08-12T21:30:47.572368+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-12T21:30:47.572368+09:00",
+      "title": "2026年日食ウェブカメラ",
+      "summary": "2026年の日食を観測するためのウェブカメラに関する情報である。",
+      "impact": "このウェブカメラの公開により、天体観測に関心を持つ人々が遠隔で日食を体験できる機会が提供されると考えられる。",
+      "content_at": "2026-08-12T21:30:47.572368+09:00"
+    },
+    {
+      "image": "https://s0.wp.com/i/blank.jpg?m=1383295312i",
+      "url": "https://gowers.wordpress.com/2026/08/12/what-sort-of-maths-are-llms-good-at/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-12T21:30:47.572368+09:00",
+      "title": "大規模言語モデル（LLM）はどのような数学が得意か",
+      "summary": "OpenAIが10の主要な数学的問題を解決したと発表してから数日後の状況について記載されている。将来の読者のために、LLMがどの程度の数学的適性を持つかを探る内容である。",
+      "impact": "LLMの数学的推論能力の進展は、教育や科学研究におけるツールとしての実用性に大きな影響を与える可能性がある。",
+      "content_at": "2026-08-12T21:30:47.572368+09:00"
+    },
+    {
+      "image": "https://woxi.ad-si.com/images/social-preview.png",
+      "url": "https://woxi.ad-si.com",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-12T21:30:47.572368+09:00",
+      "title": "オープンソースのMathematica／Wolfram言語実装「Woxi」",
+      "summary": "Wolfram言語のコードをブラウザ、CLI、Jupyter、Woxi Studioのノートブックエディタで実行できるツールである。",
+      "impact": "オープンソースによる実装が提供されることで、Wolfram言語の開発環境へのアクセシビリティが向上し、ユーザー層が拡大する可能性がある。",
+      "content_at": "2026-08-12T21:30:47.572368+09:00"
+    },
+    {
+      "image": "https://www.cringebot3000.com/centered_cringebot_face.jpg",
+      "url": "https://www.cringebot3000.com/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-12T21:30:47.572368+09:00",
+      "title": "LinkedIn CringeBot 3000について",
+      "summary": "LinkedIn CringeBot 3000という名称のトピックである。",
+      "impact": "詳細は不明なため、現時点で社会への影響を予測することは困難である。",
+      "content_at": "2026-08-12T21:30:47.572368+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://getfresh.dev/docs/blog/packaging-for-linux/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-12T21:30:47.572368+09:00",
+      "title": "Linux向けソフトウェアパッケージ化の困難さ",
+      "summary": "Linux向けのソフトウェアパッケージ化に対する嫌悪感が述べられている。",
+      "impact": "開発者の間で同様の不満が共有され、パッケージング作業を簡略化する新たなツールや環境の需要が高まる可能性がある。",
+      "content_at": "2026-08-12T21:30:47.572368+09:00"
+    },
+    {
+      "image": "https://petapixel.com/assets/uploads/2026/08/Martian-Butte-Hero.jpg",
+      "url": "https://petapixel.com/2026/08/04/amazing-high-res-photo-shows-a-butte-rising-from-mars/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-12T21:30:47.572368+09:00",
+      "title": "火星の多角形平原にそびえる砂で覆われた孤立丘",
+      "summary": "高解像度の写真により、火星の多角形が広がる平原に砂に覆われた孤立丘が写し出された。この光景はユタ州を彷彿とさせるものである。",
+      "impact": "火星の地形と地球の地質との共通点が確認されたことで、惑星科学における比較地質学的な研究が進展する可能性がある。",
+      "content_at": "2026-08-12T21:30:47.572368+09:00"
     }
   ],
-  "updated_at": "2026-08-12T13:30:49.933598+09:00"
+  "updated_at": "2026-08-12T21:30:47.572368+09:00"
 }
