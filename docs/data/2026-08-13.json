@@ -99,7 +99,40 @@
       "summary": "SpaceXAIのGrok 4.6が、エージェント性能とコスト効率を強みとしてインテリジェンスの最前線に復帰した。同モデルは「Artificial Analysis Intelligence Index」において61のスコアを記録した。",
       "impact": "AIモデルのコスト効率とエージェント性能が向上することで、企業や開発者にとってAI活用の選択肢が広がる可能性がある。",
       "content_at": "2026-08-13T06:30:48.416776+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/3ca2b8fa6173ec8e5e147356a5d95543ed41cb8b/60_48_1463_1170/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/11/spotify-label-ai-artists-block-them-from-some-playlists",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-13T13:30:49.595487+09:00",
+      "title": "Spotify、AIアーティストと人間を区別し推奨対象から除外へ",
+      "summary": "音楽ストリーミング大手のSpotifyは、偽のパフォーマーへの対策として、プロフィールや楽曲リストに「AIペルソナ」のラベルを表示する措置を導入する。この取り組みにより、AIによって生成された楽曲の区別を明確にする。",
+      "impact": "音楽業界におけるAI生成コンテンツの透明性が向上する可能性がある。リスナーが意図せずAI楽曲を再生する機会が減り、人間による楽曲の推奨精度が改善されると考えられる。",
+      "content_at": "2026-08-13T13:30:49.595487+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-13T13:30:49.595487+09:00",
+      "title": "『プリンキピア・マテマティカ』の現代性と洞察",
+      "summary": "『プリンキピア・マテマティカ』は現代的であり、洞察に満ちている。",
+      "impact": "数学や論理学の分野において、同書の重要性が再評価される可能性がある。",
+      "content_at": "2026-08-13T13:30:49.595487+09:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Schriftzug_Antiqua.svg/1280px-Schriftzug_Antiqua.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+      "url": "https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-13T13:30:49.595487+09:00",
+      "title": "アンティカ・フラクトゥール論争",
+      "summary": "アンティカ書体とフラクトゥール書体に関する論争。",
+      "impact": "タイポグラフィの歴史やドイツの文化史における書体の変遷に関する議論を深める可能性がある。",
+      "content_at": "2026-08-13T13:30:49.595487+09:00"
     }
   ],
-  "updated_at": "2026-08-13T06:30:48.416776+09:00"
+  "updated_at": "2026-08-13T13:30:49.595487+09:00"
 }
