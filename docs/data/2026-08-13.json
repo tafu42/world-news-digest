@@ -132,7 +132,73 @@
       "summary": "アンティカ書体とフラクトゥール書体に関する論争。",
       "impact": "タイポグラフィの歴史やドイツの文化史における書体の変遷に関する議論を深める可能性がある。",
       "content_at": "2026-08-13T13:30:49.595487+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/84a912bc005ecdf633187b99cc539869fb3a386e/1155_386_4618_3695/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/samsung-galaxy-z-fold-8-ultra-review-the-top-dog-of-folding-androids",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-13T21:30:49.774346+09:00",
+      "title": "Samsung Galaxy Z Fold 8 Ultra レビュー",
+      "summary": "優れたソフトウェアと2日間持続するバッテリーを備えた、高価ながら薄型の折りたたみ式Androidスマートフォンである。スマートフォンとタブレットの機能を高い次元で両立させている。",
+      "impact": "高価格帯の折りたたみスマートフォン市場において、製品の完成度を示す基準の一つとなる可能性がある。",
+      "content_at": "2026-08-13T21:30:49.774346+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b517ded4f3a84af437f693705269b31c7e89c1eb/54_0_3337_2670/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-13T21:30:49.774346+09:00",
+      "title": "台湾が「異常」なAI活用サイバー攻撃の被害を報告",
+      "summary": "中国関連とみられるハッカーによる前例のない侵害があったという報道の翌日に、台湾政府が声明を発表した。AIを活用した異常なサイバー攻撃を受けたとしている。",
+      "impact": "AI技術が悪用されたサイバー攻撃への警戒が強まり、各国でインフラ防衛体制の見直しが進む可能性がある。",
+      "content_at": "2026-08-13T21:30:49.774346+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://tradersunion.com/news/central-banks/show/2973571-deutsche-bank-becomes/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-13T21:30:49.774346+09:00",
+      "title": "ドイツ銀行、欧州初の人民元クリアリング銀行に選定",
+      "summary": "ドイツ銀行が欧州における初の外国人民元クリアリング銀行となった。",
+      "impact": "欧州と中国間の金融取引が円滑化し、人民元の国際利用が促進されるとみられる。",
+      "content_at": "2026-08-13T21:30:49.774346+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/codex/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-13T21:30:49.774346+09:00",
+      "title": "Linux向けChatGPTデスクトップアプリ（Codex Desktop）",
+      "summary": "Linuxプラットフォーム向けにChatGPTのデスクトップアプリが提供される。",
+      "impact": "LinuxユーザーがChatGPTをより利用しやすくなり、開発環境や日常業務におけるAI活用が進む可能性がある。",
+      "content_at": "2026-08-13T21:30:49.774346+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jdh.hamkins.org/the-lattice-of-sets-of-natural-numbers-is-rich/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-13T21:30:49.774346+09:00",
+      "title": "自然数の集合の束は豊かである",
+      "summary": "自然数の集合の束について、その構造が豊かであると述べられている。",
+      "impact": "数学的な基礎理論に関する記述であるため、直接的な社会への影響は限定的であると考えられる。",
+      "content_at": "2026-08-13T21:30:49.774346+09:00"
+    },
+    {
+      "image": "https://www.tsoon.com/posts/picking-berries-meditation/feature-IMG_3153.jpg",
+      "url": "https://www.tsoon.com/posts/picking-berries-meditation/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-13T21:30:49.774346+09:00",
+      "title": "ベリー摘みは瞑想のような時間",
+      "summary": "筆者は10代の頃にベリー摘みを嫌っていたが、現在は孤独が得られるこの時間を夏の計画の中心に据えるほど楽しんでいる。",
+      "impact": "個人の余暇の過ごし方に関する内容であり、社会全体への影響は特段ないものとみられる。",
+      "content_at": "2026-08-13T21:30:49.774346+09:00"
     }
   ],
-  "updated_at": "2026-08-13T13:30:49.595487+09:00"
+  "updated_at": "2026-08-13T21:30:49.774346+09:00"
 }
