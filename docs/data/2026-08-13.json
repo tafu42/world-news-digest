@@ -2,50 +2,6 @@
   "date": "2026-08-13",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/ai-agents-arent-legally-responsible-for-any-harm-that-they-cause-experts-say-so-who-is",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-13T06:30:48.416776+09:00",
-      "title": "AIエージェントによる損害の法的責任の所在について",
-      "summary": "オーストラリアで発生した自動ハッキング事故を受け、専門家はAIエージェントの導入者や開発者がボットの行動に対して法的責任を問われる可能性があると警告している。",
-      "impact": "今後、AI導入企業の法的責任の境界が明確化され、企業側はAI利用におけるリスク管理体制の強化を迫られると考えられる。",
-      "content_at": "2026-08-13T06:30:48.416776+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/6e9c72f1d4d1541ee16137214046b3255b6a1981/683_0_6827_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/10/meta-child-safety-google-executives-ai-techscape",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-13T06:30:48.416776+09:00",
-      "title": "Meta社の子供の安全性に関する課題とGoogle幹部の相次ぐ離職",
-      "summary": "Meta社は子供の安全性に関連する多額のコストを伴う問題に直面している。同時に、AI開発競争の激化の中でGoogleの幹部が離職している。",
-      "impact": "大手テック企業における安全性への対応負担の増大や、AI業界の人材流動化が加速する可能性がある。",
-      "content_at": "2026-08-13T06:30:48.416776+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/442_0_3221_2577/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/11/meta-glasses-banned-from-courts-in-england-and-wales",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-13T06:30:48.416776+09:00",
-      "title": "イングランドとウェールズの裁判所でMeta製スマートグラスが使用禁止に",
-      "summary": "イングランドおよびウェールズの裁判所は、裁判所内へのMeta製スマートグラスの持ち込みを禁止した。持ち込まれた場合は没収され、退去時に返却される。",
-      "impact": "裁判所内でのプライバシーや情報の機密性がより厳格に管理されることになる。",
-      "content_at": "2026-08-13T06:30:48.416776+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/5afde02d70b45b8bc2c25022c24ff47ed3db6340/798_0_4596_3677/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/11/ai-will-do-more-to-boost-fossil-fuel-production-than-green-energy",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-13T06:30:48.416776+09:00",
-      "title": "AIの気候変動対策への貢献よりも化石燃料産業への寄与が上回る",
-      "summary": "AIの活用による生産性向上は、石炭、石油、ガス産業において再生可能エネルギー分野での削減量を上回る排出を誘発していることがモデル分析で判明した。",
-      "impact": "AI技術が気候変動対策として推奨される一方で、化石燃料産業への利用抑制を求める議論が強まる可能性がある。",
-      "content_at": "2026-08-13T06:30:48.416776+09:00"
-    },
-    {
       "image": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813/opengraph-image-1oizug?abd1ffaa6102aa5f",
       "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
       "category": "海外IT",

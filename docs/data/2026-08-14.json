@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-14",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "フロック・セーフティ社が監視カメラの不正利用防止策を導入",
+      "summary": "フロック・セーフティ社のCEOは、同社のシステムが移民や中絶を目的とした人々の追跡に悪用されているとの報告を受け、対策を発表した。これらの一連の不正利用報道を受けた措置である。",
+      "impact": "監視技術の利用に対する規制や倫理的な議論が強まる可能性がある。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/38d2ad505fab5304e77b66fe1e93be8759a35f25/1293_574_4260_3408/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/a-timely-warning-on-the-rise-of-the-tech-bros-from-the-author-of-the-nerd-reich",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "「テック・ブロス」の台頭に対する警鐘",
+      "summary": "ギル・デュラン氏の主張を支持するキャサリン・オースティン・フィッツ氏は、シリコンバレーの限られた視点を拒絶し、意識の変革が必要だと述べている。",
+      "impact": "テクノロジー業界の思想や影響力に対する社会的な批判や再考が促される可能性がある。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/474_0_3333_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "AIエージェントと個人の思考に関する論評",
+      "summary": "AIエージェントの普及やメタ社のAI戦略に関連する読者からの投書を紹介している。これらには植物の耐熱性や生活の質に関するテーマも含まれる。",
+      "impact": "AI技術の発展と人間の生活様式の変化について、多角的な議論が行われるきっかけになるとみられる。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "Googleの新モデル「Gemini 3.7 Flash」を発表",
+      "summary": "「Gemini 3.7 Flash」は、コーディングやAIエージェントの活用に向けた同社で最もインテリジェントな主力モデルである。",
+      "impact": "ソフトウェア開発の効率化が進み、AIエージェントの実用性がさらに高まる可能性がある。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/fdfac76baee0b174ea63df807f9d4f975341caea-1672x941.png?rect=0,32,1672,878&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
+      "url": "https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "OpenAI APIにおけるGPT-5.6 Sol Ultrafastの高速化",
+      "summary": "CerebrasがOpenAIの「GPT-5.6 Sol Ultrafast」を支え、リアルタイムでAIの処理能力を提供する。重要なAIタスクにおける計算の高速化を実現した。",
+      "impact": "リアルタイム性が求められるAIアプリケーションの普及が加速する可能性がある。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://gruhn.me/blog/2026-08-13/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "NP-Overratedについて",
+      "summary": "NP-Overratedに関する記述である。",
+      "impact": "本情報のみでは社会への影響は不明である。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://donkeybas.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "Donkey.basが45周年を迎える",
+      "summary": "131行のコードで構成される「Donkey.bas」が公開から45周年を迎えた。",
+      "impact": "コンピューティングの歴史における初期のソフトウェア開発に関心が集まる可能性がある。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "https://docs.mistral.ai//api/og?title=OCR+4.1&amp;description=Our+latest+OCR+service+powering+our+Document+AI+stack%2C+with+native+paragraph-level+bounding+box+extraction%2C+structural+block+labels%2C+and+block-level+confidence+scores.&amp;eyebraw=v4.1&amp;image=&amp;type=model&amp;v=4243b0a37a826352a18b2b06ebf09a2d2e90b402&amp;modelIcon=ocr",
+      "url": "https://docs.mistral.ai/models/ocr-4-1",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "Mistral OCR 4.1の提供開始",
+      "summary": "文書AIスタックを強化する最新のOCRサービス「Mistral OCR 4.1」がリリースされた。段落単位の抽出や構造ラベル、信頼度スコアの付与が可能となっている。",
+      "impact": "文書のデジタル化やデータ抽出の精度と効率が向上し、企業における文書管理業務が自動化される可能性がある。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-14T06:30:49.163310+09:00",
+      "title": "「理解」が新たなボトルネックに",
+      "summary": "理解することが新たなボトルネックになっている。",
+      "impact": "今後、情報処理において理解の深化が課題となり、技術開発や学習プロセスのあり方に影響を与える可能性がある。",
+      "content_at": "2026-08-14T06:30:49.163310+09:00"
+    }
+  ],
+  "updated_at": "2026-08-14T06:30:49.163310+09:00"
+}
