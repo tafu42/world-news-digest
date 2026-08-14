@@ -154,7 +154,51 @@
       "summary": "xoreaxeaxeax氏が「skitter-creek-bath-salts」というプロジェクトを通じ、DRAMスクランブリングを用いてCPU上のあらゆるデータへのアクセスを試みる手法を公開した。本プロジェクトはDRAMのデータ攪拌処理に関する技術的な解析を行っている。",
       "impact": "この手法はメモリ保護メカニズムの脆弱性や仕組みを理解する一助となる可能性がある。研究者やセキュリティ専門家がCPUとメモリ間のデータ整合性を調査する際、新たな分析手法として活用されるとみられる。",
       "content_at": "2026-08-14T13:30:48.106847+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://z.ai/blog/glm-5.3",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-14T21:30:36.706252+09:00",
+      "title": "GLM-5.3：サイバー能力を備えたコーディングモデル",
+      "summary": "GLM-5.3は、高度なコーディング能力とサイバーセキュリティ関連の能力を併せ持つモデルである。",
+      "impact": "ソフトウェア開発の効率化や、セキュリティ対策の自動化に寄与する可能性がある。",
+      "content_at": "2026-08-14T21:30:36.706252+09:00"
+    },
+    {
+      "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+      "url": "https://api-docs.deepseek.com/news/news260813/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-14T21:30:36.706252+09:00",
+      "title": "DeepSeek-V4-Proの提供開始と価格更新",
+      "summary": "DeepSeek-V4-Proが本日リリースされた。これに伴い、ピーク時およびオフピーク時の価格設定が更新されている。",
+      "impact": "利用者は新しいモデルの利用に伴い、変動する価格設定に応じたコスト管理が求められるとみられる。",
+      "content_at": "2026-08-14T21:30:36.706252+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.redblobgames.com/blog/2026-08-08-differential-heuristics/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-14T21:30:36.706252+09:00",
+      "title": "微分ヒューリスティック",
+      "summary": "微分ヒューリスティック（Differential Heuristics）に関する情報である。",
+      "impact": "本手法の具体的な詳細が不明なため、現時点での社会的な影響を予測することは困難である。",
+      "content_at": "2026-08-14T21:30:36.706252+09:00"
+    },
+    {
+      "image": "https://softwaredoug.com/assets/media/dougie_in_snuggie_social.jpg",
+      "url": "https://softwaredoug.com/blog/2026/08/10/hypothetical-classifications",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-14T21:30:36.706252+09:00",
+      "title": "LLMによる分類：分類せずハルシネーションを活用する手法",
+      "summary": "大規模言語モデルによる大規模な分類を行う際に、あえて架空のエンティティを生成させ、その後に実際のエンティティへ対応させるパターンが提案されている。",
+      "impact": "この手法を採用することで、複雑な分類タスクの精度向上や処理の効率化が図れる可能性がある。",
+      "content_at": "2026-08-14T21:30:36.706252+09:00"
     }
   ],
-  "updated_at": "2026-08-14T13:30:48.106847+09:00"
+  "updated_at": "2026-08-14T21:30:36.706252+09:00"
 }
