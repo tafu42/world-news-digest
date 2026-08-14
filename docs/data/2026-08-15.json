@@ -1,0 +1,105 @@
+{
+  "date": "2026-08-15",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/9e951e556c337abe7038c07dd16b62e7ea0cee31/0_0_3329_2662/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/14/smart-glasses-controversy-sidelines-the-benefits-for-disabled-people",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "スマートグラスをめぐる議論と障害者の利用の対立",
+      "summary": "Ray-Ban Metaスマートグラスに関する議論において、障害者への利便性とエイブリズム（障害者差別）が対立している。読者からは、同製品が障害者の生活を変える可能性があるという意見が寄せられている。",
+      "impact": "ウェアラブル技術の是非を問う議論が社会的に活発化することで、テクノロジーの公平なアクセシビリティに関する基準や社会的な理解が深まる可能性がある。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/84a912bc005ecdf633187b99cc539869fb3a386e/1155_386_4618_3695/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/samsung-galaxy-z-fold-8-ultra-review-the-top-dog-of-folding-androids",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "Samsung Galaxy Z Fold 8 Ultra レビュー",
+      "summary": "Samsungの折りたたみスマートフォン「Galaxy Z Fold 8 Ultra」は、優れたソフトウェア性能と2日間持続するバッテリーを備えている。スマートフォンとタブレットの利点を両立させた高価格帯の製品である。",
+      "impact": "高機能な折りたたみ端末の選択肢が広がることで、モバイルデバイスにおける生産性の向上や、ハイエンド市場での競争がさらに激化すると考えられる。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b517ded4f3a84af437f693705269b31c7e89c1eb/54_0_3337_2670/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "台湾、AIを活用した異常なサイバー攻撃の標的となる",
+      "summary": "台湾政府は、AIを活用した異常なサイバー攻撃を受けたと発表した。この発表は、中国と関連があると疑われるハッカーによる前例のない侵害が報告された翌日に行われた。",
+      "impact": "AI技術が悪用されたサイバー攻撃の脅威が現実味を帯びており、国家間のサイバーセキュリティ対策の強化と新たな防衛体制の構築が急務になるとみられる。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-27B-FP8.png",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "Qwen 3.8 27Bの発表",
+      "summary": "オープンソースおよびオープンサイエンスの推進を通じて、人工知能の発展と民主化を目指す取り組みが行われている。その一環として「Qwen 3.8 27B」が示された。",
+      "impact": "高性能なAIモデルがオープンソースとして公開されることで、AI開発の敷居が下がり、関連分野の研究やアプリケーション開発が加速する可能性がある。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "https://pic.blog.plover.com/book/elbow-shelf/elbow-shelf-th.jpg",
+      "url": "https://blog.plover.com/2026/08/02/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "愛着のある7冊の書籍",
+      "summary": "ブログ運営者のマーク・ドミナスが、自身が愛用する7冊の書籍を紹介している。",
+      "impact": "個人の読書選定基準が共有されることで、特定の読者層に対して新たな書籍との出会いを提供する可能性がある。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www-cdn.anthropic.com/f61d49fa5596956a5dec75fea0e973bf6a6a8378/Redacted%20Risk%20Report%20August%202026%20.pdf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "2026年8月版 人類のリスクに関する報告書",
+      "summary": "2026年8月時点での「人類のリスク」に関するPDF資料が公開された。",
+      "impact": "この報告書の内容が専門家の間で議論されることで、リスク管理や今後の対策に関する検討が深まる可能性がある。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "RustDeskがWaylandでの真の無人リモートアクセスに対応",
+      "summary": "RustDeskがWayland環境下において、無人でのリモートアクセスに完全対応した。",
+      "impact": "Waylandを採用しているLinux環境でのリモート管理が容易になり、システム管理者の作業効率が向上するとみられる。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "https://media-cdn.oulu.fi/styles/open_graph/s3/images/kahvi.jpg?itok=PnGIVejN",
+      "url": "https://www.oulu.fi/en/news/study-links-coffee-consumption-metabolic-health-and-sex-hormones",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "コーヒー摂取と代謝健康および性ホルモンの関連についての研究",
+      "summary": "フィンランドの新しい研究により、日常的なコーヒーの摂取が健康的な身体組成や代謝マーカーと関連していることが示された。",
+      "impact": "コーヒーの健康効果に関する科学的知見が深まり、人々の食生活や健康管理の指針に影響を与える可能性がある。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mun-logadan.github.io/why-does-opus-5-feel-worse/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-15T06:30:37.353628+09:00",
+      "title": "Opus 5の作業における困難さについて",
+      "summary": "Opus 5の作業が以前より困難に感じられる理由について考察するブログ記事である。",
+      "impact": "開発環境の変化やツールの使い勝手が向上しない場合、生産性の低下や開発者の不満につながる可能性がある。",
+      "content_at": "2026-08-15T06:30:37.353628+09:00"
+    }
+  ],
+  "updated_at": "2026-08-15T06:30:37.353628+09:00"
+}

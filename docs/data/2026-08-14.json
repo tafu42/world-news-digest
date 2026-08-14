@@ -2,39 +2,6 @@
   "date": "2026-08-14",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-14T06:30:49.163310+09:00",
-      "title": "フロック・セーフティ社が監視カメラの不正利用防止策を導入",
-      "summary": "フロック・セーフティ社のCEOは、同社のシステムが移民や中絶を目的とした人々の追跡に悪用されているとの報告を受け、対策を発表した。これらの一連の不正利用報道を受けた措置である。",
-      "impact": "監視技術の利用に対する規制や倫理的な議論が強まる可能性がある。",
-      "content_at": "2026-08-14T06:30:49.163310+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/38d2ad505fab5304e77b66fe1e93be8759a35f25/1293_574_4260_3408/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/a-timely-warning-on-the-rise-of-the-tech-bros-from-the-author-of-the-nerd-reich",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-14T06:30:49.163310+09:00",
-      "title": "「テック・ブロス」の台頭に対する警鐘",
-      "summary": "ギル・デュラン氏の主張を支持するキャサリン・オースティン・フィッツ氏は、シリコンバレーの限られた視点を拒絶し、意識の変革が必要だと述べている。",
-      "impact": "テクノロジー業界の思想や影響力に対する社会的な批判や再考が促される可能性がある。",
-      "content_at": "2026-08-14T06:30:49.163310+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/474_0_3333_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-14T06:30:49.163310+09:00",
-      "title": "AIエージェントと個人の思考に関する論評",
-      "summary": "AIエージェントの普及やメタ社のAI戦略に関連する読者からの投書を紹介している。これらには植物の耐熱性や生活の質に関するテーマも含まれる。",
-      "impact": "AI技術の発展と人間の生活様式の変化について、多角的な議論が行われるきっかけになるとみられる。",
-      "content_at": "2026-08-14T06:30:49.163310+09:00"
-    },
-    {
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-7-flash.width-1300.png",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/",
       "category": "海外IT",
