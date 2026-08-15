@@ -99,7 +99,95 @@
       "summary": "Opus 5の作業が以前より困難に感じられる理由について考察するブログ記事である。",
       "impact": "開発環境の変化やツールの使い勝手が向上しない場合、生産性の低下や開発者の不満につながる可能性がある。",
       "content_at": "2026-08-15T06:30:37.353628+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "Flock Safety社、監視カメラの警察による悪用防止へ対策を発表",
+      "summary": "移民や州外で中絶を求める人々を標的にシステムが使用されたとの報告を受け、Flock SafetyのCEOが対応策を発表した。同社は監視カメラの不適切な利用を抑制しようとしている。",
+      "impact": "監視技術の運用における透明性と倫理規定が強化される可能性がある。警察組織とテクノロジー企業との協力関係において、プライバシー保護の重要性がより強く意識されるとみられる。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/38d2ad505fab5304e77b66fe1e93be8759a35f25/1293_574_4260_3408/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/a-timely-warning-on-the-rise-of-the-tech-bros-from-the-author-of-the-nerd-reich",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "「テック・ブロ」の台頭に対する警鐘",
+      "summary": "ギル・デュラン氏の主張に対し、キャサリン・オースティン・フィッツ氏はシリコンバレーの限られたビジョンを否定し、意識の革命を起こす必要があると述べている。",
+      "impact": "テクノロジー業界の独占的な価値観に対する批判的な議論が活発化する可能性がある。社会全体で技術的進歩と人間性の在り方を再考する動きが広まるかもしれない。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/474_0_3333_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "AIエージェントへの依存に苦言",
+      "summary": "メタ社のAI導入に対し、読者から批判的な意見が寄せられている。AI活用への過度な依存を疑問視する声がある。",
+      "impact": "AI技術の普及に伴い、人間本来の思考能力や判断力への影響が社会的な議論の対象となる可能性がある。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "インドネシア・エンデ沖でマグニチュード7.7の地震発生",
+      "summary": "インドネシアのエンデの北北西68kmを震源とするマグニチュード7.7の地震が発生した。",
+      "impact": "周辺地域に深刻な被害をもたらしている可能性がある。現地のインフラや住民への影響が懸念され、今後救助や被害状況の調査が行われるとみられる。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
+    },
+    {
+      "image": "https://i0.wp.com/blog.cryptographyengineering.com/wp-content/uploads/2026/08/thewire.jpg?fit=1200%2C695&#038;ssl=1",
+      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "暗号化と法執行機関によるハッキングの時代",
+      "summary": "筆者がUsenix Securityに参加した際の議論として、法執行機関によるハッキング手法についての対話が取り上げられている。",
+      "impact": "暗号化技術の普及により法執行機関の捜査が困難になる一方で、政府によるハッキング手法が強化されることで、プライバシー保護と捜査の必要性を巡る議論が深まる可能性がある。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.ploopy.co/the-aplus-is-finally-here-499",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "Ploopy A+ トラックボールが登場",
+      "summary": "Ploopy A+ トラックボールが製品として発売された。",
+      "impact": "特定の入力デバイスを好むユーザー層に対して、新たな選択肢を提供するものと考えられる。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
+    },
+    {
+      "image": "https://eigendrum.com/docs/hero.png",
+      "url": "https://eigendrum.com/#p=circle",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "eigendrum：描いた形状をドラムの音に変換",
+      "summary": "描画した形状から有限要素法を用いて周波数を解析し、音として出力するeigendrumが紹介されている。サンプル音源を使用せず、異なる形状でも同じ音を発するドラムが含まれている。",
+      "impact": "楽器の設計や音響合成の新しいアプローチとして、音楽制作や研究の分野で活用される可能性がある。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/1811.03459",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-15T13:30:40.097839+09:00",
+      "title": "初等微積分学の簡素化と再構成",
+      "summary": "初等微積分は学生にとって負担が大きく、多様な手法を暗記する必要がある。より少数の概念で柔軟に対応できるよう、プロセスを簡素化および再構成することが提案されている。",
+      "impact": "微積分の教育方法が改善されることで、学生の学習効率が高まり、数学の概念をより深く理解できるようになる可能性がある。",
+      "content_at": "2026-08-15T13:30:40.097839+09:00"
     }
   ],
-  "updated_at": "2026-08-15T06:30:37.353628+09:00"
+  "updated_at": "2026-08-15T13:30:40.097839+09:00"
 }
