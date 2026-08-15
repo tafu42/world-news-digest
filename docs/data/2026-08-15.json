@@ -2,39 +2,6 @@
   "date": "2026-08-15",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/9e951e556c337abe7038c07dd16b62e7ea0cee31/0_0_3329_2662/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/14/smart-glasses-controversy-sidelines-the-benefits-for-disabled-people",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-15T06:30:37.353628+09:00",
-      "title": "スマートグラスをめぐる議論と障害者の利用の対立",
-      "summary": "Ray-Ban Metaスマートグラスに関する議論において、障害者への利便性とエイブリズム（障害者差別）が対立している。読者からは、同製品が障害者の生活を変える可能性があるという意見が寄せられている。",
-      "impact": "ウェアラブル技術の是非を問う議論が社会的に活発化することで、テクノロジーの公平なアクセシビリティに関する基準や社会的な理解が深まる可能性がある。",
-      "content_at": "2026-08-15T06:30:37.353628+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/84a912bc005ecdf633187b99cc539869fb3a386e/1155_386_4618_3695/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/samsung-galaxy-z-fold-8-ultra-review-the-top-dog-of-folding-androids",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-15T06:30:37.353628+09:00",
-      "title": "Samsung Galaxy Z Fold 8 Ultra レビュー",
-      "summary": "Samsungの折りたたみスマートフォン「Galaxy Z Fold 8 Ultra」は、優れたソフトウェア性能と2日間持続するバッテリーを備えている。スマートフォンとタブレットの利点を両立させた高価格帯の製品である。",
-      "impact": "高機能な折りたたみ端末の選択肢が広がることで、モバイルデバイスにおける生産性の向上や、ハイエンド市場での競争がさらに激化すると考えられる。",
-      "content_at": "2026-08-15T06:30:37.353628+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/b517ded4f3a84af437f693705269b31c7e89c1eb/54_0_3337_2670/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-15T06:30:37.353628+09:00",
-      "title": "台湾、AIを活用した異常なサイバー攻撃の標的となる",
-      "summary": "台湾政府は、AIを活用した異常なサイバー攻撃を受けたと発表した。この発表は、中国と関連があると疑われるハッカーによる前例のない侵害が報告された翌日に行われた。",
-      "impact": "AI技術が悪用されたサイバー攻撃の脅威が現実味を帯びており、国家間のサイバーセキュリティ対策の強化と新たな防衛体制の構築が急務になるとみられる。",
-      "content_at": "2026-08-15T06:30:37.353628+09:00"
-    },
-    {
       "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/Qwen/Qwen3.8-27B-FP8.png",
       "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
       "category": "海外IT",

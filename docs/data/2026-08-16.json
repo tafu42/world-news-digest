@@ -1,0 +1,61 @@
+{
+  "date": "2026-08-16",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-16T06:30:36.817895+09:00",
+      "title": "セマグルチド、認知症リスク低下との関連が示唆される",
+      "summary": "セマグルチドの使用が認知症リスクの低下に関連しているという報告がなされた。この関連性について研究が示されている。",
+      "impact": "今後、糖尿病などの治療薬が認知症予防に寄与する可能性があるとして、さらなる臨床的な研究が進められると考えられる。",
+      "content_at": "2026-08-16T06:30:36.817895+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!DIxw!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2e2e14e7-c536-49c0-9f27-79b1073dd527_1279x759.jpeg",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-16T06:30:36.817895+09:00",
+      "title": "AIが数学者を上回る能力、推論ではなく記憶力によるものか",
+      "summary": "AIの主要な強みは優れた推論能力ではなく、事実上無制限の記号的なワーキングメモリにある可能性が指摘されている。数学者に対するAIの優位性は記憶に基づいているという見方である。",
+      "impact": "数学の研究プロセスにおいて、AIの活用が新たな発見を促進する一方で、人間の推論能力の価値が再評価される可能性がある。",
+      "content_at": "2026-08-16T06:30:36.817895+09:00"
+    },
+    {
+      "image": "https://th-thumbnailer.cdn-si-edu.com/zHvX_MeCmgyz7Mfc3JnZBzfRUgU=/fit-in/1600x0/filters:focal(1061x707:1062x708)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/44/ad/44ad8f8b-e8c6-4c3b-9d22-10eececf06c3/gettyimages-1602304607.jpg",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-16T06:30:36.817895+09:00",
+      "title": "感染したダニを検出する家庭用検査キットがライム病診断を改善へ",
+      "summary": "ライム病を媒介する感染ダニを特定する検査キット「LymeAlert」が8月に市場に投入される。このツールは家庭での備えとして定着する可能性がある。",
+      "impact": "早期の自己診断が可能になることで、医療機関への受診が早まり、ライム病の重症化防止に役立つとみられる。",
+      "content_at": "2026-08-16T06:30:36.817895+09:00"
+    },
+    {
+      "image": "images/icons/RV.png",
+      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-16T06:30:36.817895+09:00",
+      "title": "RISC-Vに対する懸念：Dmitry.GR氏の視点",
+      "summary": "Dmitry.GR氏は、自身のRISC-Vに対する不信感や批判的な見解を表明している。同氏は以前からRISC-Vの設計思想などに対して否定的な立場をとっている。",
+      "impact": "RISC-Vアーキテクチャの標準化や普及に関する議論において、特定の技術的批判が今後の仕様策定に影響を与える可能性がある。",
+      "content_at": "2026-08-16T06:30:36.817895+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!9VgW!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4697c31d-2502-48d2-b6c1-11e5ea97536f_2560x2174.jpeg",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-16T06:30:36.817895+09:00",
+      "title": "新しいアイデアが生まれる心理状態を育む",
+      "summary": "孤独な作業が創造性や初期段階のアイデアに与える影響について論じている。本稿はアイデアの創出に適した思考状態をテーマとしている。",
+      "impact": "創造的な思考を重視する働き方や環境づくりにおいて、個人の孤独な作業時間が持つ意義が改めて注目される可能性がある。",
+      "content_at": "2026-08-16T06:30:36.817895+09:00"
+    }
+  ],
+  "updated_at": "2026-08-16T06:30:36.817895+09:00"
+}
