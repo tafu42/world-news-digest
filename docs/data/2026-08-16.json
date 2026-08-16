@@ -55,7 +55,73 @@
       "summary": "孤独な作業が創造性や初期段階のアイデアに与える影響について論じている。本稿はアイデアの創出に適した思考状態をテーマとしている。",
       "impact": "創造的な思考を重視する働き方や環境づくりにおいて、個人の孤独な作業時間が持つ意義が改めて注目される可能性がある。",
       "content_at": "2026-08-16T06:30:36.817895+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9e951e556c337abe7038c07dd16b62e7ea0cee31/0_0_3329_2662/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/14/smart-glasses-controversy-sidelines-the-benefits-for-disabled-people",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-16T13:30:37.245045+09:00",
+      "title": "スマートグラスをめぐる議論と障害者の利用体験",
+      "summary": "Ray-Ban Metaのスマートグラスを巡る議論において、障害者にもたらす利便性が軽視されているという指摘が読者から寄せられた。デバイスがもたらす生活の変革という側面が、エイブリズム（障害者差別）の議論によって覆い隠されている。",
+      "impact": "テクノロジーの普及において、特定の層への配慮やアクセシビリティの重要性がより議論されるようになる可能性がある。",
+      "content_at": "2026-08-16T13:30:37.245045+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/84a912bc005ecdf633187b99cc539869fb3a386e/1155_386_4618_3695/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/samsung-galaxy-z-fold-8-ultra-review-the-top-dog-of-folding-androids",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-16T13:30:37.245045+09:00",
+      "title": "Samsung Galaxy Z Fold 8 Ultraの評価",
+      "summary": "Galaxy Z Fold 8 Ultraは、優れたソフトウェアと2日間持続するバッテリーを搭載している。高価格帯ながら、スマートフォンとタブレットのバランスが取れた折りたたみデバイスである。",
+      "impact": "高性能な折りたたみ端末の選択肢が増えることで、モバイルデバイスにおける生産性向上やマルチタスク環境が普及する可能性がある。",
+      "content_at": "2026-08-16T13:30:37.245045+09:00"
+    },
+    {
+      "image": "https://dlcdnwebimgs.asus.com/gain/36fca81d-66d4-4a3a-9fa3-05976be35494/",
+      "url": "https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-16T13:30:37.245045+09:00",
+      "title": "Asusの電動自転車用ブースター「Oxiis E250G1」",
+      "summary": "ASUSのOxiis E250G1は、既存の自転車に装着可能な500Wのモーターである。50kmの航続距離やアプリ制御、USB-C充電に対応している。",
+      "impact": "手持ちの自転車を容易に電動化できる製品の登場により、電動モビリティの利用拡大が進む可能性がある。",
+      "content_at": "2026-08-16T13:30:37.245045+09:00"
+    },
+    {
+      "image": "https://duckdb.org/images/blog/thumbs/async.jpg",
+      "url": "https://duckdb.org/2026/07/31/asynchronous-io",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-16T13:30:37.245045+09:00",
+      "title": "DuckDB v2.0における非同期I/Oの導入",
+      "summary": "2026年秋に予定されているDuckDB v2.0では、ParquetおよびCSVファイルの非同期読み込みがサポートされる。これにより、同期I/Oが帯域幅を使い切れない環境下でクエリ速度が向上する。",
+      "impact": "クラウドストレージ環境でのデータ処理効率が改善され、大規模なデータ分析業務のパフォーマンスが向上するとみられる。",
+      "content_at": "2026-08-16T13:30:37.245045+09:00"
+    },
+    {
+      "image": "https://ktwu01.github.io/benchmark-radar/assets/og-card.png",
+      "url": "https://koutian.is-a.dev/benchmark-radar/?view=leaderboard",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-16T13:30:37.245045+09:00",
+      "title": "フロンティアモデルのベンチマーク報告に関する調査",
+      "summary": "フロンティアモデルのカードや技術レポートで報告されているベンチマークのライブランキングを作成した。モデルの品質ではなく、ベンダー側の報告慣習を測定するものである。",
+      "impact": "ベンダーごとに異なる報告手法が可視化されることで、AIモデルの性能評価における透明性が高まる可能性がある。",
+      "content_at": "2026-08-16T13:30:37.245045+09:00"
+    },
+    {
+      "image": "https://www.micdrop.gg/static/og.png?v=2",
+      "url": "https://www.micdrop.gg/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-16T13:30:37.245045+09:00",
+      "title": "リアルタイム対戦型カラオケゲーム「Mic Drop」",
+      "summary": "指定された単語を含む曲を歌って競う、最大8人までプレイ可能な無料のオンラインカラオケゲームである。アプリやマイクは不要で、友人同士の投票によって勝敗が決まる。",
+      "impact": "ブラウザベースで手軽に遊べるため、オンライン上でのソーシャルなエンターテインメントとして普及する可能性がある。",
+      "content_at": "2026-08-16T13:30:37.245045+09:00"
     }
   ],
-  "updated_at": "2026-08-16T06:30:36.817895+09:00"
+  "updated_at": "2026-08-16T13:30:37.245045+09:00"
 }

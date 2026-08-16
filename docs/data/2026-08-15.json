@@ -68,39 +68,6 @@
       "content_at": "2026-08-15T06:30:37.353628+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-15T13:30:40.097839+09:00",
-      "title": "Flock Safety社、監視カメラの警察による悪用防止へ対策を発表",
-      "summary": "移民や州外で中絶を求める人々を標的にシステムが使用されたとの報告を受け、Flock SafetyのCEOが対応策を発表した。同社は監視カメラの不適切な利用を抑制しようとしている。",
-      "impact": "監視技術の運用における透明性と倫理規定が強化される可能性がある。警察組織とテクノロジー企業との協力関係において、プライバシー保護の重要性がより強く意識されるとみられる。",
-      "content_at": "2026-08-15T13:30:40.097839+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/38d2ad505fab5304e77b66fe1e93be8759a35f25/1293_574_4260_3408/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/a-timely-warning-on-the-rise-of-the-tech-bros-from-the-author-of-the-nerd-reich",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-15T13:30:40.097839+09:00",
-      "title": "「テック・ブロ」の台頭に対する警鐘",
-      "summary": "ギル・デュラン氏の主張に対し、キャサリン・オースティン・フィッツ氏はシリコンバレーの限られたビジョンを否定し、意識の革命を起こす必要があると述べている。",
-      "impact": "テクノロジー業界の独占的な価値観に対する批判的な議論が活発化する可能性がある。社会全体で技術的進歩と人間性の在り方を再考する動きが広まるかもしれない。",
-      "content_at": "2026-08-15T13:30:40.097839+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/474_0_3333_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-15T13:30:40.097839+09:00",
-      "title": "AIエージェントへの依存に苦言",
-      "summary": "メタ社のAI導入に対し、読者から批判的な意見が寄せられている。AI活用への過度な依存を疑問視する声がある。",
-      "impact": "AI技術の普及に伴い、人間本来の思考能力や判断力への影響が社会的な議論の対象となる可能性がある。",
-      "content_at": "2026-08-15T13:30:40.097839+09:00"
-    },
-    {
       "image": "",
       "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000tkt2/executive",
       "category": "海外IT",
