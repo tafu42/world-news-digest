@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-17",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/c078d818bd3cc66f53834a54be2d78f7d8daefff/0_373_1533_1226/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-17T06:30:34.137365+09:00",
+      "title": "英愛の古書店がAI企業による「奇妙な大量注文」を懸念",
+      "summary": "Anthropic社がデータ収集のために多額の費用を投じて書籍を購入していたことが判明した。これを受け、英国やアイルランドの古書店の間で同様の意図を持った注文に対する疑念が広がっている。",
+      "impact": "AIによる学習データ収集が今後さらに活発化し、出版業界や古書市場における取引の透明性や著作権をめぐる議論に影響を与える可能性がある。",
+      "content_at": "2026-08-17T06:30:34.137365+09:00"
+    },
+    {
+      "image": "https://ivan-gavran.github.io/assets/images/forall.png",
+      "url": "https://ivan-gavran.github.io/0-social-processes-paper",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-17T06:30:34.137365+09:00",
+      "title": "形式検証に対する批判の50年後",
+      "summary": "ソフトウェアの正確性、AI、形式検証などの技術的トピックに関する論考である。",
+      "impact": "現代のAI開発や複雑なソフトウェア設計において、形式検証という手法の妥当性や将来的な位置づけを再考する契機となる可能性がある。",
+      "content_at": "2026-08-17T06:30:34.137365+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://rvembedded.com/blog_post/12/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-17T06:30:34.137365+09:00",
+      "title": "第三世界の組み込みエンジニアによるRISC-Vへの見解",
+      "summary": "「RISC-Vについて彼らはもっとよく知るべきだった」という主張に対し、第三世界の組み込みエンジニアが反論を提示している。",
+      "impact": "技術コミュニティ内でのRISC-Vの設計や普及をめぐる議論において、地域や開発環境の差異が判断に及ぼす影響が改めて注目される可能性がある。",
+      "content_at": "2026-08-17T06:30:34.137365+09:00"
+    },
+    {
+      "image": "https://platform.claude.com/docs/og?locale=en&amp;path=release-notes/system-prompts&amp;design-rev=1",
+      "url": "https://platform.claude.com/docs/en/release-notes/system-prompts",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-17T06:30:34.137365+09:00",
+      "title": "Claudeのシステムプロンプト更新について",
+      "summary": "claude.aiおよび公式のiOS・Androidアプリにおけるコアシステムプロンプトの更新情報が公開された。",
+      "impact": "システムプロンプトの変更により、Claudeの動作特性や対話の精度が変化し、ユーザーの利用体験や既存のプロンプトエンジニアリングの手法に影響を与える可能性がある。",
+      "content_at": "2026-08-17T06:30:34.137365+09:00"
+    },
+    {
+      "image": "https://buf.build/images/cms/blog/69c3092bd98bec6b03e4d7e5_blog-protobuf-finally-has.png",
+      "url": "https://buf.build/blog/protobuf-lsp",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-17T06:30:34.137365+09:00",
+      "title": "BufがProtobuf用のLSPサーバーを公開",
+      "summary": "BufがProtobuf向けに、実用レベルの完全な機能を備えたLSPサーバーをリリースした。LSPにより、VSCodeやIntelliJなどの主要なIDEやテキストエディタでProtobufの言語サポートが統合できる。",
+      "impact": "開発環境におけるProtobufの編集効率が向上し、対応するエディタ環境での開発がよりスムーズになると考えられる。",
+      "content_at": "2026-08-17T06:30:34.137365+09:00"
+    },
+    {
+      "image": "https://pikuma.com/images/blog/programming-intel-pentium-mmx-simd/thumbnail-1200x630.jpg",
+      "url": "https://pikuma.com/blog/programming-intel-pentium-mmx-simd",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-17T06:30:34.137365+09:00",
+      "title": "90年代のIntel Pentium MMXにおけるSIMDプログラミング",
+      "summary": "90年代のPC環境と、IntelのPentium MMXプロセッサを用いたプログラミングに関する振り返りである。",
+      "impact": "当時のハードウェア技術や初期のSIMD実装を歴史的に振り返る機会を提供し、レトロコンピューティングに関心を持つ層に影響を与える可能性がある。",
+      "content_at": "2026-08-17T06:30:34.137365+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-17T06:30:34.137365+09:00",
+      "title": "ローテクなセラミック浄水フィルター",
+      "summary": "セラミックを使用した簡易的な浄水フィルターに関する情報である。",
+      "impact": "安全な飲料水を確保するための低コストな技術として、インフラが未発達な地域などでの活用可能性が考えられる。",
+      "content_at": "2026-08-17T06:30:34.137365+09:00"
+    }
+  ],
+  "updated_at": "2026-08-17T06:30:34.137365+09:00"
+}
