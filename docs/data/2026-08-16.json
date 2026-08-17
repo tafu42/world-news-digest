@@ -101,39 +101,6 @@
       "content_at": "2026-08-16T13:30:37.245045+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-16T21:30:38.732733+09:00",
-      "title": "Flock Safety、監視カメラの悪用防止へ対策を導入",
-      "summary": "移民や州外での中絶を求める個人を標的にしたという報道を受け、CEOが同社システムの悪用を抑止するための対策を発表した。",
-      "impact": "監視技術の利用に関する倫理基準が強化される可能性があるほか、プライバシー保護の観点から法執行機関による技術活用に慎重な議論が深まると考えられる。",
-      "content_at": "2026-08-16T21:30:38.732733+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/38d2ad505fab5304e77b66fe1e93be8759a35f25/1293_574_4260_3408/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/a-timely-warning-on-the-rise-of-the-tech-bros-from-the-author-of-the-nerd-reich",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-16T21:30:38.732733+09:00",
-      "title": "「テック・ブロス」の台頭に対する警鐘",
-      "summary": "キャサリン・オースティン・フィッツ氏は、ギル・デュラン氏の主張を支持し、シリコンバレーの限定的なビジョンを意識改革によって拒絶すべきだと述べている。",
-      "impact": "テクノロジー業界が支配する社会構造に対して批判的な意見がより活発化する可能性がある。",
-      "content_at": "2026-08-16T21:30:38.732733+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/4a486dc22d1f66eddb54d2e1e16341f360057bca/474_0_3333_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/an-ai-agent-for-all-try-using-your-brain-mark-zuckerberg",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-16T21:30:38.732733+09:00",
-      "title": "AIエージェントの是非とマーク・ザッカーバーグへの提言",
-      "summary": "Meta AIや未来の守護者、食、植物の熱耐性、生と死といった多様なテーマについて読者からの書簡が寄せられた。",
-      "impact": "個別の技術開発に対する社会的な議論の場が提供されることで、技術のあり方に対する公的な問いかけが促進される可能性がある。",
-      "content_at": "2026-08-16T21:30:38.732733+09:00"
-    },
-    {
       "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-026-10857-1/MediaObjects/41586_2026_10857_Fig1_HTML.png",
       "url": "https://www.nature.com/articles/s41586-026-10857-1",
       "category": "海外IT",

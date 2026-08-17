@@ -132,7 +132,73 @@
       "summary": "Rhombus 1.1の提供が開始された。",
       "impact": "利用者は最新バージョンへアップデートすることで、機能の改善や修正などの変更点を利用できる可能性がある。",
       "content_at": "2026-08-17T13:30:39.199663+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f25d80fdd4eb21172be835d121eab4cfa52798cd/700_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/raul-torrez-new-mexico-meta-social-media-safety-laws",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-17T21:30:37.586133+09:00",
+      "title": "ニューメキシコ州司法長官、メタ社との訴訟勝利を受けSNS安全関連の法案を策定",
+      "summary": "ニューメキシコ州のラウル・トーレス司法長官は、メタ社との訴訟での勝訴を受け、消費者保護とオンライン上の児童の安全を強化する2つの法案を起草している。この動きは、同州がメタ社に対して起こした画期的な訴訟を基盤としている。",
+      "impact": "この法案が成立すれば、米国内の他の州や国レベルにおいても、SNS企業に対する法的規制や消費者保護の基準がさらに厳格化される可能性がある。",
+      "content_at": "2026-08-17T21:30:37.586133+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9e951e556c337abe7038c07dd16b62e7ea0cee31/0_0_3329_2662/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/14/smart-glasses-controversy-sidelines-the-benefits-for-disabled-people",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-17T21:30:37.586133+09:00",
+      "title": "スマートグラスをめぐる論争が障害者の恩恵に与える影響",
+      "summary": "Ray-Ban Metaスマートグラスをめぐる議論の中で、障害者に対するエイブリズム（障害者差別）が指摘されている。その一方で、この製品が障害者の生活に大きな変化をもたらす可能性についても読者から意見が寄せられている。",
+      "impact": "技術の社会的な是非を問う議論が、当該技術がもたらすアクセシビリティ上のメリットの評価を妨げ、障害者の社会参加機会を制限してしまう可能性がある。",
+      "content_at": "2026-08-17T21:30:37.586133+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/2015835742577012736/uOwdzrEz_400x400.jpg",
+      "url": "https://twitter.com/DarioAmodei/status/2088758816376807762",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-17T21:30:37.586133+09:00",
+      "title": "AI規制とメッセージングのあり方についての議論",
+      "summary": "SNS上でのやり取りを通じて、AI規制に関する重要な対話が行われている。特にAI技術の集権化やその管理体制に焦点が当てられている。",
+      "impact": "AI規制に関する公的な議論が活発化することで、今後のAI開発や運用ルールに対する政策決定に何らかの影響を及ぼす可能性がある。",
+      "content_at": "2026-08-17T21:30:37.586133+09:00"
+    },
+    {
+      "image": "https://daringfireball.net/graphics/df-wide-card.png",
+      "url": "https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-17T21:30:37.586133+09:00",
+      "title": "AnthropicのClaudeにおける透かし挿入技術への批判",
+      "summary": "AIツールが生成したテキストの出所を示すために「透かし」を埋め込む行為は、テキストの明瞭さや質を損なうものであり容認できないとの指摘がなされている。ユーザーのニーズよりも出所表示を優先する姿勢が批判の対象となっている。",
+      "impact": "生成AIにおける透かし技術の是非が議論されることで、AI企業の信頼性や開発方針に影響を与える可能性がある。",
+      "content_at": "2026-08-17T21:30:37.586133+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.ft.com/content/e04f286c-f5ed-46d1-8e3f-0bbe4cce4d3e",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-17T21:30:37.586133+09:00",
+      "title": "アメリカの支払い能力に対する懸念",
+      "summary": "アメリカの支払い能力について懸念の声が上がっている。",
+      "impact": "アメリカの財政に対する不信感が高まることで、市場や経済政策に影響を与える可能性がある。",
+      "content_at": "2026-08-17T21:30:37.586133+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://func25.dev/posts/go-sync-nocopy/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-17T21:30:37.586133+09:00",
+      "title": "Go言語におけるsync.noCopyを用いた構造体コピーの検知方法",
+      "summary": "Go言語において、sync.noCopyを使用して構造体のコピーをどのように検知するかについて解説している。",
+      "impact": "この技術が活用されることで、Go言語で開発を行うエンジニアが構造体の誤ったコピーを防ぎ、プログラムの安全性を向上させられると考えられる。",
+      "content_at": "2026-08-17T21:30:37.586133+09:00"
     }
   ],
-  "updated_at": "2026-08-17T13:30:39.199663+09:00"
+  "updated_at": "2026-08-17T21:30:37.586133+09:00"
 }
