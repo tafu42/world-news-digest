@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-18",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "AnthropicのClaude、AI生成テキストに電子透かしを導入へ",
+      "summary": "Anthropicは、EUの規制を遵守するため、チャットボットが生成するテキストに電子透かしを導入する。そのために、小さなランダムな選択を行う仕組みを変更する。",
+      "impact": "AI生成物の判別が容易になる可能性がある。一方で、この変更が生成されるテキストの品質に影響を及ぼす懸念があると考えられている。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "Flock Safety、監視カメラの悪用防止へ対策を発表",
+      "summary": "Flock SafetyのCEOは、自社の監視システムが移民や中絶を求めて州外へ移動する人々の追跡に悪用されているとの報道を受け、対策を発表した。",
+      "impact": "監視技術の適正な利用に関する議論が進むとみられる。企業のガバナンス強化により、警察による不適切な監視活動が抑制される可能性がある。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2608.13759",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "RustによるGPUオフロード：移植性、安全性、高速性の実現",
+      "summary": "高性能なGPUプログラミングにおいて、実行効率とメモリ安全性の両立は困難であった。Rustのメモリ安全性を大規模な並列GPU環境に適用する試みについて解説されている。",
+      "impact": "この手法が確立されれば、安全性を担保しつつ高性能なGPU処理が可能となり、開発現場の効率が向上すると考えられる。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "https://duckdb.org/images/blog/thumbs/duckdb-preview-2-0.png",
+      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "「DuckDB v2.0」の主要機能プレビュー",
+      "summary": "DuckDB v2.0が今秋リリースされる。本記事では、サーバー機能、トリガー、VARIANT型、非同期I/O、新しいSQLパーサーやストレージ形式などの主要機能が紹介されている。",
+      "impact": "データベース機能の拡充により、データ分析基盤としての利便性が高まる可能性がある。特にサーバー機能の導入は、既存の利用形態を大きく変えるとみられる。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!v6i6!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Frickmanelius.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D-1034328908%26version%3D9",
+      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "AI;DR：増え続けるAI生成コンテンツへの新たな対処法",
+      "summary": "AIの普及に伴い増大する大量の生成コンテンツに対し、著者は「AI;DR（AI; Didn't Read）」という略語を新たな解決策として提示している。AI推進派である著者も、この状況を懸念している。",
+      "impact": "今後、AIが生成した冗長な文章を無視するための表現として、SNSやコミュニティでこの略語が定着する可能性がある。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "https://www.datocms-assets.com/75231/1786964856-image.png?fm=webp",
+      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "GitHub Copilotが生成したコードの脆弱性がSnowflakeのJira侵害を招く",
+      "summary": "Wiz Red Agentが、GitHub Copilotによるコード補完支援を受けたプルリクエスト（PR）の脆弱性を悪用し、Snowflakeの内部Jiraシステムへの侵入に成功した。",
+      "impact": "AIによるコード生成ツールの利用に関して、セキュリティリスクの懸念が高まるとみられる。企業はAIが生成したコードの脆弱性確認を強化する必要があると考えられる。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "Github.comでのインシデント発生",
+      "summary": "Github.comにおいてインシデントが発生した。",
+      "impact": "GitHubのサービスを利用する開発者や企業において、一時的な開発環境の停止やアクセス障害などの影響が出ている可能性がある。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/250b/live/07d59750-96ed-11f1-bdf3-57bf9a99cb46.jpg",
+      "url": "https://www.bbc.com/news/articles/c8xnwqe00v1o",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-18T06:30:38.654957+09:00",
+      "title": "インド、UPI決済への加盟店手数料導入の道を拓く",
+      "summary": "インドの即時決済システム「UPI」において、加盟店に対する手数料の導入が検討されており、誰が負担するのかやユーザーの反応が注目されている。",
+      "impact": "手数料の導入により、これまで無料で普及してきたUPIの利用形態が変化する可能性がある。加盟店側が価格転嫁を行うことで、最終的な消費者の負担増につながるとみられる。",
+      "content_at": "2026-08-18T06:30:38.654957+09:00"
+    }
+  ],
+  "updated_at": "2026-08-18T06:30:38.654957+09:00"
+}
