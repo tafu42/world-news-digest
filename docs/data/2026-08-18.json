@@ -154,7 +154,73 @@
       "summary": "Fairphone 6向けPostmarketOSにおいて、メインカメラのドライバーが開発され、オートフォーカスや色補正機能が動作するようになった。色補正については現在も調整が進められている。",
       "impact": "LinuxベースのモバイルOSにおけるハードウェアサポートが進むことで、よりオープンなスマートフォン環境が普及する可能性がある。",
       "content_at": "2026-08-18T13:30:37.287916+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/e1e081014792ece3c556a128aa9ab8f8207be7c3/0_0_2500_2000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-18T21:30:41.989206+09:00",
+      "title": "現代の技術社会を表現する18の新語",
+      "summary": "現代生活における技術的な苛立ちを表現する言葉が不足していたが、新たに18の単語が定義された。これらは技術に翻弄される現代社会を描写するために作られた。",
+      "impact": "人々の日常生活における技術的な不満を共有しやすくなり、デジタルツールに対する社会的な対話が促進される可能性がある。",
+      "content_at": "2026-08-18T21:30:41.989206+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-18T21:30:41.989206+09:00",
+      "title": "米国の州がMeta社を提訴、子供のSNS依存問題で審理開始",
+      "summary": "米国の州司法長官らが、Meta社が意図的に若者に悪影響を与える依存性の高い製品を設計したと主張している。この主張を巡り、重要な裁判が開始された。",
+      "impact": "訴訟の結果次第では、SNS企業の製品設計や規制のあり方に大きな影響を与える可能性がある。",
+      "content_at": "2026-08-18T21:30:41.989206+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/2e6cebbdc93edfcd04f7445de550e1e428c6cb16/27_1630_2855_2283/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-18T21:30:41.989206+09:00",
+      "title": "マイクロソフトのAI計画、チップ不足が足かせに？",
+      "summary": "マイクロソフトのAI処理能力に関する公表内容と、実際に運用されている高性能チップの数に乖離があることがガーディアンの調査で判明した。AI戦略がチップ不足により停滞している疑いが持たれている。",
+      "impact": "同社のAI開発計画や業績見通しに対し、投資家や市場から懸念が高まる可能性がある。",
+      "content_at": "2026-08-18T21:30:41.989206+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pixelcluster.dev/VRAM-Overcommit/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-18T21:30:41.989206+09:00",
+      "title": "Linux 7.3がvRAM不足時のパフォーマンスを改善",
+      "summary": "Linux 7.3において、vRAMが不足した際のパフォーマンスが向上した。",
+      "impact": "グラフィックスメモリが限られた環境での動作が安定し、ユーザーの利便性が向上するとみられる。",
+      "content_at": "2026-08-18T21:30:41.989206+09:00"
+    },
+    {
+      "image": "https://image.theregister.com/5273664.jpg?imageId=5273664&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "url": "https://www.theregister.com/ai-and-ml/2026/08/18/google-buys-crashed-airline-spirits-data-at-auction-because-ai/5288962",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-18T21:30:41.989206+09:00",
+      "title": "Googleが経営破綻したスピリット航空のデータを1000万ドルで買収",
+      "summary": "Googleは、経営破綻したスピリット航空の1億通を超えるメールや3000万件の通話記録などのデータを、1000万ドルで買収した。これらのデータはTeams、Oracle、SAPなどのシステムから収集されたものを含む。",
+      "impact": "AIの学習データとして企業が大量の個人データや社内情報を収集する流れが加速する可能性がある。データの取り扱いに関するプライバシー保護の議論が活発化するとみられる。",
+      "content_at": "2026-08-18T21:30:41.989206+09:00"
+    },
+    {
+      "image": "https://responsiblestatecraft.org/media-library/screenshot-of-the-hanover-institute-s-website-taken-on-aug-16-2026.png?id=67630219&width=1200&height=600&coordinates=0%2C0%2C0%2C65",
+      "url": "https://responsiblestatecraft.org/israel-influence-chatgpt/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-18T21:30:41.989206+09:00",
+      "title": "イスラエルがAIチャットボットを誘導するための偽のシンクタンクを設立か",
+      "summary": "イスラエルが「ハノーバー・インスティテュート」という名称の偽のシンクタンクを設立したとみられる。同組織はわずか1週間余りで、チャットボットに影響を与えることを目的とした記事を少なくとも100本公開している。",
+      "impact": "AIの回答を特定の意図に誘導する世論工作が今後増加する可能性がある。AIが生成する情報の信頼性や公平性に対する懸念が強まると考えられる。",
+      "content_at": "2026-08-18T21:30:41.989206+09:00"
     }
   ],
-  "updated_at": "2026-08-18T13:30:37.287916+09:00"
+  "updated_at": "2026-08-18T21:30:41.989206+09:00"
 }
