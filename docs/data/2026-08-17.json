@@ -68,17 +68,6 @@
       "content_at": "2026-08-17T06:30:34.137365+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/2e6cebbdc93edfcd04f7445de550e1e428c6cb16/27_1630_2855_2283/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-17T13:30:39.199663+09:00",
-      "title": "マイクロソフトのAI計画は半導体不足により停滞しているのか",
-      "summary": "ガーディアン紙の調査により、マイクロソフトが公表しているAI能力と、実際に稼働している先端半導体の数に乖離があることが判明した。",
-      "impact": "同社のAI開発計画の進捗や、AI市場全体の供給能力に対する信頼性に影響を及ぼす可能性がある。",
-      "content_at": "2026-08-17T13:30:39.199663+09:00"
-    },
-    {
       "image": "https://static.simonwillison.net/static/2026/qwen-thinking-bicycle-27b.jpg",
       "url": "https://simonwillison.net/2026/Aug/16/qwen-38-27b/",
       "category": "海外IT",

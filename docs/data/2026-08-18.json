@@ -88,7 +88,73 @@
       "summary": "インドの即時決済システム「UPI」において、加盟店に対する手数料の導入が検討されており、誰が負担するのかやユーザーの反応が注目されている。",
       "impact": "手数料の導入により、これまで無料で普及してきたUPIの利用形態が変化する可能性がある。加盟店側が価格転嫁を行うことで、最終的な消費者の負担増につながるとみられる。",
       "content_at": "2026-08-18T06:30:38.654957+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c078d818bd3cc66f53834a54be2d78f7d8daefff/0_373_1533_1226/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/15/uk-ireland-booksellers-suspect-ai-companies-bulk-orders-data-acquisition",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-18T13:30:37.287916+09:00",
+      "title": "英愛の古書店がAI企業による不審な大量注文を警戒",
+      "summary": "AI企業Anthropicがデータ収集目的で書籍に巨額を投じていたことが判明したことを受け、英国とアイルランドの古書店の間でAI企業が関与したとみられる不審な大量注文が警戒されている。",
+      "impact": "AIによる学習データ収集のあり方について、著作権や書籍の流通過程において議論が深まる可能性がある。",
+      "content_at": "2026-08-18T13:30:37.287916+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-18T13:30:37.287916+09:00",
+      "title": "Blueskyがスクリーンショットにロゴを描画する方法",
+      "summary": "Blueskyアプリがスクリーンショット上にロゴを描画する仕組みの背景には、UITextFieldが利用されていることが明かされた。",
+      "impact": "iOSアプリ開発におけるUI実装の工夫事例として、開発者の関心を集める可能性がある。",
+      "content_at": "2026-08-18T13:30:37.287916+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-18T13:30:37.287916+09:00",
+      "title": "容量がわずかに超過したQuake SharewareのCD-ROM",
+      "summary": "Quake Sharewareが収録されたCD-ROMの容量が、わずかに超過しているという状況が報告されている。",
+      "impact": "かつてのソフトウェア配布媒体における技術的な制約が改めて注目される可能性がある。",
+      "content_at": "2026-08-18T13:30:37.287916+09:00"
+    },
+    {
+      "image": "https://openrouter.ai/openai/gpt-5.6-sol/opengraph-image-1oizug?abd1ffaa6102aa5f",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-18T13:30:37.287916+09:00",
+      "title": "OpenAIがGPT-5.6 Solの価格を50%引き下げ",
+      "summary": "OpenAIは主力モデルであるGPT-5.6 Solの価格を50%引き下げ、入力トークンあたり2.50ドル、出力トークンあたり15ドルとした。また、コンテキストウィンドウの拡張や提供プロバイダーの増加が図られている。",
+      "impact": "AI開発コストの低減により、利用企業のAI導入が加速する可能性がある。",
+      "content_at": "2026-08-18T13:30:37.287916+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-18T13:30:37.287916+09:00",
+      "title": "トレビュシェットによる死亡事故の初の確認例",
+      "summary": "トレビュシェットによって粉砕された骨格が発見され、これが同兵器による初の死亡確認例となった。",
+      "impact": "中世兵器の致死性に関する歴史的知見が深まると考えられる。",
+      "content_at": "2026-08-18T13:30:37.287916+09:00"
+    },
+    {
+      "image": "https://catcrafts.net/media/7027ecea2bdfd549.webp",
+      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-18T13:30:37.287916+09:00",
+      "title": "Fairphone 6でPostmarketOSのメインカメラが動作",
+      "summary": "Fairphone 6向けPostmarketOSにおいて、メインカメラのドライバーが開発され、オートフォーカスや色補正機能が動作するようになった。色補正については現在も調整が進められている。",
+      "impact": "LinuxベースのモバイルOSにおけるハードウェアサポートが進むことで、よりオープンなスマートフォン環境が普及する可能性がある。",
+      "content_at": "2026-08-18T13:30:37.287916+09:00"
     }
   ],
-  "updated_at": "2026-08-18T06:30:38.654957+09:00"
+  "updated_at": "2026-08-18T13:30:37.287916+09:00"
 }
