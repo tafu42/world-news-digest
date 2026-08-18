@@ -2,28 +2,6 @@
   "date": "2026-08-18",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/31b9125e3684a37be9004c5d3729d8a606ac4c1e/744_0_3527_2823/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/17/claude-watermark-ai-text-quality-worse",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-18T06:30:38.654957+09:00",
-      "title": "AnthropicのClaude、AI生成テキストに電子透かしを導入へ",
-      "summary": "Anthropicは、EUの規制を遵守するため、チャットボットが生成するテキストに電子透かしを導入する。そのために、小さなランダムな選択を行う仕組みを変更する。",
-      "impact": "AI生成物の判別が容易になる可能性がある。一方で、この変更が生成されるテキストの品質に影響を及ぼす懸念があると考えられている。",
-      "content_at": "2026-08-18T06:30:38.654957+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/a7b61ee934e84026966be174a99e9956e3c1ae5f/720_0_7200_5760/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/13/flock-safety-police-abuse-surveillance-cameras",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-18T06:30:38.654957+09:00",
-      "title": "Flock Safety、監視カメラの悪用防止へ対策を発表",
-      "summary": "Flock SafetyのCEOは、自社の監視システムが移民や中絶を求めて州外へ移動する人々の追跡に悪用されているとの報道を受け、対策を発表した。",
-      "impact": "監視技術の適正な利用に関する議論が進むとみられる。企業のガバナンス強化により、警察による不適切な監視活動が抑制される可能性がある。",
-      "content_at": "2026-08-18T06:30:38.654957+09:00"
-    },
-    {
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "url": "https://arxiv.org/abs/2608.13759",
       "category": "海外IT",
