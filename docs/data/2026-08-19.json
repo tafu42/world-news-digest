@@ -121,7 +121,73 @@
       "summary": "BIOSアップデートの失敗により起動不能となったFramework 13インチ（AMD 7060シリーズ）を、約20ドルの工具を使用して修復した経験談。メーカーサポートが推奨したマザーボード交換を行わずに復旧させた。",
       "impact": "メーカー保証外の修理手法が提示されることで、同様のトラブルを抱えるユーザーの修理選択肢が広がる可能性がある。",
       "content_at": "2026-08-19T06:30:37.507614+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bfi.uchicago.edu/wp-content/uploads/2026/08/BFI_WP_2026-108-1.pdf",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-19T13:30:35.189599+09:00",
+      "title": "米国の労働者の37%で実質賃金が低下",
+      "summary": "2021年から2024年の間に、米国の労働者の37%で実質賃金が低下したことが新しい論文で示された。",
+      "impact": "賃金の低下が経済や生活水準に悪影響を及ぼしている可能性があり、今後の政策や労働市場の議論に影響を与える可能性がある。",
+      "content_at": "2026-08-19T13:30:35.189599+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.economist.com/business/2026/08/18/metas-blockbuster-trial-draws-parallels-to-big-tobacco",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-19T13:30:35.189599+09:00",
+      "title": "メタ社の裁判、タバコ大手との訴訟に類似",
+      "summary": "メタ社を巡る大規模な裁判が、タバコ産業に対する訴訟と比較されている。",
+      "impact": "テック企業に対する規制や法的責任のあり方について、今後の裁判の行方が注目される可能性がある。",
+      "content_at": "2026-08-19T13:30:35.189599+09:00"
+    },
+    {
+      "image": "https://openlogi.org/social-preview.png",
+      "url": "https://openlogi.org/en",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-19T13:30:35.189599+09:00",
+      "title": "OpenLogi：Logicool Options+の代替となるRust製ツール",
+      "summary": "OpenLogiはLogicool Options+の代替となるRustで記述されたツールである。アカウントやテレメトリを必要とせず、ボタンの割り当てやDPIの設定が可能である。",
+      "impact": "プライバシーを重視するユーザーにとって、より透明性の高い周辺機器設定の選択肢となる可能性がある。",
+      "content_at": "2026-08-19T13:30:35.189599+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/21fa43f6d541115e57887beb1155bddc7541ae71-2400x1260.jpg?w=1200&amp;h=630&amp;fit=max&amp;auto=format",
+      "url": "https://www.cerebras.ai/cs4",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-19T13:30:35.189599+09:00",
+      "title": "Cerebras CS-4：単一チップでGPU数百個分のAI性能",
+      "summary": "Cerebras CS-4は、単一のウェハー規模のチップで数百個のGPUを置き換えるAI性能を提供する。AIワークロードの高速化を実現する。",
+      "impact": "AI開発における計算リソースの効率が大幅に向上し、業界のインフラ構築に変化をもたらす可能性がある。",
+      "content_at": "2026-08-19T13:30:35.189599+09:00"
+    },
+    {
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1787113782",
+      "url": "https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-19T13:30:35.189599+09:00",
+      "title": "Leanで検証された数学の登録サービス「Palomar」",
+      "summary": "AIによって生成された数学の証明が増加し、その一部が証明アシスタント言語Leanで形式化されている。しかし、それらの検証には課題がある。",
+      "impact": "今後、AIによる数学的証明の信頼性を担保するための検証プロセスが標準化され、数学研究におけるAI活用の精度が向上する可能性がある。",
+      "content_at": "2026-08-19T13:30:35.189599+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/8b88c4733217f349e904a4c87dbd52af6bb928aaf2514c424ee97b38f8c76351/DenisSergeevitch/desktop-fly",
+      "url": "https://github.com/DenisSergeevitch/desktop-fly",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-19T13:30:35.189599+09:00",
+      "title": "macOSデスクトップ上で動作する3Dショウジョウバエ",
+      "summary": "実在するFlyWireコネクトームのシミュレーションに基づき、macOSのデスクトップ上で3Dのショウジョウバエを動作させるプロジェクトが公開された。",
+      "impact": "神経科学の複雑なシミュレーションデータが、デスクトップ環境で手軽に体験できる形式として提供されることで、科学の可視化や教育への活用が進むとみられる。",
+      "content_at": "2026-08-19T13:30:35.189599+09:00"
     }
   ],
-  "updated_at": "2026-08-19T06:30:37.507614+09:00"
+  "updated_at": "2026-08-19T13:30:35.189599+09:00"
 }
