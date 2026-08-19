@@ -187,7 +187,73 @@
       "summary": "実在するFlyWireコネクトームのシミュレーションに基づき、macOSのデスクトップ上で3Dのショウジョウバエを動作させるプロジェクトが公開された。",
       "impact": "神経科学の複雑なシミュレーションデータが、デスクトップ環境で手軽に体験できる形式として提供されることで、科学の可視化や教育への活用が進むとみられる。",
       "content_at": "2026-08-19T13:30:35.189599+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/97c70a6b185a61783623194a6c08e38ab9881a23/0_0_3000_2400/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-19T21:30:37.668047+09:00",
+      "title": "AI採用ツールの利用をめぐる差別や情報の不透明さに対する訴訟が増加",
+      "summary": "AIを用いた雇用や解雇の意思決定に対する訴訟が増加している。これに伴い、企業の採用プロセスの透明性や公平性に疑問が投げかけられている。",
+      "impact": "今後、企業によるAI採用ツールの利用に対し、法的規制や厳格な監査基準が求められる可能性がある。",
+      "content_at": "2026-08-19T21:30:37.668047+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/8d7f03d88b7b8112881e3e6bddd3dfbe85bd8099/531_0_4679_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-19T21:30:37.668047+09:00",
+      "title": "人型ロボットメーカーのUnitreeが中国市場に上場、株価が600%急騰",
+      "summary": "人型ロボットで知られるUnitree社が中国の株式市場に上場し、株価が600%上昇した。同社は格闘技やダンスを披露する動画で世界的に注目を集めていた。",
+      "impact": "人型ロボット市場への投資家からの関心が高まっており、今後はロボット技術の実用化や普及が加速する可能性がある。",
+      "content_at": "2026-08-19T21:30:37.668047+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://grapheneos.social/@GrapheneOS/117078064184215730",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-19T21:30:37.668047+09:00",
+      "title": "2027年に一部のモトローラ製ハイエンド端末でGrapheneOSが利用可能に",
+      "summary": "GrapheneOSが2027年より、モトローラのハイエンドスマートフォン向けに提供されることが示された。",
+      "impact": "セキュリティやプライバシーを重視するユーザーにとって、選択肢が広がる可能性がある。",
+      "content_at": "2026-08-19T21:30:37.668047+09:00"
+    },
+    {
+      "image": "https://theremin.bizibah.com/og.png",
+      "url": "https://theremin.bizibah.com/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-19T21:30:37.668047+09:00",
+      "title": "Webカメラで操作できるブラウザ版テルミン「Air Theremin」",
+      "summary": "Webカメラに向かって手を動かすことで演奏できるブラウザ上のテルミンが公開された。Web Audio APIを使用して構築されている。",
+      "impact": "ブラウザ技術の進化により、特殊な機器を必要とせずにデジタル楽器を操作するエンターテインメントが一般化する可能性がある。",
+      "content_at": "2026-08-19T21:30:37.668047+09:00"
+    },
+    {
+      "image": "https://nicholascharriere.com/og-being-ambitious-and-being-a-dad.jpg",
+      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-19T21:30:37.668047+09:00",
+      "title": "野心を持つことと父親であること",
+      "summary": "野心を持つことと父親であることをテーマとしている。",
+      "impact": "仕事での成功と育児の両立という普遍的な課題について、個人の価値観やライフスタイルの再考を促すきっかけになる可能性がある。",
+      "content_at": "2026-08-19T21:30:37.668047+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=Co57SfcT-h0",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-19T21:30:37.668047+09:00",
+      "title": "超音速トレビュシェット（投石機）",
+      "summary": "超音速で動作するトレビュシェットを紹介する動画である。",
+      "impact": "物理学や工学への関心を高め、投擲兵器の限界や速度に関する実験的な取り組みとして注目される可能性がある。",
+      "content_at": "2026-08-19T21:30:37.668047+09:00"
     }
   ],
-  "updated_at": "2026-08-19T13:30:35.189599+09:00"
+  "updated_at": "2026-08-19T21:30:37.668047+09:00"
 }

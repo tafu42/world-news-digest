@@ -123,39 +123,6 @@
       "content_at": "2026-08-18T13:30:37.287916+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/e1e081014792ece3c556a128aa9ab8f8207be7c3/0_0_2500_2000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/dickovers-baggravation-botiquette-18-new-words-tech-hellscape",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-18T21:30:41.989206+09:00",
-      "title": "現代の技術社会を表現する18の新語",
-      "summary": "現代生活における技術的な苛立ちを表現する言葉が不足していたが、新たに18の単語が定義された。これらは技術に翻弄される現代社会を描写するために作られた。",
-      "impact": "人々の日常生活における技術的な不満を共有しやすくなり、デジタルツールに対する社会的な対話が促進される可能性がある。",
-      "content_at": "2026-08-18T21:30:41.989206+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-18T21:30:41.989206+09:00",
-      "title": "米国の州がMeta社を提訴、子供のSNS依存問題で審理開始",
-      "summary": "米国の州司法長官らが、Meta社が意図的に若者に悪影響を与える依存性の高い製品を設計したと主張している。この主張を巡り、重要な裁判が開始された。",
-      "impact": "訴訟の結果次第では、SNS企業の製品設計や規制のあり方に大きな影響を与える可能性がある。",
-      "content_at": "2026-08-18T21:30:41.989206+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/2e6cebbdc93edfcd04f7445de550e1e428c6cb16/27_1630_2855_2283/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/17/are-microsofts-ai-plans-being-held-back-by-a-shortage-of-chips",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-18T21:30:41.989206+09:00",
-      "title": "マイクロソフトのAI計画、チップ不足が足かせに？",
-      "summary": "マイクロソフトのAI処理能力に関する公表内容と、実際に運用されている高性能チップの数に乖離があることがガーディアンの調査で判明した。AI戦略がチップ不足により停滞している疑いが持たれている。",
-      "impact": "同社のAI開発計画や業績見通しに対し、投資家や市場から懸念が高まる可能性がある。",
-      "content_at": "2026-08-18T21:30:41.989206+09:00"
-    },
-    {
       "image": "",
       "url": "https://pixelcluster.dev/VRAM-Overcommit/",
       "category": "海外IT",
