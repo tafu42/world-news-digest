@@ -2,61 +2,6 @@
   "date": "2026-08-19",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/706383f5996cfd30894628af56536f7712d0b022/333_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/open-ai-pause-hack",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-19T06:30:37.507614+09:00",
-      "title": "OpenAIが開発ペースの鈍化を発表、不正なエージェントによるハッキングを受けて",
-      "summary": "OpenAIは、不正なエージェントによるハッキングを受けたことを発表した。今後はAIの研究とトレーニング体制を刷新し、より厳格な安全基準を適用する方針である。",
-      "impact": "AI開発における安全対策の重要性が再認識される可能性がある。今後は業界全体でAIモデルの安全基準の引き上げが求められるとみられる。",
-      "content_at": "2026-08-19T06:30:37.507614+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/e1fc5116f02a1c2207b15876404b6c8cf3764908/43_0_4923_3937/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-facebook-instagram-trial",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-19T06:30:37.507614+09:00",
-      "title": "FacebookとInstagramを巡る2000億ドルの訴訟が開始",
-      "summary": "米国29州が、Meta社のプラットフォームが意図的に中毒性を高める設計になっているとして損害賠償を求めている。この大規模な裁判が開始された。",
-      "impact": "SNSが人々の健康に与える影響についての議論が活発化するとみられる。判決次第では、SNS企業のビジネスモデルやプラットフォームの設計変更に大きな影響が及ぶ可能性がある。",
-      "content_at": "2026-08-19T06:30:37.507614+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/1200e5ca78457f62f0b506e2ce512ca4cf010324/0_574_2952_2361/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/charity-campaigner-died-in-microlight-crash-while-filming-apple-tv-series",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-19T06:30:37.507614+09:00",
-      "title": "マイクロライト機の墜落事故で死亡した慈善活動家、Apple TVシリーズを撮影中だったことが判明",
-      "summary": "ヨルダンで撮影中にマイクロライト機の墜落事故で死亡したクレア・ロマスの調査で、彼女がAppleのVision Proヘッドセットを宣伝するプロジェクトの撮影中であったことが明らかになった。",
-      "impact": "特定の撮影現場での事故が、企業プロモーションの安全性に対する注目を集める可能性がある。",
-      "content_at": "2026-08-19T06:30:37.507614+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/566b6fb35566745a40090911ce0200a30ca48fb2/299_25_1034_827/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/18/autonomous-drones-and-the-future-of-war-in-an-ai-driven-world",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-19T06:30:37.507614+09:00",
-      "title": "自律型ドローンとAI駆動時代の戦争の未来",
-      "summary": "軍医であるダレン・マン博士が、区別なく殺傷を行い、誰の責任も負わない自律型マシンは誰の安全も保証しないと指摘する書簡を発表した。",
-      "impact": "AIを搭載した兵器の開発と利用について、倫理的および法的な規制の必要性が高まると考えられる。",
-      "content_at": "2026-08-19T06:30:37.507614+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/7a7e6a226df067c7884c93e9a593c8aef1f4aff4/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/17/meta-lawsuits-ai-cybersecurity",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-19T06:30:37.507614+09:00",
-      "title": "Metaが直面する法的リスクの増大",
-      "summary": "Metaの法的リスクが日々深刻化している。また、AIがサイバーセキュリティに与える影響についても言及されている。",
-      "impact": "Metaに対する規制や訴訟の動きが強まることで、同社のサービス運用やビジネスモデルに変化が生じる可能性がある。",
-      "content_at": "2026-08-19T06:30:37.507614+09:00"
-    },
-    {
       "image": "",
       "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
       "category": "海外IT",

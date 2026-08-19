@@ -1,0 +1,113 @@
+{
+  "date": "2026-08-20",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/dfdacb8c90351f7903e02e7513428efc8033f6a2/415_0_4161_3328/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "メタ社の元エンジニアが法廷で証言、子供の安全に関する懸念を隠蔽と指摘",
+      "summary": "メタ社の元安全エンジニアであるアルトゥーロ・ベハール氏が、同社が製品が子供に及ぼす潜在的な悪影響を認識していたと法廷で証言した。企業側の安全対策の不備について言及している。",
+      "impact": "大手IT企業が子供の安全保護を軽視しているという認識が広まり、プラットフォームに対する規制強化や監視の目がより厳しくなる可能性がある。",
+      "content_at": "2026-08-20T06:30:37.423134+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/37de885b117fb0be05649145d1f77f38290ba63e/648_0_6481_5185/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/zero-stars-for-this-endless-rating-game",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "オンライン評価システムや日常生活に関する短文投稿",
+      "summary": "オンライン上の評価システムや学校の休暇に関する詐欺、公共の場でのマナーなど、多岐にわたる話題についての短い投書が掲載された。読者からの身近な不満や意見が集約されている。",
+      "impact": "個別の事象に関する苦情が共有されることで、関連するサービスや社会的な慣習に対して議論が促される可能性がある。",
+      "content_at": "2026-08-20T06:30:37.423134+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/2d2bf6a0a79e431bc180d85adfa288a4ed336d11/598_0_3514_2814/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/18/meta-child-safety-addiction-lawsuit-states",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "米複数の州がメタ社を提訴、ティーンのSNS依存に関する研究の隠蔽を主張",
+      "summary": "米国の各州の司法長官らが、メタ社が若者に悪影響を及ぼす中毒性の高い製品を意図的に設計したと主張している。同社が研究結果を隠蔽していたという疑いで裁判が行われている。",
+      "impact": "若者のSNS利用とメンタルヘルスに関する法的責任の所在が問われており、SNS企業の運営方針や収益モデルに大きな転換を迫る可能性がある。",
+      "content_at": "2026-08-20T06:30:37.423134+09:00"
+    },
+    {
+      "image": "https://openrouter.ai/blog/images/openrouter-stripe.png",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "OpenRouterがStripeによる買収を発表",
+      "summary": "OpenRouterがStripeと統合することを発表した。ミッションや製品、ロードマップに変更はなく、現在の運営方針を継続するとしている。",
+      "impact": "両社の技術やサービスが連携することで、既存ユーザーの利用環境やAIサービス開発のインフラに影響を与える可能性がある。",
+      "content_at": "2026-08-20T06:30:37.423134+09:00"
+    },
+    {
+      "en_title": "Go 1.27",
+      "en_text": "Go 1.27",
+      "image": "",
+      "url": "https://go.dev/blog/go1.27",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "Go 1.27",
+      "summary": "Go 1.27",
+      "content_at": "2026-08-20T06:30:37.423134+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Unsloth Dynamic 3.0 GGUFs",
+      "en_text": "Unsloth Dynamic 3.0 GGUFs",
+      "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&amp;width=1200&amp;height=630&amp;sign=b1ca68fa&amp;sv=2",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "summary": "Unsloth Dynamic 3.0 GGUFs",
+      "content_at": "2026-08-20T06:30:37.423134+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "en_text": "How I returned a Cricut Maker back to service after Cricut remotely bricked the unit",
+      "image": "https://sprocketfox.io/xssfox/images/photo_2026-07-01%2013.48.56.jpeg",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "summary": "How I returned a Cricut Maker back to service after Cricut remotely bricked the unit",
+      "content_at": "2026-08-20T06:30:37.423134+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Router by Ramp",
+      "en_text": "One endpoint, one bill, every model — cut your AI costs by 40% on average. The missing piece to maximize ROI.",
+      "image": "https://router.com/og-3.webp",
+      "url": "https://router.com",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "Router by Ramp",
+      "summary": "One endpoint, one bill, every model — cut your AI costs by 40% on average. The missing piece to maximize ROI.",
+      "content_at": "2026-08-20T06:30:37.423134+09:00",
+      "pending": true
+    },
+    {
+      "image": "https://sprocketfox.io/xssfox/images/war.png",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-20T06:30:37.423134+09:00",
+      "title": "冗談で購入したドメインが地政学的対立の火種に",
+      "summary": "SondeHub.orgというドメインを所有する筆者のもとに、軍や占い師から連絡が届いている。このドメインを巡る状況が地政学的な問題へと発展している。",
+      "impact": "個人が所有するドメインの運用が、予期せず国家レベルの関心事や対立に巻き込まれる可能性がある。インターネット上のドメイン管理に伴う責任やリスクが浮き彫りになるものとみられる。",
+      "content_at": "2026-08-20T06:30:37.423134+09:00"
+    }
+  ],
+  "updated_at": "2026-08-20T06:30:37.423134+09:00"
+}
