@@ -46,56 +46,48 @@
       "content_at": "2026-08-20T06:30:37.423134+09:00"
     },
     {
-      "en_title": "Go 1.27",
-      "en_text": "Go 1.27",
       "image": "",
       "url": "https://go.dev/blog/go1.27",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-08-20T06:30:37.423134+09:00",
-      "title": "Go 1.27",
-      "summary": "Go 1.27",
-      "content_at": "2026-08-20T06:30:37.423134+09:00",
-      "pending": true
+      "title": "Go 1.27のリリース",
+      "summary": "プログラミング言語Goのバージョン1.27が公開された。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00",
+      "impact": "開発環境の更新や新機能の活用が進む可能性がある。"
     },
     {
-      "en_title": "Unsloth Dynamic 3.0 GGUFs",
-      "en_text": "Unsloth Dynamic 3.0 GGUFs",
       "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&amp;width=1200&amp;height=630&amp;sign=b1ca68fa&amp;sv=2",
       "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-08-20T06:30:37.423134+09:00",
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "summary": "Unsloth Dynamic 3.0 GGUFs",
-      "content_at": "2026-08-20T06:30:37.423134+09:00",
-      "pending": true
+      "title": "Unsloth Dynamic 3.0 GGUFのリリース",
+      "summary": "Unsloth Dynamic 3.0 GGUF形式が公開された。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00",
+      "impact": "AIモデルの実行効率や導入の利便性が向上する可能性がある。"
     },
     {
-      "en_title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "en_text": "How I returned a Cricut Maker back to service after Cricut remotely bricked the unit",
       "image": "https://sprocketfox.io/xssfox/images/photo_2026-07-01%2013.48.56.jpeg",
       "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-08-20T06:30:37.423134+09:00",
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "summary": "How I returned a Cricut Maker back to service after Cricut remotely bricked the unit",
-      "content_at": "2026-08-20T06:30:37.423134+09:00",
-      "pending": true
+      "title": "使用不能になったCricut Makerの復旧",
+      "summary": "メーカーによる遠隔ロックで動作しなくなったCricut Makerを復旧させる手法が公開された。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00",
+      "impact": "電子機器の遠隔ロックや製品寿命の管理に関する議論を呼ぶ可能性がある。"
     },
     {
-      "en_title": "Router by Ramp",
-      "en_text": "One endpoint, one bill, every model — cut your AI costs by 40% on average. The missing piece to maximize ROI.",
       "image": "https://router.com/og-3.webp",
       "url": "https://router.com",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-08-20T06:30:37.423134+09:00",
-      "title": "Router by Ramp",
-      "summary": "One endpoint, one bill, every model — cut your AI costs by 40% on average. The missing piece to maximize ROI.",
-      "content_at": "2026-08-20T06:30:37.423134+09:00",
-      "pending": true
+      "title": "AIコスト削減ツール「Router by Ramp」",
+      "summary": "複数のAIモデルを一つのエンドポイントで利用し、コストを平均40％削減するサービス「Router by Ramp」が発表された。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00",
+      "impact": "企業のAI利用におけるコスト効率の改善が進み、投資対効果が高まると考えられる。"
     },
     {
       "image": "https://sprocketfox.io/xssfox/images/war.png",
@@ -162,7 +154,73 @@
       "summary": "Googleは、特定のソースコードにおけるGitタグの配布方法をGoogleドライブ経由に変更した。この変更が一部のソースコードに対して実施された。",
       "impact": "ソースコードの管理体制や配布経路が変わることで、外部開発者や利用者の環境構築手順に影響が出る可能性がある。",
       "content_at": "2026-08-20T13:30:40.959748+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ee6f7fe3bc02cf3ea2f57cb564e6817ac817e119/468_0_4680_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/20/tell-us-have-you-slowed-down-your-smart-tv-or-bought-an-older-model",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-20T21:30:39.256534+09:00",
+      "title": "スマートテレビの機能を制限したり古いモデルに買い替えたりした経験について",
+      "summary": "スマートテレビの機能を無効化している人や、インターネット接続を断っている人、あるいはシンプルで古いテレビを選択している人を対象に体験談を募集している。",
+      "impact": "プライバシーへの懸念や技術的煩雑さから、一部ユーザーがデジタル機器の利用を抑制する傾向を浮き彫りにする可能性がある。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00"
+    },
+    {
+      "image": "https://dontpastetheai.com/assets/og-image.png",
+      "url": "https://dontpastetheai.com/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-20T21:30:39.256534+09:00",
+      "title": "AIの回答をそのまま貼り付けないで",
+      "summary": "誰かから質問を受けた際、チャットボットの回答をそのまま貼り付けるのではなく、自分の言葉で答えるよう呼びかけている。",
+      "impact": "対人コミュニケーションにおけるAIの利用方法について、個人の思考や誠実さが重視されるきっかけになる可能性がある。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-20T21:30:39.256534+09:00",
+      "title": "AliExpressがWebAudioフィンガープリントによりBluetoothマルチポイントを無効化する事象",
+      "summary": "AliExpressがサイト上で実行しているWebAudioフィンガープリントの技術が、Bluetooth機器のマルチポイント接続を阻害している。",
+      "impact": "Webサイトのトラッキング技術がユーザーのハードウェア利用に干渉することで、利便性の低下を招く可能性がある。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00"
+    },
+    {
+      "image": "https://franciscotrindade.me/blog-images/the-kids-are-really-alright.png",
+      "url": "https://franciscotrindade.me/blog/the-kids-are-really-alright/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-20T21:30:39.256534+09:00",
+      "title": "AIはジュニアエンジニアの価値を消去したのではなく向上させた",
+      "summary": "AIがジュニアエンジニアの価値を失わせたとする論説に対し、実際にはその価値を高めたと主張している。",
+      "impact": "AI導入が雇用や職務内容に与える影響について、若手技術者の役割を再定義する議論を活発化させる可能性がある。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00"
+    },
+    {
+      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-20T21:30:39.256534+09:00",
+      "title": "Windows 95のホログラムを巡る反応",
+      "summary": "Windows 95のパッケージ側面に施された海賊版防止用ホログラムについて述べられている。何らかの行動に対し誰かしらが不快感を抱く状況について触れている。",
+      "impact": "製品のデザインや仕様が予期せず人々に特定の印象を与える可能性を示唆している。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00"
+    },
+    {
+      "image": "https://simedw.com/2026/08/20/midi-autocomplete/images/rolltab_phone.jpg",
+      "url": "https://simedw.com/2026/08/20/midi-autocomplete/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-20T21:30:39.256534+09:00",
+      "title": "ピアノ演奏の自動補完を行う小型AIモデル",
+      "summary": "125Mパラメータのモデルを用いて、デバイス上でピアノのMIDI演奏をリアルタイムに自動補完する試みについてである。小型のトランスフォーマーモデルがこのタスクをこなせるかが問われている。",
+      "impact": "デバイス上で動作する軽量な音楽支援AIの実用化に向けた技術的進歩につながる可能性がある。",
+      "content_at": "2026-08-20T21:30:39.256534+09:00"
     }
   ],
-  "updated_at": "2026-08-20T13:30:40.959748+09:00"
+  "updated_at": "2026-08-20T21:30:39.256534+09:00"
 }
