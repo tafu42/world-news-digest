@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-21",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/092980621b33770617e1cd5770cc6ae9ff39734f/121_0_4680_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/20/piracy-fears-prompt-calls-for-ban-on-meta-smart-glasses-in-uk-cinemas",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "英国の映画館、Metaのスマートグラスを盗撮懸念で禁止検討",
+      "summary": "Metaのスマートグラスが盗撮に利用される懸念があるとして、英国の映画業界団体が対応を検討している。業界は技術導入の利点と盗撮防止のバランスを模索している。",
+      "impact": "今後、公共施設や娯楽施設においてウェアラブルデバイスの利用規約や持ち込み制限が厳格化される可能性がある。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/97c70a6b185a61783623194a6c08e38ab9881a23/0_0_3000_2400/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "AI採用ツールの普及で差別や秘密保持を巡る訴訟が増加",
+      "summary": "雇用判断におけるAI導入の拡大に伴い、差別や採用プロセスの不透明さを問う訴訟が増えている。企業によるAIの活用が雇用や解雇のあり方に疑問を投げかけている。",
+      "impact": "AIによる採用プロセスの透明性や公平性を求める議論が活発化し、AI利用に関する新たな規制やガイドラインが策定される可能性がある。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/8d7f03d88b7b8112881e3e6bddd3dfbe85bd8099/531_0_4679_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/unitree-shares-surge-humanoid-robot-firm-chinese-stock-market-debut",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "人型ロボット企業Unitree、中国市場への上場で株価が600%急騰",
+      "summary": "人型ロボットメーカーのUnitreeが中国の株式市場に上場し、株価が600%上昇した。同社のロボットは武術やダンスを披露する動画で世界的に知名度を得ている。",
+      "impact": "人型ロボット市場への投資家からの関心が高まっており、今後ロボットの実用化に向けた開発競争がさらに加速するとみられる。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "/opengraph-image.jpg",
+      "url": "https://www.danielvaughn.dev/posts/huzzah/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "AIを活用した新しいコーディング手法「Huzzah」が公開",
+      "summary": "AIを用いた新しいプログラミング手法「Huzzah」が「Show HN」にて紹介された。",
+      "impact": "この手法が普及すれば、ソフトウェア開発の生産性が向上し、プログラミングのワークフローが変化する可能性がある。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!KGpc!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F56ced727-423b-4a20-b330-8769c728da1c_1146x1623.jpeg",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "英語教師への謝罪",
+      "summary": "英語の教師たちに対する謝罪を綴った記事である。",
+      "impact": "個人の回想録として読まれると考えられる。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "https://github.blog/wp-content/uploads/2026/01/generic-github-logo-left.png",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "8月17日のシステム障害と今後の対策",
+      "summary": "8月17日に発生したシステム障害に関する更新情報と、信頼性向上のための取り組みについて説明している。",
+      "impact": "サービス利用者の信頼回復に向けた手順が示されており、今後の安定稼働に寄与する可能性がある。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "https://consumerrights.wiki/thumb.php?f=Wemo-banner.jpg&amp;width=1200",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "消費者権利Wikiの紹介",
+      "summary": "修理する権利の制限や計画的陳腐化など、消費者に不利益な慣行を記録するコミュニティ主導のWikiである。",
+      "impact": "消費者が不当な慣行についての知識を得ることで、メーカー側の対策や法規制の見直しにつながる可能性がある。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-21T06:30:34.776645+09:00",
+      "title": "生物学を愛するべきだった（2020年）",
+      "summary": "2020年に書かれた、生物学に関する個人の回顧録である。",
+      "impact": "読者個人の学習への関心や振り返りに影響を与える可能性がある。",
+      "content_at": "2026-08-21T06:30:34.776645+09:00"
+    }
+  ],
+  "updated_at": "2026-08-21T06:30:34.776645+09:00"
+}
