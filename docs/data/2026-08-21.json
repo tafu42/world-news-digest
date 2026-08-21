@@ -143,7 +143,84 @@
       "summary": "Rustのライブラリ「arrayref」のリリースに、タイプスクワッティングされたproc-macro1が含まれていた。このパッケージのビルドスクリプトは、コンパイル時にリモートのバイナリをダウンロードし実行する。",
       "impact": "開発環境が攻撃者に制御される可能性があるため、Rust開発者は依存関係の確認や更新の徹底が求められるとみられる。",
       "content_at": "2026-08-21T13:30:39.854742+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b077a54e894dfbd6933477543af97c8c2753a0ef/176_220_1025_820/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/21/ralph-land-obituary",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-21T21:30:40.515016+09:00",
+      "title": "ラルフ・ランド氏の訃報",
+      "summary": "1950年代にレオ・ビジネス・コンピュータの開発チームの一員を務めたラルフ・ランド氏が死去した。",
+      "impact": "初期のコンピュータ開発の歴史を支えた技術者の功績が改めて振り返られることになる。",
+      "content_at": "2026-08-21T21:30:40.515016+09:00"
+    },
+    {
+      "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+      "url": "https://api-docs.deepseek.com/guides/vision/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-21T21:30:40.515016+09:00",
+      "title": "マルチモーダルAIモデル「DeepSeek-v4-flash-vision-exp」の概要",
+      "summary": "DeepSeek-v4-flash-vision-expは画像とテキストを同時に入力可能なモデルである。画像の説明、スクリーンショット内の文字読み取り、グラフ分析などの機能を提供する。",
+      "impact": "画像解析業務の効率化や自動化が進む可能性がある。",
+      "content_at": "2026-08-21T21:30:40.515016+09:00"
+    },
+    {
+      "image": "https://annas-archive.gl/blog/duxiu-examples/1.jpg",
+      "url": "https://annas-archive.pk/blog/physical-destruction.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-21T21:30:40.515016+09:00",
+      "title": "AI企業による書籍破壊への懸念と電子化の呼びかけ",
+      "summary": "AI企業が学習データとして書籍をスキャン後に破壊しており、知識が企業側に独占されているという懸念が出ている。アンナズ・アーカイブは貴重な書籍が失われる前にボランティアによるスキャンとアップロードを求めている。",
+      "impact": "紙の書籍のアーカイブ化や、著作権および知識の公共性に関する議論が活発化する可能性がある。",
+      "content_at": "2026-08-21T21:30:40.515016+09:00"
+    },
+    {
+      "image": "https://ixuvo.com/api/pb/api/files/posts/huy107e0jp78h5b/tigerbeetle_core_system_architecture_performance_engineering_cover_rsy2ravvpk.jpg",
+      "url": "https://ixuvo.com/blog/tigerbeetle-core-system-architecture-performance-engineering",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-21T21:30:40.515016+09:00",
+      "title": "TigerBeetleのコアシステムアーキテクチャ分析",
+      "summary": "TigerBeetleのパフォーマンスエンジニアリングに関する詳細な技術分析が公開された。",
+      "impact": "分散データベースや金融システムを設計するエンジニアにとって、実装の参考資料となる可能性がある。",
+      "content_at": "2026-08-21T21:30:40.515016+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://htmlcat.net/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-21T21:30:40.515016+09:00",
+      "title": "覚えておきたいHTML・CSS・JavaScriptの小技集",
+      "summary": "HTML、CSS、JavaScriptに関する便利でコンパクトな機能のメモをまとめたものである。",
+      "impact": "Web開発者がこれらの手法を活用することで、実装の効率化やコードの簡潔化が進む可能性がある。",
+      "content_at": "2026-08-21T21:30:40.515016+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/44/bd/44bde490-d49a-4b74-9f0c-24be597e5294/content/images/size/w1200/2026/08/Pirates-Merchant-1.png",
+      "url": "https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-21T21:30:40.515016+09:00",
+      "title": "「Sid Meier's Pirates!」の失われた財宝",
+      "summary": "ゲーム「Sid Meier's Pirates!」のファンが、リリースから40年を迎えた同作品について振り返っている。",
+      "impact": "長期的なファンによるレビューや振り返りは、往年のゲームタイトルの歴史的価値を再認識させるきっかけになるとみられる。",
+      "content_at": "2026-08-21T21:30:40.515016+09:00"
+    },
+    {
+      "image": "https://encore.dev/assets/blog/card/crackling-microvms-card.png",
+      "url": "https://encore.dev/blog/firecracker-apple-silicon",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-21T21:30:40.515016+09:00",
+      "title": "Appleシリコン上でのLinux MicroVMスタックの再構築",
+      "summary": "Firecrackerの制限を克服するため、AppleのVirtualization.frameworkを用いてLinuxとmacOSの両方で同じOCIイメージを起動できるようスタックを再構築した。",
+      "impact": "この開発により、macOS環境下でもLinuxベースのMicroVMと同様の開発ワークフローが利用可能になる可能性がある。",
+      "content_at": "2026-08-21T21:30:40.515016+09:00"
     }
   ],
-  "updated_at": "2026-08-21T13:30:39.854742+09:00"
+  "updated_at": "2026-08-21T21:30:40.515016+09:00"
 }
