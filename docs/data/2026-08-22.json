@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-22",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/ee6f7fe3bc02cf3ea2f57cb564e6817ac817e119/468_0_4680_3744/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/20/tell-us-have-you-slowed-down-your-smart-tv-or-bought-an-older-model",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-22T06:30:39.717091+09:00",
+      "title": "スマートテレビの機能を制限・旧型へ回帰したユーザーへの調査",
+      "summary": "スマートテレビの機能を無効化したり、インターネット接続を断ったり、古いシンプルなテレビを選択したりしているユーザーの体験談を募集している。これらを選択した人々の声を収集することを目的としている。",
+      "impact": "スマートデバイスへの依存やプライバシー懸念を抱える層の動向が明らかになることで、メーカー側の製品設計や機能提供のあり方に影響を与える可能性がある。",
+      "content_at": "2026-08-22T06:30:39.717091+09:00"
+    },
+    {
+      "image": "https://bandarlabs.github.io/Cobalt/media/site/og-card.jpg",
+      "url": "https://bandarlabs.github.io/Cobalt/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-22T06:30:39.717091+09:00",
+      "title": "Koboがアプリ実行に対応",
+      "summary": "電子書籍リーダー「Kobo Clara BW」において、ランチャーやアプリストア、Rust SDKなどを用いたアプリの実行環境が提供された。一度USB経由でインストールすれば、以降のアップデートはWi-Fi経由で行われる。",
+      "impact": "既存の電子書籍リーダーに汎用的なアプリ機能が拡張されることで、デバイスの用途が広がり、カスタマイズを好むユーザーコミュニティが活性化する可能性がある。",
+      "content_at": "2026-08-22T06:30:39.717091+09:00"
+    },
+    {
+      "image": "https://www.felonybench.com/og-chart.png",
+      "url": "https://www.felonybench.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-22T06:30:39.717091+09:00",
+      "title": "AIの意思決定を評価する「Felony Bench」",
+      "summary": "AIエージェントによる不適切な判断の回数をカウントするベンチマーク「Felony Bench」が登場した。今後はパンデミックに特化したベンチマークの必要性も指摘されている。",
+      "impact": "AIの安全性や倫理性に対する評価基準が具体化されることで、AIモデルの開発における監視や品質管理がより厳格化されるとみられる。",
+      "content_at": "2026-08-22T06:30:39.717091+09:00"
+    },
+    {
+      "image": "https://newscenter.lbl.gov/wp-content/uploads/2026/08/Newscenter_Feature_1400px-DR11-M96_DECam_TAR-CC9.jpg",
+      "url": "https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-22T06:30:39.717091+09:00",
+      "title": "科学者が最大規模の宇宙2Dマップを公開",
+      "summary": "科学者チームがこれまでで最大規模となる宇宙の2Dマップを公開した。",
+      "impact": "宇宙の広がりを詳細に可視化することで、天文学や宇宙論の研究が大きく進展し、宇宙の構造に関する理解が深まると考えられる。",
+      "content_at": "2026-08-22T06:30:39.717091+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-22T06:30:39.717091+09:00",
+      "title": "AIの使用で宿題の成績は向上するも、試験の成績は低下したとの研究結果",
+      "summary": "AIの活用が宿題のスコアを押し上げた一方で、試験の成績低下を招いたという研究結果が示された。",
+      "impact": "学習プロセスにおけるAI利用の是非や、教育現場での適切な活用方法についての議論が活発化する可能性がある。",
+      "content_at": "2026-08-22T06:30:39.717091+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://kagi.com/changelog#11296",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-22T06:30:39.717091+09:00",
+      "title": "検索エンジン「Kagi」、ペイウォール付きリンクを除外する設定を追加",
+      "summary": "検索エンジンKagiは、検索結果からペイウォールによって有料化されたサイトへのリンクを除外できる新しい設定を追加した。",
+      "impact": "ユーザーは検索効率を向上させることができるが、メディア側にとってはペイウォールコンテンツの露出減少に繋がる可能性がある。",
+      "content_at": "2026-08-22T06:30:39.717091+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-22T06:30:39.717091+09:00",
+      "title": "米国国境で携帯電話のデータを消去した市民に重罪の容疑",
+      "summary": "米国国境において、携帯電話内のデータを消去したある市民が重罪に問われる事態となった。",
+      "impact": "国境警備におけるデータ捜査の権限やプライバシー保護のあり方について、法的観点から議論が深まる可能性がある。",
+      "content_at": "2026-08-22T06:30:39.717091+09:00"
+    }
+  ],
+  "updated_at": "2026-08-22T06:30:39.717091+09:00"
+}
