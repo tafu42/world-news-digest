@@ -88,7 +88,62 @@
       "summary": "2020年に書かれた、生物学に関する個人の回顧録である。",
       "impact": "読者個人の学習への関心や振り返りに影響を与える可能性がある。",
       "content_at": "2026-08-21T06:30:34.776645+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/dfdacb8c90351f7903e02e7513428efc8033f6a2/415_0_4161_3328/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/meta-safety-trial-whistleblower-testimony",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-21T13:30:39.854742+09:00",
+      "title": "Metaの元エンジニアが法廷で証言、子供の安全に関する懸念をザッカーバーグ氏が隠蔽と主張",
+      "summary": "元Metaの安全エンジニアであるアルトゥーロ・ベジャール氏が、同社は製品が子供に与える悪影響を認識していたと陪審員に証言した。これはMetaに対する重要な裁判の一環である。",
+      "impact": "SNS企業における子供の安全保護責任が問われる議論が深まり、規制強化や企業の対応見直しが求められる可能性がある。",
+      "content_at": "2026-08-21T13:30:39.854742+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/37de885b117fb0be05649145d1f77f38290ba63e/648_0_6481_5185/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/19/zero-stars-for-this-endless-rating-game",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-21T13:30:39.854742+09:00",
+      "title": "オンライン評価や詐欺などに関する短評",
+      "summary": "オンライン評価の仕組みや学校の休暇期間中の詐欺、その他の日常的なトピックに関する短い読者投稿である。",
+      "impact": "個々の話題に関心を持つ層に対して、消費者意識の啓発や社会問題への注意喚起につながる可能性がある。",
+      "content_at": "2026-08-21T13:30:39.854742+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/b27b65eaa4902295d0953058722f3cfc268ba685c94c29e91e445c8495544eb9/openai/codex/issues/37674",
+      "url": "https://github.com/openai/codex/issues/37674",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-21T13:30:39.854742+09:00",
+      "title": "AWS BedrockのCodexでバグが発生し利用料金が10倍に",
+      "summary": "Amazon BedrockのCodex CLIでGPT-5.6のプロンプトキャッシングが適用されず、エージェント型のコーディング作業において大量のキャッシュ書き込みトークンが発生している。",
+      "impact": "同様の環境を利用している企業が予期せぬ高額請求を受けるリスクがあり、AWS側での早急な修正や補償対応が求められると考えられる。",
+      "content_at": "2026-08-21T13:30:39.854742+09:00"
+    },
+    {
+      "image": "https://chrisburnell.com/images/favicon-256.png",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-21T13:30:39.854742+09:00",
+      "title": "JavaScript不要、HTMLで実現可能な機能の紹介",
+      "summary": "かつてはJavaScriptが必要だった動的な機能の多くが、現在ではHTMLのみで実装可能であることを示すリストが公開された。",
+      "impact": "Web開発の効率化やフロントエンド実装の簡素化が進み、開発者が選択する技術構成に変化をもたらす可能性がある。",
+      "content_at": "2026-08-21T13:30:39.854742+09:00"
+    },
+    {
+      "image": "https://safedep.io/images/arrayref-blog-blanner.png",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-21T13:30:39.854742+09:00",
+      "title": "Rustのライブラリ「arrayref」に悪意あるコードが混入",
+      "summary": "Rustのライブラリ「arrayref」のリリースに、タイプスクワッティングされたproc-macro1が含まれていた。このパッケージのビルドスクリプトは、コンパイル時にリモートのバイナリをダウンロードし実行する。",
+      "impact": "開発環境が攻撃者に制御される可能性があるため、Rust開発者は依存関係の確認や更新の徹底が求められるとみられる。",
+      "content_at": "2026-08-21T13:30:39.854742+09:00"
     }
   ],
-  "updated_at": "2026-08-21T06:30:34.776645+09:00"
+  "updated_at": "2026-08-21T13:30:39.854742+09:00"
 }
