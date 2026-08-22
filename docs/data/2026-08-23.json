@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-23",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/b077a54e894dfbd6933477543af97c8c2753a0ef/176_220_1025_820/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/21/ralph-land-obituary",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-23T06:30:42.342105+09:00",
+      "title": "ラルフ・ランド氏の訃報",
+      "summary": "1950年代にビジネス用コンピュータ「Leo」の開発チームの一員であったラルフ・ランド氏が死去した。",
+      "impact": "コンピュータ史における初期の先駆者の一人が失われたといえる。",
+      "content_at": "2026-08-23T06:30:42.342105+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lapcatsoftware.com/articles/2026/8/7.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-23T06:30:42.342105+09:00",
+      "title": "macOS 27 Golden Gateでhdiutilが非推奨に",
+      "summary": "macOS 27 Golden Gateにおいて、hdiutilコマンドが非推奨となった。",
+      "impact": "開発者やシステム管理者は、関連するワークフローやスクリプトの移行を検討する必要が生じる可能性がある。",
+      "content_at": "2026-08-23T06:30:42.342105+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1904271714370158592/N1nB2x1O_400x400.jpg",
+      "url": "https://twitter.com/moxie/status/2091218652133732491",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-23T06:30:42.342105+09:00",
+      "title": "「Scrap」と題された2006年頃の日記",
+      "summary": "執筆者が2006年頃に書いたと思われる「Scrap」というタイトルの古い日記が見つかった。日記には西海岸からピッツバーグへ移住した際、冬を楽しみにしていた様子が綴られている。",
+      "impact": "個人の過去の記録の共有という以上の社会的な影響は特にない。",
+      "content_at": "2026-08-23T06:30:42.342105+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mail-index.netbsd.org/netbsd-advocacy/2005/09/10/0000.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-23T06:30:42.342105+09:00",
+      "title": "NetBSDと私の人生（2005年）",
+      "summary": "2005年に執筆された「NetBSDと私の人生」という記事である。",
+      "impact": "当時のOSや技術コミュニティの状況を振り返る資料として活用される可能性がある。",
+      "content_at": "2026-08-23T06:30:42.342105+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://quantumi.sh/public/labs.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-23T06:30:42.342105+09:00",
+      "title": "ElevenLabs、TwelveLabs、ThirteenLabsについて",
+      "summary": "ElevenLabs、TwelveLabs、ThirteenLabsという名称が列挙されている。これらに関する説明は記載されていない。",
+      "impact": "記載がないため、社会への具体的な影響は不明である。",
+      "content_at": "2026-08-23T06:30:42.342105+09:00"
+    },
+    {
+      "image": "https://hister.org/logo.png",
+      "url": "https://hister.org/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-23T06:30:42.342105+09:00",
+      "title": "プライベート検索エンジン「Hister」",
+      "summary": "Histerは、閲覧したページや保存したファイルを対象とする自己ホスト型のプライベート検索エンジンである。Webやターミナル、コマンドラインなどから検索を行うことができる。",
+      "impact": "個人のデータ管理におけるプライバシー保護の手段として利用される可能性がある。また、ローカル環境での情報検索効率が向上すると考えられる。",
+      "content_at": "2026-08-23T06:30:42.342105+09:00"
+    },
+    {
+      "image": "https://level1techs.us-east-1.linodeobjects.com/original/4X/d/8/7/d87c01532439840126d90ea94abfdfcf6501f42f.png",
+      "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-23T06:30:42.342105+09:00",
+      "title": "ローカルLLMが期待外れに感じる理由",
+      "summary": "高性能と評判のLLMを導入した際に期待との乖離を感じる現象について、技術的な実験を通じて解説しようとする記事である。ユーザーが量子化されたモデルを使用する際によくある問題を取り上げている。",
+      "impact": "ローカルLLMを利用するユーザーが、モデルの性能を正しく評価・活用するための知識を得る一助になるとみられる。今後、より適切なモデル運用方法が普及する可能性がある。",
+      "content_at": "2026-08-23T06:30:42.342105+09:00"
+    }
+  ],
+  "updated_at": "2026-08-23T06:30:42.342105+09:00"
+}

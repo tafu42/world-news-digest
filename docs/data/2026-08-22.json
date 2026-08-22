@@ -2,17 +2,6 @@
   "date": "2026-08-22",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/ee6f7fe3bc02cf3ea2f57cb564e6817ac817e119/468_0_4680_3744/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/20/tell-us-have-you-slowed-down-your-smart-tv-or-bought-an-older-model",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-22T06:30:39.717091+09:00",
-      "title": "スマートテレビの機能を制限・旧型へ回帰したユーザーへの調査",
-      "summary": "スマートテレビの機能を無効化したり、インターネット接続を断ったり、古いシンプルなテレビを選択したりしているユーザーの体験談を募集している。これらを選択した人々の声を収集することを目的としている。",
-      "impact": "スマートデバイスへの依存やプライバシー懸念を抱える層の動向が明らかになることで、メーカー側の製品設計や機能提供のあり方に影響を与える可能性がある。",
-      "content_at": "2026-08-22T06:30:39.717091+09:00"
-    },
-    {
       "image": "https://bandarlabs.github.io/Cobalt/media/site/og-card.jpg",
       "url": "https://bandarlabs.github.io/Cobalt/",
       "category": "海外IT",
