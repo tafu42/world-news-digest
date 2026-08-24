@@ -110,7 +110,62 @@
       "summary": "カスペルスキーの専門家が、広告配信とプロキシボットネットの構築を行うAndroidマルウェアを発見した。このマルウェアは、DoFunヘッドユニット向けの正規ソフトウェアを通じて配布されていた。",
       "impact": "対象の車載機器を使用するユーザーにおいて、予期せぬ広告表示や通信リソースの悪用が発生する可能性がある。車載システムに対するセキュリティ対策の重要性が高まるとみられる。",
       "content_at": "2026-08-24T06:30:38.808124+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b077a54e894dfbd6933477543af97c8c2753a0ef/176_220_1025_820/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/21/ralph-land-obituary",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-24T13:30:40.246459+09:00",
+      "title": "ラルフ・ランド氏の訃報",
+      "summary": "1950年代にビジネス用コンピュータ「Leo」の開発チームの一員だったラルフ・ランド氏が死去した。",
+      "impact": "コンピュータ技術の黎明期を支えた技術者の功績が改めて振り返られると考えられる。",
+      "content_at": "2026-08-24T13:30:40.246459+09:00"
+    },
+    {
+      "image": "https://schlarp.com/posts/everything-i-own-owned/webcam.jpg",
+      "url": "https://schlarp.com/posts/everything-i-own-owned/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-24T13:30:40.246459+09:00",
+      "title": "USBおよびWi-Fi周辺機器のファームウェアにおける脆弱性の発見",
+      "summary": "AIモデル「Claude」を用いて5つのUSB・Wi-Fi周辺機器のファームウェアを解析した結果、マイクのコマンドシェルへのアクセスや、ウェブカメラのLED無効化、ネットワーク経由での未認証メモリー書き込みなどの脆弱性が発見された。",
+      "impact": "対象機器のセキュリティ対策の見直しが急務となり、同様の製品における脆弱性調査が促進される可能性がある。",
+      "content_at": "2026-08-24T13:30:40.246459+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-24T13:30:40.246459+09:00",
+      "title": "Anthropicの高性能AIモデルが普及に苦戦",
+      "summary": "Anthropicの最上位AIモデルが、安価な代替ツールとの競争においてユーザーの獲得に苦戦している。",
+      "impact": "AI市場において高性能モデルのコストパフォーマンスが改めて問われ、低価格かつ効率的なサービスへの需要が強まるとみられる。",
+      "content_at": "2026-08-24T13:30:40.246459+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_400x400.jpg",
+      "url": "https://www.hanselman.com/blog/migrating-a-synology-nas-to-a-unifi-unas-pro-8-with-robocopy-smb-multichannel-and-surprising-performance-traps",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-24T13:30:40.246459+09:00",
+      "title": "Synology NASからUniFi UNAS Pro 8への移行",
+      "summary": "長年使用してきたSynology製のNASから、UniFi UNAS Pro 8への移行を開始した。",
+      "impact": "NASのストレージ環境を移行する際の技術的な知見が、同様の機器を利用するユーザーにとって参考になる可能性がある。",
+      "content_at": "2026-08-24T13:30:40.246459+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.elis.cc/articles/google-workspace-thinks-my-domain-is-an-email-provider/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-24T13:30:40.246459+09:00",
+      "title": "Google Workspaceが自身のドメインをメールプロバイダーと誤認識する事象（2025年）",
+      "summary": "Google Workspaceが特定のドメインをメールプロバイダーとして誤って認識しているという報告が挙がっている。2025年現在の事象である。",
+      "impact": "対象のドメインを使用しているユーザーのメール送受信設定や管理に支障をきたす可能性がある。Google側での修正が行われるまで、該当するドメイン運用に混乱が生じるとみられる。",
+      "content_at": "2026-08-24T13:30:40.246459+09:00"
     }
   ],
-  "updated_at": "2026-08-24T06:30:38.808124+09:00"
+  "updated_at": "2026-08-24T13:30:40.246459+09:00"
 }
