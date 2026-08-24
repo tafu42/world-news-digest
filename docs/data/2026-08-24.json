@@ -165,7 +165,73 @@
       "summary": "Google Workspaceが特定のドメインをメールプロバイダーとして誤って認識しているという報告が挙がっている。2025年現在の事象である。",
       "impact": "対象のドメインを使用しているユーザーのメール送受信設定や管理に支障をきたす可能性がある。Google側での修正が行われるまで、該当するドメイン運用に混乱が生じるとみられる。",
       "content_at": "2026-08-24T13:30:40.246459+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/513eff10745ff3f15e5c5566f2e2f143224f7282/1115_401_4804_3843/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-24T21:30:43.013625+09:00",
+      "title": "Fairphone 6+のレビュー：修理しやすく倫理的なスマホが高速化",
+      "summary": "オランダの持続可能なスマートフォン「Fairphone」の新モデルが、モジュール設計を維持したままチップとRAMを強化した。修理のしやすさと倫理的な生産体制という特徴を継承している。",
+      "impact": "修理可能な電子機器の選択肢が広がることで、消費者の買い替えサイクルが長期化し、電子廃棄物の削減に寄与する可能性がある。",
+      "content_at": "2026-08-24T21:30:43.013625+09:00"
+    },
+    {
+      "image": "http://proofcraft.systems/proofcraft.png",
+      "url": "https://proofcraft.systems/news-2026/#2026-08-21",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-24T21:30:43.013625+09:00",
+      "title": "SeL4のセキュリティ証明がAArch64で完了",
+      "summary": "マイクロカーネル「seL4」のセキュリティに関する数学的証明が、AArch64アーキテクチャ上で完了した。",
+      "impact": "高信頼性が求められる組み込みシステムやサーバーにおいて、セキュリティの脆弱性を低減できるとみられる。",
+      "content_at": "2026-08-24T21:30:43.013625+09:00"
+    },
+    {
+      "image": "https://omarchy.org/assets/images/social.png",
+      "url": "https://omarchy.org/news/2026/08/omacom-foundation-funding-hits-10m/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-24T21:30:43.013625+09:00",
+      "title": "Omacom財団の資金調達額が1,000万ドルに到達",
+      "summary": "ドリュー・ヒューストンとピーター・スタインバーガーが設立パトロンとして参画し、Omacom財団への総調達額が1,000万ドルに達した。",
+      "impact": "財団の資金力向上により、同財団が推進する活動や研究開発が加速する可能性がある。",
+      "content_at": "2026-08-24T21:30:43.013625+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1824002576/pg-railsconf_400x400.jpg",
+      "url": "https://twitter.com/paulg/status/2091544343589060625",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-24T21:30:43.013625+09:00",
+      "title": "17歳に戻れるなら、LLMの自作を学ぶ",
+      "summary": "もし17歳に戻れるならば、LLM（大規模言語モデル）の構築方法を基礎から学び、手に入るハードウェアを使って可能な限り強力なモデルを訓練すると語った。",
+      "impact": "AI技術の急速な進展において、LLMの仕組みを深く理解するスキルが将来の技術キャリアにおいて極めて重要になると示唆されている。",
+      "content_at": "2026-08-24T21:30:43.013625+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://learn.omacom.io/3/omacom/76/omakase-computing",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-24T21:30:43.013625+09:00",
+      "title": "おまかせコンピューティング",
+      "summary": "「おまかせコンピューティング」という概念について言及されている。",
+      "impact": "この概念が普及することで、ITシステムの運用効率化や利用者の負担軽減につながる可能性がある。",
+      "content_at": "2026-08-24T21:30:43.013625+09:00"
+    },
+    {
+      "image": "https://medicine.washu.edu/app/uploads/2026/08/20240918_GordonLab_0038.jpg",
+      "url": "https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-24T21:30:43.013625+09:00",
+      "title": "FDA、アルツハイマー病の評価を支援する血液検査を承認",
+      "summary": "米食品医薬品局（FDA）が、アルツハイマー病の評価を支援する血液バイオマーカー検査を承認した。この検査はワシントン大学医学部のランドール・ベイトマン医師とデビッド・ホルツマン医師らが開発した技術に基づいている。",
+      "impact": "低侵襲かつ簡便な診断手法が普及することで、アルツハイマー病の早期発見や診療体制の効率化に貢献する可能性がある。",
+      "content_at": "2026-08-24T21:30:43.013625+09:00"
     }
   ],
-  "updated_at": "2026-08-24T13:30:40.246459+09:00"
+  "updated_at": "2026-08-24T21:30:43.013625+09:00"
 }
