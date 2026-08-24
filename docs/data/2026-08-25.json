@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-25",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-25T06:30:35.663080+09:00",
+      "title": "OpenAI幹部がAIによるサイバー攻撃の脅威に警鐘",
+      "summary": "OpenAIのクリス・レヘイン氏は、持続的なAIサイバー攻撃の脅威に対し、新たな安全基準を導入する必要があると述べた。批評家からはAI企業が「無謀」に行動しているとの批判が上がっている。",
+      "impact": "AI技術の急速な発展に伴い、セキュリティ強化のための法規制や業界基準の策定が加速する可能性がある。",
+      "content_at": "2026-08-25T06:30:35.663080+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/media/HQfmx0UWoAAvbt6.jpg:large",
+      "url": "https://twitter.com/lemire/status/2091894299289874926",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-25T06:30:35.663080+09:00",
+      "title": "Xiaomiの新型CPUがAppleのプロセッサ性能に肉薄",
+      "summary": "Xiaomiが開発した新しいCPUは、シングルスレッド性能でAppleのコアと同等であり、マルチスレッド実行ではそれを大きく上回る。ただし、Appleによる次世代プロセッサ発表が控えており、優位性は短期間にとどまる可能性がある。",
+      "impact": "スマートフォン市場において、ハイエンドモデルの性能競争がさらに激化する可能性がある。",
+      "content_at": "2026-08-25T06:30:35.663080+09:00"
+    },
+    {
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-1354425423.jpg?c=16x9&q=w_800,c_fill",
+      "url": "https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-25T06:30:35.663080+09:00",
+      "title": "中国のインターネットの一部で「唐王朝は存在しなかった」という主張が拡散",
+      "summary": "中国のインターネット上の一部において、唐王朝は実在しなかったという主張がなされている。",
+      "impact": "歴史認識を巡る言説がオンライン上で混乱を招き、社会的な議論に発展する可能性がある。",
+      "content_at": "2026-08-25T06:30:35.663080+09:00"
+    },
+    {
+      "image": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/social-preview.jpg",
+      "url": "https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-25T06:30:35.663080+09:00",
+      "title": "MS PaintとPhotosがローカル生成画像にGUIDを不可視埋め込み",
+      "summary": "リバースエンジニアリングにより、MicrosoftのPaintとPhotosアプリが、ローカルで生成したAI画像にサーバーから発行されたGUIDをピクセルレベルで埋め込んでいることが判明した。",
+      "impact": "AIによる生成物の追跡可能性が高まる一方で、プライバシーやデジタル画像のメタデータ管理に関する議論が強まる可能性がある。",
+      "content_at": "2026-08-25T06:30:35.663080+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://sf.thijs.gg/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-25T06:30:35.663080+09:00",
+      "title": "サンフランシスコの街全体をビデオゲーム化",
+      "summary": "サンフランシスコの街全体がビデオゲームになる。",
+      "impact": "ゲーム開発の新たなモデルや都市のバーチャル体験手法として活用される可能性がある。",
+      "content_at": "2026-08-25T06:30:35.663080+09:00"
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/6e1c/live/bc7158a0-9fc3-11f1-8648-8d7b77845e6d.jpg",
+      "url": "https://www.bbc.com/news/articles/c62m4gpnp78o",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-25T06:30:35.663080+09:00",
+      "title": "海面水温が過去最高を記録",
+      "summary": "欧州コペルニクス気候変動サービスのサマンサ・バージェス博士によると、海面水温が観測史上最高を記録した。これは海洋が大きなストレスを受けていることを示す明確な兆候とされる。",
+      "impact": "気候変動の加速や海洋生態系への深刻な影響が懸念され、国際的な環境対策の重要性がさらに高まるとみられる。",
+      "content_at": "2026-08-25T06:30:35.663080+09:00"
+    },
+    {
+      "image": "https://ipshipyard.com/images/blog/2026-ipfs-blackhole.png",
+      "url": "https://ipshipyard.com/blog/2026-the-end-of-ipfs-at-shipyard/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-25T06:30:35.663080+09:00",
+      "title": "IPFSの運営チームが活動縮小へ",
+      "summary": "IPFSおよびピア・ツー・ピアコミュニティに向けて、IPFSの資金提供が打ち切られたという困難なニュースが報告された。",
+      "impact": "IPFSを活用したプロジェクトや分散型技術のエコシステムに影響が及ぶ可能性がある。",
+      "content_at": "2026-08-25T06:30:35.663080+09:00"
+    }
+  ],
+  "updated_at": "2026-08-25T06:30:35.663080+09:00"
+}

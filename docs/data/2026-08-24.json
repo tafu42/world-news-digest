@@ -2,50 +2,6 @@
   "date": "2026-08-24",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-24T06:30:38.808124+09:00",
-      "title": "AIデータセンターの「債務爆弾」危機は誇張か",
-      "summary": "データセンター建設に関する債務危機への懸念は誇張されている。過去のリスクとは性質が異なり、回復可能である。",
-      "impact": "データセンター建設への投資に対する過度な市場不安が鎮静化する可能性がある。",
-      "content_at": "2026-08-24T06:30:38.808124+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/bd1e7d2c1a88efaa0778163a0385bae1d03c98c7/0_0_1500_1200/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/tiktok-auctions-lab-grown-diamonds",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-24T06:30:38.808124+09:00",
-      "title": "TikTokのラボグロウンダイヤモンド競売、品質に懸念の声",
-      "summary": "ラボグロウンダイヤモンドのライブ配信競売がTikTokで普及している。一方で、専門家は品質が保証されていないと警告している。",
-      "impact": "消費者が低価格な競売品を購入する際に、品質に関するトラブルが増加する可能性がある。",
-      "content_at": "2026-08-24T06:30:38.808124+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-24T06:30:38.808124+09:00",
-      "title": "Metaの依存的サイト設計めぐり米複数州が提訴",
-      "summary": "カリフォルニア州など計29州が、Meta社が子供のプライバシー保護法に違反し、依存性の高いサイトを設計したとして提訴した。火曜日に公判が開始された。",
-      "impact": "テック企業のプラットフォーム設計や未成年者の保護義務に関する法的規制が強化される可能性がある。",
-      "content_at": "2026-08-24T06:30:38.808124+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/eca8a76b2a7a0d23d19512d598b73041712f2ec1/1344_539_3254_2604/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-24T06:30:38.808124+09:00",
-      "title": "ハリウッドのクリエイターがAI学習を支援、雇用減の中で",
-      "summary": "仕事が減少する中、受賞歴のある脚本家や監督らがAIにスキルを教える一時的な仕事に従事している。自身の職業を自ら脅かしているという懸念もある。",
-      "impact": "クリエイターの雇用環境が変化し、AIが制作業務に浸透することで映画業界の労働構造に長期的影響が出る可能性がある。",
-      "content_at": "2026-08-24T06:30:38.808124+09:00"
-    },
-    {
       "image": "https://lalitm.com/social-cards/find-problems-staff-engineer.png",
       "url": "https://lalitm.com/post/find-problems-staff-engineer/",
       "category": "海外IT",
