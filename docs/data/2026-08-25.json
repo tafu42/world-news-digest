@@ -165,7 +165,51 @@
       "summary": "継続的に思考し続ける自律型エージェントのためのシステム「Headlong」に関する解説。",
       "impact": "自律型AIの開発が進むことで、複雑なタスクを自動処理するAIの活用範囲が広がる可能性がある。",
       "content_at": "2026-08-25T13:30:40.788534+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/4688a02b2b90cb5e324aa8729fd21cd02a700f13/472_0_4164_3333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/25/google-ai-overview",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-25T21:30:39.582621+09:00",
+      "title": "AIはGoogle検索を改善したか、悪化させたか？読者の意見を募集",
+      "summary": "AIチャットボットが普及する中、Google検索エンジンについての読者の意見を募集している。これまでの変化について利用者の視点を求めている。",
+      "impact": "利用者のフィードバックが集まることで、GoogleのAI検索戦略や今後の改善方針に影響を与える可能性がある。",
+      "content_at": "2026-08-25T21:30:39.582621+09:00"
+    },
+    {
+      "image": "https://cloudinary.hbs.edu/hbsit/image/fetch/q_auto/f_webp/https%3A%2F%2Fwww.hbs.edu%2Fctfassets%2Fpublic%2Fimages%2F1LugQvDzX01KToTslxDIzT%2FEgan_Who%2520Pays_2026.png",
+      "url": "https://www.library.hbs.edu/working-knowledge/how-credit-card-rewards-became-multibillion-dollar-wealth-transfer",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-25T21:30:39.582621+09:00",
+      "title": "クレジットカードのポイント還元が92億ドルの富の移転に",
+      "summary": "インフレの影響で企業がカード決済手数料を補うために価格を引き上げる中、マーク・L・イーガン氏の研究により、この負担が不均等であることが示された。ポイント還元が富の再分配に影響を与えていると指摘している。",
+      "impact": "クレジットカードの利用に伴う価格転嫁の構造が明らかになることで、小売価格や決済手数料の適正化を求める議論が活発化する可能性がある。",
+      "content_at": "2026-08-25T21:30:39.582621+09:00"
+    },
+    {
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0p61k4w.jpg",
+      "url": "https://www.bbc.com/future/article/20260824-this-quantum-battery-charges-faster-the-larger-it-gets",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-25T21:30:39.582621+09:00",
+      "title": "量子電池が充電の常識を覆す",
+      "summary": "世界初となる量子電池の試作機が開発され、特異な性質を持っていることが明らかになった。将来的に量子コンピューティングやスマートフォンの電源として活用できる可能性がある。",
+      "impact": "技術の発展により、将来的に電子機器の充電時間やエネルギー効率が劇的に改善される可能性がある。",
+      "content_at": "2026-08-25T21:30:39.582621+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/3110bb9f61f4c015ddb470aa187697babb4e4d1f23b534cc542b62eb0cd869fd/PlummersSoftwareLLC/HelloAssembly",
+      "url": "https://github.com/PlummersSoftwareLLC/HelloAssembly",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-25T21:30:39.582621+09:00",
+      "title": "最小のWindowsアプリケーション「HelloAssembly」",
+      "summary": "PlummersSoftwareLLCによって公開された、Windows上で動作する最も小さな完全なアプリケーション「HelloAssembly」に関するプロジェクトである。",
+      "impact": "極小サイズのプログラム開発手法が示されることで、低リソース環境やアセンブリ言語によるプログラミングに関心を持つ開発者に影響を与える可能性がある。",
+      "content_at": "2026-08-25T21:30:39.582621+09:00"
     }
   ],
-  "updated_at": "2026-08-25T13:30:40.788534+09:00"
+  "updated_at": "2026-08-25T21:30:39.582621+09:00"
 }
