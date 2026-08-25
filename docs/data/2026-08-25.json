@@ -2,17 +2,6 @@
   "date": "2026-08-25",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-25T06:30:35.663080+09:00",
-      "title": "OpenAI幹部がAIによるサイバー攻撃の脅威に警鐘",
-      "summary": "OpenAIのクリス・レヘイン氏は、持続的なAIサイバー攻撃の脅威に対し、新たな安全基準を導入する必要があると述べた。批評家からはAI企業が「無謀」に行動しているとの批判が上がっている。",
-      "impact": "AI技術の急速な発展に伴い、セキュリティ強化のための法規制や業界基準の策定が加速する可能性がある。",
-      "content_at": "2026-08-25T06:30:35.663080+09:00"
-    },
-    {
       "image": "https://pbs.twimg.com/media/HQfmx0UWoAAvbt6.jpg:large",
       "url": "https://twitter.com/lemire/status/2091894299289874926",
       "category": "海外IT",

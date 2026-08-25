@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-26",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/86a03a966ce87d89abd38660797306a09552ea83/0_0_5600_4480/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "AIの脅威に対する懸念が無視された理由",
+      "summary": "1970年代に自動化による社会的強制への懸念を地図化しようとしたジョナサン・ミッチーの父の取り組みに関する書簡。カラム・ブラウンからの書簡もあわせて紹介されている。",
+      "impact": "過去の警告や懸念の歴史を振り返ることは、現在のAI技術の急速な発展に伴う社会的問題を考える上で重要な示唆を与える可能性がある。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/513eff10745ff3f15e5c5566f2e2f143224f7282/1115_401_4804_3843/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "Fairphone 6+ レビュー：修理しやすさと倫理性を維持し性能が向上",
+      "summary": "オランダのサステナブルなスマートフォンが、モジュール式の設計を維持したまま新しいチップとより多くのメモリを搭載して刷新された。",
+      "impact": "修理可能な設計が維持されることで、デバイスの長寿命化が促進され、電子廃棄物の削減という環境問題の解決に貢献するとみられる。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "FDA、ケトン体と血糖値を測定できる初のウェアラブル機器を承認",
+      "summary": "米食品医薬品局（FDA）が、ケトン体と血糖値を監視する初のウェアラブルデバイスを承認した。",
+      "impact": "糖尿病や代謝疾患を持つ患者が自身の健康状態をより容易に管理できるようになり、遠隔医療や予防医療が促進される可能性がある。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/tile/Apple-M6-and-M5-Ultra-hero-260825-lp.jpg.og.jpg?202608251727",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "Apple、M6チップおよびM5 Ultraを発表",
+      "summary": "Appleは新型Mac miniにM6チップを、新型Mac StudioにM5 Ultraを導入した。これらのチップは性能とAI処理能力において飛躍的な向上を実現している。",
+      "impact": "高いAI性能を備えた新チップの登場により、パーソナルコンピュータ上でのAI活用が加速し、クリエイティブ分野等の作業効率が大幅に向上する可能性がある。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!FdaK!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f308659-4472-47f2-bb48-10442949f1a6_1535x1024.png",
+      "url": "https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "OpenAIが自社開発チップ「Jalapeño」を発表",
+      "summary": "OpenAIが自社設計のASICである「Jalapeño」を発表した。このチップはNvidiaのBlackwellと比較されている。",
+      "impact": "AI開発におけるハードウェアの選択肢が広がり、GPU市場の競争が激化する可能性がある。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/tile/Apple-Mac-Studio-hero-260825-lp.jpg.og.jpg?202608251727",
+      "url": "https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "AppleがM5 MaxおよびM5 Ultra搭載の新型Mac Studioを発表",
+      "summary": "AppleがM5 Maxと新型のM5 Ultraチップを搭載したMac Studioを発表した。AI性能とグラフィックス処理能力が大幅に向上した。",
+      "impact": "クリエイティブ業務やAI開発における処理速度が向上し、プロフェッショナルな制作環境の効率化が進むと考えられる。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2608.21590",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "ブラックホールの特異点は点ではなく表面である",
+      "summary": "ブラックホールの中心にある特異点は点ではなく表面であるとする説が示された。球状ブラックホールに自由落下する2人の観測者は、同時刻において中心で出会うことはない。",
+      "impact": "従来のブラックホールの物理学的理解や特異点に関する理論モデルの再考を促す可能性がある。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/ee720bd3506f3a3af7c1fa2b6bb90c61f78e1fa2a94b330a93cb6cd5a1b51c7d/ThinkOffApp/CarWatch",
+      "url": "https://github.com/ThinkOffApp/CarWatch",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-26T06:30:38.659640+09:00",
+      "title": "Raspberry PiとQwenを用いた車載AIシステム",
+      "summary": "Raspberry Pi 5とドライブレコーダー、ローカルAI（Qwen）を組み合わせた車載チャットボットシステムが公開された。車をチャットルームのエージェントとして活用する試みである。",
+      "impact": "個人のDIYによる高度な車載AIの実装が進み、車両のスマート化に向けた新たな応用の可能性を示すとみられる。",
+      "content_at": "2026-08-26T06:30:38.659640+09:00"
+    }
+  ],
+  "updated_at": "2026-08-26T06:30:38.659640+09:00"
+}
