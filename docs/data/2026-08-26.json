@@ -132,7 +132,84 @@
       "summary": "Maiaoは、GitHubやGitLabなどのプルリクエストをコマンドラインから管理できるツールである。Gerritスタイルのコードレビューワークフローを提供する。",
       "impact": "開発者がコマンドラインでシームレスにレビュー作業を行えるようになるため、開発者の生産性向上が期待される。",
       "content_at": "2026-08-26T13:30:36.399373+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/1b1d2fe8867602f56526819a4d82d95d37b03e9b/196_0_3612_2891/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-26T21:30:36.883559+09:00",
+      "title": "ビル・ゲイツ氏、AI普及に伴う「人間専用」の雇用確保を提言",
+      "summary": "マイクロソフト共同創業者のビル・ゲイツ氏は6,000語のエッセイで、AIの台頭に備える政府の対応が不十分であると懸念を示した。その上で、人間が担うべき業務を確保する必要性を訴えている。",
+      "impact": "今後、AIが雇用に与える影響について、労働政策や法規制の議論が活発化する可能性がある。",
+      "content_at": "2026-08-26T21:30:36.883559+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ada086bceb21d1e283eff5dd443008604f95cc3c/73_34_3111_2491/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-26T21:30:36.883559+09:00",
+      "title": "ロンドンでのロボタクシー導入、企業向けガイドラインの欠如で延期へ",
+      "summary": "UberとWayveが今夏後半を予定していたロンドンでのロボタクシー運行開始が、企業が従うべきガイドラインの欠如により、年内の実現が困難な見通しとなった。",
+      "impact": "自動運転技術の実用化や普及のスピードが、規制整備の遅れによって停滞する可能性がある。",
+      "content_at": "2026-08-26T21:30:36.883559+09:00"
+    },
+    {
+      "image": "/static/og-image.png",
+      "url": "https://blog.happyfellow.dev/merchants-of-insecurity/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-26T21:30:36.883559+09:00",
+      "title": "セキュリティ上の欠陥が指摘されたソフトウェア「Omarchy」",
+      "summary": "セキュリティ専門家から、「Omarchy」には重大なセキュリティ上の欠陥があるため使用を控えるよう注意喚起がなされた。最新のバージョン4.0でも複数の脆弱性が確認されている。",
+      "impact": "当該ソフトウェアを利用しているユーザーにおいて、不正アクセスや情報漏洩のリスクが高まる可能性がある。",
+      "content_at": "2026-08-26T21:30:36.883559+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!yF7E!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03ad851c-75b8-4afe-ae16-fd98c8e61836_1920x1280.jpeg",
+      "url": "https://www.lighthousenewsletter.com/p/rag-is-simpler-than-you-think",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-26T21:30:36.883559+09:00",
+      "title": "RAG（検索拡張生成）の仕組み：単純なものから複雑なものまで",
+      "summary": "検索拡張生成（RAG）を活用したAI開発における6つのアプローチについて、シンプルな手法から高度な手法までを網羅的に解説した記事。",
+      "impact": "RAGを用いたAIシステムの開発コストや運用難易度について、開発者による理解が深まることで、より効率的な実装が進むと考えられる。",
+      "content_at": "2026-08-26T21:30:36.883559+09:00"
+    },
+    {
+      "image": "/img/posts/2026-08-oim-blog-header.jpg",
+      "url": "https://openstreetmap.us/news/2026/08/oim-charter-project/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-26T21:30:36.883559+09:00",
+      "title": "OldInsuranceMaps.netがOSM USのチャータープロジェクトに選出",
+      "summary": "OSM USは、OldInsuranceMaps.netを新たなチャータープロジェクトとして発表した。同サイトはサンボーン保険地図などの歴史的な地図を取り扱っている。",
+      "impact": "地図愛好家や歴史研究者にとって、貴重な資料へのアクセスや保存活動がより活発になる可能性がある。",
+      "content_at": "2026-08-26T21:30:36.883559+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-26/china-s-z-ai-made-ox-alpha-stealth-model-that-rivals-deepseek",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-26T21:30:36.883559+09:00",
+      "title": "Z.aiがOx Alphaのモデル詳細とウェイトの公開方針を発表",
+      "summary": "Z.aiは、Ox Alphaが新たなGLMシリーズのモデルであることを認めた。また、同モデルのウェイトを公開する方針を示した。",
+      "impact": "AI開発者や研究者がモデルを利用可能になることで、関連技術の研究や応用開発が加速する可能性がある。",
+      "content_at": "2026-08-26T21:30:36.883559+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://johan-sjolen.github.io/post/compiler-sympathy/compiler-sympathy/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-26T21:30:36.883559+09:00",
+      "title": "JDK 28で導入された値クラス（Value Classes）のプレビュー機能について",
+      "summary": "JDK 28のプレビュー機能として、プロジェクト・ヴァルハラの重要なマイルストーンであるJEP 401が統合された。これによりプログラムのセマンティクス伝達と最適化の機会が向上する。",
+      "impact": "Java開発者にとってプログラムの効率性と可読性が向上する一方、開発環境の移行や仕様への適応が必要になるとみられる。",
+      "content_at": "2026-08-26T21:30:36.883559+09:00"
     }
   ],
-  "updated_at": "2026-08-26T13:30:36.399373+09:00"
+  "updated_at": "2026-08-26T21:30:36.883559+09:00"
 }
