@@ -68,50 +68,6 @@
       "content_at": "2026-08-25T06:30:35.663080+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/b8bc548f5c4725b3beb6f79cb8107d7cff94c655/1267_523_2681_2144/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/23/ai-debt-bomb-crisis",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-25T13:30:40.788534+09:00",
-      "title": "AIデータセンターの「債務爆弾」懸念は誇張されている",
-      "summary": "データセンター建設に伴う債務危機への懸念は誇張されている。過去のリスクとは性質が異なり、回復可能である。",
-      "impact": "今回の見解により、AIインフラへの投資に対する市場の過度な不安が和らぐ可能性がある。",
-      "content_at": "2026-08-25T13:30:40.788534+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/bd1e7d2c1a88efaa0778163a0385bae1d03c98c7/0_0_1500_1200/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/tiktok-auctions-lab-grown-diamonds",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-25T13:30:40.788534+09:00",
-      "title": "TikTokで急増するラボグロウンダイヤモンドの競売",
-      "summary": "TikTokでラボグロウンダイヤモンドのライブ競売が広まっている。専門家は品質が保証されていないと警告している。",
-      "impact": "消費者が未確認の品質の宝飾品を購入することで、経済的損失やトラブルが発生する可能性がある。",
-      "content_at": "2026-08-25T13:30:40.788534+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/5fe3c6e2663c1940dc067dd6bc16c1117ac663b4/955_0_4016_3213/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/meta-trial-children-privacy",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-25T13:30:40.788534+09:00",
-      "title": "Metaの依存的サイト設計と子供のプライバシー侵害を巡る裁判",
-      "summary": "米国の29の州がMetaを相手取り、依存的なサイト設計と子供のプライバシー保護法違反で訴訟を起こした。火曜日に公判が開始された。",
-      "impact": "判決の結果次第では、MetaのビジネスモデルやSNS企業の子供向け機能に対する規制が大幅に強化される可能性がある。",
-      "content_at": "2026-08-25T13:30:40.788534+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/eca8a76b2a7a0d23d19512d598b73041712f2ec1/1344_539_3254_2604/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/22/the-hollywood-creatives-training-ai-to-do-their-jobs",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-25T13:30:40.788534+09:00",
-      "title": "自身の仕事をAIに教えるハリウッドのクリエイターたち",
-      "summary": "ハリウッドで仕事が減少する中、受賞歴のある脚本家や監督などがAIに専門スキルを教える一時的な仕事に従事している。",
-      "impact": "クリエイターがAIの学習に協力することで、映画制作の自動化がさらに加速し、長期的には業界内の雇用構造が大きく変化する可能性がある。",
-      "content_at": "2026-08-25T13:30:40.788534+09:00"
-    },
-    {
       "image": "https://developer.apple.com/news/images/og/icloud-og.jpg",
       "url": "https://developer.apple.com/news/?id=1ptvdtcm",
       "category": "海外IT",

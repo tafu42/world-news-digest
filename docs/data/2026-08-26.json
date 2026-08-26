@@ -88,7 +88,51 @@
       "summary": "Raspberry Pi 5とドライブレコーダー、ローカルAI（Qwen）を組み合わせた車載チャットボットシステムが公開された。車をチャットルームのエージェントとして活用する試みである。",
       "impact": "個人のDIYによる高度な車載AIの実装が進み、車両のスマート化に向けた新たな応用の可能性を示すとみられる。",
       "content_at": "2026-08-26T06:30:38.659640+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0f76db9301778a3f1389084cc3787c5365eee281/136_0_1355_1084/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/25/instagram-ceo-teen-safety-lawsuit",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-26T13:30:36.399373+09:00",
+      "title": "Meta社のCEO、若年層向け安全機能の利用率隠蔽疑惑を否定",
+      "summary": "Meta社の幹部アダム・モッセーリ氏が、29の米州が提訴した訴訟で証言した。同社が若年層向け安全機能の利用率が低いことを隠蔽していたという疑いを否定した。",
+      "impact": "大手テック企業の安全対策の透明性に注目が集まっており、今回の証言は今後のプラットフォームの規制議論や司法判断に影響を与える可能性がある。",
+      "content_at": "2026-08-26T13:30:36.399373+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/5580ff8262ca418fc1145725debe914855547075/333_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/23/openai-cyber-attacks-threat-chris-lehane",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-26T13:30:36.399373+09:00",
+      "title": "OpenAI幹部、AIを悪用した執拗なサイバー攻撃の脅威に警告",
+      "summary": "OpenAIのクリス・レハーン氏が、新たな安全基準の導入の必要性を訴えた。AI企業が「無謀」に振る舞っているとの批判がある中で、AIを用いたサイバー攻撃の脅威を指摘している。",
+      "impact": "AI技術の発展と安全性のバランスが問われており、今後業界全体でより厳格なセキュリティ基準の策定が進むと考えられる。",
+      "content_at": "2026-08-26T13:30:36.399373+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://fzakaria.com/2026/08/24/actually-queryable-executables",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-26T13:30:36.399373+09:00",
+      "title": "実行ファイルをSQLiteデータベースとして扱う「Queryable Executables」",
+      "summary": "自身の執筆記事「Your executable is a SQLite database」が反響を呼んでいることについて言及している。実行ファイルをSQLiteデータベースとして活用する手法への関心が高まっている。",
+      "impact": "実行ファイルの管理手法が再定義されることで、ソフトウェア開発におけるデータ操作や解析の効率化につながる可能性がある。",
+      "content_at": "2026-08-26T13:30:36.399373+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/b42a0e47e79d71c18332c682f49c6892730270fd30110c0ee9cbc19a73d20fff/runetes/maiao",
+      "url": "https://github.com/runetes/maiao",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-26T13:30:36.399373+09:00",
+      "title": "GitHub等のコードレビューを効率化するCLIツール「Maiao」",
+      "summary": "Maiaoは、GitHubやGitLabなどのプルリクエストをコマンドラインから管理できるツールである。Gerritスタイルのコードレビューワークフローを提供する。",
+      "impact": "開発者がコマンドラインでシームレスにレビュー作業を行えるようになるため、開発者の生産性向上が期待される。",
+      "content_at": "2026-08-26T13:30:36.399373+09:00"
     }
   ],
-  "updated_at": "2026-08-26T06:30:38.659640+09:00"
+  "updated_at": "2026-08-26T13:30:36.399373+09:00"
 }
