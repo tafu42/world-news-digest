@@ -2,28 +2,6 @@
   "date": "2026-08-26",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/86a03a966ce87d89abd38660797306a09552ea83/0_0_5600_4480/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/25/why-the-threat-from-the-rampaging-ai-machine-went-ignored",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-26T06:30:38.659640+09:00",
-      "title": "AIの脅威に対する懸念が無視された理由",
-      "summary": "1970年代に自動化による社会的強制への懸念を地図化しようとしたジョナサン・ミッチーの父の取り組みに関する書簡。カラム・ブラウンからの書簡もあわせて紹介されている。",
-      "impact": "過去の警告や懸念の歴史を振り返ることは、現在のAI技術の急速な発展に伴う社会的問題を考える上で重要な示唆を与える可能性がある。",
-      "content_at": "2026-08-26T06:30:38.659640+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/513eff10745ff3f15e5c5566f2e2f143224f7282/1115_401_4804_3843/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/24/fairphone-6-review-the-most-repairable-ethical-phone-gets-faster",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-26T06:30:38.659640+09:00",
-      "title": "Fairphone 6+ レビュー：修理しやすさと倫理性を維持し性能が向上",
-      "summary": "オランダのサステナブルなスマートフォンが、モジュール式の設計を維持したまま新しいチップとより多くのメモリを搭載して刷新された。",
-      "impact": "修理可能な設計が維持されることで、デバイスの長寿命化が促進され、電子廃棄物の削減という環境問題の解決に貢献するとみられる。",
-      "content_at": "2026-08-26T06:30:38.659640+09:00"
-    },
-    {
       "image": "",
       "url": "https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar",
       "category": "海外IT",
