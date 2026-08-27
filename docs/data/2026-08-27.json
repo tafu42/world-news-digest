@@ -209,7 +209,29 @@
       "summary": "Asahi Linuxに関する進捗レポートが公開された。内容はLinux 7.2に関連するものである。",
       "impact": "Appleシリコン搭載MacでのLinux利用環境が、今後さらに安定化する可能性がある。",
       "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://pollen-robotics.com/assets/og/og-microduck-squad-v2.jpg",
+      "url": "https://pollen-robotics.com/microduck/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-27T21:30:40.308388+09:00",
+      "title": "Pollen Roboticsが二足歩行ロボット「Microduck」を発表",
+      "summary": "Microduckは15個のモーターとカメラ、LiDAR、掴むためのくちばしを備えた25cmの二足歩行ロボットである。オープンソースのスタックによりシミュレーションでの学習と実行が可能で、価格は399ドルで予約を受け付けている。",
+      "impact": "教育や研究の現場で手軽に高度なロボット工学を試せるようになり、開発者のコミュニティが拡大する可能性がある。",
+      "content_at": "2026-08-27T21:30:40.308388+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.wsj.com/politics/policy/u-s-state-department-pauses-immigrant-visa-applications-25b31b23",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-27T21:30:40.308388+09:00",
+      "title": "米国務省が移民ビザの申請受付を一時停止",
+      "summary": "米国務省が移民ビザの申請受付を一時的に停止した。",
+      "impact": "移民の手続きを予定していた人々に遅延が生じるほか、関連する渡航計画や移住スケジュールに混乱が生じる可能性がある。",
+      "content_at": "2026-08-27T21:30:40.308388+09:00"
     }
   ],
-  "updated_at": "2026-08-27T13:30:38.780193+09:00"
+  "updated_at": "2026-08-27T21:30:40.308388+09:00"
 }
