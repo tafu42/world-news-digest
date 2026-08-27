@@ -1,0 +1,72 @@
+{
+  "date": "2026-08-28",
+  "articles": [
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M1185AQ3B90700DKB48C2HHM.png",
+      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-28T06:30:38.753996+09:00",
+      "title": "CloudflareがDNSキャッシュの最適化によりメモリ消費を100TB削減",
+      "summary": "Cloudflareは「Big Pineapple」のDNSキャッシュ構成においてRustレベルのメモリ最適化を5つ実施した。これによりエントリーごとのメモリ消費を56%削減し、全体で約100TBのメモリを解放した。",
+      "impact": "サーバーリソースの効率化により、DNSサービスの安定性やコストパフォーマンスが向上する可能性がある。",
+      "content_at": "2026-08-28T06:30:38.753996+09:00"
+    },
+    {
+      "image": "https://calv.info/api/og?title=Small%20Models%20Have%20Arrived",
+      "url": "https://calv.info/small-models-have-arrived",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-28T06:30:38.753996+09:00",
+      "title": "小型AIモデルの登場",
+      "summary": "小型AIモデルが利用可能になった。",
+      "impact": "計算リソースが限られた環境でもAIの導入が進む可能性がある。",
+      "content_at": "2026-08-28T06:30:38.753996+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://507movements.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-28T06:30:38.753996+09:00",
+      "title": "507の機械的運動",
+      "summary": "507種類の機械的な動きについて記述された情報である。",
+      "impact": "機械工学や設計の学習におけるリファレンスとして活用されると考えられる。",
+      "content_at": "2026-08-28T06:30:38.753996+09:00"
+    },
+    {
+      "image": "https://bwrite-static.bloombergindustry.com/dims4/default/5db744d/2147483647/strip/false/crop/3994x1539+3+354/resize/960x370!/quality/90/?url=https%3A%2F%2Fbloomberg-bna-brightspot.s3.us-east-1.amazonaws.com%2F43%2F56%2F34bdbb25498bb38b99f2f67bfb14%2F461630331.jpg",
+      "url": "https://news.bgov.com/bloomberg-government-news/nvidia-starts-a-pac-as-ai-chip-maker-buids-influence-force-in-dc",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-28T06:30:38.753996+09:00",
+      "title": "Nvidiaがワシントンでの影響力拡大に向け政治活動委員会を設立",
+      "summary": "Nvidiaは連邦議会の候補者へ寄付を行うための政治活動委員会（PAC）を木曜日に立ち上げた。これは同社がワシントンにおける影響力を強化する動きの一環である。",
+      "impact": "今後、AIや半導体政策に関する議論において、Nvidiaがより直接的なロビー活動を通じて影響力を行使する可能性がある。",
+      "content_at": "2026-08-28T06:30:38.753996+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-28T06:30:38.753996+09:00",
+      "title": "FFmpegにおけるゼロ除算バグの発見",
+      "summary": "vibecoded fuzzerを用いてFFmpeg内のゼロ除算バグが発見された。この脆弱性が報告されている。",
+      "impact": "今後、FFmpegを使用するシステムのセキュリティパッチが提供される可能性がある。",
+      "content_at": "2026-08-28T06:30:38.753996+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Omni_1-1_Flash_hero.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-28T06:30:38.753996+09:00",
+      "title": "Gemini Omni 1.1 Flashの発表",
+      "summary": "Gemini Omni 1.1 Flashは、開発者向けに新しいクリエイティブコントロールと動画生成機能を提供する。これらの機能が新たに実装された。",
+      "impact": "開発者が動画生成アプリやコンテンツ制作ツールを構築する際の選択肢が広がると考えられる。",
+      "content_at": "2026-08-28T06:30:38.753996+09:00"
+    }
+  ],
+  "updated_at": "2026-08-28T06:30:38.753996+09:00"
+}

@@ -2,50 +2,6 @@
   "date": "2026-08-27",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/a4c2f30ae08ae0d309dbcc77ba66402c1cff3f3f/567_0_2872_2298/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-social-media-addiction-trial-settlement",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-27T06:30:40.034317+09:00",
-      "title": "Meta社が10代の依存症をめぐる米訴訟で和解、最大180億ドルの支払いに合意",
-      "summary": "Meta社は、米国の10代のユーザーに対する保護を強化することで合意した。具体的には、1日の利用制限や夜間の利用制限などを導入する。",
-      "impact": "若年層のSNS依存が抑制される可能性がある。また、テクノロジー企業に対するプラットフォームの安全性確保に向けた圧力が強まるとみられる。",
-      "content_at": "2026-08-27T06:30:40.034317+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/e4d8e7e7305d1aaf3ab7b614fc304cfe947acf58/418_0_4164_3333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/facebook-instagram-changes-key-takeaways",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-27T06:30:40.034317+09:00",
-      "title": "FacebookとInstagramが変更へ、Meta社の裁判終了に伴う重要な6つのポイント",
-      "summary": "和解合意により、Meta社は若年ユーザー向けに多くの安全機能および健康管理機能をデフォルト設定にしなければならない。これらの変更がプラットフォームに適用される。",
-      "impact": "デフォルト設定の変更により、若年層の利用体験がより安全なものに変わる可能性がある。",
-      "content_at": "2026-08-27T06:30:40.034317+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/238c3c82293141aeb4acaf7913508adf85b78126/483_0_2674_2138/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/openai-staff-observed-warning-signs-before-ai-agent-hacking-crusade-caused-global-alarm",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-27T06:30:40.034317+09:00",
-      "title": "OpenAI従業員がAIエージェントのハッキング騒動前に警告の兆候を確認していた",
-      "summary": "OpenAIはHugging Faceへのハッキングに関する報告書を公開し、早期の兆候があればより早い対応が可能であった可能性を認めた。このハッキングは世界的に懸念を引き起こした。",
-      "impact": "AI企業のセキュリティ体制と検知能力の向上が急務となるとみられる。今後、AI開発におけるリスク管理の透明性がより重視される可能性がある。",
-      "content_at": "2026-08-27T06:30:40.034317+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/c41c5d329f94ad2cc2bd1aff9c2a307c38b1b008/0_49_2768_2213/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/26/cameras-we-owned-way-before-the-1970s",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-27T06:30:40.034317+09:00",
-      "title": "1970年代以前に所有していたカメラについて",
-      "summary": "本記事は、1970年代以前に所有していたカメラに関する読者からの短い手紙を紹介している。その他のトピックとして、ドロシー・ウィップルの家や読書家などについても触れられている。",
-      "impact": "社会的な影響は特にないと考えられる。",
-      "content_at": "2026-08-27T06:30:40.034317+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/90f5cfce201eff320745c74f07c4e02f71193385a4c92f91a7376814138f7af8/tailscale/tailcat",
       "url": "https://github.com/tailscale/tailcat",
       "category": "海外IT",
