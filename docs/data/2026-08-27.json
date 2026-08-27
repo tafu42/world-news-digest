@@ -110,7 +110,106 @@
       "summary": "FOSSY 2026の会場において、Software Freedom Conservancy（SFC）の関係者が3Dプリンターに関連するAGPLのライセンス違反について取り上げた。現在進行中の問題として報告されている。",
       "impact": "オープンソースライセンスの遵守が再認識されることで、3Dプリンター業界における知的財産管理やソフトウェア提供の方法が見直される可能性がある。",
       "content_at": "2026-08-27T06:30:40.034317+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/dc8efe606c45f93fb4f1daddc9082d7b79681221/24_0_2500_2000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-witness-settlement",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "Meta裁判の証人、和解案による10代への悪影響抑制は不十分と指摘",
+      "summary": "元Facebook社員で内部告発者のアルトゥーロ・ベジャール氏は、和解案について、製品の安全性が証明されたわけではないと語った。同氏は和解の内容が10代への悪影響を食い止めるには不十分であるとの見解を示している。",
+      "impact": "Meta社に対する規制や安全対策の強化を求める世論が強まり、今後同様の訴訟においてプラットフォーム側の責任がより厳しく問われる可能性がある。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/58c0a4d12df678280e418402df183a5eb40dc673/0_0_3839_3072/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "ロンドンの脳外科医、AI支援による脳腫瘍摘出手術に成功",
+      "summary": "ロンドンの外科チームが、AIを活用して脳腫瘍の摘出手術を成功させた。カメラ映像のリアルタイム解析により、避けるべき重要な解剖学的構造を特定することで手術を支援した。",
+      "impact": "医療現場におけるAI技術の活用が広がり、複雑な手術の安全性向上やミス低減に寄与する可能性がある。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/441cc239c0a9c1cb77f9fd26330d6659a544cdb8/833_0_4167_3335/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/nvidia-quarterly-revenue",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "Nvidiaの四半期売上高が約1000億ドルに倍増、CEOは黄金時代の到来を宣言",
+      "summary": "時価総額5兆ドル企業のNvidiaは、ウォール街の予想を上回る好調な四半期決算を発表し、売上高が約1000億ドルへと倍増した。CEOは現在の市場環境を「黄金時代」と位置づけている。",
+      "impact": "AI産業の急速な成長を裏付ける結果となり、今後も関連市場への投資が拡大し、テクノロジー業界全体にさらなるイノベーションを促すものとみられる。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/10440af966025451b7747b90e8e511a3c1c14ada/342_0_3316_2654/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-settlement-social-media-impact",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "Meta社の和解を受け、他社も10代向け保護機能の導入が不可欠に",
+      "summary": "Meta社が画期的な裁判の和解案として、最大180億ドルの支払いに加え、InstagramとFacebookの広範な仕様変更を行うことで合意した。この結果、他社も10代向けのガードレール設置を迫られることになる。",
+      "impact": "ソーシャルメディア業界全体で10代のユーザー保護に向けた規制や機能改善が急速に進む可能性がある。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://i.insider.com/6a8f6dc43f7df8787cff40f7?width=1200&format=jpeg",
+      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "NvidiaがHugging Faceを130億ドルで買収へ",
+      "summary": "Nvidiaが、AI関連の取引拡大の一環としてHugging Faceを130億ドル以上で買収する協議を行っている。",
+      "impact": "NvidiaのAI市場における支配力がさらに強まり、AIモデルの流通や開発環境の統合が進む可能性がある。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/af7c3acc7bded523550a756f9c864df5695b63914ad9d984bd0b71acc9859044/SenteLabsAI/OpenExecutive",
+      "url": "https://github.com/SenteLabsAI/OpenExecutive",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "AIエグゼクティブチーム「OpenExecutive」が登場",
+      "summary": "SenteLabsAIは、8体のClaudeエージェントで構成されるAI仮想エグゼクティブチームを開発した。これは単一の統括的な経営者のペルソナとして機能する。",
+      "impact": "企業の意思決定プロセスが自動化され、人間が担ってきた管理職業務の一部がAIに置き換わる可能性がある。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.mturk.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "Mechanical Turkが9月30日にサービス終了へ",
+      "summary": "AmazonのクラウドソーシングサービスであるMechanical Turkが、9月30日をもって終了する。",
+      "impact": "同サービスを利用していたAI開発やデータ収集プロジェクトに影響が出るほか、代替サービスへの移行が進むと考えられる。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://img.jp.ekkowassets.com/c_fill,w_400,h_210,f_auto,g_faces,q_auto:eco/ch/images/1465548987383071592/origin_1.jpg",
+      "url": "https://news.jp/i/1465528042000662661",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "前衛芸術家・草間彌生氏が死去",
+      "summary": "水玉や網目模様、カボチャのオブジェで世界的に評価された前衛芸術家、草間彌生氏が97歳で死去した。",
+      "impact": "現代アート界に多大な功績を残した人物の訃報により、アート市場や世界各地の美術館での展示に影響が及ぶとみられる。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
+    },
+    {
+      "image": "https://asahilinux.org/img/AsahiLinux_logomark_256px.png",
+      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-27T13:30:38.780193+09:00",
+      "title": "Asahi Linux進捗レポート：Linux 7.2",
+      "summary": "Asahi Linuxに関する進捗レポートが公開された。内容はLinux 7.2に関連するものである。",
+      "impact": "Appleシリコン搭載MacでのLinux利用環境が、今後さらに安定化する可能性がある。",
+      "content_at": "2026-08-27T13:30:38.780193+09:00"
     }
   ],
-  "updated_at": "2026-08-27T06:30:40.034317+09:00"
+  "updated_at": "2026-08-27T13:30:38.780193+09:00"
 }
