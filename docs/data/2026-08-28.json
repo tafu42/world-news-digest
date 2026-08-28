@@ -121,7 +121,106 @@
       "summary": "トランプ政権がAnthropicをブラックリストに登録した措置に対し、裁判官は違法であるとの判決を下した。",
       "impact": "この判決は、政府の制裁措置に関する法的な枠組みに影響を与える可能性がある。今後の政権による企業規制のあり方について、司法判断の重要性が再認識されるとみられる。",
       "content_at": "2026-08-28T13:30:39.533778+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "ニコラ・コクランやマット・ルーカスら、AIによる音声クローン反対キャンペーンを支持",
+      "summary": "約80人が、音声の所有権を保護する法整備を求める公開書簡に署名した。署名者はアンディ・バーナム氏に対して法制化を呼びかけている。",
+      "impact": "今後、AIによる音声悪用を防ぐための法的な規制議論が加速する可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/dc8efe606c45f93fb4f1daddc9082d7b79681221/24_0_2500_2000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-witness-settlement",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "Meta裁判の重要証人が和解条件を批判、若者への有害性阻止には不十分と指摘",
+      "summary": "元フェイスブック従業員で内部告発者のアルトゥーロ・ベハール氏は、今回の和解結果について、製品の安全性が確認されたわけではないと述べた。",
+      "impact": "SNSが若者に与える悪影響に対し、プラットフォーム企業への監視や法的責任を問う声が今後も高まる可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/58c0a4d12df678280e418402df183a5eb40dc673/0_0_3839_3072/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "ロンドンの脳外科医がAI支援による脳腫瘍摘出手術に初成功",
+      "summary": "脳外科医がリアルタイムの映像解析技術を導入し、脳内の避けるべき重要な解剖学的構造を特定して手術を行った。",
+      "impact": "AI技術の活用により、外科手術の安全性や精度が今後さらに向上する可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/441cc239c0a9c1cb77f9fd26330d6659a544cdb8/833_0_4167_3335/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/nvidia-quarterly-revenue",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "NVIDIAの四半期売上高が2倍の1000億ドルに迫る、CEOは「黄金時代」を宣言",
+      "summary": "時価総額5兆ドルのNVIDIAが、ウォール街の予想を上回る好調な四半期決算を発表した。CEOは現在の状況を黄金時代であると述べている。",
+      "impact": "AI関連市場の拡大が顕著となっており、テクノロジー業界全体への投資や開発が今後も活発化するとみられる。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/10440af966025451b7747b90e8e511a3c1c14ada/342_0_3316_2654/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/26/meta-trial-settlement-social-media-impact",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "Metaが和解に合意、若年層の保護対策を強化へ",
+      "summary": "MetaはInstagramとFacebookに関する重要な裁判において、抜本的な変更と最大180億ドルの支払いに同意した。これにより若年層を守るためのガードレールの設置が義務付けられる。",
+      "impact": "今後、他の大手IT企業も同様の若年層保護対策を導入せざるを得なくなる可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://infernalcode.com/posts/your-ai-agent-has-root/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "AIエージェントのルート権限について",
+      "summary": "AIエージェントがルート権限を有することに関する言及。",
+      "impact": "AIによるシステムの制御やセキュリティに対する議論が活発化する可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://alyssarosenzweig.ca/blog/hilariously-fast-volume-computation-with-the-divergence-theorem.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "発散定理を用いた高速な体積計算",
+      "summary": "発散定理を活用することで、体積計算を非常に高速に行う手法について。",
+      "impact": "計算幾何学や物理シミュレーションなどの分野において、計算処理の効率化に貢献する可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/307213173/7b83a5a7-a102-4b8a-abe7-7c14267908fa",
+      "url": "https://github.com/openai/openai-python/blob/main/httpx2.md",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "OpenAIのPythonライブラリ、HTTPX2へ移行",
+      "summary": "OpenAIの公式PythonライブラリがHTTPX2への移行を行うことについて。詳細はGitHubのプロジェクトページで確認できる。",
+      "impact": "OpenAIのAPIを利用する開発者は、ライブラリのアップデートに伴う対応が必要になる可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
+    },
+    {
+      "image": "https://subsmith.app/SubSmithLogo.svg",
+      "url": "https://subsmith.app",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-28T21:30:43.872867+09:00",
+      "title": "独自の動画を語学学習素材に変換する「SubSmith」",
+      "summary": "SubSmithは、自分の動画から文字起こしを生成し、単語検索やAnkiへの例文登録を可能にするツールである。すべての処理がローカル環境で行われる。",
+      "impact": "個人の動画ライブラリを活用した語学学習の効率が向上する可能性がある。ローカル処理であることから、プライバシーやセキュリティを重視する学習者に普及する可能性がある。",
+      "content_at": "2026-08-28T21:30:43.872867+09:00"
     }
   ],
-  "updated_at": "2026-08-28T13:30:39.533778+09:00"
+  "updated_at": "2026-08-28T21:30:43.872867+09:00"
 }
