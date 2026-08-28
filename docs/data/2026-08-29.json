@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-29",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/369c35b915175146bb5d258aad8ae6ed55d004f5/0_696_1052_841/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/wilem-frischmann-obituary",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-29T06:30:38.642934+09:00",
+      "title": "ウィレム・フリッシュマン氏が死去",
+      "summary": "リチャード・サイファート建築家と共にモダニズム建築を手掛けた構造エンジニアが死去した。",
+      "impact": "同氏の業績は、現代建築の構造設計の歴史において重要な足跡を残したと評価されると考えられる。",
+      "content_at": "2026-08-29T06:30:38.642934+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-29T06:30:38.642934+09:00",
+      "title": "GUIアプリケーションはキーボードで完全に操作可能であるべきか",
+      "summary": "GUIアプリケーションは、キーボードショートカットを用いて完全に操作されるべきであるとする主張。",
+      "impact": "この考え方が普及すれば、ソフトウェアのアクセシビリティや操作効率が向上する可能性がある。",
+      "content_at": "2026-08-29T06:30:38.642934+09:00"
+    },
+    {
+      "image": "https://www.thehealthy.com/wp-content/uploads/2026/08/GettyImages-1349067636.jpg",
+      "url": "https://www.thehealthy.com/news/chicken-recall-fsis-august-2026/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-29T06:30:38.642934+09:00",
+      "title": "5州で鶏肉製品2万5000ポンドが回収対象に",
+      "summary": "米国農務省（USDA）が5州で鶏肉製品の回収を発表した。この措置は、USDAが追跡している最近の一般的な問題に関連している。",
+      "impact": "対象製品の流通が停止することで、消費者への食の安全が守られる。同様の問題が続く可能性があるとみられる。",
+      "content_at": "2026-08-29T06:30:38.642934+09:00"
+    },
+    {
+      "image": "https://www.s-config.com/core/wp-content/uploads/2026/08/EDID-Title.jpg",
+      "url": "https://www.s-config.com/stopping-a-smart-tv-from-being-used-against-you/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-29T06:30:38.642934+09:00",
+      "title": "スマートテレビの脅威を防ぐために",
+      "summary": "AIブームの中、デジタルディスプレイやフラットパネルモニターは市場価値が安定している。エンターテインメント業界はこれらのデバイスを重視している。",
+      "impact": "スマートテレビの普及に伴い、ユーザーのプライバシー保護やセキュリティ対策の重要性が今後さらに高まると考えられる。",
+      "content_at": "2026-08-29T06:30:38.642934+09:00"
+    },
+    {
+      "image": "https://four.htmx.org/img/og-image.png",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-29T06:30:38.642934+09:00",
+      "title": "Htmx 4.0のリリース",
+      "summary": "2026年8月28日にHtmx 4.0がリリースされた。",
+      "impact": "Web開発においてHtmxを採用しているプロジェクトで、バージョンアップに伴う移行作業が発生する可能性がある。",
+      "content_at": "2026-08-29T06:30:38.642934+09:00"
+    },
+    {
+      "image": "https://anil.recoil.org/images/vulncheck-2026.640.webp",
+      "url": "https://anil.recoil.org/notes/rumour-is-the-exploit",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-29T06:30:38.642934+09:00",
+      "title": "バグの噂からエクスプロイトが発見される現状",
+      "summary": "オープンソースソフトウェアのセキュリティにおける従来のエンバーゴ（情報公開制限）が、現代では時間を稼ぐ手段として機能しなくなっている。メンテナンス担当者がバグ報告にどう対応すべきかという課題が提示されている。",
+      "impact": "脆弱性情報の管理手法の見直しが進む可能性がある。オープンソースコミュニティにおいて、より迅速な情報公開や対応体制の構築が求められるとみられる。",
+      "content_at": "2026-08-29T06:30:38.642934+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.inventati.org/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-29T06:30:38.642934+09:00",
+      "title": "A/I Collectiveに対する米国の制裁",
+      "summary": "米国がA/I Collectiveに対して制裁を課した。",
+      "impact": "当該組織の経済活動や国際的な協力関係が制限される可能性がある。",
+      "content_at": "2026-08-29T06:30:38.642934+09:00"
+    }
+  ],
+  "updated_at": "2026-08-29T06:30:38.642934+09:00"
+}
