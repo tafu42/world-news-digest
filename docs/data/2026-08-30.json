@@ -1,0 +1,83 @@
+{
+  "date": "2026-08-30",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-08-30T06:30:37.794999+09:00",
+      "title": "ニコラ・コクランやマット・ルーカスら、AIによる音声クローンに反対する運動を支援",
+      "summary": "約80名がアンディ・バーナム氏に対し、音声の所有権を保護する法整備を求める公開書簡に署名した。この動きには俳優のニコラ・コクランやマット・ルーカスらが含まれている。",
+      "impact": "著名人が声を上げることで、生成AI技術における個人の権利保護に関する議論が活発化し、今後法規制の検討が進む可能性がある。",
+      "content_at": "2026-08-30T06:30:37.794999+09:00"
+    },
+    {
+      "image": "https://www.tencent.com/wp-content/uploads/2026/08/hy4-preview-cover.jpg",
+      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-30T06:30:37.794999+09:00",
+      "title": "Tencent、次世代大規模言語モデル「Tencent Hy4」プレビュー版を公開・オープンソース化",
+      "summary": "Tencentは、総パラメータ数770B、アクティブパラメータ数49B、コンテキストウィンドウ100万トークン超を持つ次世代LLM「Tencent Hy4」を公開・オープンソース化した。",
+      "impact": "高い性能を持つモデルが公開されたことで、開発者によるLLM活用の幅が広がり、関連分野の技術革新が加速する可能性がある。",
+      "content_at": "2026-08-30T06:30:37.794999+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/4ebc6bdc52e9be13e062849c7d527d88f083515ccff086b45b804e1e708e9324/vllm-project/vllm/releases/tag/v0.28.0",
+      "url": "https://github.com/vllm-project/vllm/releases/tag/v0.28.0",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-30T06:30:37.794999+09:00",
+      "title": "vLLM v0.28.0リリース",
+      "summary": "vLLMの最新版v0.28.0がリリースされた。270名の貢献者による584件のコミットが含まれており、Kimi-K3の性能最適化などが図られている。",
+      "impact": "推論エンジンの最適化により、大規模言語モデルの実行効率が向上し、AIモデルの運用負荷軽減につながるとみられる。",
+      "content_at": "2026-08-30T06:30:37.794999+09:00"
+    },
+    {
+      "image": "https://zackbartel.com/img/avatar.jpeg",
+      "url": "https://zackbartel.com/blog/2026/08/tether/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-30T06:30:37.794999+09:00",
+      "title": "LinuxでiMessageやSMSを利用可能にするツール「Tether」",
+      "summary": "Linux環境において、iMessageやSMSなどのメッセージング機能を利用するためのツール「Tether」が発表された。",
+      "impact": "Linuxユーザーが異なるプラットフォーム間のメッセージを統合して扱えるようになり、利便性が向上する可能性がある。",
+      "content_at": "2026-08-30T06:30:37.794999+09:00"
+    },
+    {
+      "image": "https://tucker.wales/static/media/og-default.jpg",
+      "url": "https://tucker.wales/writing/bias-towards-action/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-30T06:30:37.794999+09:00",
+      "title": "新しい役割で成功するための「行動志向」のあり方",
+      "summary": "行動志向は、状況を理解した上で決定的に動く場合にのみ強みとなる。十分な文脈を把握する前に性急に行動すべきではない。",
+      "impact": "ビジネスにおいて、状況判断の重要性が再認識されることで、より戦略的で質の高い意思決定が促進される可能性がある。",
+      "content_at": "2026-08-30T06:30:37.794999+09:00"
+    },
+    {
+      "image": "https://pgaleone.eu/images/me.jpeg",
+      "url": "https://pgaleone.eu/ai/2026/08/29/losing-savviness/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-30T06:30:37.794999+09:00",
+      "title": "LLMの普及によりソフトウェア開発が退屈な作業に",
+      "summary": "大規模言語モデル（LLM）の使用により、ソフトウェア開発が楽しさを失っていると筆者は述べている。開発の現場が退屈になりつつあるという懸念である。",
+      "impact": "開発効率が向上する一方で、エンジニアの創造性や技術的な楽しさが損なわれ、仕事に対する意欲や職務満足度に悪影響を及ぼす可能性がある。",
+      "content_at": "2026-08-30T06:30:37.794999+09:00"
+    },
+    {
+      "image": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/1536x864+0+80/resize/1400/quality/85/format/jpeg/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F42%2Fb8%2Fee547c464a7589d76ce4a933f883%2Froman-element-assembly-wheel-1536x1024.jpg",
+      "url": "https://www.npr.org/2026/08/28/nx-s1-5905370/nasa-nancy-grace-roman-space-telescope-dark-energy-supernova",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-08-30T06:30:37.794999+09:00",
+      "title": "ナンシー・グレース・ローマン宇宙望遠鏡が日曜日に打ち上げ",
+      "summary": "NASAのナンシー・グレース・ローマン宇宙望遠鏡が8月30日に打ち上げられる。宇宙の重要な謎を解明するためのミッションである。",
+      "impact": "観測成功により宇宙論や天文学の理解が飛躍的に進み、これまで未解明だった宇宙の謎が明らかになる可能性がある。",
+      "content_at": "2026-08-30T06:30:37.794999+09:00"
+    }
+  ],
+  "updated_at": "2026-08-30T06:30:37.794999+09:00"
+}
