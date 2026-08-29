@@ -77,7 +77,62 @@
       "summary": "米国がA/I Collectiveに対して制裁を課した。",
       "impact": "当該組織の経済活動や国際的な協力関係が制限される可能性がある。",
       "content_at": "2026-08-29T06:30:38.642934+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/cbc273f8b06b2ec975a7d6f57af674709dc1d9d0/303_0_3331_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-29T13:30:38.086718+09:00",
+      "title": "米連邦判事、AI企業Anthropicのブラックリスト指定を違法と判断",
+      "summary": "AI企業Anthropicは、サプライチェーンリスクという指定により数十億ドルの損失や評判の低下を招く恐れがあると主張していた。米連邦判事は、ペンタゴンによる同社のブラックリスト指定は違法であるとの判決を下した。",
+      "impact": "今回の判決は、政府機関による企業指定の妥当性を巡る先行事例となる可能性がある。政府による企業規制の透明性と手続きの正当性が今後より厳しく問われるようになると考えられる。",
+      "content_at": "2026-08-29T13:30:38.086718+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/ff1b317f1925788d59c2c2137b58e57a240d79136c5d62a2012199181ce76406/Lakr233/vphone-cli",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-29T13:30:38.086718+09:00",
+      "title": "AppleのVirtualization.frameworkを利用した仮想iPhoneの起動",
+      "summary": "GitHubにて、AppleのVirtualization.frameworkを活用して仮想iPhoneを起動するための開発プロジェクトが公開された。このプロジェクトはLakr233/vphone-cliとして開発されている。",
+      "impact": "開発者や研究者が仮想環境でiPhoneを操作できるようになり、検証プロセスの効率化につながる可能性がある。一方で、セキュリティ上の懸念やApple側の利用規約への抵触に関する議論が起こる可能性がある。",
+      "content_at": "2026-08-29T13:30:38.086718+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-29T13:30:38.086718+09:00",
+      "title": "第9巡回区控訴裁、選挙賭博プラットフォームKalshiを巡る州側の主張を支持",
+      "summary": "選挙賭博プラットフォームKalshiを巡る争いで、第9巡回区控訴裁判所は州側の主張を支持した。",
+      "impact": "選挙の結果に対する賭けの合法性が争点となっており、今後の金融規制や賭博に関する法的解釈に影響を与える可能性がある。また、米国内での予測市場の運営方針に変化が生じるかもしれない。",
+      "content_at": "2026-08-29T13:30:38.086718+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/78cb1a95f24986fc93b7378c5ae4df76a1e6e3581dcdc83d766e4d6246a54402/kingroryg/turbokv",
+      "url": "https://github.com/kingroryg/turbokv",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-29T13:30:38.086718+09:00",
+      "title": "Rust向け高速キー・バリュー・ストア「TurboKV」",
+      "summary": "TurboKVは、Rust言語向けに開発された高速でシンプルな埋め込み型キー・バリュー・ストアである。このプロジェクトはGitHub上で公開されている。",
+      "impact": "Rustを用いたアプリケーション開発において、データ保存の高速化や実装の簡素化が期待される。小規模なシステムや組み込み環境での採用が広がる可能性がある。",
+      "content_at": "2026-08-29T13:30:38.086718+09:00"
+    },
+    {
+      "image": "https://www.vectorian.be/static/img/content/articles/sumerian-king-list-paleoclimate-alignment-og-v2.png",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-29T13:30:38.086718+09:00",
+      "title": "シュメール王名表と古気候イベントの関連性に関する検証",
+      "summary": "シュメール王名表の内容が古気候イベントと一致するかどうかを統計的に検証する試みが行われている。",
+      "impact": "検証の結果次第では、古代メソポタミアの王権の歴史と当時の環境変動との関連性が科学的に明らかになる可能性がある。",
+      "content_at": "2026-08-29T13:30:38.086718+09:00"
     }
   ],
-  "updated_at": "2026-08-29T06:30:38.642934+09:00"
+  "updated_at": "2026-08-29T13:30:38.086718+09:00"
 }

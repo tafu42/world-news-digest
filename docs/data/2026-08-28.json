@@ -68,28 +68,6 @@
       "content_at": "2026-08-28T06:30:38.753996+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/4db19f366382157a472cb02edd37dc8f7970a36b/555_41_2338_1870/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/28/no-special-carve-out-for-states-using-fossil-fuel-to-power-datacentres-chris-bowen-insists-despite-new-conditions",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-28T13:30:39.533778+09:00",
-      "title": "データセンターの化石燃料利用に特例なし、クリス・ボーエン氏が明言",
-      "summary": "エネルギー大臣は、データセンターの電源として石炭やガスの利用を希望する州に対して、再生可能エネルギーよりも安価であることを証明する必要があると述べた。特例措置は設けない方針である。",
-      "impact": "データセンター運営において再エネ利用が経済的合理性を持つよう促される可能性がある。",
-      "content_at": "2026-08-28T13:30:39.533778+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/6e9c72f1d4d1541ee16137214046b3255b6a1981/0_0_6827_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/28/meta-facebook-us-lawsuit-settlement-world-impact",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-08-28T13:30:39.533778+09:00",
-      "title": "Metaの米国での和解、世界への影響と係争中の訴訟の行方",
-      "summary": "Metaが米国で和解に至ったことを受け、他国の政府も同様の譲歩を求める可能性がある。ケニアやオランダなど、世界各地で同社に対する法的措置が進行中である。",
-      "impact": "他国での訴訟の進め方や和解条件に先例として影響を与える可能性がある。",
-      "content_at": "2026-08-28T13:30:39.533778+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/edb438f5d74facd15d689ea181f2f127212207b500d63a819baecf0e0315582c/elyosh/OpenTIE",
       "url": "https://github.com/elyosh/OpenTIE/",
       "category": "海外IT",
