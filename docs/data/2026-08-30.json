@@ -132,7 +132,73 @@
       "summary": "アルゴリズムを用いた賃料設定に関する訴訟が、新たな州法および地方自治体の条例の下で拡大している。法整備に伴い、法的な争点が広がりを見せている。",
       "impact": "今後、賃貸住宅市場における価格決定プロセスへの規制が強化される可能性がある。不動産業界はアルゴリズム運用の適正化を迫られるとみられる。",
       "content_at": "2026-08-30T13:30:39.382473+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/cbc273f8b06b2ec975a7d6f57af674709dc1d9d0/303_0_3331_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-30T21:30:39.295504+09:00",
+      "title": "米連邦判事、AI企業Anthropicのブラックリスト指定を違法と判断",
+      "summary": "Anthropic社は、自社が「サプライチェーンリスク」に指定されたことで多額のビジネス損失や名声の低下を招く可能性があると主張していた。これに対し米連邦判事は、その指定は違法であるとの裁定を下した。",
+      "impact": "今回の判断により、当局によるサプライチェーンリスクの指定基準に対する法的監視が強まる可能性がある。",
+      "content_at": "2026-08-30T21:30:39.295504+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/1804.07389",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-30T21:30:39.295504+09:00",
+      "title": "地球上で陸路および海路を直線で移動できる最長距離の研究",
+      "summary": "地球上で陸地にぶつからずに航行できる最長距離や、逆に海に出ずに陸路を移動できる最長距離を特定することへの関心が高まっている。この問題は、地球上の直線経路を求めるものとして取り扱われている。",
+      "impact": "地理学やナビゲーション技術における空間認識の理解を深める一助となる可能性がある。",
+      "content_at": "2026-08-30T21:30:39.295504+09:00"
+    },
+    {
+      "image": "https://www.qubes-os.org/attachment/icons/qubes-logo-icon-name-slogan-fb.png",
+      "url": "https://www.qubes-os.org/news/2026/08/29/qsb-118/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-30T21:30:39.295504+09:00",
+      "title": "Qubes OSに任意のコード実行の脆弱性、エラー報告機能に不備",
+      "summary": "Qubes OSにおいて、qvm-copy-to-vmのエラー報告機能を経由したDom0での任意のコード実行が可能となる脆弱性が報告された。詳細はQubes Security Bulletin 118で公開されている。",
+      "impact": "当該脆弱性が修正されるまで、悪意のある攻撃によってシステムが制御される可能性があるため、ユーザーには速やかな更新が推奨される。",
+      "content_at": "2026-08-30T21:30:39.295504+09:00"
+    },
+    {
+      "image": "https://image.theregister.com/255047.jpg?imageId=255047&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "url": "https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-30T21:30:39.295504+09:00",
+      "title": "英国民の3分の2がプライベートメッセージの保護を支持",
+      "summary": "世論調査によると、英国民の3分の2が自身のプライベートなメッセージが保護されることを望んでいることが判明した。",
+      "impact": "プライバシー保護に関する世論の高まりが、今後の通信政策や法規制の議論に影響を与える可能性がある。",
+      "content_at": "2026-08-30T21:30:39.295504+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-30T21:30:39.295504+09:00",
+      "title": "独自のネットワークスタックを構築すべきという提案",
+      "summary": "独自のネットワークスタックを構築することの重要性が示唆されている。提示されたテキストは技術的なスタイリングの定義を含んでいる。",
+      "impact": "エンジニアがネットワークの基礎技術を深く理解するきっかけになる可能性がある。",
+      "content_at": "2026-08-30T21:30:39.295504+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://git.zx2c4.com/spark/about/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-30T21:30:39.295504+09:00",
+      "title": "シェル上でスパークラインを表示するツール「Spark」",
+      "summary": "Sparkはシェル上でスパークライン（簡易的な折れ線グラフ）を表示するためのツールである。",
+      "impact": "コマンドラインでのデータ可視化が簡便化され、ターミナルベースでの運用効率が向上するとみられる。",
+      "content_at": "2026-08-30T21:30:39.295504+09:00"
     }
   ],
-  "updated_at": "2026-08-30T13:30:39.382473+09:00"
+  "updated_at": "2026-08-30T21:30:39.295504+09:00"
 }
