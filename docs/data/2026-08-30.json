@@ -2,17 +2,6 @@
   "date": "2026-08-30",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/0462b48abda45181d440d2e6edc2119d4d1ffd58/784_371_4536_3629/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/28/stars-back-campaign-against-ai-voice-cloning-nicola-coughlan-matt-lucas",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-08-30T06:30:37.794999+09:00",
-      "title": "ニコラ・コクランやマット・ルーカスら、AIによる音声クローンに反対する運動を支援",
-      "summary": "約80名がアンディ・バーナム氏に対し、音声の所有権を保護する法整備を求める公開書簡に署名した。この動きには俳優のニコラ・コクランやマット・ルーカスらが含まれている。",
-      "impact": "著名人が声を上げることで、生成AI技術における個人の権利保護に関する議論が活発化し、今後法規制の検討が進む可能性がある。",
-      "content_at": "2026-08-30T06:30:37.794999+09:00"
-    },
-    {
       "image": "https://www.tencent.com/wp-content/uploads/2026/08/hy4-preview-cover.jpg",
       "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
       "category": "海外IT",
