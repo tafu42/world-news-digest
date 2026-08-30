@@ -77,7 +77,62 @@
       "summary": "NASAのナンシー・グレース・ローマン宇宙望遠鏡が8月30日に打ち上げられる。宇宙の重要な謎を解明するためのミッションである。",
       "impact": "観測成功により宇宙論や天文学の理解が飛躍的に進み、これまで未解明だった宇宙の謎が明らかになる可能性がある。",
       "content_at": "2026-08-30T06:30:37.794999+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/369c35b915175146bb5d258aad8ae6ed55d004f5/0_696_1052_841/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/28/wilem-frischmann-obituary",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-08-30T13:30:39.382473+09:00",
+      "title": "構造エンジニア、ウィレム・フリッシュマン氏の訃報",
+      "summary": "モダニズム建築家のリチャード・セイファートと協働した構造エンジニアのウィレム・フリッシュマンが死去した。",
+      "impact": "数々の著名な近代建築に携わった人物の逝去により、建築史や構造設計の分野で彼の功績を振り返る動きが出る可能性がある。",
+      "content_at": "2026-08-30T13:30:39.382473+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://danluu.com/bug-blind/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-30T13:30:39.382473+09:00",
+      "title": "バグ・ブラインドネス（虫に対する無関心）",
+      "summary": "バグ・ブラインドネスに関する記事である。",
+      "impact": "この現象が社会的に広く認識されることで、環境教育や生態系への関心のあり方が見直される可能性がある。",
+      "content_at": "2026-08-30T13:30:39.382473+09:00"
+    },
+    {
+      "image": "https://blog.python.org/og/riscv-now-officially-supported.png",
+      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-30T13:30:39.382473+09:00",
+      "title": "CPythonがRISC-Vを正式にサポート",
+      "summary": "RISC-VプラットフォームがCPythonで正式にサポートされることが発表された。",
+      "impact": "RISC-Vアーキテクチャの普及がさらに加速し、より多様なハードウェア環境でのPython利用が促進されるとみられる。",
+      "content_at": "2026-08-30T13:30:39.382473+09:00"
+    },
+    {
+      "image": "https://freecore.org/og.png",
+      "url": "https://freecore.org/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-30T13:30:39.382473+09:00",
+      "title": "FreeCOREによるTrueNAS COREの継続",
+      "summary": "FreeBSD上で動作する独立したオペレーティングシステムとして、TrueNAS CORE 13.3を継承するFreeCOREの提供が開始された。本OSは15.0へのインプレースアップグレードに対応する。",
+      "impact": "TrueNAS COREの利用者がFreeCOREへ移行することで、特定のプラットフォーム環境の維持と継続的なシステム利用が可能になると考えられる。",
+      "content_at": "2026-08-30T13:30:39.382473+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.morganlewis.com/pubs/2026/08/algorithmic-rent-pricing-litigation-expands-under-new-state-and-local-laws",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-30T13:30:39.382473+09:00",
+      "title": "アルゴリズムによる賃料設定を巡る訴訟が拡大",
+      "summary": "アルゴリズムを用いた賃料設定に関する訴訟が、新たな州法および地方自治体の条例の下で拡大している。法整備に伴い、法的な争点が広がりを見せている。",
+      "impact": "今後、賃貸住宅市場における価格決定プロセスへの規制が強化される可能性がある。不動産業界はアルゴリズム運用の適正化を迫られるとみられる。",
+      "content_at": "2026-08-30T13:30:39.382473+09:00"
     }
   ],
-  "updated_at": "2026-08-30T06:30:37.794999+09:00"
+  "updated_at": "2026-08-30T13:30:39.382473+09:00"
 }
