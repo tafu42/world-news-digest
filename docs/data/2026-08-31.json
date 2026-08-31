@@ -132,7 +132,62 @@
       "summary": "組織の調整に伴う困難について、粘菌の特性になぞらえた考察が行われている。",
       "impact": "組織論やマネジメントにおける新たな視点として、生物学的知見を応用した運営方法が検討される可能性がある。",
       "content_at": "2026-08-31T06:30:37.301491+09:00"
+    },
+    {
+      "image": "https://unsung.aresluna.org/_media/i-just-chose-words-carefully/ogimage.jpg",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-31T13:30:40.234864+09:00",
+      "title": "ソフトウェア工学と品質に関するブログ",
+      "summary": "ソフトウェアの職人技と品質をテーマにしたブログである。",
+      "impact": "ソフトウェア開発の実践や品質維持に関する知見が共有されることで、関連技術者の参考になる可能性がある。",
+      "content_at": "2026-08-31T13:30:40.234864+09:00"
+    },
+    {
+      "image": "https://bloximages.chicago2.vip.townnews.com/dailycal.org/content/tncms/assets/v3/editorial/1/4b/14b0571e-11ab-4a50-9405-a5d43f21de6e/6a8fa085f143d.image.jpg?crop=1793%2C941%2C0%2C106&amp;resize=1200%2C630&amp;order=crop%2Cresize",
+      "url": "https://www.dailycal.org/news/campus/after-second-ice-threat-uc-berkeley-indefinitely-suspends-international-student-work-authorizations/article_0e9ae0c0-dd4d-4455-a25b-e8be7b47e350.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-31T13:30:40.234864+09:00",
+      "title": "カリフォルニア大学バークレー校、留学生の就労許可申請を無期限停止",
+      "summary": "バークレー国際局は、留学生向けの課程単位取得型実務研修（CPT）の申請受付を無期限で停止すると発表した。",
+      "impact": "対象となる留学生の実習機会やキャリア形成に影響が及ぶ可能性がある。",
+      "content_at": "2026-08-31T13:30:40.234864+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ruurtjan.com/articles/p99-0ms-autocomplete-for-240-million-domain-names",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-31T13:30:40.234864+09:00",
+      "title": "2億4000万ドメイン名の高速オートコンプリート技術",
+      "summary": "Wirewikiが、2億4000万件のドメイン名に対して、キー入力の99%で次フレームに候補を表示させるオートコンプリートを実現した手法を紹介している。",
+      "impact": "大規模データを用いたUIの応答性向上に関する技術事例として、今後のウェブ開発におけるパフォーマンス改善の参考になる可能性がある。",
+      "content_at": "2026-08-31T13:30:40.234864+09:00"
+    },
+    {
+      "image": "https://tokenstead.ai/og/guides/eu-ai-act-first-enforcement-security-rfis.png",
+      "url": "https://tokenstead.ai/guides/eu-ai-act-first-enforcement-security-rfis",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-31T13:30:40.234864+09:00",
+      "title": "EUがAI法に基づき、汎用AIモデル提供者へ初の説明要求を送付",
+      "summary": "EU AIオフィスは、汎用AIモデル提供者に対し、セキュリティ、評価、モニタリングに関する正式な情報提供要請を送付した。これはAI法の執行を開始したものである。",
+      "impact": "AI開発企業に対して透明性の高い運用と適切な管理体制の構築が強く求められ、今後のAI規制の先例となる可能性がある。",
+      "content_at": "2026-08-31T13:30:40.234864+09:00"
+    },
+    {
+      "image": "https://blog.vghaisas.com/img/rube-goldberg-doorbell/doorbell-flowchart.png",
+      "url": "https://blog.vghaisas.com/rube-goldberg-doorbell/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-08-31T13:30:40.234864+09:00",
+      "title": "自宅のドアベル通知に5つのクラウドサービスが必要な現状",
+      "summary": "2024年冬、集合住宅での空き巣被害をきっかけにホームセキュリティへの投資を決定した。しかし、ドアベルの通知を確認するために5つのクラウドサービスを介さなければならない状況にある。",
+      "impact": "スマートホーム機器の複雑化は、利便性を追求する一方でユーザーの管理負荷を高める可能性がある。今後、機器間の連携が改善されない限り、セキュリティシステムの運用負担が増大するとみられる。",
+      "content_at": "2026-08-31T13:30:40.234864+09:00"
     }
   ],
-  "updated_at": "2026-08-31T06:30:37.301491+09:00"
+  "updated_at": "2026-08-31T13:30:40.234864+09:00"
 }
