@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-01",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/e8c0fbf690fb7de0c9bc31006a069c434114b13f/464_0_4640_3712/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "米FTCと22州がAmazonを提訴、秘密の追加料金で200億ドルを不当徴収か",
+      "summary": "米連邦取引委員会（FTC）などは、Amazonが広告主に対して秘密裏に過大な料金を請求していたとして提訴した。同社が長年にわたり体系的に不当な利益を得ていたと主張されている。",
+      "impact": "Amazonの広告ビジネスモデルに対する監視が強まる可能性がある。また、同様の慣行が他の巨大テック企業にも拡大しているのか、規制当局によるさらなる調査が進むと考えられる。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/088efc360811ce7fbc25edd6ca021efcd0e70df6/200_0_6000_4800/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "AIツール「スーパーヒューマン」が2秒以内で心疾患を検出",
+      "summary": "数百万件の心電図データで学習させたAI技術が、心疾患を2秒以内に検出できるようになった。この技術により、高リスク患者の早期治療への道筋が迅速化する可能性がある。",
+      "impact": "医療現場での診断効率が劇的に向上し、心疾患による死亡リスクを減らす一助となる可能性がある。今後、臨床現場への導入がさらに進むと考えられる。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/5134b5c867a98ab795bd59bef3873e520791d015/278_0_2966_2373/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/31/cisco-civil-rights-palestine-advocacy-violation",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "シスコがイスラム教徒の従業員の権利を侵害した可能性、米政府機関が認定",
+      "summary": "米国雇用機会均等委員会（EEOC）は、シスコがパレスチナ問題を巡って発言した従業員に対し、敵対的な職場環境を作り出したと認定した。同委員会は人権侵害の相当な根拠があると判断している。",
+      "impact": "企業内における政治的発言や従業員の表現の自由に関する議論が活発化するとみられる。シスコは今後、企業統治や従業員の権利保護に関する再評価を迫られる可能性がある。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00"
+    },
+    {
+      "image": "https://jasontucker.blog/content/images/size/w1200/2026/06/birdnet-2.jpeg",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "セキュリティカメラを自動野鳥識別システムに改造",
+      "summary": "セキュリティカメラ3台と「BirdNet-Go」を利用し、自宅の庭を訪れる鳥の種類をリアルタイムで追跡できるシステムを構築した。これにより、夫婦で鳥の観察を楽しんでいる。",
+      "impact": "既存の防犯機器を趣味や生物調査に応用する個人による技術活用の一例である。今後、同様のDIYツールが普及し、市民科学の発展を促進する可能性がある。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "単一のHTMLファイルで表現された歩行可能なASCIIサイバーパンク都市",
+      "summary": "単一のHTMLファイルで、歩行可能なASCII文字によるサイバーパンクな都市が表現された動画が公開された。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00",
+      "impact": "Web技術を利用した軽量なグラフィックス表現や、開発者コミュニティにおけるクリエイティブな実験の可能性を提示していると考えられる。"
+    },
+    {
+      "image": "",
+      "url": "https://playaphone.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "Playa Phoneについて",
+      "summary": "Playa Phoneという名称の事物が紹介されている。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00",
+      "impact": "対象の具体的な内容が不明なため、現時点で社会への影響を予測することはできない。"
+    },
+    {
+      "image": "",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "Google、UBOを含むMV2拡張機能をChromeウェブストアから削除",
+      "summary": "Googleは、UBO（uBlock Origin）を含むMV2（Manifest V2）ベースの拡張機能をChromeウェブストアから削除した。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00",
+      "impact": "MV2に依存する拡張機能の利用が制限されるため、該当する広告ブロック等のツールを使用していたユーザーは代替手段への移行が必要になるとみられる。"
+    },
+    {
+      "image": "",
+      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "心停止を引き起こす可能性がある「狂った蜂蜜」がオンラインで販売中",
+      "summary": "摂取すると心停止を引き起こすリスクのある「狂った蜂蜜（マッドハニー）」が、オンライン上で販売されている。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00",
+      "impact": "健康被害を及ぼす危険性があるため、消費者に対する注意喚起が重要になると考えられる。"
+    },
+    {
+      "image": "https://laser.consti.de/media/og.jpg",
+      "url": "https://laser.consti.de",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-01T06:30:39.043090+09:00",
+      "title": "レーザーポインターで壁に描画するオープンソースツール「Laser Graffiti」",
+      "summary": "プロジェクターとウェブカメラを使用して、レーザーポインターで壁に描画できるオープンソースのブラウザ用ソフトウェアである。ポインターの動きをカメラで検知し、プロジェクターがその軌跡を投影する仕組みとなっている。",
+      "impact": "インタラクティブなアート制作や演出の手段として活用される可能性がある。手軽に導入できるため、個人や小規模なイベントでの利用が広がると考えられる。",
+      "content_at": "2026-09-01T06:30:39.043090+09:00"
+    }
+  ],
+  "updated_at": "2026-09-01T06:30:39.043090+09:00"
+}
