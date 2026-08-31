@@ -187,7 +187,73 @@
       "summary": "2024年冬、集合住宅での空き巣被害をきっかけにホームセキュリティへの投資を決定した。しかし、ドアベルの通知を確認するために5つのクラウドサービスを介さなければならない状況にある。",
       "impact": "スマートホーム機器の複雑化は、利便性を追求する一方でユーザーの管理負荷を高める可能性がある。今後、機器間の連携が改善されない限り、セキュリティシステムの運用負担が増大するとみられる。",
       "content_at": "2026-08-31T13:30:40.234864+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/32558fa9addd419a717ed33ab92bba09519a40d4/1024_462_1404_1123/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/31/amelia-dimoldenberg-chicken-shop-date-youtube-tv",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-08-31T21:30:37.552149+09:00",
+      "title": "YouTube番組の成功が示すテレビ業界の変化",
+      "summary": "アメリア・ディモルデンバーグは、自身のインタビュー番組が長年広報担当者に無視されてきたことを明かした。現在では、彼女はAリストのゲストを慎重に選べるほどの人気を得ている。",
+      "impact": "個人の動画コンテンツが従来のメディア業界に対して強い影響力を持つようになり、スターの発掘やプロモーションのあり方が今後さらに変化する可能性がある。",
+      "content_at": "2026-08-31T21:30:37.552149+09:00"
+    },
+    {
+      "image": "https://cdn.openshot.org/images/uploads/zinnia/2026/08/30/color-view.webp",
+      "url": "https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-31T21:30:37.552149+09:00",
+      "title": "OpenShot 4.0の主要なアップデート",
+      "summary": "OpenShot 4.0は、カラーグレーディング機能や録画機能、新しいエフェクトなどを追加した。ワークフローの効率化と編集機能の強化が図られている。",
+      "impact": "無料動画編集ソフトの機能向上により、初心者から中級者のクリエイターがより高度な編集を容易に行えるようになる可能性がある。",
+      "content_at": "2026-08-31T21:30:37.552149+09:00"
+    },
+    {
+      "image": "https://calpaterson.com/images/photo/kungfu.jpeg",
+      "url": "https://calpaterson.com/memoryfields.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-31T21:30:37.552149+09:00",
+      "title": "エージェントメモリの新たなファイル形式",
+      "summary": "Memoryfieldsは、エージェントメモリを管理するための簡素化された新しい手法である。",
+      "impact": "AIエージェントの記憶構造が単純化されることで、開発者がエージェントシステムを構築・維持する際の効率が向上すると考えられる。",
+      "content_at": "2026-08-31T21:30:37.552149+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-31T21:30:37.552149+09:00",
+      "title": "Claude Code Opus 5の脆弱性に関する調査",
+      "summary": "ウェブサイトの要約リクエストにより、Claude Code Opus 5のオートモードが乗っ取られ、コードが実行される事象が確認された。攻撃の成功率は60〜80%である。",
+      "impact": "AIの自動実行機能に対するセキュリティリスクが浮き彫りになっており、AIツールの安全な利用に向けた対策や仕様の見直しが進められる可能性がある。",
+      "content_at": "2026-08-31T21:30:37.552149+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://signalandsilence.substack.com/p/i-think-someone-hacked-the-commissary",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-31T21:30:37.552149+09:00",
+      "title": "軍の売店の冷凍庫がハッキングされた可能性",
+      "summary": "軍の売店（コミッサリー）の冷凍庫がハッキングされたのではないかという疑念について述べている。具体的な詳細については言及がない。",
+      "impact": "軍の施設におけるセキュリティ上の懸念が生じる可能性がある。調査の結果次第では、他の軍事関連インフラにおける脆弱性が指摘されるかもしれない。",
+      "content_at": "2026-08-31T21:30:37.552149+09:00"
+    },
+    {
+      "image": "https://eu-west-2.graphassets.com/AxQ8YTi9LTCrOeR0pPuwfz/output=format:webp/cmnos8w199b6a07l4xeaanymg",
+      "url": "https://engineering.moniepoint.com/what-i-learned-about-ai-trust-from-reconciling",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-08-31T21:30:37.552149+09:00",
+      "title": "1000億件以上の取引照合から学んだAIへの信頼",
+      "summary": "カイロで開催されたAI Everything MEAのパネルディスカッションにおいて、1000億件以上の取引照合を通じて得たAIへの信頼に関する知見を語っている。",
+      "impact": "大規模なデータ処理におけるAIの信頼性向上に寄与する可能性がある。金融取引などの実務においてAI導入の判断基準が明確化されると考えられる。",
+      "content_at": "2026-08-31T21:30:37.552149+09:00"
     }
   ],
-  "updated_at": "2026-08-31T13:30:40.234864+09:00"
+  "updated_at": "2026-08-31T21:30:37.552149+09:00"
 }

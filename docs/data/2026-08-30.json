@@ -112,17 +112,6 @@
       "content_at": "2026-08-30T13:30:39.382473+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/cbc273f8b06b2ec975a7d6f57af674709dc1d9d0/303_0_3331_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/28/us-court-rules-pentagon-anthropic-ban-illegal-trump-claude-ai",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-08-30T21:30:39.295504+09:00",
-      "title": "米連邦判事、AI企業Anthropicのブラックリスト指定を違法と判断",
-      "summary": "Anthropic社は、自社が「サプライチェーンリスク」に指定されたことで多額のビジネス損失や名声の低下を招く可能性があると主張していた。これに対し米連邦判事は、その指定は違法であるとの裁定を下した。",
-      "impact": "今回の判断により、当局によるサプライチェーンリスクの指定基準に対する法的監視が強まる可能性がある。",
-      "content_at": "2026-08-30T21:30:39.295504+09:00"
-    },
-    {
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "url": "https://arxiv.org/abs/1804.07389",
       "category": "海外IT",
