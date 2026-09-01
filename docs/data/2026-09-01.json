@@ -99,7 +99,62 @@
       "summary": "プロジェクターとウェブカメラを使用して、レーザーポインターで壁に描画できるオープンソースのブラウザ用ソフトウェアである。ポインターの動きをカメラで検知し、プロジェクターがその軌跡を投影する仕組みとなっている。",
       "impact": "インタラクティブなアート制作や演出の手段として活用される可能性がある。手軽に導入できるため、個人や小規模なイベントでの利用が広がると考えられる。",
       "content_at": "2026-09-01T06:30:39.043090+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6cf2b5d7aa4fdcc0ffda469100956486193b1798/1504_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/30/ais-worst-disasters-will-arrive-unannounced",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-01T13:30:36.278606+09:00",
+      "title": "AIがもたらす脅威への国際的な対策",
+      "summary": "AIがもたらす脅威を抑制するために、世界規模の努力が必要であると指摘されている。サイモン・ニーダー博士らによる意見が紹介されている。",
+      "impact": "AIの安全性に対する議論が深まり、今後国際的な規制やガイドラインの策定が進む可能性がある。",
+      "content_at": "2026-09-01T13:30:36.278606+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/fa2c05a9f53a6ccfee529f9033b081f3f6271932/0_375_3150_2522/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/aug/31/sadistic-online-exploitation-warning-signs-for-parents-children-ntwnfb",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-01T13:30:36.278606+09:00",
+      "title": "子供をオンラインの性的搾取から守るための兆候と対策",
+      "summary": "加害者は脅迫や操作を用いて、被害者に性的行為や自傷行為などを強制する。保護者が注意すべき5つの警告サインと、子供を守るための方法が解説されている。",
+      "impact": "保護者の警戒心が高まり、オンライン上の児童に対する性的搾取を防ぐための家庭内教育や安全対策が強化されるとみられる。",
+      "content_at": "2026-09-01T13:30:36.278606+09:00"
+    },
+    {
+      "image": "https://antigravity.google/assets/image/sitecards/sitecard-documentation.png",
+      "url": "https://antigravity.google/docs/boost/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-01T13:30:36.278606+09:00",
+      "title": "Google Antigravityが推論機能「/boost」を導入",
+      "summary": "Google Antigravityにおいて、複雑なコーディングやバグ修正、アルゴリズムの問題を解決するマルチエージェント推論機能「/boost」が導入された。スラッシュコマンドを使用して利用できる。",
+      "impact": "開発者が複雑な技術課題を解決する際、AIによるマルチエージェント推論が活用されることで、開発の効率化が進むと考えられる。",
+      "content_at": "2026-09-01T13:30:36.278606+09:00"
+    },
+    {
+      "image": "https://fastpotify.rocks/screenshot.png",
+      "url": "https://fastpotify.rocks/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-01T13:30:36.278606+09:00",
+      "title": "Rustで構築された高速なSpotifyクライアント「Fastpotify」",
+      "summary": "Fastpotifyは、Rustで記述されたSpotifyの高速なネイティブクライアントである。Linux、macOS、Windowsに対応している。",
+      "impact": "PC環境でSpotifyを利用する際、より軽量で高速なクライアントの選択肢が増えることとなる。",
+      "content_at": "2026-09-01T13:30:36.278606+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/w77i7m8x/production/eba95bf72cac81675e8f0bd6fc62e757eac2dac4-2304x1188.png",
+      "url": "https://tailscale.com/blog/tailcat",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-01T13:30:36.278606+09:00",
+      "title": "Tailscaleのインフラを活用した新ツール「Tailcat」が登場",
+      "summary": "Tailcatは、Tailscaleのコントロールプレーンやアカウントを必要とせずに、同社のWireGuard、NATトラバーサル、DERPデータプレーンを利用してクライアントとサーバーを接続する。このツールにより、既存のインフラ機能を活用した通信環境の構築が可能になる。",
+      "impact": "Tailscaleの認証基盤に依存しない通信の選択肢が増えることで、特定のサービス管理下にない環境でのネットワーク構築が容易になる可能性がある。",
+      "content_at": "2026-09-01T13:30:36.278606+09:00"
     }
   ],
-  "updated_at": "2026-09-01T06:30:39.043090+09:00"
+  "updated_at": "2026-09-01T13:30:36.278606+09:00"
 }
