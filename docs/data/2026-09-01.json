@@ -154,7 +154,77 @@
       "summary": "Tailcatは、Tailscaleのコントロールプレーンやアカウントを必要とせずに、同社のWireGuard、NATトラバーサル、DERPデータプレーンを利用してクライアントとサーバーを接続する。このツールにより、既存のインフラ機能を活用した通信環境の構築が可能になる。",
       "impact": "Tailscaleの認証基盤に依存しない通信の選択肢が増えることで、特定のサービス管理下にない環境でのネットワーク構築が容易になる可能性がある。",
       "content_at": "2026-09-01T13:30:36.278606+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/13dbd123e3b27da04d0db84e9c31f9872aa74f8c/0_648_3000_2399/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/01/datacenter-backlash-conservatives-silicon-valley",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-01T21:30:42.454638+09:00",
+      "title": "シリコンバレーのデータセンター開発、保守派との対立が深まる",
+      "summary": "テック企業がエネルギー消費量の多いデータセンターに対する反対を過小評価しており、専門家は反発が強まると予測している。",
+      "impact": "今後、データセンターの設置場所をめぐり、地域住民や政治勢力との対立が激化し、開発計画に遅延が生じる可能性がある。",
+      "content_at": "2026-09-01T21:30:42.454638+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/358a72d889e31c30f2020369feea3f60e7376cea23f4a5c906026425e47763a2/ankidroid/Anki-Android/issues/21656",
+      "url": "https://github.com/ankidroid/Anki-Android/issues/21656",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-01T21:30:42.454638+09:00",
+      "title": "AnkiDroid、Google Playでの寄付リンク掲載が停止に",
+      "summary": "Googleは、Open Collectiveによる寄付リンクの掲載を許可しなくなった。AnkiDroid側は、税控除対象の寄付として認められるかについてGoogleに明確化を求めている。",
+      "impact": "開発プロジェクトの資金調達方法に影響が出る可能性がある。Google Playストアにおけるアプリの収益モデルや寄付に関する規約の解釈が、他のオープンソースアプリにも影響を及ぼす可能性がある。",
+      "content_at": "2026-09-01T21:30:42.454638+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mvakde.github.io/blog/44-on-arc-1/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-01T21:30:42.454638+09:00",
+      "title": "ARC-AGI-1ベンチマークで44%のスコアを67セントで達成",
+      "summary": "ARC-AGI-1の評価において、67セントのコストで44%のスコアを記録した。",
+      "impact": "汎用人工知能（AGI）の評価コストが低減していることを示唆しており、より安価に高性能なAIモデルを開発・検証できる環境が広がる可能性がある。",
+      "content_at": "2026-09-01T21:30:42.454638+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-01T21:30:42.454638+09:00",
+      "title": "アメリカン航空の伝説的な整備士、100歳で死去",
+      "summary": "80年間のキャリアを持つアメリカン航空の伝説的な整備士が100歳で亡くなった。",
+      "impact": "航空業界の歴史における象徴的な人物の死去であり、長期間にわたる専門技術の継承とその功績が称えられると考えられる。",
+      "content_at": "2026-09-01T21:30:42.454638+09:00"
+    },
+    {
+      "en_title": "GPU World",
+      "en_text": "GPU World",
+      "image": "",
+      "url": "https://www.gpuworld.org/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-01T21:30:42.454638+09:00",
+      "title": "GPU World",
+      "summary": "GPU World",
+      "content_at": "2026-09-01T21:30:42.454638+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Tmp.0ut Volume 5",
+      "en_text": "Tmp.0ut Volume 5",
+      "image": "",
+      "url": "https://tmpout.sh/5/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-01T21:30:42.454638+09:00",
+      "title": "Tmp.0ut Volume 5",
+      "summary": "Tmp.0ut Volume 5",
+      "content_at": "2026-09-01T21:30:42.454638+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-09-01T13:30:36.278606+09:00"
+  "updated_at": "2026-09-01T21:30:42.454638+09:00"
 }
