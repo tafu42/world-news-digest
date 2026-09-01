@@ -2,39 +2,6 @@
   "date": "2026-09-01",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/e8c0fbf690fb7de0c9bc31006a069c434114b13f/464_0_4640_3712/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/31/amazon-advertising-lawsuit",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-01T06:30:39.043090+09:00",
-      "title": "米FTCと22州がAmazonを提訴、秘密の追加料金で200億ドルを不当徴収か",
-      "summary": "米連邦取引委員会（FTC）などは、Amazonが広告主に対して秘密裏に過大な料金を請求していたとして提訴した。同社が長年にわたり体系的に不当な利益を得ていたと主張されている。",
-      "impact": "Amazonの広告ビジネスモデルに対する監視が強まる可能性がある。また、同様の慣行が他の巨大テック企業にも拡大しているのか、規制当局によるさらなる調査が進むと考えられる。",
-      "content_at": "2026-09-01T06:30:39.043090+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/088efc360811ce7fbc25edd6ca021efcd0e70df6/200_0_6000_4800/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/31/superhuman-ai-tool-spots-heart-disease",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-01T06:30:39.043090+09:00",
-      "title": "AIツール「スーパーヒューマン」が2秒以内で心疾患を検出",
-      "summary": "数百万件の心電図データで学習させたAI技術が、心疾患を2秒以内に検出できるようになった。この技術により、高リスク患者の早期治療への道筋が迅速化する可能性がある。",
-      "impact": "医療現場での診断効率が劇的に向上し、心疾患による死亡リスクを減らす一助となる可能性がある。今後、臨床現場への導入がさらに進むと考えられる。",
-      "content_at": "2026-09-01T06:30:39.043090+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/5134b5c867a98ab795bd59bef3873e520791d015/278_0_2966_2373/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/aug/31/cisco-civil-rights-palestine-advocacy-violation",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-01T06:30:39.043090+09:00",
-      "title": "シスコがイスラム教徒の従業員の権利を侵害した可能性、米政府機関が認定",
-      "summary": "米国雇用機会均等委員会（EEOC）は、シスコがパレスチナ問題を巡って発言した従業員に対し、敵対的な職場環境を作り出したと認定した。同委員会は人権侵害の相当な根拠があると判断している。",
-      "impact": "企業内における政治的発言や従業員の表現の自由に関する議論が活発化するとみられる。シスコは今後、企業統治や従業員の権利保護に関する再評価を迫られる可能性がある。",
-      "content_at": "2026-09-01T06:30:39.043090+09:00"
-    },
-    {
       "image": "https://jasontucker.blog/content/images/size/w1200/2026/06/birdnet-2.jpeg",
       "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
       "category": "海外IT",
