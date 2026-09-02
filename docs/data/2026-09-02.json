@@ -165,7 +165,73 @@
       "summary": "YouTube上で「AIで作成（Made with AI）」とラベル付けされた動画をフィードから除外するSafari拡張機能が公開された。このツールにより、ユーザーは特定の種類の動画を自身の閲覧環境から自動的に排除できる。",
       "impact": "AI生成コンテンツに対するユーザーのコントロール権が強まることで、今後類似のフィルタリングツールが普及する可能性がある。",
       "content_at": "2026-09-02T13:30:39.107184+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/fb3012d09f0ab2b0465797bf80bced5fb684c326/0_0_1500_1200/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/tim-cook-47m-package-chair-apple",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-02T21:30:43.134774+09:00",
+      "title": "ティム・クック氏がAppleの取締役会長に就任、4700万ドルの報酬パッケージを付与",
+      "summary": "Appleの取締役会長に就任するティム・クック氏に対し、4700万ドル相当の報酬パッケージが提示された。これはCEOの後任であるジョン・ターナス氏への5800万ドルの報酬額に近い水準である。",
+      "impact": "世界的な巨大テック企業のトップ交代と報酬体系が明らかになったことで、企業統治や役員報酬のあり方について市場の関心が集まる可能性がある。",
+      "content_at": "2026-09-02T21:30:43.134774+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/8fe3fe7e1a84e9a9a4298ff7d547dbf1d36f91d9/1_0_2999_2400/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/ai-jobs-freelance-cleanup",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-02T21:30:43.134774+09:00",
+      "title": "AIの生成物修正に追われるフリーランサーたち「魂のない作業」との指摘",
+      "summary": "AI導入を進める企業が増える中、フリーランサーが本来の創作活動ではなく、AIが犯したミスの修正作業に従事するケースが増加している。作業者からはその状況を否定的に捉える声が上がっている。",
+      "impact": "企業のAI活用プロセスにおいて人手による修正が不可欠な状況が続けば、フリーランス労働の需要が「創造」から「品質管理・修正」へと偏っていく可能性がある。",
+      "content_at": "2026-09-02T21:30:43.134774+09:00"
+    },
+    {
+      "image": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2026/08/commodore-64-release-date-social.jpg?fit=964%2C542&ssl=1",
+      "url": "https://dfarq.homeip.net/commodore-64-released-september-1-1982/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-02T21:30:43.134774+09:00",
+      "title": "1982年9月1日に発売された「Commodore 64」",
+      "summary": "1982年9月1日にパーソナルコンピュータ「Commodore 64」が発売された。同機は、現在のテクノロジー業界で働く世代が成長過程で触れてきた製品である。",
+      "impact": "このコンピュータが当時の技術者に与えた影響は大きく、現在のIT産業の発展に貢献した先駆的な機器として認識されると考えられる。",
+      "content_at": "2026-09-02T21:30:43.134774+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2608.29530",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-02T21:30:43.134774+09:00",
+      "title": "現代のAIシステムにおける創発的シンボル構造の研究",
+      "summary": "現代のAIシステムは、論理式のような構造化された記号の組み合わせを前提とする従来のモデルとは異なり、ニューラルネットワークを基盤としながらも高度な能力を発揮している。",
+      "impact": "従来の記号主義的なアプローチを超えたAIの学習・推論メカニズムが解明されることで、AI技術の発展と今後のシステム設計に新たな知見が提供される可能性がある。",
+      "content_at": "2026-09-02T21:30:43.134774+09:00"
+    },
+    {
+      "image": "https://code.mendhak.com/assets/images/blogprofile.png",
+      "url": "https://code.mendhak.com/hardcode-feature-flags/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-02T21:30:43.134774+09:00",
+      "title": "機能フラグのハードコードに関する考察",
+      "summary": "機能フラグを扱うための最も安全で信頼性の高い方法は、ハードコードすることであるという主張がなされている。",
+      "impact": "開発現場において、機能フラグ管理のベストプラクティスに関する議論が再活性化する可能性がある。",
+      "content_at": "2026-09-02T21:30:43.134774+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/ls8k7ser/production/9d72d17c5a3ae1d6e11decb87c61336f6e588b5b-1920x1080.png",
+      "url": "https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-02T21:30:43.134774+09:00",
+      "title": "欧州の主要AIモデル「Quasar 438B」が新基準を確立",
+      "summary": "Quasar 438Bは、Artificial Analysisによる8つの評価のうち7つにおいて、他の欧州モデルを上回り、欧州AIの新たな基準を確立した。",
+      "impact": "欧州におけるAI開発の競争力が示されたことで、域内のAI市場や技術開発の加速に寄与するとみられる。",
+      "content_at": "2026-09-02T21:30:43.134774+09:00"
     }
   ],
-  "updated_at": "2026-09-02T13:30:39.107184+09:00"
+  "updated_at": "2026-09-02T21:30:43.134774+09:00"
 }
