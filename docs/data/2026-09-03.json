@@ -1,0 +1,116 @@
+{
+  "date": "2026-09-03",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/b2bd6650f4d068d875cb8169d5614712313bb34a/0_0_1000_800/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "米Apple、トランプ大統領の命令によりオンタリオ湖を「アメリカ湖」に改称",
+      "summary": "Appleは、カナダとの貿易摩擦の中で出されたトランプ大統領の物議を醸す命令に従い、地図サービス上の湖の名称を変更した。この変更は米国内のユーザー向けに実施されている。",
+      "impact": "カナダとの外交関係に緊張をもたらす可能性があるほか、米国内のデジタルプラットフォームにおける政府の影響力が強まる懸念がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "欧州のUber運転手がAIアルゴリズムを提訴",
+      "summary": "Uberの運転手が、同社の報酬設定アルゴリズムを「魂がなく恐ろしい」として集団訴訟を起こした。訴状では、このシステムがプライバシー法に違反し、労働者の賃金を押し下げたと主張されている。",
+      "impact": "ギグワークにおけるアルゴリズムの透明性や労働者の権利保護を巡る議論が、欧州全体で加速する可能性がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/dcbfd45c8361cdc72b4b6a984252c88e2c3640ae/314_438_2784_2228/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/new-york-city-school-ai-ban",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "ニューヨーク市、公立学校でのAI利用を高校まで制限",
+      "summary": "ニューヨーク市の公立学校において、高校生未満のAI利用が禁止されることとなった。教員や保護者からは「知的怠慢」を招くとの懸念が寄せられている。",
+      "impact": "教育現場におけるAI活用に関する議論が深まるとともに、今後のカリキュラム策定や学習方針に影響を与える可能性がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/3e848919432d279e7f9dc018c50d5274afb17b49/0_0_4099_3280/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/canberra-put-on-notice-ai-submissions-false-information-hallucinations-parliament",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "オーストラリア連邦議会、AI生成の誤情報による調査への悪影響に警鐘",
+      "summary": "AIが生成した虚偽情報が議会調査に持ち込まれている事態を受け、キャンベラで警告が発せられた。メディアによる報道をきっかけに、政治家からはAIの危険性が指摘されている。",
+      "impact": "議会や公的機関における情報信頼性の確保が急務となり、今後、AI生成コンテンツの提出を規制する動きが強まる可能性がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=035RilvDqSsQ7kNvwHkPt9v&amp;_nc_oc=Adq4FsW_HgKRzkNwFEet4A6zvt8q278osMpt70iqNprH0J5lmzFOz7o_BOUFSCGWVQg&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=AzZhwacSCaPlt6HObeLcgw&amp;_nc_ss=7e20f&amp;oh=00_AQJD8iK2zyk0q0t-h5jdD97bjjpT7PxQvJRQVaboUze-zw&amp;oe=6A9E5E91",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "AIモデル「Muse Spark 1.3」発表",
+      "summary": "エージェント型のワークフロー向けにトレーニングされたAIモデルである。競合するプログラミングタスクにおいて高いパフォーマンスを発揮するように最適化されている。",
+      "impact": "開発者やエンジニアがAIを用いてコーディング作業を効率化する際、選択肢の一つとして活用される可能性がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "/static/og-image.png",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "NPC（ノンプレイヤーキャラクター）として生きるという概念",
+      "summary": "NPCとして生きることは自身の主体性を放棄し、他人の物語の脇役になるという認識が一般的である。",
+      "impact": "現代社会における個人の生き方や自己決定に関する議論において、一つの視点として言及される可能性がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-3-8_flash__blog__header__16-9__light.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "Gemini 3.8 FlashおよびFlash Cyberの発表",
+      "summary": "Gemini 3.8 FlashとFlash Cyberは、エージェント型のワークフローとサイバーセキュリティのための次世代のインテリジェンスを提供する。",
+      "impact": "企業がサイバーセキュリティ対策を強化する際、これらのモデルを活用することで検知能力や自動対応の精度が向上する可能性がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "Google、アドテク事業の分割を回避",
+      "summary": "Googleがアドテク（広告技術）事業の分割を回避した。",
+      "impact": "この決定により、同社の広告関連事業の構造や市場競争のあり方が現状のまま維持されるとみられる。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/f74bd2560214b2a765153e954a4c40943661fafbbf22647bf240219594cbcac0/PhiloLabs/fable51-worlds",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "Fable 5.1 World Modelingの公開",
+      "summary": "コードを通じて世界をモデル化するプロジェクト「Fable 5.1」がGitHub上で公開された。開発者はGitHubアカウントを作成することで開発に参加できる。",
+      "impact": "オープンソースとして公開されたことで、コードベースのワールド構築技術に関心を持つ開発者が共同で開発を進め、関連するシミュレーション技術やツールが発展する可能性がある。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://werwolv.net/posts/file_format_reverse_engineering/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-03T06:30:41.280882+09:00",
+      "title": "ImHexによる未知のファイル形式のリバースエンジニアリング",
+      "summary": "ImHexを使用して未知のファイル形式をリバースエンジニアリングする方法について述べられている。",
+      "impact": "このツールを活用することで、解析が困難であった独自形式のファイル構造を解明できる可能性があり、データ解析やセキュリティ研究における効率が向上するとみられる。",
+      "content_at": "2026-09-03T06:30:41.280882+09:00"
+    }
+  ],
+  "updated_at": "2026-09-03T06:30:41.280882+09:00"
+}
