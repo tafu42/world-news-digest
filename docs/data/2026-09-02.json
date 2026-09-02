@@ -99,7 +99,73 @@
       "summary": "125B MoEであるQwen3.8-Flash-Nextを、SSDからエキスパートをストリーミングすることで、少量のRAMしか持たないMacで実行する技術が公開された。MLXとSwiftを使用しており、Ollama互換のAPIに対応している。",
       "impact": "高メモリを必要とする大規模なAIモデルが、より安価で一般的なスペックのデバイスで動作する可能性がある。個人や小規模な開発環境において、ローカルでのAI活用が進むと考えられる。",
       "content_at": "2026-09-02T06:30:40.312730+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/852ec2a6836480a45df3ced8fc2d4b4204eb9886/155_0_2073_1659/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/architect-of-uks-ai-strategy-joins-anthropic",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-02T13:30:39.107184+09:00",
+      "title": "英政府のAI戦略立案者がAnthropicに入社",
+      "summary": "英国政府のAIアクションプランを起草し、スターマー首相やスナク前首相の助言役を務めたマット・クリフォード氏が、米AI企業Anthropicの幹部として採用された。同氏は政府のAI戦略の立案に関与した人物である。",
+      "content_at": "2026-09-02T13:30:39.107184+09:00",
+      "impact": "元政府高官のAI企業への移籍により、英政府の政策方針が民間企業の戦略に影響を与える可能性がある。また、AI規制や政策立案における官民の結びつきが強まるものとみられる。"
+    },
+    {
+      "image": "",
+      "url": "https://www.lisep.org/tru",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-02T13:30:39.107184+09:00",
+      "title": "真の失業率",
+      "summary": "真の失業率について記述されている。",
+      "content_at": "2026-09-02T13:30:39.107184+09:00",
+      "impact": "経済指標の算出方法や解釈の変化により、労働市場に対する社会の認識や政策決定に影響を与える可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://danluu.com/zitron/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-02T13:30:39.107184+09:00",
+      "title": "エド・ジトロン氏のAI懐疑論の予測精度",
+      "summary": "エド・ジトロン氏が唱えてきたAI懐疑論の予測が、どれほど正確であったかを検証する内容である。",
+      "content_at": "2026-09-02T13:30:39.107184+09:00",
+      "impact": "AI技術に対する批判的な見方の妥当性が検証されることで、AI産業の将来性や投資判断に対する投資家や消費者の視点に影響を与える可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://webfpga.io/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-02T13:30:39.107184+09:00",
+      "title": "WebFPGAについて",
+      "summary": "WebFPGAに関する情報である。",
+      "content_at": "2026-09-02T13:30:39.107184+09:00",
+      "impact": "FPGA開発のウェブベースでの利便性が向上することで、ハードウェア設計や開発手法の効率化が進む可能性がある。"
+    },
+    {
+      "image": "https://www.datocms-assets.com/104802/1788302073-efficient-frontier-image3.png?auto=compress%2Cformat&amp;fit=crop&amp;h=630&amp;q=75&amp;w=1200",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-02T13:30:39.107184+09:00",
+      "title": "大規模言語モデル（LLM）推論の効率的フロンティア",
+      "summary": "LLMの推論技術は、展開時のレイテンシとスループットの境界を最適化するか、あるいはその境界自体を押し広げることでリソース効率を向上させる。これにより、効率的な計算資源の割り当てが可能となる。",
+      "impact": "LLMの推論コストが低下することで、より多くのアプリケーションで高性能なAIモデルが導入される可能性がある。",
+      "content_at": "2026-09-02T13:30:39.107184+09:00"
+    },
+    {
+      "image": "https://masteranza.github.io/weedout/screenshot.png",
+      "url": "https://masteranza.github.io/weedout/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-02T13:30:39.107184+09:00",
+      "title": "YouTubeのAI生成動画を非表示にするSafari拡張機能「Weedout」",
+      "summary": "YouTube上で「AIで作成（Made with AI）」とラベル付けされた動画をフィードから除外するSafari拡張機能が公開された。このツールにより、ユーザーは特定の種類の動画を自身の閲覧環境から自動的に排除できる。",
+      "impact": "AI生成コンテンツに対するユーザーのコントロール権が強まることで、今後類似のフィルタリングツールが普及する可能性がある。",
+      "content_at": "2026-09-02T13:30:39.107184+09:00"
     }
   ],
-  "updated_at": "2026-09-02T06:30:40.312730+09:00"
+  "updated_at": "2026-09-02T13:30:39.107184+09:00"
 }
