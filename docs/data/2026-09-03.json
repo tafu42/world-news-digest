@@ -2,50 +2,6 @@
   "date": "2026-09-03",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/b2bd6650f4d068d875cb8169d5614712313bb34a/0_0_1000_800/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-03T06:30:41.280882+09:00",
-      "title": "米Apple、トランプ大統領の命令によりオンタリオ湖を「アメリカ湖」に改称",
-      "summary": "Appleは、カナダとの貿易摩擦の中で出されたトランプ大統領の物議を醸す命令に従い、地図サービス上の湖の名称を変更した。この変更は米国内のユーザー向けに実施されている。",
-      "impact": "カナダとの外交関係に緊張をもたらす可能性があるほか、米国内のデジタルプラットフォームにおける政府の影響力が強まる懸念がある。",
-      "content_at": "2026-09-03T06:30:41.280882+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/af1a826c308241d71b41b55c9dd6d67cedc8041f/560_0_5600_4480/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/uber-drivers-europe-legal-action-ai-algorithm",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-03T06:30:41.280882+09:00",
-      "title": "欧州のUber運転手がAIアルゴリズムを提訴",
-      "summary": "Uberの運転手が、同社の報酬設定アルゴリズムを「魂がなく恐ろしい」として集団訴訟を起こした。訴状では、このシステムがプライバシー法に違反し、労働者の賃金を押し下げたと主張されている。",
-      "impact": "ギグワークにおけるアルゴリズムの透明性や労働者の権利保護を巡る議論が、欧州全体で加速する可能性がある。",
-      "content_at": "2026-09-03T06:30:41.280882+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/dcbfd45c8361cdc72b4b6a984252c88e2c3640ae/314_438_2784_2228/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/new-york-city-school-ai-ban",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-03T06:30:41.280882+09:00",
-      "title": "ニューヨーク市、公立学校でのAI利用を高校まで制限",
-      "summary": "ニューヨーク市の公立学校において、高校生未満のAI利用が禁止されることとなった。教員や保護者からは「知的怠慢」を招くとの懸念が寄せられている。",
-      "impact": "教育現場におけるAI活用に関する議論が深まるとともに、今後のカリキュラム策定や学習方針に影響を与える可能性がある。",
-      "content_at": "2026-09-03T06:30:41.280882+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/3e848919432d279e7f9dc018c50d5274afb17b49/0_0_4099_3280/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/canberra-put-on-notice-ai-submissions-false-information-hallucinations-parliament",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-03T06:30:41.280882+09:00",
-      "title": "オーストラリア連邦議会、AI生成の誤情報による調査への悪影響に警鐘",
-      "summary": "AIが生成した虚偽情報が議会調査に持ち込まれている事態を受け、キャンベラで警告が発せられた。メディアによる報道をきっかけに、政治家からはAIの危険性が指摘されている。",
-      "impact": "議会や公的機関における情報信頼性の確保が急務となり、今後、AI生成コンテンツの提出を規制する動きが強まる可能性がある。",
-      "content_at": "2026-09-03T06:30:41.280882+09:00"
-    },
-    {
       "image": "https://scontent-iad3-1.xx.fbcdn.net/v/t39.2365-6/741888780_1335161144859187_4416712401061192452_n.png?_nc_cat=108&amp;ccb=1-7&amp;_nc_sid=aa6a2f&amp;_nc_ohc=035RilvDqSsQ7kNvwHkPt9v&amp;_nc_oc=Adq4FsW_HgKRzkNwFEet4A6zvt8q278osMpt70iqNprH0J5lmzFOz7o_BOUFSCGWVQg&amp;_nc_zt=14&amp;_nc_ht=scontent-iad3-1.xx&amp;_nc_gid=AzZhwacSCaPlt6HObeLcgw&amp;_nc_ss=7e20f&amp;oh=00_AQJD8iK2zyk0q0t-h5jdD97bjjpT7PxQvJRQVaboUze-zw&amp;oe=6A9E5E91",
       "url": "https://developer.meta.com/ai/models/muse-spark/",
       "category": "海外IT",

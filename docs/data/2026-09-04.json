@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-04",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-04T06:30:36.529873+09:00",
+      "title": "OpenAIが「Astra」モデルを公開、AGIの新たな時代の幕開けを謳う",
+      "summary": "OpenAIがAstraモデルをリリースし、AGIの新たな時代の到来を宣言した。この発表の数日前、CEOのサム・アルトマンはAGIを「マーケティング上の無意味な言葉」と表現していた。",
+      "content_at": "2026-09-04T06:30:36.529873+09:00",
+      "impact": "AGIに対する企業の定義や位置付けが流動的である現状を示しており、今後のAI開発の目標や基準が議論される可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/gpt-6-astra/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-04T06:30:36.529873+09:00",
+      "title": "GPT-6 Astraについて",
+      "summary": "GPT-6 Astraに関する情報が示されている。",
+      "content_at": "2026-09-04T06:30:36.529873+09:00",
+      "impact": "新モデルの具体的な性能や特性が明らかになれば、業界内での競争や利用動向に影響を与えると考えられる。"
+    },
+    {
+      "image": "https://cerebras-inference.mintlify.app/mintlify-assets/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DDocumentation%26title%3DModel%2BCatalog%26description%3DBrowse%2Ball%2Bmodels%2Bavailable%2Bon%2BCerebras%2Bpublic%2Bendpoints.%26theme%3D0d969de00f05bf51f42e2bb2&amp;w=1200&amp;q=100",
+      "url": "https://inference-docs.cerebras.ai/models/overview",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-04T06:30:36.529873+09:00",
+      "title": "Cerebrasで「Qwen 3.8 27B」が秒間1500トークンで利用可能に",
+      "summary": "Cerebrasの公開エンドポイントにおいて、モデル「Qwen 3.8 27B」が秒間1500トークンの速度で利用可能になった。同プラットフォームで提供されている全モデルが公開されている。",
+      "content_at": "2026-09-04T06:30:36.529873+09:00",
+      "impact": "高速な推論処理が可能な環境が整うことで、大規模言語モデルの導入や活用を検討する開発者にとって効率化が進む可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://neil.fraser.name/news/2026/09/03/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-04T06:30:36.529873+09:00",
+      "title": ".name ドメインの終了",
+      "summary": ".nameドメインの提供が終了する。",
+      "content_at": "2026-09-04T06:30:36.529873+09:00",
+      "impact": "同ドメインを利用しているウェブサイトやサービスに影響が及ぶ可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-04T06:30:36.529873+09:00",
+      "title": "史上最大の電動航空機が初飛行",
+      "summary": "史上最大となる電動航空機が飛行を行った。その様子が動画で公開されている。",
+      "impact": "航空業界における電動化技術の進展を示すものであり、将来的には航空機の環境負荷低減に寄与する可能性がある。",
+      "content_at": "2026-09-04T06:30:36.529873+09:00"
+    },
+    {
+      "image": "https://anyhumanever.com/static/og-card.png?v=100b",
+      "url": "https://anyhumanever.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-04T06:30:36.529873+09:00",
+      "title": "「Any Human Ever」：人類の歴史からランダムに選ばれた一人の人生",
+      "summary": "これまで生きたすべての人間の中から、ランダムに一人の人生を描き出す試み。",
+      "impact": "個人の歴史や人生の多様性を浮き彫りにすることで、人類の歩みに対する新たな視点を提供する可能性がある。",
+      "content_at": "2026-09-04T06:30:36.529873+09:00"
+    },
+    {
+      "image": "https://ifm.ai/blog/k2/assets/k2-horizon-social.webp",
+      "url": "https://ifm.ai/blog/k2/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-04T06:30:36.529873+09:00",
+      "title": "IFMが6つのオープンモデル群「K2 Horizon」を発表",
+      "summary": "IFMは推論、コーディング、エージェントワークフロー、エッジデバイス、エンタープライズ展開に対応した6つのオープンソースAIモデル群「K2 Horizon」を発表した。",
+      "impact": "多用途なAIモデルが提供されることで、企業や開発者が最新技術を導入しやすくなり、AI活用範囲が広がる可能性がある。",
+      "content_at": "2026-09-04T06:30:36.529873+09:00"
+    }
+  ],
+  "updated_at": "2026-09-04T06:30:36.529873+09:00"
+}
