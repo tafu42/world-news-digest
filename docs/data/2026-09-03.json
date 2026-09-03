@@ -110,7 +110,40 @@
       "summary": "ImHexを使用して未知のファイル形式をリバースエンジニアリングする方法について述べられている。",
       "impact": "このツールを活用することで、解析が困難であった独自形式のファイル構造を解明できる可能性があり、データ解析やセキュリティ研究における効率が向上するとみられる。",
       "content_at": "2026-09-03T06:30:41.280882+09:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/English_Electric_Lightning_F.1_%E2%80%98XM135_-_B%E2%80%99_%2838439946610%29.jpg/1280px-English_Electric_Lightning_F.1_%E2%80%98XM135_-_B%E2%80%99_%2838439946610%29.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+      "url": "https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-03T13:30:35.401039+09:00",
+      "title": "ホールデンのライトニング・フライト",
+      "summary": "ホールデンのライトニング・フライトに関する記事。",
+      "impact": "本記事が特定の技術や事象を指す場合、関連する業界やコミュニティで話題になる可能性がある。",
+      "content_at": "2026-09-03T13:30:35.401039+09:00"
+    },
+    {
+      "image": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41562-026-02550-0/MediaObjects/41562_2026_2550_Fig1_HTML.png",
+      "url": "https://www.nature.com/articles/s41562-026-02550-0",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-03T13:30:35.401039+09:00",
+      "title": "LLM時代における言語的多様性の縮小",
+      "summary": "ChatGPTの公開後、SNSや科学記事などで文章の複雑さのばらつきが減少し、画一化が進んだことが研究で示された。LLMによる推敲は書き手の性別や年齢、価値観などの個性を反映する手がかりを消し去っている。",
+      "impact": "今後、デジタル上の文章から書き手の個性が失われ、言語文化の均一化がさらに進む可能性がある。",
+      "content_at": "2026-09-03T13:30:35.401039+09:00"
+    },
+    {
+      "image": "https://trellner.com/og.png",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-03T13:30:35.401039+09:00",
+      "title": "AI向けの「ベストソフトウェア」ページを大量生成するサイトとPerplexityの引用",
+      "summary": "AIの推奨の根拠となる情報源の約6割は訪問数の多い上位10万サイト外にあり、特にAIに読ませる目的で作成されたサイトが頻繁に引用されている。Perplexityはこうしたサイトを引用元として利用している。",
+      "impact": "AIが推奨の根拠として信頼性の低い情報を参照することで、ユーザーが不適切な情報を得るリスクが高まる可能性がある。",
+      "content_at": "2026-09-03T13:30:35.401039+09:00"
     }
   ],
-  "updated_at": "2026-09-03T06:30:41.280882+09:00"
+  "updated_at": "2026-09-03T13:30:35.401039+09:00"
 }
