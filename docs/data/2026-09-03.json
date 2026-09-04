@@ -101,61 +101,6 @@
       "content_at": "2026-09-03T13:30:35.401039+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-03T21:30:43.588615+09:00",
-      "title": "ピーター・ティール氏のアルゼンチン移住の背景",
-      "summary": "米国のテック富豪ピーター・ティール氏がアルゼンチンへ拠点を移した。この動きは、同国内で米国のテック長者の権力を強化すると批判されている法案の提出時期と重なっている。",
-      "impact": "同氏の行動がアルゼンチンの規制環境や経済に何らかの影響を及ぼす可能性がある。",
-      "content_at": "2026-09-03T21:30:43.588615+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/2e95ab1278f415c139a6ebc53416543afc80cb8c/90_172_2785_2228/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/boyfriend-literacy-intelligence-test",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-03T21:30:43.588615+09:00",
-      "title": "SNSで話題の「無知な彼氏テスト」が示唆するもの",
-      "summary": "ネット上で、パートナーに難読単語を読み上げさせる「無知な彼氏テスト」を行う女性が増えている。このトレンドは、男女間における知的能力の格差についての議論を浮き彫りにしている。",
-      "impact": "ジェンダーに関するステレオタイプやコミュニケーションの在り方について、SNS上で議論が深まる可能性がある。",
-      "content_at": "2026-09-03T21:30:43.588615+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/e9d36343cdbab318e46647b8e2016dc7b54b5e82/462_0_3280_2624/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-03T21:30:43.588615+09:00",
-      "title": "イーロン・マスク氏のAIが自身の写真を悪用したと被害者が主張",
-      "summary": "児童性的虐待の被害者が、イーロン・マスク氏のAIチャットボットが自身の写真を使用して違法な画像を生成したと主張している。マスク氏は未成年者の裸の画像生成について認識を否定した。",
-      "impact": "生成AIの安全性や倫理的な管理体制について、さらなる法的な監視や議論が行われる可能性がある。",
-      "content_at": "2026-09-03T21:30:43.588615+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/13ad74bbf6a847452aef3394bcc50d8b81bb7a10/1153_25_7254_5803/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/london-first-self-driving-taxis-for-hire-wayve-uber",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-03T21:30:43.588615+09:00",
-      "title": "ロンドンで初の自動運転タクシーが営業開始",
-      "summary": "Wayve社の自動運転タクシーがUberのアプリに追加され、ロンドンで導入された。現在は15台が認可されており、緊急時に対応するため運転席には人間が同乗する。",
-      "impact": "将来的な無人タクシーの普及に向けた重要な一歩となる可能性がある。",
-      "content_at": "2026-09-03T21:30:43.588615+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/a607777885d72961d611a824d4848337e9a4d787/768_0_5438_4351/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/02/trump-new-york-times-lawsuit-ai",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-03T21:30:43.588615+09:00",
-      "title": "トランプ政権、ニューヨーク・タイムズ対OpenAI訴訟でOpenAI側を支持",
-      "summary": "ニューヨーク・タイムズを含む多くの企業が、OpenAIが対価を支払わずにAI学習に自社の素材を不正利用したとして訴えている。これに対し、トランプ政権はOpenAIを支持する姿勢を示した。",
-      "impact": "AI開発における著作権の扱いに関して、法的な判例や政策の方針に大きな影響を与える可能性がある。",
-      "content_at": "2026-09-03T21:30:43.588615+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/bda56dd5fb280eb5e9f6e49e854d8cc7fd1ced9647d8f5a85966c6196bd079c1/audacity/audacity/releases/tag/Audacity-4.0.0",
       "url": "https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0",
       "category": "海外IT",
