@@ -77,7 +77,51 @@
       "summary": "IFMは推論、コーディング、エージェントワークフロー、エッジデバイス、エンタープライズ展開に対応した6つのオープンソースAIモデル群「K2 Horizon」を発表した。",
       "impact": "多用途なAIモデルが提供されることで、企業や開発者が最新技術を導入しやすくなり、AI活用範囲が広がる可能性がある。",
       "content_at": "2026-09-04T06:30:36.529873+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b2bd6650f4d068d875cb8169d5614712313bb34a/0_0_1000_800/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/02/apple-maps-renames-lake-ontario-lake-america",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-04T13:30:35.422988+09:00",
+      "title": "Apple Mapsがカナダとの貿易摩擦を受け、オンタリオ湖を「アメリカ湖」と改称",
+      "summary": "Appleが、トランプ大統領の物議を醸す大統領令に従い、Apple Maps上のオンタリオ湖の名称を「アメリカ湖（Lake America）」に変更した。これはカナダとの貿易摩擦の中での決定である。",
+      "impact": "Appleが政治的な命令に従ったことで、米加関係の緊張がさらに高まる可能性がある。また、グローバル企業のサービスが政治的判断で書き換えられるという先例となり、IT企業の中立性に対する懸念が広がる恐れがある。",
+      "content_at": "2026-09-04T13:30:35.422988+09:00"
+    },
+    {
+      "image": "https://gwern.net/static/img/logo/logo-whitebg-large-border.png",
+      "url": "https://gwern.net/xanadu",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-04T13:30:35.422988+09:00",
+      "title": "Project Xanadu：さらなる回顧",
+      "summary": "Project Xanaduに関する回顧的な内容を記した記事である。",
+      "impact": "特定のプロジェクトの歴史や背景が整理されることで、関連分野の研究者や関係者に過去の経緯を再考する機会を与える可能性がある。",
+      "content_at": "2026-09-04T13:30:35.422988+09:00"
+    },
+    {
+      "image": "https://img.texasmonthly.com/2026/08/Kidney-Disease-CKDU-Texas-Wharton-County-rice-fields.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45",
+      "url": "https://www.texasmonthly.com/news-politics/ckdu-kidney-disease-immigration/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-04T13:30:35.422988+09:00",
+      "title": "テキサス州で謎の腎臓病が発生",
+      "summary": "地球温暖化に伴う暑さに関連した腎臓病が、テキサス州の中米やメキシコ出身の労働者の間で発生している。科学者がこの流行の追跡を急ぐ一方で、患者たちはさらなる孤立を余儀なくされている。",
+      "impact": "気候変動が労働環境に深刻な健康被害をもたらしていることを示しており、今後同様の地域で労働者の健康管理や支援体制の強化が急務となる可能性がある。",
+      "content_at": "2026-09-04T13:30:35.422988+09:00"
+    },
+    {
+      "image": "https://news.mit.edu/sites/default/files/images/202608/MIT-JuliaHubDyad-01-press.jpg",
+      "url": "https://news.mit.edu/2026/how-mit-research-project-became-global-programming-language-0831",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-04T13:30:35.422988+09:00",
+      "title": "MITの研究から生まれたプログラミング言語「Julia」",
+      "summary": "MITの研究プロジェクトから生まれたオープンソースのプログラミング言語「Julia」は、科学者や技術者らから支持を集めている。現在、世界中の企業や大学で100万人以上のユーザーに利用されている。",
+      "impact": "Juliaの普及は、科学計算やデータ解析の効率を向上させる可能性がある。今後も専門的な研究分野を中心に利用者が拡大していくとみられる。",
+      "content_at": "2026-09-04T13:30:35.422988+09:00"
     }
   ],
-  "updated_at": "2026-09-04T06:30:36.529873+09:00"
+  "updated_at": "2026-09-04T13:30:35.422988+09:00"
 }
