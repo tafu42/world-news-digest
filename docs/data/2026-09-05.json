@@ -99,7 +99,51 @@
       "summary": "LilyGO T5S3 4.7インチ E-Paper PRO向けのオープンソース自転車用コンピュータファームウェアが公開された。オフラインマップ、GPXルート表示、FIT形式の記録、Bluetoothセンサー接続に対応している。",
       "impact": "自転車愛好家が安価なハードウェアを用いて、好みに合わせたカスタマイズ可能なサイクリングコンピュータを自作できるようになる可能性がある。",
       "content_at": "2026-09-05T06:30:37.840684+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-05T13:30:40.821388+09:00",
+      "title": "OpenAIがAstraモデルを発表し、汎用人工知能の新時代を宣言",
+      "summary": "OpenAIがAstraモデルを公開した。サム・アルトマンCEOはAGIについて、以前「無意味なマーケティング用語」と表現していた。",
+      "impact": "AGIに対する認識の変化が示唆されるとともに、OpenAIの技術開発における方針やブランド戦略が注目される可能性がある。",
+      "content_at": "2026-09-05T13:30:40.821388+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-05T13:30:40.821388+09:00",
+      "title": "全Chromiumバージョンで悪用可能なサンドボックスRCEの脆弱性を確認",
+      "summary": "全バージョンのChromiumにおいて、サンドボックスを回避するリモートコード実行（RCE）の脆弱性が実際に悪用されている。",
+      "impact": "Chromiumベースのブラウザ利用者に深刻なセキュリティリスクが生じており、迅速なアップデートや修正パッチの適用が必要になるとみられる。",
+      "content_at": "2026-09-05T13:30:40.821388+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/6vfeftx9/articles/6f95888d7f2b11ac42c1be194ed4de6fa96571cb-1254x1254.png?w=1200&amp;auto=format",
+      "url": "https://artificialanalysis.ai/articles/artificial-analysis-intelligence-index-v4-2",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-05T13:30:40.821388+09:00",
+      "title": "Artificial Analysisがインテリジェンス指標のv4.2をリリース",
+      "summary": "Artificial Analysisは次期v5リリースの要素を前倒しし、v4.2を公開した。より複雑で現実的なタスクと、不正を防ぐための非公開テストセットが追加されている。",
+      "impact": "AIモデルの性能評価における基準がより厳格化し、開発者側にはさらなるモデルの品質向上や評価への対応が求められると考えられる。",
+      "content_at": "2026-09-05T13:30:40.821388+09:00"
+    },
+    {
+      "image": "https://openrouter.ai/openai/gpt-6-astra/opengraph-image-1oizug?76b21746f88151e4",
+      "url": "https://openrouter.ai/openai/gpt-6-astra",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-05T13:30:40.821388+09:00",
+      "title": "OpenRouterでGPT-6 Astraが利用可能に",
+      "summary": "GPT-6 AstraがOpenRouterで公開された。このモデルは長大な文脈ウィンドウと高い入出力トークンコストを備えている。",
+      "impact": "高度なエンドツーエンド作業を必要とするユーザー層において、新たな計算資源としての活用が進む可能性がある。",
+      "content_at": "2026-09-05T13:30:40.821388+09:00"
     }
   ],
-  "updated_at": "2026-09-05T06:30:37.840684+09:00"
+  "updated_at": "2026-09-05T13:30:40.821388+09:00"
 }
