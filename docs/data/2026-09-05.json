@@ -143,7 +143,40 @@
       "summary": "GPT-6 AstraがOpenRouterで公開された。このモデルは長大な文脈ウィンドウと高い入出力トークンコストを備えている。",
       "impact": "高度なエンドツーエンド作業を必要とするユーザー層において、新たな計算資源としての活用が進む可能性がある。",
       "content_at": "2026-09-05T13:30:40.821388+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/60d7e7e81794fd869d6ab863955afeaf44c17065/1133_0_6250_5000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-05T21:30:37.285376+09:00",
+      "title": "制御不能なAIへの懸念が高まる",
+      "summary": "高度なAIモデルに関連した深刻な安全上のインシデントが相次いでいる。これらの事例により、AIの能力と不透明性に対する懸念が強まっている。",
+      "impact": "AI開発における安全性確保のための規制や基準の策定が、世界的に加速する可能性がある。",
+      "content_at": "2026-09-05T21:30:37.285376+09:00"
+    },
+    {
+      "image": "https://codeberg.org/mv12star/shitter/-/summary-card",
+      "url": "https://codeberg.org/mv12star/shitter/wiki/Instances",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-05T21:30:37.285376+09:00",
+      "title": "Twitter代替フロントエンド「Nitter」の現状",
+      "summary": "Twitter（現X）の代替フロントエンドであるNitterについて、GitHub上のzedeus/nitterのフォークとして紹介されている。閉鎖騒動以前よりも稼働するインスタンス数が増加している。",
+      "impact": "大手プラットフォームの制限に対し、オープンソースコミュニティが独自の代替手段を維持し続けることで、情報の閲覧環境が確保される一助になるとみられる。",
+      "content_at": "2026-09-05T21:30:37.285376+09:00"
+    },
+    {
+      "image": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems/opengraph-image/primary?c892ecc60b0c6273",
+      "url": "https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-05T21:30:37.285376+09:00",
+      "title": "AIによる障害対応がエンジニアの能力に与える影響",
+      "summary": "AIを活用したインシデント対応は平均復旧時間（MTTR）を短縮できる可能性がある。一方で、自動化できない複雑な障害が発生した際、エンジニアが対応できなくなるリスクが指摘されている。",
+      "impact": "システム運用現場において、自動化に過度に依存せず、エンジニアが障害対応能力を維持するための新たなスキル管理や訓練が必要になると考えられる。",
+      "content_at": "2026-09-05T21:30:37.285376+09:00"
     }
   ],
-  "updated_at": "2026-09-05T13:30:40.821388+09:00"
+  "updated_at": "2026-09-05T21:30:37.285376+09:00"
 }
