@@ -2,50 +2,6 @@
   "date": "2026-09-05",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/f948ced5626817212f7356b74244e0a3e94edbe0/202_240_4762_3810/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/04/in-the-picture-and-missing-out",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-05T06:30:37.840684+09:00",
-      "title": "写真撮影が体験を損なう可能性",
-      "summary": "カメラを使うことがその瞬間を十分に体験することを妨げるとグレッグ・ルイスは指摘し、アラン・ペリングは証明写真機のプライバシーを回想している。",
-      "impact": "デジタル化された記録と現実の体験とのバランスについて、個人の価値観や行動に影響を与える可能性がある。",
-      "content_at": "2026-09-05T06:30:37.840684+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-05T06:30:37.840684+09:00",
-      "title": "ピーター・ティールのアルゼンチン移住の背景",
-      "summary": "ピーター・ティールのアルゼンチンへの移住は、米国のテック長者の権限を同国内で強化しかねないと反対派が指摘する法案の提出と時期が重なっている。",
-      "impact": "この移住が当該国の政治や経済環境にどのような影響を及ぼすのか、テック企業の国際的な影響力という観点から議論を呼ぶ可能性がある。",
-      "content_at": "2026-09-05T06:30:37.840684+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/2e95ab1278f415c139a6ebc53416543afc80cb8c/90_172_2785_2228/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/boyfriend-literacy-intelligence-test",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-05T06:30:37.840684+09:00",
-      "title": "SNSで広がる「文盲の彼氏」テスト",
-      "summary": "難解な英単語をパートナーに発音させる「文盲の彼氏」テストがオンラインで拡散されている。これは従来の「知能格差」の性別の役割が反転した現象として注目されている。",
-      "impact": "SNS上の動画コンテンツを通じて、パートナー間の知的な認識やコミュニケーションに関する議論が活発化する可能性がある。",
-      "content_at": "2026-09-05T06:30:37.840684+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/e9d36343cdbab318e46647b8e2016dc7b54b5e82/462_0_3280_2624/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/elon-musk-ai-grok-child-porn-lawsuit",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-05T06:30:37.840684+09:00",
-      "title": "イーロン・マスク氏のAIチャットボットを巡る性的虐待被害者の告発",
-      "summary": "児童性的虐待の被害者が、イーロン・マスク氏のAIチャットボット「Grok」が自身の写真を用いて違法な画像を生成したと告発した。マスク氏は未成年の裸体画像生成について認識していないと否定した。",
-      "impact": "生成AIによる画像悪用のリスクが改めて浮き彫りになり、AI開発企業に対する規制強化や責任追及の議論が強まる可能性がある。",
-      "content_at": "2026-09-05T06:30:37.840684+09:00"
-    },
-    {
       "image": "https://cdn.sanity.io/images/4zrzovbb/website/578f91575c42231f0994e341014614255149af80-1200x630.jpg",
       "url": "https://www.anthropic.com/research/formalizing-fermats-last-theorem",
       "category": "海外IT",
