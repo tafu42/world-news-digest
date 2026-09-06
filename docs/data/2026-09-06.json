@@ -165,7 +165,103 @@
       "summary": "ChromeはGoogleに対し、ユーザーのサイトデータ設定を適用しない措置を再び講じている。",
       "impact": "ユーザーのプライバシー管理設定の有効性に疑問が生じ、ブラウザにおけるデータトラッキング規制の公平性について議論が広がる可能性がある。",
       "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "en_title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+      "en_text": "A Dr Seuss-style story written in seconds alerted me to the power – and perils – of the technology. But how can children embrace it without forgetting core skills?",
+      "image": "https://media.guim.co.uk/39b202496fe19317630335da78b707c1041b88c4/540_0_4500_3600/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
+      "summary": "A Dr Seuss-style story written in seconds alerted me to the power – and perils – of the technology. But how can children",
+      "content_at": "2026-09-06T21:30:36.899147+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Online bookies accused of UK privacy breaches with use of cookie banners",
+      "en_text": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study shows",
+      "image": "https://media.guim.co.uk/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "Online bookies accused of UK privacy breaches with use of cookie banners",
+      "summary": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study shows",
+      "content_at": "2026-09-06T21:30:36.899147+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "en_text": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’",
+      "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
+      "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’",
+      "content_at": "2026-09-06T21:30:36.899147+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Intellectual Fly Is Open",
+      "en_text": "Intellectual Fly Is Open",
+      "image": "",
+      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "Intellectual Fly Is Open",
+      "summary": "Intellectual Fly Is Open",
+      "content_at": "2026-09-06T21:30:36.899147+09:00",
+      "pending": true
+    },
+    {
+      "image": "https://www.isaraerospace.com/images/_1200x630_crop_center-center_none/social-media-image@1200x627.jpg",
+      "url": "https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "Isar Aerospaceが2回目の打ち上げで軌道投入とペイロード展開に成功",
+      "summary": "Isar Aerospaceが2回目の打ち上げを実施し、軌道投入とペイロードの展開を行った。同社は宇宙へのアクセスを提供することで人類の進歩と持続可能な発展に貢献するとしている。",
+      "impact": "宇宙ビジネスにおける低コストな打ち上げ手段が増えることで、衛星開発や関連産業の活性化が進む可能性がある。",
+      "content_at": "2026-09-06T21:30:36.899147+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!feJo!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F94fac428-a214-4f93-a506-c4d6a4918bb5_642x982.png",
+      "url": "https://www.edwest.co.uk/p/doomscrolling-ourselves-to-death",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "死に至るドゥームスクロール",
+      "summary": "ジェームズ・マリオットによる著書『The New Dark Ages』に関する論考である。",
+      "impact": "デジタルコンテンツの過剰な消費が現代人の心身に及ぼすリスクについて、社会的な議論が深まる可能性がある。",
+      "content_at": "2026-09-06T21:30:36.899147+09:00"
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Logo_of_M-DISC.svg/1280px-Logo_of_M-DISC.svg.png?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+      "url": "https://en.wikipedia.org/wiki/M-DISC",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "最長1000年保存可能なM-DISC",
+      "summary": "M-DISCは、DVDやBlu-rayと互換性があり、最大で1000年間の長期保存が可能な記録メディアである。",
+      "impact": "重要なデジタルデータの長期間の保存手段として、公文書や研究データの管理に寄与するとみられる。",
+      "content_at": "2026-09-06T21:30:36.899147+09:00"
+    },
+    {
+      "image": "https://dub.uu.nl/sites/default/files/styles/large/public/media/images/Isabella-Saccardi-Staff-pov-EN-003.jpg?itok=oijEYuhD",
+      "url": "https://dub.uu.nl/en/column/pencil-case-model-creativity",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-06T21:30:36.899147+09:00",
+      "title": "創造性の筆箱モデル",
+      "summary": "コラムニストのイザベラ・サッカルディが、学術研究における創造性の見落としについて考察する。友人の創造的な仕事への憧れをきっかけに、自身の研究活動の価値を再評価している。",
+      "impact": "学術分野における研究活動も創造的であるという認識が広がれば、研究者のモチベーション向上につながる可能性がある。",
+      "content_at": "2026-09-06T21:30:36.899147+09:00"
     }
   ],
-  "updated_at": "2026-09-06T13:30:37.647336+09:00"
+  "updated_at": "2026-09-06T21:30:36.899147+09:00"
 }
