@@ -2,17 +2,6 @@
   "date": "2026-09-06",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/435487580779be5596c03bb62e0d164456bff6da/472_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-06T06:30:38.623455+09:00",
-      "title": "NVIDIAが開発者プラットフォームHugging Faceを約129億ドルで買収へ",
-      "summary": "半導体大手NVIDIAが、オープンAIモデルの支援を強化するためHugging Faceを129億ドルで買収する。AIチップの需要減速を補う狙いがある。",
-      "impact": "AI開発の民主化が進む可能性があるほか、NVIDIAがAIエコシステム全体での影響力をさらに強めるとみられる。",
-      "content_at": "2026-09-06T06:30:38.623455+09:00"
-    },
-    {
       "image": "https://feld.com/og-default.png",
       "url": "https://feld.com/archives/2026/09/the-real-luxuries-in-life/",
       "category": "海外IT",
@@ -167,56 +156,48 @@
       "content_at": "2026-09-06T13:30:37.647336+09:00"
     },
     {
-      "en_title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-      "en_text": "A Dr Seuss-style story written in seconds alerted me to the power – and perils – of the technology. But how can children embrace it without forgetting core skills?",
       "image": "https://media.guim.co.uk/39b202496fe19317630335da78b707c1041b88c4/540_0_4500_3600/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
       "category": "テクノロジー",
       "time": "21:30",
       "collected_at": "2026-09-06T21:30:36.899147+09:00",
-      "title": "I’m a father of three who studies the impact of artificial intelligence: this is what parents need to know about AI",
-      "summary": "A Dr Seuss-style story written in seconds alerted me to the power – and perils – of the technology. But how can children",
-      "content_at": "2026-09-06T21:30:36.899147+09:00",
-      "pending": true
+      "title": "AI研究者の父親が語る、子どもとAIの付き合い方",
+      "summary": "AIによる絵本のような物語の生成に驚いた研究者が、AIの利便性と危険性について述べている。子どもが中核となるスキルを忘れずにAIを使いこなす方法を模索している。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00",
+      "impact": "家庭や教育現場において、AIを学習補助ツールとして活用しつつ、基礎的な思考力をいかに維持するかという議論がさらに活発化する可能性がある。"
     },
     {
-      "en_title": "Online bookies accused of UK privacy breaches with use of cookie banners",
-      "en_text": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study shows",
       "image": "https://media.guim.co.uk/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
       "category": "テクノロジー",
       "time": "21:30",
       "collected_at": "2026-09-06T21:30:36.899147+09:00",
-      "title": "Online bookies accused of UK privacy breaches with use of cookie banners",
-      "summary": "Most gambling websites nudge users towards accepting tracking data and harvest it before consent is given, study shows",
-      "content_at": "2026-09-06T21:30:36.899147+09:00",
-      "pending": true
+      "title": "英国のオンライン賭博サイト、クッキーバナーを用いたプライバシー侵害の疑い",
+      "summary": "研究により、多くのギャンブルサイトが同意を得る前にユーザーの追跡データを収集していることが判明した。サイトはユーザーを追跡データの許可へ誘導していると指摘されている。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00",
+      "impact": "オンラインサービスにおけるデータ取得の透明性に対する監視が強まり、法規制や業界の慣行が見直されるきっかけになる可能性がある。"
     },
     {
-      "en_title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "en_text": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’",
       "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
       "category": "テクノロジー",
       "time": "21:30",
       "collected_at": "2026-09-06T21:30:36.899147+09:00",
-      "title": "OpenAI hails ‘new era of artificial general intelligence’ with Astra model release",
-      "summary": "Astra’s arrival comes days after Sam Altman, OpenAI’s chief executive, described AGI as an ‘irrelevant marketing term’",
-      "content_at": "2026-09-06T21:30:36.899147+09:00",
-      "pending": true
+      "title": "OpenAIが新モデル「Astra」を発表し、「汎用人工知能（AGI）の新たな時代」を標榜",
+      "summary": "OpenAIが新モデル「Astra」をリリースした。最高経営責任者（CEO）のサム・アルトマン氏がAGIを「無意味なマーケティング用語」と評したわずか数日後の出来事である。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00",
+      "impact": "AI業界において、AGIの定義や到達点に関する議論がさらに激化するとみられる。"
     },
     {
-      "en_title": "Intellectual Fly Is Open",
-      "en_text": "Intellectual Fly Is Open",
       "image": "",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-09-06T21:30:36.899147+09:00",
-      "title": "Intellectual Fly Is Open",
-      "summary": "Intellectual Fly Is Open",
-      "content_at": "2026-09-06T21:30:36.899147+09:00",
-      "pending": true
+      "title": "知的ハエが開いている（Intellectual Fly Is Open）",
+      "summary": "当該記事は「Intellectual Fly Is Open」という短いフレーズのみで構成されている。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00",
+      "impact": "提供された情報が極めて限定的であるため、社会的な影響を予測することは困難である。"
     },
     {
       "image": "https://www.isaraerospace.com/images/_1200x630_crop_center-center_none/social-media-image@1200x627.jpg",
@@ -263,5 +244,5 @@
       "content_at": "2026-09-06T21:30:36.899147+09:00"
     }
   ],
-  "updated_at": "2026-09-06T21:30:36.899147+09:00"
+  "updated_at": "2026-09-07T06:30:35.397063+09:00"
 }

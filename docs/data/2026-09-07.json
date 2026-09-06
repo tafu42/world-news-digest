@@ -1,0 +1,61 @@
+{
+  "date": "2026-09-07",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/60d7e7e81794fd869d6ab863955afeaf44c17065/1133_0_6250_5000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-07T06:30:35.397063+09:00",
+      "title": "制御不能なAIへの懸念が高まる",
+      "summary": "高度なAIモデルに関連する深刻な安全上の問題が相次いで発生している。これらの事態を受け、AIの能力と予測不能性に対する懸念が強まっている。",
+      "impact": "今後、AI技術の開発において安全性確保のための規制や基準が強化される可能性がある。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00"
+    },
+    {
+      "image": "https://anubis.techaro.lol/chrystarium.webp",
+      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-07T06:30:35.397063+09:00",
+      "title": "「Anubis」がWebAssemblyに対応",
+      "summary": "1年間の開発期間を経て、AnubisがWebAssemblyに対応した。Rustへの書き換えや多数のコミットを経て、次期バージョンから搭載される。",
+      "impact": "Anubisの利用環境が拡張され、開発効率やアプリケーションの実行性能が向上する可能性がある。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/f6ea69a5f9f612c03c91dcf80d2249b9b331d773d64c6a8b5a68a255c5392a41/marsbos/mador",
+      "url": "https://github.com/marsbos/mador",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-07T06:30:35.397063+09:00",
+      "title": "DOMをリアクティブ化するライブラリ「Mador」",
+      "summary": "80行程度のProxy状態タプルを用いて、あらゆるDOMをリアクティブ化するプロジェクト「Mador」が公開された。GitHub上で開発が進められている。",
+      "impact": "Web開発において、より軽量な手段で動的なDOM操作を実現したい開発者の選択肢が増えるとみられる。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-07T06:30:35.397063+09:00",
+      "title": "GrapheneOSがデフォルトアプリとセキュアクリップボードを刷新",
+      "summary": "GrapheneOSにおいて、デフォルトアプリの設定とセキュアクリップボードの機能が大幅に刷新された。",
+      "impact": "OSの標準機能が強化されることで、ユーザーのプライバシー保護や利便性が向上すると考えられる。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-07T06:30:35.397063+09:00",
+      "title": "NetBSD 9.5がリリースされ、NetBSD-9のサポートが終了",
+      "summary": "NetBSD 9.5がリリースされた。これに伴い、NetBSD-9シリーズのサポートは終了となる。",
+      "impact": "NetBSD-9を利用しているユーザーは、システムのセキュリティ維持のためにNetBSD 9.5への移行または他バージョンへの更新を検討する必要があると考えられる。",
+      "content_at": "2026-09-07T06:30:35.397063+09:00"
+    }
+  ],
+  "updated_at": "2026-09-07T06:30:35.397063+09:00"
+}
