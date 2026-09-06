@@ -77,7 +77,95 @@
       "summary": "AMD BC-250を使用した「60ドルのゲーミングPC」に関する情報である。",
       "impact": "安価な機材を活用したPC構築に関心を持つ層に対し、コストパフォーマンスの良い選択肢として注目される可能性がある。",
       "content_at": "2026-09-06T06:30:38.623455+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f948ced5626817212f7356b74244e0a3e94edbe0/202_240_4762_3810/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/04/in-the-picture-and-missing-out",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "写真撮影が体験の質に与える影響",
+      "summary": "グレッグ・ルイスはカメラがその瞬間の完全な体験を妨げる可能性があると論じ、アラン・ペイリングは証明写真ブースのプライバシーについて回想している。",
+      "impact": "写真や動画による記録が一般的になる中で、デジタル機器に依存せずその場での体験を重視する意識が高まる可能性がある。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/6530dde530c9682a6aaf8996143d85aacca7dd43/681_0_6830_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/peter-thiel-argentina-javier-milei",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "ピーター・ティールのアルゼンチン移住を巡る背景",
+      "summary": "ピーター・ティールのアルゼンチンへの移住は、米国のテック企業幹部の権力を同国で強化する恐れがあるとする法案の提案と時期が重なっている。",
+      "impact": "この移住は、同国の政治的状況や企業規制のあり方に影響を与える可能性があるとみられる。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/2e95ab1278f415c139a6ebc53416543afc80cb8c/90_172_2785_2228/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/boyfriend-literacy-intelligence-test",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "「無学な彼氏」テストがネット上で注目される",
+      "summary": "「ハイパーボレ」や「オードブル」などの単語を発音させるテストを通じて、男女間の知的能力差がオンライン上で話題となっている。",
+      "impact": "パートナーの知識水準に対するオンライン上の言説が、ジェンダー間のコミュニケーションや認識に何らかの変化を与える可能性がある。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "image": "https://cloudinabottle.org/static/img/social-card.png",
+      "url": "https://cloudinabottle.org/blog/launch-post",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "セルフホスティングを身近にする「Cloud in a Bottle」",
+      "summary": "「Cloud in a Bottle」は、コンテナ化されたアプリや統合認証を備え、オープンソースのパーソナルクラウドを容易に利用できるようにするプロジェクトである。管理作業ではなく、スマートフォンのような操作感でWebアプリを利用できる環境を目指している。",
+      "impact": "セルフホスティングの敷居を下げることで、個人が自身のデータをより主体的に管理する環境が普及する可能性がある。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "image": "https://openai.robocurve.org/gpt-6-astra/og.jpg",
+      "url": "https://openai.robocurve.org/gpt-6-astra/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "ロボットアームに搭載されるGPT-6 Astra",
+      "summary": "OpenAIが開発するGPT-6 Astraがロボットアームに搭載される。",
+      "impact": "AI技術が物理的な機械制御に応用されることで、産業用ロボットや自動化技術の発展が加速する可能性がある。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "読者の反乱",
+      "summary": "読者の反乱についての内容である。",
+      "impact": "メディアに対する読者の関わり方や権限の変化が、今後の出版や報道のあり方に影響を与える可能性がある。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "image": "",
+      "url": "http://miod.online.fr/software/openbsd/stories/smd.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "OpenBSDの物語：奇妙な中世の装置",
+      "summary": "OpenBSDの物語として、中世の奇妙な装置が取り上げられている。",
+      "impact": "技術コミュニティにおける歴史や特定のデバイスへの関心が高まり、知的好奇心を刺激する可能性がある。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lapcatsoftware.com/articles/2026/9/1.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-06T13:30:37.647336+09:00",
+      "title": "Chrome、再びGoogleをユーザーサイトデータ設定の対象外に",
+      "summary": "ChromeはGoogleに対し、ユーザーのサイトデータ設定を適用しない措置を再び講じている。",
+      "impact": "ユーザーのプライバシー管理設定の有効性に疑問が生じ、ブラウザにおけるデータトラッキング規制の公平性について議論が広がる可能性がある。",
+      "content_at": "2026-09-06T13:30:37.647336+09:00"
     }
   ],
-  "updated_at": "2026-09-06T06:30:38.623455+09:00"
+  "updated_at": "2026-09-06T13:30:37.647336+09:00"
 }

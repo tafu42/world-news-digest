@@ -57,17 +57,6 @@
       "content_at": "2026-09-05T06:30:37.840684+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-09-05T13:30:40.821388+09:00",
-      "title": "OpenAIがAstraモデルを発表し、汎用人工知能の新時代を宣言",
-      "summary": "OpenAIがAstraモデルを公開した。サム・アルトマンCEOはAGIについて、以前「無意味なマーケティング用語」と表現していた。",
-      "impact": "AGIに対する認識の変化が示唆されるとともに、OpenAIの技術開発における方針やブランド戦略が注目される可能性がある。",
-      "content_at": "2026-09-05T13:30:40.821388+09:00"
-    },
-    {
       "image": "",
       "url": "https://nvd.nist.gov/vuln/detail/cve-2026-85046",
       "category": "海外IT",
