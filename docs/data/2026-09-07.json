@@ -2,17 +2,6 @@
   "date": "2026-09-07",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/60d7e7e81794fd869d6ab863955afeaf44c17065/1133_0_6250_5000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/05/uncontrollable-ai-artificial-general-intelligence-warnings",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-07T06:30:35.397063+09:00",
-      "title": "制御不能なAIへの懸念が高まる",
-      "summary": "高度なAIモデルに関連する深刻な安全上の問題が相次いで発生している。これらの事態を受け、AIの能力と予測不能性に対する懸念が強まっている。",
-      "impact": "今後、AI技術の開発において安全性確保のための規制や基準が強化される可能性がある。",
-      "content_at": "2026-09-07T06:30:35.397063+09:00"
-    },
-    {
       "image": "https://anubis.techaro.lol/chrystarium.webp",
       "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
       "category": "海外IT",
