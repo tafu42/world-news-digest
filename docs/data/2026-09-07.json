@@ -55,7 +55,62 @@
       "summary": "NetBSD 9.5がリリースされた。これに伴い、NetBSD-9シリーズのサポートは終了となる。",
       "impact": "NetBSD-9を利用しているユーザーは、システムのセキュリティ維持のためにNetBSD 9.5への移行または他バージョンへの更新を検討する必要があると考えられる。",
       "content_at": "2026-09-07T06:30:35.397063+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/435487580779be5596c03bb62e0d164456bff6da/472_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/03/nvidia-to-buy-hugging-face-in-129bn-deal",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-07T13:30:35.581622+09:00",
+      "title": "NvidiaがHugging Faceを129億ドルで買収へ",
+      "summary": "半導体大手のNvidiaが、開発者プラットフォームのHugging Faceを129億ドルで買収する。AIモデルのオープン化への支持が、将来的なチップ需要の鈍化を補う可能性があると判断した。",
+      "impact": "AI開発のオープンソース化が加速し、業界の技術水準が向上する可能性がある。一方で、大手によるプラットフォーム支配への懸念が広がるかもしれない。",
+      "content_at": "2026-09-07T13:30:35.581622+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-07T13:30:35.581622+09:00",
+      "title": "サーバー維持のための9月の寄付キャンペーン",
+      "summary": "サーバーの稼働を維持するため、9月中に継続的な寄付を行うと寄付額が3倍になるキャンペーンが実施されている。",
+      "impact": "寄付が集まることで、サーバー運営基盤の安定につながるとみられる。",
+      "content_at": "2026-09-07T13:30:35.581622+09:00"
+    },
+    {
+      "image": "https://austinhenley.com/blog/images/python1024.png",
+      "url": "https://austinhenley.com/blog/python1024.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-07T13:30:35.581622+09:00",
+      "title": "1024バイトのPythonインタープリタを作成",
+      "summary": "筆者がC言語を使用して、Pythonの小さなサブセットを1024バイトのサイズで作成することに挑戦した。",
+      "impact": "プログラムの軽量化や制約のある環境での実行手法に関する知見として、一部の開発者に参考になる可能性がある。",
+      "content_at": "2026-09-07T13:30:35.581622+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://purplesyringa.moe/blog/guest/the-nx-bit-is-not-just-about-security/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-07T13:30:35.581622+09:00",
+      "title": "NXビットの多面的な役割",
+      "summary": "NXビット（No-eXecute bit）の役割は、セキュリティ面だけに留まらない。",
+      "impact": "技術者がNXビットの機能をより深く理解することで、OSやハードウェアの設計における効率的な活用が進む可能性がある。",
+      "content_at": "2026-09-07T13:30:35.581622+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://claytonwramsey.com/blog/seeing-eye/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-07T13:30:35.581622+09:00",
+      "title": "コンピュータの「盲導犬」としての役割",
+      "summary": "コンピュータの盲導犬としての役割を果たしているという言及がなされている。それ以上の詳細は記されていない。",
+      "impact": "視覚障害者向けのアクセシビリティ技術の新たな形態を示唆している可能性がある。",
+      "content_at": "2026-09-07T13:30:35.581622+09:00"
     }
   ],
-  "updated_at": "2026-09-07T06:30:35.397063+09:00"
+  "updated_at": "2026-09-07T13:30:35.581622+09:00"
 }
