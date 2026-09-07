@@ -110,7 +110,84 @@
       "summary": "コンピュータの盲導犬としての役割を果たしているという言及がなされている。それ以上の詳細は記されていない。",
       "impact": "視覚障害者向けのアクセシビリティ技術の新たな形態を示唆している可能性がある。",
       "content_at": "2026-09-07T13:30:35.581622+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9d79e5a1ea55a50086051b53b4e66aa77be6b7ae/1211_519_4557_3646/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/07/pixel-11-review-google-flagship-phones-battery-cameras-android",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-07T21:30:37.891039+09:00",
+      "title": "Pixel 11レビュー：Googleが標準フラッグシップスマホの基準を確立",
+      "summary": "Pixel 11は、バッテリー寿命の延長やチップの高速化、実用的なAIツールやカメラ性能の向上を実現した。これらの品質向上により、Android市場における競争力を維持している。",
+      "impact": "標準的なフラッグシップスマートフォンの性能水準が引き上げられ、他メーカーもさらなる機能強化を迫られる可能性がある。",
+      "content_at": "2026-09-07T21:30:37.891039+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f948ced5626817212f7356b74244e0a3e94edbe0/202_240_4762_3810/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/04/in-the-picture-and-missing-out",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-07T21:30:37.891039+09:00",
+      "title": "写真に撮ることと、その瞬間を逃すこと",
+      "summary": "カメラを使うことが、その場の体験を損なう場合があるとグレッグ・ルイスが指摘した。一方、アラン・ペイリングは証明写真ブースが持つプライバシーの感覚を回想している。",
+      "impact": "デジタル機器が体験に与える影響について、個人の記憶や行動様式を再考するきっかけとなる可能性がある。",
+      "content_at": "2026-09-07T21:30:37.891039+09:00"
+    },
+    {
+      "image": "https://openbaarvervoerbelgie.be/og.png",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-07T21:30:37.891039+09:00",
+      "title": "ベルギー公共交通機関のライブマップ",
+      "summary": "ベルギー国内のすべてのバス、トラム、地下鉄、列車が、単一の地図上でライブ表示されるようになった。対象となる事業者はDe Lijn、STIB-MIVB、TEC、NMBS/SNCBである。",
+      "impact": "公共交通機関の利便性が向上し、利用者が移動計画を立てる際の効率が高まるとみられる。",
+      "content_at": "2026-09-07T21:30:37.891039+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mathathonchallenge.com/index.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-07T21:30:37.891039+09:00",
+      "title": "Caltech Mathathon：研究レベルの数学に特化した初のハッカソン",
+      "summary": "Caltech Mathathonは、研究レベルの数学をテーマにした史上初のハッカソンである。",
+      "impact": "数学の研究開発において、新たな協力体制や革新的なアプローチが生まれる可能性がある。",
+      "content_at": "2026-09-07T21:30:37.891039+09:00"
+    },
+    {
+      "image": "https://image.theregister.com/4093968.jpg?imageId=4093968&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "url": "https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-07T21:30:37.891039+09:00",
+      "title": "スマートフォンメーカーがEUの修理容易性要件に従っていない現状",
+      "summary": "市場に出回っている新しいデバイスの大部分が、EUの修理容易性要件を満たしていないことがわかった。",
+      "impact": "EU当局による規制強化や罰則の適用が進む可能性がある。",
+      "content_at": "2026-09-07T21:30:37.891039+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.edge.org/response-detail/27238",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-07T21:30:37.891039+09:00",
+      "title": "インピーダンス整合（2017）",
+      "summary": "2017年版のインピーダンス整合に関する情報である。",
+      "impact": "電子回路設計の基礎技術として、関連する工学分野での知識共有に寄与すると考えられる。",
+      "content_at": "2026-09-07T21:30:37.891039+09:00"
+    },
+    {
+      "image": "https://vllm.ai/og?title=Exploring%20Speculative%20Decoding%20in%20vLLM%20on%20AMD%20GPUs&amp;authors=AMD%20and%20Embedded%20LLM&amp;date=2026-08-23&amp;path=/blog",
+      "url": "https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-07T21:30:37.891039+09:00",
+      "title": "AMD GPUにおけるvLLMの推論加速手法",
+      "summary": "AMD GPU環境でvLLMの推論を高速化する「Speculative Decoding」の実践ガイドが公開された。内容にはドラフト・検証メカニズムや各種設定、最適化手法が含まれる。",
+      "impact": "AI開発者がAMD環境で大規模言語モデルを効率的に運用するための技術指標となる可能性がある。",
+      "content_at": "2026-09-07T21:30:37.891039+09:00"
     }
   ],
-  "updated_at": "2026-09-07T13:30:35.581622+09:00"
+  "updated_at": "2026-09-07T21:30:37.891039+09:00"
 }

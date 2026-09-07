@@ -123,39 +123,6 @@
       "content_at": "2026-09-06T13:30:37.647336+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/39b202496fe19317630335da78b707c1041b88c4/540_0_4500_3600/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-06T21:30:36.899147+09:00",
-      "title": "AI研究者の父親が語る、子どもとAIの付き合い方",
-      "summary": "AIによる絵本のような物語の生成に驚いた研究者が、AIの利便性と危険性について述べている。子どもが中核となるスキルを忘れずにAIを使いこなす方法を模索している。",
-      "content_at": "2026-09-07T06:30:35.397063+09:00",
-      "impact": "家庭や教育現場において、AIを学習補助ツールとして活用しつつ、基礎的な思考力をいかに維持するかという議論がさらに活発化する可能性がある。"
-    },
-    {
-      "image": "https://media.guim.co.uk/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-06T21:30:36.899147+09:00",
-      "title": "英国のオンライン賭博サイト、クッキーバナーを用いたプライバシー侵害の疑い",
-      "summary": "研究により、多くのギャンブルサイトが同意を得る前にユーザーの追跡データを収集していることが判明した。サイトはユーザーを追跡データの許可へ誘導していると指摘されている。",
-      "content_at": "2026-09-07T06:30:35.397063+09:00",
-      "impact": "オンラインサービスにおけるデータ取得の透明性に対する監視が強まり、法規制や業界の慣行が見直されるきっかけになる可能性がある。"
-    },
-    {
-      "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/583_0_2917_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/03/openai-artificial-general-intelligence-astra-release",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-06T21:30:36.899147+09:00",
-      "title": "OpenAIが新モデル「Astra」を発表し、「汎用人工知能（AGI）の新たな時代」を標榜",
-      "summary": "OpenAIが新モデル「Astra」をリリースした。最高経営責任者（CEO）のサム・アルトマン氏がAGIを「無意味なマーケティング用語」と評したわずか数日後の出来事である。",
-      "content_at": "2026-09-07T06:30:35.397063+09:00",
-      "impact": "AI業界において、AGIの定義や到達点に関する議論がさらに激化するとみられる。"
-    },
-    {
       "image": "",
       "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
       "category": "海外IT",
