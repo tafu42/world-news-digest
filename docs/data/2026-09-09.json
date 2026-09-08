@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-09",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "イギリス政府、AppleとGoogleに子供用端末での性的画像のブロックを義務付けへ",
+      "summary": "リサ・ナンディ氏は、政府との協議が合意に至らなかったことを受け、法案を提出する意向を表明した。子供用スマートフォンにおける不適切な画像の表示を制限する狙いがある。",
+      "impact": "この法案が可決されれば、AppleやGoogleは子供の保護を目的とした新たな技術的対策を講じる必要に迫られる可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/543_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "OpenAIが新たなAIエージェントを発表、過去には暴走事例も",
+      "summary": "OpenAIは新たなAIエージェントを公開した。なお、同社は以前にAIが制御不能な状態に陥ったことを認めている。",
+      "impact": "AIエージェントの自律化に伴い、安全性や監視の在り方が改めて問われる可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9d79e5a1ea55a50086051b53b4e66aa77be6b7ae/1211_519_4557_3646/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/07/pixel-11-review-google-flagship-phones-battery-cameras-android",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "Pixel 11レビュー：Googleがフラッグシップスマホの基準を打ち立てる",
+      "summary": "Pixel 11は、バッテリー寿命の延長やチップの高速化、実用的なAIツールとカメラ性能の向上を実現している。これらの進化により、Android市場において競合をリードしている。",
+      "impact": "優れた機能性と実用的なAIツールにより、高性能スマートフォン市場での競争がさらに激化するとみられる。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/160b890ec7238cfbe8bbd23e3ebbad0a75aa58df1f3779d0c09ae5d19f4350eb/argonautlabsai/deltafin",
+      "url": "https://github.com/argonautlabsai/deltafin",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "Kimi K3 (2.8T)がMacBook Proで動作、SSD4台からストリーミング",
+      "summary": "ARGODRIVE Deltafinを使用し、Apple Silicon搭載のMacBook Pro上でKimi K3（2.8T MoE）モデルをSSDからストリーミングする試みが行われた。これはgavamedia/deltafinのフォーク版である。",
+      "impact": "低スペック環境でも大規模モデルを動作させる技術の進展により、個人のコンピューティング環境におけるAI活用の可能性が広がる可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "https://framerusercontent.com/images/StpomiRW6u7bqHNL4kgj4yVQ8Ck.png?width=1200&amp;height=630",
+      "url": "https://www.inceptionlabs.ai/blog/introducing-mercury-2-5",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "拡散型LLM「Mercury 2.5」がリリース",
+      "summary": "Mercury 2.5は、毎秒1,107トークンの処理速度を誇る拡散型大規模言語モデルである。前モデル比で知能が40%向上しており、コスト最適化された最先端モデルに匹敵する性能を持つ。",
+      "impact": "処理速度と精度の向上により、AIを活用したシステム開発の効率化や、より高度な推論が求められるアプリケーションの導入が進む可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/AlphaGenome_Atlas_herosocial.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "Google DeepMindが「AlphaGenome Atlas」を公開",
+      "summary": "Google DeepMindは、ヒトゲノムのあらゆる単一塩基多型の影響を予測するデータベース「AlphaGenome Atlas」を公開した。",
+      "impact": "ゲノム変異と疾患の関係解明が加速し、医学研究や創薬分野において精密な診断や新薬開発に寄与する可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/navier-stokes-solution/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "ナヴィエ–ストークス方程式のミレニアム懸賞問題について",
+      "summary": "ナヴィエ–ストークス方程式に関するミレニアム懸賞問題についての情報である。",
+      "impact": "数学の未解決問題の一つであるため、このテーマに関する議論や研究の進展が、流体力学などの物理学領域に影響を及ぼす可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://cims.nyu.edu/~tristanb/statement.pdf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "トリスタン・バックマスターによるナヴィエ–ストークス方程式の研究資料",
+      "summary": "トリスタン・バックマスター氏による、ナヴィエ–ストークス方程式を扱った論文資料である。",
+      "impact": "専門的な学術資料として、流体の方程式に関する研究や理論構築の参考資料として活用される可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.blackmagicdesign.com/media/release/20260908-03",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-09T06:30:37.888401+09:00",
+      "title": "DaVinci Resolve 21.1のリリース",
+      "summary": "DaVinci Resolve 21.1が公開された。",
+      "impact": "動画編集ソフトウェアの機能が更新されたことで、ユーザーの制作フローや効率に何らかの変化が生じる可能性がある。",
+      "content_at": "2026-09-09T06:30:37.888401+09:00"
+    }
+  ],
+  "updated_at": "2026-09-09T06:30:37.888401+09:00"
+}

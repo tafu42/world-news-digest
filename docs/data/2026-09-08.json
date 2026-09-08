@@ -2,39 +2,6 @@
   "date": "2026-09-08",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/852ec2a6836480a45df3ced8fc2d4b4204eb9886/292_110_1937_1549/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/07/architect-uk-ai-policy-quits-anthropic-conflict-of-interest-concerns",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-08T06:30:48.929096+09:00",
-      "title": "英AI政策の立案者がAnthropicとの利益相反懸念で辞任",
-      "summary": "AI企業のフルタイム職に就いたマット・クリフォード氏に対し、英議員らが不満を示したことを受け、同氏が辞任に追い込まれた。AI政策に関わる人物の利益相反が問題視された。",
-      "impact": "政府のAI政策に対する信頼性に影響を与える可能性がある。今後、公的機関と民間企業の人材交流に関する規制が厳格化されるとみられる。",
-      "content_at": "2026-09-08T06:30:48.929096+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/39b202496fe19317630335da78b707c1041b88c4/540_0_4500_3600/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/06/daniel-susskind-father-studies-ai-artificial-intelligence-what-parents-need-know",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-08T06:30:48.929096+09:00",
-      "title": "AI研究者の父親が語る、子供とAIの関わり方",
-      "summary": "AIが瞬時に物語を作成する能力に驚かされた研究者が、子供がAIを活用しつつ重要なスキルを維持する方法について考察している。テクノロジーの利便性とリスクの両面が示された。",
-      "impact": "家庭や教育現場において、子供のAI教育のあり方が議論されるきっかけになると考えられる。AI時代に適した新しい学習カリキュラムの重要性が高まる可能性がある。",
-      "content_at": "2026-09-08T06:30:48.929096+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/9670fd96e18936168fe05d8c0929de10ea29cb2d/1031_76_7095_5676/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/06/online-bookies-privacy-breaches-cookies-tracking",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-08T06:30:48.929096+09:00",
-      "title": "英国のオンライン賭博サイト、プライバシー侵害の疑い",
-      "summary": "調査により、多くのギャンブルサイトが同意を得る前にユーザーのトラッキングデータを収集していることが判明した。サイトはユーザーをクッキーの受け入れへと誘導している。",
-      "impact": "オンラインサービスにおけるデータ収集慣行への批判が高まり、規制当局による監視が強まる可能性がある。プラットフォーム側は個人情報保護方針の修正を迫られるとみられる。",
-      "content_at": "2026-09-08T06:30:48.929096+09:00"
-    },
-    {
       "image": "",
       "url": "https://lax-skyline.parcelscope.net/",
       "category": "海外IT",
