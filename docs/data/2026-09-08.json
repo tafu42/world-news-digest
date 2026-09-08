@@ -165,7 +165,84 @@
       "summary": "アメリカの風変わりなロードサイド建築やエフェメラ（一時的な印刷物など）を記録した写真コレクションである。",
       "impact": "当時のアメリカの文化や景観を視覚的に後世へ伝える貴重な資料として評価されると考えられる。",
       "content_at": "2026-09-08T13:30:39.803124+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-08T21:30:43.357139+09:00",
+      "title": "米警察、Metaのスマートグラスによる盗撮やテロへの悪用を懸念",
+      "summary": "米国の警察官が、カメラを搭載したMetaのスマートグラスが自身の秘密裏の録画やテロ行為に悪用されることを懸念していることが内部文書で明らかになった。この懸念はメイン州からカリフォルニア州まで広がっている。",
+      "impact": "スマートデバイスの普及によりプライバシーやセキュリティの議論が活発化しており、警察の現場運用や関連法規制の見直しが必要になる可能性がある。",
+      "content_at": "2026-09-08T21:30:43.357139+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/67e9ede5a7b9b9595b896014b10300d6c74da510/423_0_3928_3142/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-08T21:30:43.357139+09:00",
+      "title": "豪政府が推進するアルゴリズムのオプトアウト法案、実効性に疑問の声",
+      "summary": "オーストラリア政府はSNSユーザーがアルゴリズムを拒否できるようにする法案の制定を目指している。しかし、法案が成立してもIT企業が意図を回避し、ユーザーをプラットフォームに留め続ける可能性があると懸念されている。",
+      "impact": "法案が成立しても、企業の技術的な対応次第でユーザーの保護が不十分なままとなる可能性がある。",
+      "content_at": "2026-09-08T21:30:43.357139+09:00"
+    },
+    {
+      "image": "https://ciphercue.com/img/og-card.png",
+      "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-08T21:30:43.357139+09:00",
+      "title": "欧州のCDN利用企業、約9割がCloudflareを採用",
+      "summary": "欧州のCDNを利用している企業44,143社を調査したところ、89.6%がCloudflareを使用していることが判明した。本調査では国別の内訳や2025年から2026年に発生した障害の影響についても公表されている。",
+      "impact": "特定の企業にインフラが集中していることで、障害発生時の社会的影響範囲が広大になる懸念がある。",
+      "content_at": "2026-09-08T21:30:43.357139+09:00"
+    },
+    {
+      "image": "https://vale.rocks/assets/og/post.webp",
+      "url": "https://vale.rocks/posts/html-relics",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-08T21:30:43.357139+09:00",
+      "title": "古いHTMLコードと残存するアーティファクト",
+      "summary": "インターネット上に残る古いHTMLの断片やアーティファクトの存在について、その要因の多くがInternet Explorerにあると指摘されている。",
+      "impact": "過去のブラウザに依存したコードが現在のウェブ開発における技術的負債として影響し続ける可能性がある。",
+      "content_at": "2026-09-08T21:30:43.357139+09:00"
+    },
+    {
+      "image": "https://ychef.files.bbci.co.uk/624x351/p0p7zfys.jpg",
+      "url": "https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-08T21:30:43.357139+09:00",
+      "title": "土に触れることが健康にもたらす利点",
+      "summary": "土や草木に触れる行為は、皮膚や免疫系に対して幅広い健康効果をもたらす。こうした自然との接触が体に良い影響を与えることが示唆されている。",
+      "impact": "自然と触れ合う活動が、現代人の健康維持やストレス緩和の手段としてより重視されるようになる可能性がある。",
+      "content_at": "2026-09-08T21:30:43.357139+09:00"
+    },
+    {
+      "image": "https://weirdgloop.org/images/Weird%20Gloop%20square%20logo.png",
+      "url": "https://weirdgloop.org/blog/google-jail",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-08T21:30:43.357139+09:00",
+      "title": "独立系WikiサイトがFandomから移転",
+      "summary": "OverwatchとFortniteのWikiサイトが、Fandomから独立したサーバーへ移転を完了した。これにより、自動再生動画広告などの制限から解放され、編集者がプロジェクトの管理権を取り戻している。",
+      "impact": "Wiki運営の脱プラットフォーム化が進むことで、広告の少ないユーザー主導型のコミュニティ運営が今後さらに増える可能性がある。",
+      "content_at": "2026-09-08T21:30:43.357139+09:00"
+    },
+    {
+      "image": "https://lanparty.house/images/og-image.jpg",
+      "url": "https://lanparty.house/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-08T21:30:43.357139+09:00",
+      "title": "LANパーティーのために設計された住宅",
+      "summary": "2024年に、LANパーティーを行うことに特化した新しい住宅が建設された。",
+      "impact": "特定の趣味を追求するための住宅設計が、コミュニティの交流を深めるための新たな住宅トレンドとして注目される可能性がある。",
+      "content_at": "2026-09-08T21:30:43.357139+09:00"
     }
   ],
-  "updated_at": "2026-09-08T13:30:39.803124+09:00"
+  "updated_at": "2026-09-08T21:30:43.357139+09:00"
 }
