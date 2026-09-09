@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-10",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/66008aa8a95bba4f85939f60e9635f25e1ef571d/329_0_3000_2400/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "Appleのジョン・ターナスCEOが年次イベントで初登壇",
+      "summary": "ジョン・ターナス氏が、時価総額4.5兆ドル企業のトップとして初めて主要イベントを主導した。同イベントにて、Apple初の折りたたみ式iPhoneを発表した。",
+      "impact": "Appleが折りたたみ式スマートフォン市場に参入することで、競合他社との競争が激化し、業界全体の技術トレンドに影響を与える可能性がある。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/7f38622dc6b1e72105ada3d0e78ad8a8946dc160/249_0_3156_2525/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "Anthropicの研究者がAIによる2030年の人類滅亡を警告",
+      "summary": "Anthropic社の元研究者が、規制がなければAIが人類を滅ぼす可能性があると業界の多くが懸念していると述べた。この研究者は、自身の懸念を理由に辞職している。",
+      "impact": "AI開発に対する安全性確保や法規制の強化を求める議論が、政府や国際機関において急速に高まる可能性がある。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0e97a66ff2c2cfb9e057c48c443c5c93190ee9e8/0_0_6000_4800/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "専門家がAIによる今後10年以内の人類絶滅を警告",
+      "summary": "人工超知能の危険性に対する業界関係者からの警告が強まっている。これらの懸念を受け、AI開発の制限を求める圧力が一段と高まっている。",
+      "impact": "AIの技術的進歩がもたらすリスクに対して、社会的な警戒感が高まり、開発企業への監視体制や規制導入が進むとみられる。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://www.apple.com/v/iphone-duo/a/images/meta/iphone-duo_overview__bmsaaq50eyaa_og.png?202609071346",
+      "url": "https://www.apple.com/iphone-duo/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "Appleが折りたたみ式スマートフォン「iPhone Duo」を発表",
+      "summary": "「iPhone Duo」は、史上最大のディスプレイを搭載した薄型折りたたみ式デバイスである。A20 Proチップと48MPデュアルフュージョンカメラを搭載している。",
+      "impact": "既存のiPhoneユーザーの買い替え需要を喚起し、折りたたみ端末という新しい製品カテゴリーの普及を促進する可能性がある。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/tile/Apple-AirPods-5-hero-260909-lp.jpg.og.jpg?202609091908",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "Appleが「AirPods 5」を発表",
+      "summary": "Appleはオープンイヤー型で業界最高水準のアクティブノイズキャンセリングを備えた「AirPods 5」を発表した。音質も従来より向上している。",
+      "impact": "オープンイヤー型を好むユーザーの選択肢が広がり、既存のノイズキャンセリング対応イヤホンの市場競争が激化する可能性がある。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://tailwindcss.com/_next/static/media/og-image.103kpqahmns2b.jpg",
+      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "ShopifyがTailwindを買収",
+      "summary": "TailwindはShopifyへの参画を発表した。これにより同ツールは長期的に安定した保守体制が維持されることになる。",
+      "impact": "Tailwindを利用する開発者は今後、より安定した環境で開発を行えるようになるとみられる。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://tautology.town/2026/06/01/card-networks.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "VisaとMastercardの役割についての解説",
+      "summary": "カードネットワークであるVisaとMastercardがどのような業務を行っているかについて解説する導入記事。",
+      "impact": "決済システムの仕組みに対する一般利用者の理解が深まる可能性がある。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/tile/Apple-iPhone-18-Pro-2up-260909-lp.jpg.og.jpg?202609091909",
+      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "Appleが「iPhone 18 Pro」および「iPhone 18 Pro Max」を発表",
+      "summary": "Appleはプロ仕様のカメラシステムを搭載し、バッテリー性能と処理能力を向上させた「iPhone 18 Pro」と「iPhone 18 Pro Max」を発表した。",
+      "impact": "高性能なデバイスを求める層の買い替えが促進されるほか、スマートフォンのカメラ性能の基準がさらに引き上げられる可能性がある。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/tile/Apple-Watch-Series-12-2up-260909-lp.jpg.og.jpg?202609091908",
+      "url": "https://www.apple.com/newsroom/2026/09/introducing-apple-watch-series-12-with-the-all-new-health-sensing-system/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-10T06:30:39.722371+09:00",
+      "title": "Apple Watch Series 12が発表",
+      "summary": "Appleがウェアラブル端末として最も正確な心拍数検知を実現する「Apple Watch Series 12」を発表した。",
+      "impact": "ウェアラブル端末の健康モニタリング機能が向上することで、ユーザーの精密な健康管理がより手軽に行えるようになる可能性がある。",
+      "content_at": "2026-09-10T06:30:39.722371+09:00"
+    }
+  ],
+  "updated_at": "2026-09-10T06:30:39.722371+09:00"
+}

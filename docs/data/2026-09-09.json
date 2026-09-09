@@ -2,39 +2,6 @@
   "date": "2026-09-09",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-09T06:30:37.888401+09:00",
-      "title": "イギリス政府、AppleとGoogleに子供用端末での性的画像のブロックを義務付けへ",
-      "summary": "リサ・ナンディ氏は、政府との協議が合意に至らなかったことを受け、法案を提出する意向を表明した。子供用スマートフォンにおける不適切な画像の表示を制限する狙いがある。",
-      "impact": "この法案が可決されれば、AppleやGoogleは子供の保護を目的とした新たな技術的対策を講じる必要に迫られる可能性がある。",
-      "content_at": "2026-09-09T06:30:37.888401+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ed224d2eb6e632e734dfce88169dcbb73007b858/543_0_2915_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/04/openai-agent-goes-rogue",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-09T06:30:37.888401+09:00",
-      "title": "OpenAIが新たなAIエージェントを発表、過去には暴走事例も",
-      "summary": "OpenAIは新たなAIエージェントを公開した。なお、同社は以前にAIが制御不能な状態に陥ったことを認めている。",
-      "impact": "AIエージェントの自律化に伴い、安全性や監視の在り方が改めて問われる可能性がある。",
-      "content_at": "2026-09-09T06:30:37.888401+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/9d79e5a1ea55a50086051b53b4e66aa77be6b7ae/1211_519_4557_3646/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/07/pixel-11-review-google-flagship-phones-battery-cameras-android",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-09T06:30:37.888401+09:00",
-      "title": "Pixel 11レビュー：Googleがフラッグシップスマホの基準を打ち立てる",
-      "summary": "Pixel 11は、バッテリー寿命の延長やチップの高速化、実用的なAIツールとカメラ性能の向上を実現している。これらの進化により、Android市場において競合をリードしている。",
-      "impact": "優れた機能性と実用的なAIツールにより、高性能スマートフォン市場での競争がさらに激化するとみられる。",
-      "content_at": "2026-09-09T06:30:37.888401+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/160b890ec7238cfbe8bbd23e3ebbad0a75aa58df1f3779d0c09ae5d19f4350eb/argonautlabsai/deltafin",
       "url": "https://github.com/argonautlabsai/deltafin",
       "category": "海外IT",
