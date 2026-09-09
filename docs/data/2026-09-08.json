@@ -123,28 +123,6 @@
       "content_at": "2026-09-08T13:30:39.803124+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/03f41f427333165fbf72c8ab3c4b65afa1b3cfda/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/08/us-law-enforcement-meta-smart-glasses",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-08T21:30:43.357139+09:00",
-      "title": "米警察、Metaのスマートグラスによる盗撮やテロへの悪用を懸念",
-      "summary": "米国の警察官が、カメラを搭載したMetaのスマートグラスが自身の秘密裏の録画やテロ行為に悪用されることを懸念していることが内部文書で明らかになった。この懸念はメイン州からカリフォルニア州まで広がっている。",
-      "impact": "スマートデバイスの普及によりプライバシーやセキュリティの議論が活発化しており、警察の現場運用や関連法規制の見直しが必要になる可能性がある。",
-      "content_at": "2026-09-08T21:30:43.357139+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/67e9ede5a7b9b9595b896014b10300d6c74da510/423_0_3928_3142/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/08/social-media-algorithm-opt-out-australia",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-08T21:30:43.357139+09:00",
-      "title": "豪政府が推進するアルゴリズムのオプトアウト法案、実効性に疑問の声",
-      "summary": "オーストラリア政府はSNSユーザーがアルゴリズムを拒否できるようにする法案の制定を目指している。しかし、法案が成立してもIT企業が意図を回避し、ユーザーをプラットフォームに留め続ける可能性があると懸念されている。",
-      "impact": "法案が成立しても、企業の技術的な対応次第でユーザーの保護が不十分なままとなる可能性がある。",
-      "content_at": "2026-09-08T21:30:43.357139+09:00"
-    },
-    {
       "image": "https://ciphercue.com/img/og-card.png",
       "url": "https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten",
       "category": "海外IT",
