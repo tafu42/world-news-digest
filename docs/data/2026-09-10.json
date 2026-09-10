@@ -99,7 +99,62 @@
       "summary": "Appleがウェアラブル端末として最も正確な心拍数検知を実現する「Apple Watch Series 12」を発表した。",
       "impact": "ウェアラブル端末の健康モニタリング機能が向上することで、ユーザーの精密な健康管理がより手軽に行えるようになる可能性がある。",
       "content_at": "2026-09-10T06:30:39.722371+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/2b7a40c6cbcd6d16367850c23bef249a753aee37/458_0_4583_3668/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-10T13:30:41.915452+09:00",
+      "title": "AIによる人類滅亡のリスク、研究者が警告し米議員らがAI企業を非難",
+      "summary": "元Anthropic社員のジェイコブ・コクソン氏は、AIが2030年までに人類を滅亡させうる超知能システムになると警告した。これを受け、米国の議員らがAI企業に対する批判を強めている。",
+      "impact": "AI開発における規制強化の議論が加速し、技術開発のスピードや安全性に対する社会的要請がさらに強まる可能性がある。",
+      "content_at": "2026-09-10T13:30:41.915452+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0be792a79d390397c89f84c4dad23ed8ae0f956a/255_0_1477_1181/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/08/uk-apple-google-explicit-images-children-smartphones-lisa-nandy-legislation",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-10T13:30:41.915452+09:00",
+      "title": "英国政府、アップルとグーグルに子供用スマホでのわいせつ画像ブロックを義務付けへ",
+      "summary": "英国のリサ・ナンディ大臣は、両社との交渉が合意に至らなかったことを受け、子供向けスマートフォンでのわいせつ画像の表示をブロックする法案を導入すると発表した。",
+      "impact": "大手IT企業に対して子供のオンライン安全保護のための設計変更を強制する動きが、他国にも波及する可能性がある。",
+      "content_at": "2026-09-10T13:30:41.915452+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://rivendell.dmitrybrant.com/relativity/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-10T13:30:41.915452+09:00",
+      "title": "光速が時速5キロになったらどうなるか",
+      "summary": "光の速さが時速5キロという極端な遅さになった世界を想定した思考実験が提示されている。",
+      "impact": "物理法則の理解を深めるための教育的・学術的な議論として活用される可能性がある。",
+      "content_at": "2026-09-10T13:30:41.915452+09:00"
+    },
+    {
+      "image": "https://spectrum.ieee.org/media-library/image.png?id=67724498&width=1200&height=600&coordinates=0%2C91%2C0%2C92",
+      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-10T13:30:41.915452+09:00",
+      "title": "自動運転車が人命を救うという証拠が増加",
+      "summary": "自動運転技術の導入により、年間58万人の死亡事故を防止できる可能性があるという予測が示された。",
+      "impact": "交通死亡事故の削減に向け、自動運転技術の社会実装や普及を推進する機運が高まるとみられる。",
+      "content_at": "2026-09-10T13:30:41.915452+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://hugovergnes.github.io/little-lm-3-8b/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-10T13:30:41.915452+09:00",
+      "title": "38億パラメータのLLMを998ドルで事前学習することに成功",
+      "summary": "38億パラメータのモデルを650億トークンを用いて学習し、0.384 COREの性能に到達させた。学習は43時間で完了し、総コストは998ドルであった。",
+      "impact": "低コストでのLLM学習手法が確立されることで、小規模な組織や研究者でも高性能なモデルを開発しやすくなる可能性がある。",
+      "content_at": "2026-09-10T13:30:41.915452+09:00"
     }
   ],
-  "updated_at": "2026-09-10T06:30:39.722371+09:00"
+  "updated_at": "2026-09-10T13:30:41.915452+09:00"
 }
