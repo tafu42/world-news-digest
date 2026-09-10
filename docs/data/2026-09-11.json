@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-11",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/174c016d3ca06c4ac3944fc7db9b7a9b03e77b6a/905_0_4583_3667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-11T06:30:38.589392+09:00",
+      "title": "イーロン・マスク氏、自身のドキュメンタリー監督をSNSで批判",
+      "summary": "イーロン・マスク氏は、自身を題材にしたドキュメンタリーを制作したアレックス・ギブニー監督に対し、SNS上で「苦々しい老人」「誠実さが皆無」などと攻撃した。",
+      "impact": "著名な実業家による監督への直接的な批判は、メディア報道の公平性や表現の自由を巡る議論を呼ぶ可能性がある。",
+      "content_at": "2026-09-11T06:30:38.589392+09:00"
+    },
+    {
+      "image": "https://cognition.com/images/swe-2/cover.jpg",
+      "url": "https://cognition.com/blog/swe-2",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-11T06:30:38.589392+09:00",
+      "title": "Cognition社、新型コーディングモデル「SWE-2」を発表",
+      "summary": "Cognition社は、同社で最も高度なコーディングモデル「SWE-2」を発表した。本モデルは競合モデルと並ぶ高度なエージェント型コーディング性能を提供する。",
+      "impact": "ソフトウェア開発の自動化がさらに進み、開発者の作業効率が大幅に向上する可能性がある。",
+      "content_at": "2026-09-11T06:30:38.589392+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-11T06:30:38.589392+09:00",
+      "title": "OpenAIへの未発表数学研究の信頼性に疑問の声",
+      "summary": "未発表の数学的研究をOpenAIに預けることが、研究者にとって信頼に足る行為なのかという懸念が強まっている。",
+      "impact": "AI開発企業における知的財産の保護やセキュリティ基準について、より厳格なルール整備が求められるようになる可能性がある。",
+      "content_at": "2026-09-11T06:30:38.589392+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://gizmodo.com/this-nasa-color-trick-was-meant-for-mars-now-its-unveiling-rock-art-on-earth-2000809844",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-11T06:30:38.589392+09:00",
+      "title": "火星探査向けNASAの画像処理技術、地球の岩絵調査に応用",
+      "summary": "NASAが火星探査のために開発したカラー画像処理技術が、地球上の岩絵（ロックアート）の調査に活用されている。",
+      "impact": "宇宙開発技術が文化遺産の保護や考古学の研究において、新たな発見をもたらす可能性がある。",
+      "content_at": "2026-09-11T06:30:38.589392+09:00"
+    },
+    {
+      "image": "https://cdn.jim-nielsen.com/blog/2026/cables.jpg",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-11T06:30:38.589392+09:00",
+      "title": "ケーブルを詰め込んだ箱を捨てないで",
+      "summary": "手元にある大量のケーブルが入った箱を誰かに処分させないようにという助言。具体的な処分を促す動きに対する注意喚起である。",
+      "impact": "個人の不用品整理や断捨離の判断に対して、再利用の可能性を考慮するよう促す影響があると考えられる。",
+      "content_at": "2026-09-11T06:30:38.589392+09:00"
+    },
+    {
+      "image": "https://cdn.shopify.com/b/shopify-brochure2-assets/74f109ae9b0c3034a78a3b63294ae2e6.png",
+      "url": "https://shopify.engineering/back-to-native",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-11T06:30:38.589392+09:00",
+      "title": "ShopifyがReact Nativeからネイティブ開発へ移行",
+      "summary": "Shopifyがモバイルアプリ開発のコスト変化を受け、React NativeからSwiftおよびKotlinを用いたネイティブ開発へ移行することを明らかにした。コーディングエージェントの台頭が開発環境の決定に影響を与えている。",
+      "impact": "開発コストや効率化の観点から、他社においても開発プラットフォームの再評価が進む可能性がある。",
+      "content_at": "2026-09-11T06:30:38.589392+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://codeberg.org/forgejo/forgejo/src/branch/forgejo/release-notes-published/16.0.4.md",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-11T06:30:38.589392+09:00",
+      "title": "Forgejo バージョン16.0.3以下の深刻なRCE脆弱性",
+      "summary": "Forgejoのバージョン16.0.3以下において、深刻なリモートコード実行（RCE）の脆弱性が確認された。",
+      "impact": "当該バージョンを利用するシステムにおいて不正なコマンドが実行されるリスクがあるため、速やかなアップデートが必要となる。",
+      "content_at": "2026-09-11T06:30:38.589392+09:00"
+    }
+  ],
+  "updated_at": "2026-09-11T06:30:38.589392+09:00"
+}

@@ -2,39 +2,6 @@
   "date": "2026-09-10",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/66008aa8a95bba4f85939f60e9635f25e1ef571d/329_0_3000_2400/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/apple-product-showcase-ceo-john-ternus",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-10T06:30:39.722371+09:00",
-      "title": "Appleのジョン・ターナスCEOが年次イベントで初登壇",
-      "summary": "ジョン・ターナス氏が、時価総額4.5兆ドル企業のトップとして初めて主要イベントを主導した。同イベントにて、Apple初の折りたたみ式iPhoneを発表した。",
-      "impact": "Appleが折りたたみ式スマートフォン市場に参入することで、競合他社との競争が激化し、業界全体の技術トレンドに影響を与える可能性がある。",
-      "content_at": "2026-09-10T06:30:39.722371+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/7f38622dc6b1e72105ada3d0e78ad8a8946dc160/249_0_3156_2525/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/anthropic-researchers-ai-human-extinction",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-10T06:30:39.722371+09:00",
-      "title": "Anthropicの研究者がAIによる2030年の人類滅亡を警告",
-      "summary": "Anthropic社の元研究者が、規制がなければAIが人類を滅ぼす可能性があると業界の多くが懸念していると述べた。この研究者は、自身の懸念を理由に辞職している。",
-      "impact": "AI開発に対する安全性確保や法規制の強化を求める議論が、政府や国際機関において急速に高まる可能性がある。",
-      "content_at": "2026-09-10T06:30:39.722371+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/0e97a66ff2c2cfb9e057c48c443c5c93190ee9e8/0_0_6000_4800/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/09/ai-superintelligence-risks-warnings-scientists-politicians",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-10T06:30:39.722371+09:00",
-      "title": "専門家がAIによる今後10年以内の人類絶滅を警告",
-      "summary": "人工超知能の危険性に対する業界関係者からの警告が強まっている。これらの懸念を受け、AI開発の制限を求める圧力が一段と高まっている。",
-      "impact": "AIの技術的進歩がもたらすリスクに対して、社会的な警戒感が高まり、開発企業への監視体制や規制導入が進むとみられる。",
-      "content_at": "2026-09-10T06:30:39.722371+09:00"
-    },
-    {
       "image": "https://www.apple.com/v/iphone-duo/a/images/meta/iphone-duo_overview__bmsaaq50eyaa_og.png?202609071346",
       "url": "https://www.apple.com/iphone-duo/",
       "category": "海外IT",
