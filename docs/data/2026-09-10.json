@@ -154,7 +154,84 @@
       "summary": "38億パラメータのモデルを650億トークンを用いて学習し、0.384 COREの性能に到達させた。学習は43時間で完了し、総コストは998ドルであった。",
       "impact": "低コストでのLLM学習手法が確立されることで、小規模な組織や研究者でも高性能なモデルを開発しやすくなる可能性がある。",
       "content_at": "2026-09-10T13:30:41.915452+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/de993976d5cf433c665692fb79570e93c6c73828/875_399_5472_4378/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-10T21:30:42.904898+09:00",
+      "title": "OpenAIのAI制御リスク、削減の道筋立たずと理事会メンバーが懸念",
+      "summary": "米政府顧問でOpenAIの非営利財団に参加したポール・クリスティアーノ氏が、AI業界における壊滅的な制御喪失のリスクに警鐘を鳴らした。同氏は、OpenAIがこれらのリスクを低減する方針に沿っていないと指摘している。",
+      "impact": "AI開発の安全性に対する監視が強化される可能性がある。業界全体で技術的な安全性確保に向けた規制やガイドラインの策定が急がれると考えられる。",
+      "content_at": "2026-09-10T21:30:42.904898+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/1f7b16f7cb0cb041333ee55966a578d61421c820/1338_340_4309_3447/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-10T21:30:42.904898+09:00",
+      "title": "Pixel 11 Proレビュー：Googleの高性能カメラ搭載スマートフォン",
+      "summary": "Pixel 11 Proは、優れたバッテリー寿命と高速なパフォーマンス、高品質なソフトウェアを備えた小型スマートフォンである。カメラ性能も非常に高く、ユーザーによるカスタマイズが可能となっている。",
+      "impact": "高性能な小型スマートフォンの選択肢として市場で一定の評価を得るとみられる。スマートフォンのカメラ性能とカスタマイズ性の重要性が改めて注目される可能性がある。",
+      "content_at": "2026-09-10T21:30:42.904898+09:00"
+    },
+    {
+      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-10T21:30:42.904898+09:00",
+      "title": "Windows XPのユーザー画像選択アルゴリズムの仕組み",
+      "summary": "Windows XPで初期のユーザー画像が選ばれる仕組みは、実際にはランダムである。",
+      "impact": "当時のOSの仕様に関する雑学として認知されるにとどまり、現代のIT環境に与える実質的な影響はないと考えられる。",
+      "content_at": "2026-09-10T21:30:42.904898+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-10T21:30:42.904898+09:00",
+      "title": "日立、太陽光発電活用に適したCO2ヒートポンプ給湯機を発売",
+      "summary": "日立が、太陽光発電の余剰電力活用に適した料金プランに対応する制御機能を備えたCO2ヒートポンプ給湯機を発売した。",
+      "impact": "家庭における再生可能エネルギーの自家消費が促進され、電力コストの削減や環境負荷の低減に寄与する可能性がある。",
+      "content_at": "2026-09-10T21:30:42.904898+09:00"
+    },
+    {
+      "image": "https://honestlyranked.com/og-image.png",
+      "url": "https://honestlyranked.com/guides/streaming-price-increases/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-10T21:30:42.904898+09:00",
+      "title": "主要ストリーミングサービス9社のサブスクリプション料金が2021年比で年間702ドル上昇",
+      "summary": "同一のストリーミングサービス9社を契約した場合の年間コストが、2021年と比較して702ドル増加した。この数字は利用料金の値上げを反映している。",
+      "impact": "家計における固定費の負担感が増しており、今後、消費者が不要なサブスクリプションを見直す動きが強まる可能性がある。",
+      "content_at": "2026-09-10T21:30:42.904898+09:00"
+    },
+    {
+      "image": "https://stockfishchess.org/images/blog/sf19.webp",
+      "url": "https://stockfishchess.org/blog/2026/stockfish-19/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-10T21:30:42.904898+09:00",
+      "title": "チェスエンジン「Stockfish 19」リリース",
+      "summary": "ネットワークアーキテクチャのアップグレードやユニバーサルバイナリの採用により、Stockfish 19がリリースされた。前バージョンと比較して、より強力で軽量化され、実行が容易になっている。",
+      "impact": "チェスエンジンの性能向上により、競技レベルの解析やトレーニングの効率がさらに高まるとみられる。",
+      "content_at": "2026-09-10T21:30:42.904898+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/media/HR1UyHiaAAAtpqw?format=webp&amp;name=large",
+      "url": "https://twitter.com/deepseek_ai/status/2097930608790167907",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-10T21:30:42.904898+09:00",
+      "title": "AIモデル「DeepSeek-V4.1-Flash」発表",
+      "summary": "DeepSeek-V4.1-Flashは、同アーキテクチャファミリーの中で最も軽量なモデルとして導入された。本モデルはネイティブな視覚理解機能を備え、高速な推論と高いスループットを実現している。",
+      "impact": "より効率的なAIモデルの提供により、視覚処理を含むAIアプリケーションの開発速度や導入コストの最適化が進む可能性がある。",
+      "content_at": "2026-09-10T21:30:42.904898+09:00"
     }
   ],
-  "updated_at": "2026-09-10T13:30:41.915452+09:00"
+  "updated_at": "2026-09-10T21:30:42.904898+09:00"
 }
