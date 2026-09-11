@@ -77,7 +77,62 @@
       "summary": "Forgejoのバージョン16.0.3以下において、深刻なリモートコード実行（RCE）の脆弱性が確認された。",
       "impact": "当該バージョンを利用するシステムにおいて不正なコマンドが実行されるリスクがあるため、速やかなアップデートが必要となる。",
       "content_at": "2026-09-11T06:30:38.589392+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/669e81c2e20fc883dc97a399383133eda3d573e9/585_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-11T13:30:41.059989+09:00",
+      "title": "AnthropicがAIの生物兵器転用に関する報告書を公開",
+      "summary": "Anthropicは、悪意あるユーザーが同社のAIを生物兵器の製造に悪用しようとする動きに関する154ページの報告書を公開した。この報告は、元従業員が2030年までの人類滅亡リスクを懸念して退職した2日後に発表された。",
+      "impact": "AI技術の安全性が社会的にさらに厳しく問われるようになるとみられる。今後、AI開発における安全基準の強化や規制議論が加速する可能性がある。",
+      "content_at": "2026-09-11T13:30:41.059989+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/3d6259c7c4a22f7ecae82e1aef45d9bc1fff8bd3/147_152_2937_2350/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-researchers-warn-ai-musk",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-11T13:30:41.059989+09:00",
+      "title": "Anthropicの研究者がAIの脅威を警告する一方、イーロン・マスク氏は否定",
+      "summary": "Anthropicの内部関係者がAI技術の進歩による人類滅亡の可能性を懸念する一方で、イーロン・マスク氏をはじめとする一部からは、こうした警告を「心理工作」であると否定する声が上がっている。",
+      "impact": "AIの潜在的リスクに対する認識の乖離が浮き彫りになっており、今後AI開発の是非をめぐる議論がさらに複雑化する可能性がある。",
+      "content_at": "2026-09-11T13:30:41.059989+09:00"
+    },
+    {
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1789100694",
+      "url": "https://terrytao.wordpress.com/2026/09/07/finite-time-blowup-with-smooth-forcing-term-for-the-incompressible-porous-medium-boussinesq-and-incompressible-euler-equations/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-11T13:30:41.059989+09:00",
+      "title": "非圧縮性多孔質媒体における滑らかな強制項を伴う有限時間爆発",
+      "summary": "アルポゲ氏とバックマスター氏による、非圧縮性多孔質媒体に関する最新の研究が発表された。本研究は、グローバルな正則性問題という難題に対し、これまでの先行研究を基に発展させたものである。",
+      "impact": "数学や流体力学の専門領域における知見が蓄積されることで、関連する科学分野の理論的基盤が強化される可能性がある。",
+      "content_at": "2026-09-11T13:30:41.059989+09:00"
+    },
+    {
+      "image": "https://developers.openai.com/og/api/docs/guides/agents-api/overview.png",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-11T13:30:41.059989+09:00",
+      "title": "OpenAIが「OpenAI Agents API」を提供開始",
+      "summary": "OpenAIは、管理されたCodexハーネスを用いて、永続的なクラウドエージェントを構築できる「OpenAI Agents API」を発表した。",
+      "impact": "AIエージェントの開発と実装がより容易になるため、多様なクラウド業務の自動化や効率化がさらに進むとみられる。",
+      "content_at": "2026-09-11T13:30:41.059989+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://map-yue2.github.io/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-11T13:30:41.059989+09:00",
+      "title": "YuE2 · 象徴的計画を伴うフロンティア音楽",
+      "summary": "YuE2は象徴的計画を統合したフロンティア音楽技術である。",
+      "content_at": "2026-09-11T13:30:41.059989+09:00",
+      "impact": "音楽生成AIの計画的制御能力が向上し、より意図に近い楽曲制作が可能になる可能性がある。"
     }
   ],
-  "updated_at": "2026-09-11T06:30:38.589392+09:00"
+  "updated_at": "2026-09-11T13:30:41.059989+09:00"
 }
