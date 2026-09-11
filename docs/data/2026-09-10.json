@@ -101,28 +101,6 @@
       "content_at": "2026-09-10T13:30:41.915452+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/de993976d5cf433c665692fb79570e93c6c73828/875_399_5472_4378/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/openai-risk-catastrophic-loss-control-board-member-paul-christiano",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-10T21:30:42.904898+09:00",
-      "title": "OpenAIのAI制御リスク、削減の道筋立たずと理事会メンバーが懸念",
-      "summary": "米政府顧問でOpenAIの非営利財団に参加したポール・クリスティアーノ氏が、AI業界における壊滅的な制御喪失のリスクに警鐘を鳴らした。同氏は、OpenAIがこれらのリスクを低減する方針に沿っていないと指摘している。",
-      "impact": "AI開発の安全性に対する監視が強化される可能性がある。業界全体で技術的な安全性確保に向けた規制やガイドラインの策定が急がれると考えられる。",
-      "content_at": "2026-09-10T21:30:42.904898+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/1f7b16f7cb0cb041333ee55966a578d61421c820/1338_340_4309_3447/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/pixel-11-pro-review-googles-best-pocket-camera-goes-customisable",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-10T21:30:42.904898+09:00",
-      "title": "Pixel 11 Proレビュー：Googleの高性能カメラ搭載スマートフォン",
-      "summary": "Pixel 11 Proは、優れたバッテリー寿命と高速なパフォーマンス、高品質なソフトウェアを備えた小型スマートフォンである。カメラ性能も非常に高く、ユーザーによるカスタマイズが可能となっている。",
-      "impact": "高性能な小型スマートフォンの選択肢として市場で一定の評価を得るとみられる。スマートフォンのカメラ性能とカスタマイズ性の重要性が改めて注目される可能性がある。",
-      "content_at": "2026-09-10T21:30:42.904898+09:00"
-    },
-    {
       "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
       "url": "https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683",
       "category": "海外IT",

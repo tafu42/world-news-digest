@@ -132,7 +132,73 @@
       "summary": "YuE2は象徴的計画を統合したフロンティア音楽技術である。",
       "content_at": "2026-09-11T13:30:41.059989+09:00",
       "impact": "音楽生成AIの計画的制御能力が向上し、より意図に近い楽曲制作が可能になる可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/2b7a40c6cbcd6d16367850c23bef249a753aee37/458_0_4583_3668/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/09/lawmakers-blast-ai-human-extinct-2030",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-11T21:30:39.737983+09:00",
+      "title": "元Anthropic社員がAIによる人類滅亡の可能性を警告",
+      "summary": "元Anthropic社員のジェイコブ・コクソン氏は、AIが2030年までに人類を滅亡させる可能性がある超人的なシステムに進化すると警告した。これを受けて、議員たちがAI企業を厳しく批判している。",
+      "impact": "AI開発の安全性に対する監視が強まり、業界全体の規制強化や開発プロセスの透明性が求められる可能性がある。",
+      "content_at": "2026-09-11T21:30:39.737983+09:00"
+    },
+    {
+      "image": "https://www.researchagenda.news/assets/cards/the-waymo-effect-d66b2c0d.png",
+      "url": "https://www.researchagenda.news/articles/the-waymo-effect.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-11T21:30:39.737983+09:00",
+      "title": "AI技術が研究者の共同作業を減退させている可能性",
+      "summary": "摩擦のないAI技術の普及が、研究者が共同作業よりも単独で作業することを好むよう変容させている。研究リーダーたちは、このようなAIの影響に懸念を示すべきだとされている。",
+      "impact": "研究現場における対話や協力が減ることで、学術的な革新性や多角的な視点が失われる可能性がある。",
+      "content_at": "2026-09-11T21:30:39.737983+09:00"
+    },
+    {
+      "image": "https://quesma.com/_astro/rtk-terminal-bench-verdict-wide.Cx7zyGD2.png",
+      "url": "https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-11T21:30:39.737983+09:00",
+      "title": "RTKのトークン削減効果に関する検証結果",
+      "summary": "RTK（Rust Token Killer）を用いたClaude Codeと、DeepSeek V4 Proを用いたOpenCodeの性能をそれぞれ検証した。結果として、RTKが報告するトークン削減効果と、実際のコストベンチマークの間に乖離が見られた。",
+      "impact": "AI開発ツール導入時のコスト見積もりに不正確さが生じ、企業のIT投資計画や運用効率に影響を与える可能性がある。",
+      "content_at": "2026-09-11T21:30:39.737983+09:00"
+    },
+    {
+      "image": "",
+      "url": "http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-11T21:30:39.737983+09:00",
+      "title": "チェレンコフ放射と光速の関係",
+      "summary": "チェレンコフ放射について、光速を超えて移動するという現象の側面から言及されている。",
+      "impact": "物理学の基礎理論や光学技術における理解が深まる可能性がある。",
+      "content_at": "2026-09-11T21:30:39.737983+09:00"
+    },
+    {
+      "image": "https://downloads.intercomcdn.com/i/o/lupk8zyo/792494/717b10d3ebd874823db64841659b/76f3062d78ebbb04863fb1de3ef9cca0.png",
+      "url": "https://support.claude.com/en/articles/15171100-age-assurance-on-claude",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-11T21:30:39.737983+09:00",
+      "title": "Claudeが未成年者の利用不可に",
+      "summary": "Claudeは未成年者が利用できなくなった。",
+      "impact": "未成年者のユーザーは他のAIサービスへの移行を余儀なくされる可能性がある。",
+      "content_at": "2026-09-11T21:30:39.737983+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mmoustafa.com/blog/so-you-want-to-use-openrouter/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-11T21:30:39.737983+09:00",
+      "title": "OpenRouterの利用に関する課題",
+      "summary": "OpenRouterの利用は一見単純そうに見えるが、実際には困難が伴う。",
+      "impact": "開発者やユーザーがツールを選定する際、利便性だけでなく技術的な障壁を考慮する必要があると考えられる。",
+      "content_at": "2026-09-11T21:30:39.737983+09:00"
     }
   ],
-  "updated_at": "2026-09-11T13:30:41.059989+09:00"
+  "updated_at": "2026-09-11T21:30:39.737983+09:00"
 }
