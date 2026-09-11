@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-12",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/457439fd3342fac20dc0b800cae82ff0a0733388/1396_0_5400_4320/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/children-need-interaction-not-ai",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "AIではなく子供に必要なのは対話である",
+      "summary": "AIの活用を推奨するダニエル・サスキンド氏の記事に対し、ピル・コレクティブ氏、ガリア・コレクティブ氏、ジェーン・ローランド・マーティン氏らが意見を寄せた。AI活用ではなく、子供には人間同士の対話が必要であると指摘している。",
+      "impact": "育児におけるAIの利用方法について議論が深まる可能性がある。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/d9003420a1509918b6b6115818aaaae607ac0e1a/524_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "英国の議員らが超知能AIの禁止を求める",
+      "summary": "70人の議員らがアンソロピック社の従業員による人類滅亡の可能性に関する警告を受け、バーナム氏に対して超知能AIの禁止を支持するよう求めている。",
+      "impact": "政府によるAI規制の強化や、AI開発に関する安全基準の見直しが議論される可能性がある。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/80fefc5997cdeb0f175e64ff059a85515b70207a/233_0_3254_2604/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "自動運転車の普及に伴う雇用喪失に対し税金を課すべきとの提言",
+      "summary": "シンクタンクの報告書は、自動運転車が広く普及すれば数十万人の雇用が失われるリスクがあると指摘した。これに対処するため、自動運転車への課税を導入すべきだと提案している。",
+      "impact": "自動運転技術の導入が労働市場に与える負の影響を補填するための政策議論が活発化する可能性がある。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mathandai.org/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "数学におけるAIの不適合",
+      "summary": "数学という領域においてAIの活用に不適合が生じている点についての指摘である。",
+      "impact": "数学分野におけるAI活用の限界や課題についての理解が進む可能性がある。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://elevenmusic.io/blog/introducing-music-v2-5/.og-image.png",
+      "url": "https://elevenmusic.io/blog/introducing-music-v2-5",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "ElevenLabsが音楽生成モデル「Music v2.5」を発表",
+      "summary": "ElevenLabsは、従来よりも品質を向上させた音楽生成モデル「Music v2.5」を公開した。あわせて生成した音楽の利用範囲に関する規約も変更された。",
+      "impact": "AIによる音楽生成の品質が向上することで、クリエイティブなコンテンツ制作がさらに容易になると考えられる。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/8f0c4809e2c11bfed73cfc4c4e8d4260b6cea167ccc47bfdcf0c2ebd6b69acf2/GrapheneOS/Messaging/releases/tag/13",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "GrapheneOSがメッセージアプリを刷新しバージョン13をリリース",
+      "summary": "GrapheneOSはメッセージアプリのバージョン13をリリースした。Jetpack ComposeとMaterial 3を採用して画面を刷新し、大画面への対応や会話制御機能を追加した。",
+      "impact": "UI/UXの刷新により、特定のデバイス環境でのユーザビリティが向上するとみられる。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://cel.cs.brown.edu/assets/cel-spaced-BGjllCyA.webp",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "Async/Await設計に関する研究論文「A Design Space Exploration of Async/Await」",
+      "summary": "プログラミング言語における非同期処理「Async/Await」の設計上の意思決定について調査した論文が発表された。現代の主要なランタイム間で、非同期プログラムの挙動に一貫性がないことが指摘されている。",
+      "impact": "本論文の知見により、今後のプログラミング言語設計やランタイム開発における標準化議論が進展する可能性がある。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://dayzlegame.com/og.png",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "Googleアプリ広告費の60％がボットによる不正インストールと判明",
+      "summary": "Googleの広告でアプリを宣伝した際、インストール数の60％がボットによるものだったことが報告された。管理者画面上の数値と実際のインストール数に大きな乖離が見られた。",
+      "impact": "デジタル広告におけるボットによる広告詐欺が依然として大きな問題であり、広告主にとって費用対効果の適正化が喫緊の課題となる可能性がある。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/076871de9270f9ea9b7680e30d3ddf93a60dedac75238f4f9b72192698f44636/kennethwolters/litelm",
+      "url": "https://github.com/kennethwolters/litelm",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-12T06:30:40.592875+09:00",
+      "title": "軽量版LiteLLM「Litelm」が登場",
+      "summary": "GitHubで公開された「Litelm」は、LiteLLMから不要な機能を除いた軽量版ライブラリである。kennethwolters氏によって開発されている。",
+      "impact": "軽量化により、リソース制限のある環境下でのLLM利用が容易になる可能性がある。",
+      "content_at": "2026-09-12T06:30:40.592875+09:00"
+    }
+  ],
+  "updated_at": "2026-09-12T06:30:40.592875+09:00"
+}
