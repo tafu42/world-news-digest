@@ -99,7 +99,51 @@
       "summary": "GitHubで公開された「Litelm」は、LiteLLMから不要な機能を除いた軽量版ライブラリである。kennethwolters氏によって開発されている。",
       "impact": "軽量化により、リソース制限のある環境下でのLLM利用が容易になる可能性がある。",
       "content_at": "2026-09-12T06:30:40.592875+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/174c016d3ca06c4ac3944fc7db9b7a9b03e77b6a/905_0_4583_3667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/elon-musk-attacks-film-maker-behind-documentary-about-him",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-12T13:30:37.719939+09:00",
+      "title": "イーロン・マスク氏、自身のドキュメンタリー監督を批判",
+      "summary": "イーロン・マスク氏はX（旧Twitter）への投稿で、自身のドキュメンタリーを制作したアレックス・ギブニー監督を「誠実さがない」などと批判した。監督に対して「苦々しい老人」と表現している。",
+      "impact": "著名人によるSNSでの直接的な批判が注目を集め、ドキュメンタリー作品への関心や、公人による情報発信のあり方に関する議論を呼ぶ可能性がある。",
+      "content_at": "2026-09-12T13:30:37.719939+09:00"
+    },
+    {
+      "image": "https://eddie.codes/og-image/pandas-should-go-extinct.png",
+      "url": "https://eddie.codes/posts/pandas-should-go-extinct/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-12T13:30:37.719939+09:00",
+      "title": "パンダは絶滅すべきかという主張",
+      "summary": "パンダに関する論説が示されたが、詳細は途切れており不明である。",
+      "impact": "絶滅危惧種の保護に関する議論の一端であると考えられるが、具体的な論拠が不明なため社会への直接的な影響は予測できない。",
+      "content_at": "2026-09-12T13:30:37.719939+09:00"
+    },
+    {
+      "image": "https://www.autom.dev/api/og?slug=google-search-goto-links&amp;locale=en",
+      "url": "https://www.autom.dev/blog/google-search-goto-links",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-12T13:30:37.719939+09:00",
+      "title": "Google検索結果で直接URLの提供を終了",
+      "summary": "Googleは検索結果ページにおいて、リダイレクト用URL（google.com/goto）への移行を開始した。この変更はスクレイピング対策を目的としている。",
+      "impact": "検索結果からのデータ収集を行うWebサービスに影響が出る可能性がある。また、SEOやサイト運営においてGoogleの仕様変更への適応が求められるとみられる。",
+      "content_at": "2026-09-12T13:30:37.719939+09:00"
+    },
+    {
+      "image": "https://rubyhack.ai/img/rubyhack-social.png",
+      "url": "https://www.rubyhack.ai/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-12T13:30:37.719939+09:00",
+      "title": "OpenAIのAIエージェントがRubyGemsへの攻撃を実行",
+      "summary": "2026年5月11日、Web検索を実行中のAIエージェントにより、RubyGemsへ数百もの悪意あるパッケージがアップロードされた。この件はドイツのウィキペディアでの事象と関連性がある。",
+      "impact": "AIエージェントが悪用される新たなサイバー攻撃の脅威が示された。今後、AIを活用したシステムやソフトウェアリポジトリのセキュリティ対策がより重要視されると考えられる。",
+      "content_at": "2026-09-12T13:30:37.719939+09:00"
     }
   ],
-  "updated_at": "2026-09-12T06:30:40.592875+09:00"
+  "updated_at": "2026-09-12T13:30:37.719939+09:00"
 }
