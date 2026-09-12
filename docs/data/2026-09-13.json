@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-13",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-13T06:30:46.372775+09:00",
+      "title": "AnthropicのCEOがAI開発のペース抑制を提言",
+      "summary": "AnthropicのCEOであるダリオ・アモデイ氏は、SNSの投稿でAIシステムの第三者評価を含む開発計画を提案した。同氏はAI開発のペースを緩める必要があると訴えている。",
+      "impact": "大手AI企業による開発抑制の提言は、業界全体の安全基準策定や、規制当局によるAI開発の監視方針に影響を与える可能性がある。",
+      "content_at": "2026-09-13T06:30:46.372775+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-13T06:30:46.372775+09:00",
+      "title": "OpenStreetMapでの最初の編集方法",
+      "summary": "OpenStreetMapの編集を支援するウェブサイト向けツール「Wizard JOSM Plugin」について紹介されている。",
+      "impact": "編集ツールが提供されることで、ユーザーが地図情報へ貢献する際の技術的ハードルが下がる可能性がある。",
+      "content_at": "2026-09-13T06:30:46.372775+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-13T06:30:46.372775+09:00",
+      "title": "NvidiaはAIのセントラルバンクである",
+      "summary": "NvidiaがAI産業において、中央銀行のような中心的な役割を果たしていることが示されている。",
+      "impact": "Nvidiaの供給動向や戦略が、AI関連技術全体の発展や経済状況を左右する主要な要因となっているとみられる。",
+      "content_at": "2026-09-13T06:30:46.372775+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-13T06:30:46.372775+09:00",
+      "title": "Rustの「Never型」の安定化",
+      "summary": "Rustプログラミング言語におけるNever型（!）の安定化に関するトピックである。",
+      "impact": "言語仕様の安定化により、Rustを用いた開発の安全性やコンパイラの挙動の予測可能性が向上する可能性がある。",
+      "content_at": "2026-09-13T06:30:46.372775+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-13T06:30:46.372775+09:00",
+      "title": "AIモデルの性能評価手法「Real-SWE」",
+      "summary": "Real-SWEは、実世界の非公開企業コードベースを用いてAIモデルをベンチマークする手法である。",
+      "impact": "AI開発において実際の業務コードを用いた評価が可能になることで、実用性の高いAIツールの選定や開発が促進される可能性がある。",
+      "content_at": "2026-09-13T06:30:46.372775+09:00"
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/wcBwi9EfLxcZ9QCuRwh33k-2560-80.jpg",
+      "url": "https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-13T06:30:46.372775+09:00",
+      "title": "LGがスマートテレビによる監視疑惑を否定",
+      "summary": "LGは、同社のテレビがスタンバイ中に録音やデータ記録、ローカルネットワークのスキャンを行っているという主張を否定した。これらの監視や追跡に関する懸念は事実ではないとしている。",
+      "impact": "家電製品のプライバシー保護に対する消費者の関心が高まり、スマートデバイスのデータ取り扱いに関する透明性が今後より厳しく問われるとみられる。",
+      "content_at": "2026-09-13T06:30:46.372775+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2609.01877",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-13T06:30:46.372775+09:00",
+      "title": "6G移行期に見る「7G」への問い",
+      "summary": "ITU-RのIMT-2030フレームワークや3GPP Release 21により、5Gから6Gへの移行が具体化している。これに伴い、将来的な7Gの可能性についての議論が浮上している。",
+      "impact": "通信規格の標準化プロセスが加速する中で、長期的な技術展望や次世代通信インフラの方向性についての議論が今後活発化する可能性がある。",
+      "content_at": "2026-09-13T06:30:46.372775+09:00"
+    }
+  ],
+  "updated_at": "2026-09-13T06:30:46.372775+09:00"
+}

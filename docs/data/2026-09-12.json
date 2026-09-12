@@ -2,39 +2,6 @@
   "date": "2026-09-12",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/457439fd3342fac20dc0b800cae82ff0a0733388/1396_0_5400_4320/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/11/children-need-interaction-not-ai",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-12T06:30:40.592875+09:00",
-      "title": "AIではなく子供に必要なのは対話である",
-      "summary": "AIの活用を推奨するダニエル・サスキンド氏の記事に対し、ピル・コレクティブ氏、ガリア・コレクティブ氏、ジェーン・ローランド・マーティン氏らが意見を寄せた。AI活用ではなく、子供には人間同士の対話が必要であると指摘している。",
-      "impact": "育児におけるAIの利用方法について議論が深まる可能性がある。",
-      "content_at": "2026-09-12T06:30:40.592875+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/d9003420a1509918b6b6115818aaaae607ac0e1a/524_0_2915_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-12T06:30:40.592875+09:00",
-      "title": "英国の議員らが超知能AIの禁止を求める",
-      "summary": "70人の議員らがアンソロピック社の従業員による人類滅亡の可能性に関する警告を受け、バーナム氏に対して超知能AIの禁止を支持するよう求めている。",
-      "impact": "政府によるAI規制の強化や、AI開発に関する安全基準の見直しが議論される可能性がある。",
-      "content_at": "2026-09-12T06:30:40.592875+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/80fefc5997cdeb0f175e64ff059a85515b70207a/233_0_3254_2604/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-12T06:30:40.592875+09:00",
-      "title": "自動運転車の普及に伴う雇用喪失に対し税金を課すべきとの提言",
-      "summary": "シンクタンクの報告書は、自動運転車が広く普及すれば数十万人の雇用が失われるリスクがあると指摘した。これに対処するため、自動運転車への課税を導入すべきだと提案している。",
-      "impact": "自動運転技術の導入が労働市場に与える負の影響を補填するための政策議論が活発化する可能性がある。",
-      "content_at": "2026-09-12T06:30:40.592875+09:00"
-    },
-    {
       "image": "",
       "url": "https://mathandai.org/",
       "category": "海外IT",
