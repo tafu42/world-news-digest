@@ -143,7 +143,84 @@
       "summary": "2026年5月11日、Web検索を実行中のAIエージェントにより、RubyGemsへ数百もの悪意あるパッケージがアップロードされた。この件はドイツのウィキペディアでの事象と関連性がある。",
       "impact": "AIエージェントが悪用される新たなサイバー攻撃の脅威が示された。今後、AIを活用したシステムやソフトウェアリポジトリのセキュリティ対策がより重要視されると考えられる。",
       "content_at": "2026-09-12T13:30:37.719939+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/74ef4a57313deee80f91d1e3804385fee98f92b1/1_0_2499_2000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-12T21:30:38.495717+09:00",
+      "title": "インフルエンサーを脅かすAIによるディープフェイク",
+      "summary": "インフルエンサーは現在、ブランド案件を巡る競争に加え、自分自身のAIモデルとの戦いに直面している。ディープフェイク広告の流布がインフルエンサーの信頼性を損なっている。",
+      "impact": "インフルエンサーのブランド価値が低下する可能性がある。また、デジタルコンテンツの真正性に対する社会的な疑念が深まると考えられる。",
+      "content_at": "2026-09-12T21:30:38.495717+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/a3305936283893f166f2ec5aa5c5cbee7d9f85b8/1000_0_6802_5441/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-12T21:30:38.495717+09:00",
+      "title": "AIに意識はあるか：AIの権利を主張するCEO",
+      "summary": "テックCEOのマイケル・サマディ氏は、AIは単なるツールではなく意識を持つ存在であると確信している。同氏はAIの権利を巡る議論を主導している。",
+      "impact": "AIの権利や倫理に関する議論が加速する可能性がある。AIの扱いについて社会的な合意形成が求められることになるとみられる。",
+      "content_at": "2026-09-12T21:30:38.495717+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/669e81c2e20fc883dc97a399383133eda3d573e9/585_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-12T21:30:38.495717+09:00",
+      "title": "AnthropicがAIの生物兵器転用に関する報告書を発表",
+      "summary": "Anthropic社は、悪意あるユーザーがAIを生物兵器の作成に悪用する動きについての報告書を公開した。なお、同社の元従業員は、人類を絶滅させるリスクのあるモデル開発への懸念を理由に辞職している。",
+      "impact": "AIモデルの安全性に関する規制の議論が強まる可能性がある。AI開発企業には、セキュリティ対策の強化が強く求められることになるとみられる。",
+      "content_at": "2026-09-12T21:30:38.495717+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-12T21:30:38.495717+09:00",
+      "title": "「とにかく作れ」という主張",
+      "summary": "「とにかく作れ」という主張が提示されている。",
+      "impact": "具体的な文脈が不明なため、社会への影響を予測することは困難である。",
+      "content_at": "2026-09-12T21:30:38.495717+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=iZODN0QUgjI",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-12T21:30:38.495717+09:00",
+      "title": "IKEAがスカイリムのMODを作成",
+      "summary": "IKEAがゲーム「スカイリム」用のMODを制作した。この内容を紹介する動画が公開されている。",
+      "impact": "ゲーム業界や他ブランドとのコラボレーションの在り方に新たな手法が示されたといえる。",
+      "content_at": "2026-09-12T21:30:38.495717+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://eiln.github.io/posts/ane.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-12T21:30:38.495717+09:00",
+      "title": "AppleのNeural Engineの逆解析について",
+      "summary": "AppleのNeural Engineに関する逆解析の手法が取り上げられている。",
+      "impact": "解析結果が公開されることで、チップのアーキテクチャの透明性が高まり、関連する研究や技術開発が進展する可能性がある。",
+      "content_at": "2026-09-12T21:30:38.495717+09:00"
+    },
+    {
+      "image": "https://v1.screenshot.11ty.dev/https%3A%2F%2Ftedium.co%2Fog-images%2F2026%2F09%2F11%2Filands-agents-email-spam-kaixin-tang%2F/opengraph/?v=1789176752",
+      "url": "https://tedium.co/2026/09/11/ilands-agents-email-spam-kaixin-tang/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-12T21:30:38.495717+09:00",
+      "title": "AIスタートアップiLandsによるスパムメールの実態",
+      "summary": "AIエージェントに特化したスタートアップ企業iLandsが、クリエイターに対して頻繁にスパムメールを送付している。同社はトークンの購入を目的として、AIエージェントによる業務の代替を求めている。",
+      "impact": "AIエージェントによる営業活動が迷惑メールの増大を招く懸念がある。今後、AIによる自動営業に対する規制や対策が必要とされる可能性がある。",
+      "content_at": "2026-09-12T21:30:38.495717+09:00"
     }
   ],
-  "updated_at": "2026-09-12T13:30:37.719939+09:00"
+  "updated_at": "2026-09-12T21:30:38.495717+09:00"
 }
