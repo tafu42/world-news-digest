@@ -143,7 +143,90 @@
       "summary": "自分以外の全員がAI開発を減速させるべきであるという見解が示された。",
       "impact": "特定の人物による主観的な主張であり、AI開発競争や規制に関する議論が今後も多様な視点で継続する可能性がある。",
       "content_at": "2026-09-13T13:30:55.267439+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/01c351968f715ec078507abfe5cf6e40bebbbc09/0_414_1847_1478/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/13/ai-will-transform-capitalism-but-how",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-13T21:30:39.784251+09:00",
+      "title": "AIが変革する資本主義の行方",
+      "summary": "AI技術は経済を劇的に再構築しようとしている。どのような経済の姿にするかは人間の選択に委ねられている。",
+      "impact": "今後、AIの活用方針を巡る議論が経済政策の重要な争点になると考えられる。",
+      "content_at": "2026-09-13T21:30:39.784251+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/70dbb4262916eead9da77f8b2300d454973b5f05/727_0_7200_5760/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/13/ai-bootcamps-uk-youth-unemployment-neets-preston",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-13T21:30:39.784251+09:00",
+      "title": "英若年層の失業問題に取り組むAIブートキャンプ",
+      "summary": "英国プレストンで、仕事や教育に就いていない若年層（NEET）を対象とした3週間のAIブートキャンプ試験プロジェクトが開始された。修了後には見習い契約の機会が提供される。",
+      "impact": "同様のプログラムが普及することで、若年層のスキルアップと就職支援が促進される可能性がある。",
+      "content_at": "2026-09-13T21:30:39.784251+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/86fa76375f3b6cd9ba53ab4428b02da92ec7ed92/0_0_3569_2854/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/13/afd-germany-elon-musk",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-13T21:30:39.784251+09:00",
+      "title": "ドイツAfDの選挙勝利とイーロン・マスクの反応",
+      "summary": "ドイツの選挙でAfDが衝撃的な勝利を収め、イーロン・マスクがこれに歓喜した。マスクとAfDは、ドイツと米国で極右的思想を拡散するために相互補完的な関係を築いている。",
+      "impact": "SNSを通じた政治的影響力の行使が、ドイツと米国の世論形成にさらなる影響を及ぼすとみられる。",
+      "content_at": "2026-09-13T21:30:39.784251+09:00"
+    },
+    {
+      "image": "https://jetkvm.com/blog/jetkvm-mini/og-v2.jpg",
+      "url": "https://jetkvm.com/blog/introducing-jetkvm-mini",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-13T21:30:39.784251+09:00",
+      "title": "新しい「JetKVM Mini」の登場",
+      "summary": "有線・無線対応の「JetKVM Mini」が33ドルから提供される。本製品は新しいオープンソースファームウェアを搭載し、従来のウェブインターフェースを維持している。",
+      "impact": "安価でオープンソースベースのハードウェアが登場することで、同様の技術を採用する競合製品の価格設定や開発方針に影響を与える可能性がある。",
+      "content_at": "2026-09-13T21:30:39.784251+09:00"
+    },
+    {
+      "en_title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "en_text": "drupal-media[data-view-mode=half_page_width] { display: inline-block; width: 50%; } It is thought the Sun may have engulfed a super-Earth-sized planet early\nin its h...",
+      "image": "https://ras.ac.uk/sites/default/files/2026-09/star_swallowing_a_planet.png",
+      "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-13T21:30:39.784251+09:00",
+      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
+      "summary": "drupal-media[data-view-mode=half_page_width] { display: inline-block; width: 50%; } It is thought the Sun may have engul",
+      "content_at": "2026-09-13T21:30:39.784251+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Why are AI agents lying, cheating and coordinating?",
+      "en_text": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
+      "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
+      "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-13T21:30:39.784251+09:00",
+      "title": "Why are AI agents lying, cheating and coordinating?",
+      "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They to",
+      "content_at": "2026-09-13T21:30:39.784251+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "en_text": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "image": "",
+      "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-13T21:30:39.784251+09:00",
+      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "summary": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
+      "content_at": "2026-09-13T21:30:39.784251+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-09-13T13:30:55.267439+09:00"
+  "updated_at": "2026-09-13T21:30:39.784251+09:00"
 }

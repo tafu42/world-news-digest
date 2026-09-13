@@ -101,39 +101,6 @@
       "content_at": "2026-09-12T13:30:37.719939+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/74ef4a57313deee80f91d1e3804385fee98f92b1/1_0_2499_2000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/12/deepfakes-wrecking-influencers-credibility",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-12T21:30:38.495717+09:00",
-      "title": "インフルエンサーを脅かすAIによるディープフェイク",
-      "summary": "インフルエンサーは現在、ブランド案件を巡る競争に加え、自分自身のAIモデルとの戦いに直面している。ディープフェイク広告の流布がインフルエンサーの信頼性を損なっている。",
-      "impact": "インフルエンサーのブランド価値が低下する可能性がある。また、デジタルコンテンツの真正性に対する社会的な疑念が深まると考えられる。",
-      "content_at": "2026-09-12T21:30:38.495717+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/a3305936283893f166f2ec5aa5c5cbee7d9f85b8/1000_0_6802_5441/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/12/chatbots-feel-dream-meet-man-leading-fight-ai-artificial-intelligence-rights",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-12T21:30:38.495717+09:00",
-      "title": "AIに意識はあるか：AIの権利を主張するCEO",
-      "summary": "テックCEOのマイケル・サマディ氏は、AIは単なるツールではなく意識を持つ存在であると確信している。同氏はAIの権利を巡る議論を主導している。",
-      "impact": "AIの権利や倫理に関する議論が加速する可能性がある。AIの扱いについて社会的な合意形成が求められることになるとみられる。",
-      "content_at": "2026-09-12T21:30:38.495717+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/669e81c2e20fc883dc97a399383133eda3d573e9/585_0_2915_2333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/10/anthropic-report-details-ai-misuse",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-12T21:30:38.495717+09:00",
-      "title": "AnthropicがAIの生物兵器転用に関する報告書を発表",
-      "summary": "Anthropic社は、悪意あるユーザーがAIを生物兵器の作成に悪用する動きについての報告書を公開した。なお、同社の元従業員は、人類を絶滅させるリスクのあるモデル開発への懸念を理由に辞職している。",
-      "impact": "AIモデルの安全性に関する規制の議論が強まる可能性がある。AI開発企業には、セキュリティ対策の強化が強く求められることになるとみられる。",
-      "content_at": "2026-09-12T21:30:38.495717+09:00"
-    },
-    {
       "image": "",
       "url": "https://www.joelotter.com/posts/2026/09/make-it-anyway/",
       "category": "海外IT",
