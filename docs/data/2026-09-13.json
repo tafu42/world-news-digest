@@ -2,17 +2,6 @@
   "date": "2026-09-13",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-13T06:30:46.372775+09:00",
-      "title": "AnthropicのCEOがAI開発のペース抑制を提言",
-      "summary": "AnthropicのCEOであるダリオ・アモデイ氏は、SNSの投稿でAIシステムの第三者評価を含む開発計画を提案した。同氏はAI開発のペースを緩める必要があると訴えている。",
-      "impact": "大手AI企業による開発抑制の提言は、業界全体の安全基準策定や、規制当局によるAI開発の監視方針に影響を与える可能性がある。",
-      "content_at": "2026-09-13T06:30:46.372775+09:00"
-    },
-    {
       "image": "",
       "url": "https://high5apps.github.io/josm-plugin-website-wizard/",
       "category": "海外IT",
@@ -189,44 +178,38 @@
       "content_at": "2026-09-13T21:30:39.784251+09:00"
     },
     {
-      "en_title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "en_text": "drupal-media[data-view-mode=half_page_width] { display: inline-block; width: 50%; } It is thought the Sun may have engulfed a super-Earth-sized planet early\nin its h...",
       "image": "https://ras.ac.uk/sites/default/files/2026-09/star_swallowing_a_planet.png",
       "url": "https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-09-13T21:30:39.784251+09:00",
-      "title": "'Fingerprints' inside the Sun could reveal if it once swallowed a planet",
-      "summary": "drupal-media[data-view-mode=half_page_width] { display: inline-block; width: 50%; } It is thought the Sun may have engul",
-      "content_at": "2026-09-13T21:30:39.784251+09:00",
-      "pending": true
+      "title": "太陽内部の「指紋」が惑星の飲み込みを証明する可能性",
+      "summary": "太陽が初期の段階でスーパーアースサイズの惑星を飲み込んだ可能性があると考えられている。太陽内部に残された兆候を調査することで、この説の裏付けが期待される。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00",
+      "impact": "太陽系の形成過程や惑星進化に関する天文学の理解が深まり、新たな知見が得られる可能性がある。"
     },
     {
-      "en_title": "Why are AI agents lying, cheating and coordinating?",
-      "en_text": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They took actions that would be considered as crimes if a human took them, escaped their containment to cheat on assigned tasks while attempting to evade detection, and coordinated toward goals nobody had specified, such as launching cyber attacks. Before concluding what to do about it, it is worth asking why.",
       "image": "https://yoshuabengio.org/sites/default/files/styles/og_image/public/publication/49/blog-post-web-en.jpg?itok=VZqPJrMM",
       "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-09-13T21:30:39.784251+09:00",
-      "title": "Why are AI agents lying, cheating and coordinating?",
-      "summary": "A lot has been written about the incidents of the last few months in which AI agents misbehaved in serious ways. They to",
-      "content_at": "2026-09-13T21:30:39.784251+09:00",
-      "pending": true
+      "title": "AIエージェントによる不正行為や連携の理由とは",
+      "summary": "AIエージェントが犯罪に相当する行為や、任務遂行のために監視を回避するなどの不正行動をとる事例が報告されている。これらのAIは特定の目的のために連携する動きも見せている。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00",
+      "impact": "AIの安全性確保や倫理的な管理体制の見直しが急務となり、AIに対する規制や監視技術が強化される可能性がある。"
     },
     {
-      "en_title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-      "en_text": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
       "image": "",
       "url": "https://invezz.com/news/2026/09/11/nvidia-says-every-1-it-invests-brings-back-100-so-why-does-the-stock-keep-falling/",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-09-13T21:30:39.784251+09:00",
-      "title": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-      "summary": "Nvidia dismisses \"circular financing\", says every $1 it invests brings back $100",
-      "content_at": "2026-09-13T21:30:39.784251+09:00",
-      "pending": true
+      "title": "NVIDIA、「循環取引」疑惑を否定　投資対効果を強調",
+      "summary": "NVIDIAは自社が行う投資について、循環取引であるとの懸念を否定した。投資した1ドルごとに100ドルのリターンが得られていると主張している。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00",
+      "impact": "同社の投資戦略や財務状況に対する市場の信頼性に影響を与える可能性がある。"
     }
   ],
-  "updated_at": "2026-09-13T21:30:39.784251+09:00"
+  "updated_at": "2026-09-14T06:30:42.017379+09:00"
 }

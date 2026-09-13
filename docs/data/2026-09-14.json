@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-14",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/a4fc80e643187b6b66f98b0e0f64193afdc28f1e/428_0_3331_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "AIの安全強化策に対する批判の声",
+      "summary": "Anthropic社のCEOによるAI開発の安全性を高める計画に対し、トランプ政権の関係者やAI専門家から否定的な反応が出ている。批評家は、この動きを遅すぎるとし、懐疑的な見方を示している。",
+      "impact": "AI開発の規制や安全性確保に向けた業界の取り組みに対する信頼性が揺らぐ可能性がある。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/8fe0ada1bfe4cd865ed9fad2ef90f4d8a7e96a11/500_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "AI開発の減速を求める声に高まる賛同",
+      "summary": "Anthropic社のCEOやAI研究者による安全性への警告を受け、OpenAIのCEOやイーロン・マスク氏らがAI開発の減速を求める動きに加わった。競合する開発者同士が結束を示す珍しい事態となっている。",
+      "impact": "主要なAI開発企業間で安全性を重視する方向へ方針が転換される可能性がある。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp",
+      "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "Googleの不適切な広告配信への疑問",
+      "summary": "筆者がYouTube上でiOSの偽警告を表示する不審な広告をクリックし、Googleに報告したが問題なしと判断された。一方で、GoogleのAIであるGeminiは、その広告をすぐに不正な設計と指摘した。",
+      "impact": "Googleの広告審査体制の不備が改めて指摘されており、ユーザーのセキュリティに対する懸念が高まる可能性がある。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/media/HSHoUQnawAAiEMn?format=webp&amp;name=large",
+      "url": "https://twitter.com/TechEmails/status/2099214399840059428",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "マーク・ザッカーバーグとケンブリッジ・アナリティカ事件",
+      "summary": "2017年1月30日、マーク・ザッカーバーグ氏とケンブリッジ・アナリティカに関連する言及がなされた。",
+      "impact": "当時の出来事に関する記録であり、現時点での直接的な社会への影響は限定的とみられる。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "/assets/images/julia-open-graph.png",
+      "url": "https://julialang.org/blog/2026/09/julia-1.13-highlights/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "Julia 1.13のハイライト",
+      "summary": "Julia 1.13リリースの主な注目点を紹介している。",
+      "impact": "開発者が新しいプログラミング言語の仕様や機能変更を把握し、既存コードの最適化や移行を検討するきっかけになると考えられる。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "2025年のアライメント評価の簡易版に依然として取り組むAstraとFable",
+      "summary": "AstraとFableが2025年のアライメント評価における単純なバリエーションに対して依然としてハックを行っている。",
+      "impact": "AIのアライメント評価手法の信頼性や、関連する技術開発の方向性に影響を与える可能性がある。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pages.cs.wisc.edu/~plonka/netgear-sntp/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "不具合のあるルーターがウィスコンシン大学のインターネット時刻同期サーバーに負荷（2003年）",
+      "summary": "2003年、不具合を抱えたルーター群がウィスコンシン大学のインターネット時刻同期サーバーに対して過剰なアクセスを行った。",
+      "impact": "ネットワーク機器の不具合がインフラサービスに対して予期せぬ過負荷を与えるリスクを示す事例として、現在もシステム設計の教訓となっていると考えられる。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "https://singjupost.com/wp-content/uploads/2026/05/StarTalk-Podcast-There-Is-No-AI-Really-Its-Just-People-with-Jaron-Lanier.jpg",
+      "url": "https://singjupost.com/startalk-there-is-no-ai-really-its-just-people-w-jaron-lanier-transcript/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-14T06:30:42.017379+09:00",
+      "title": "ジャロン・ラニエーと語る「AIなど存在しない（それはただの人間だ）」",
+      "summary": "StarTalkの特別編において、ホストのニール・ドグラース・タイソンらがコンピュータ科学者のジャロン・ラニエーを迎え、AIについて議論を行っている。",
+      "impact": "AIという技術の背後にある人間活動の役割について、リスナーが新たな視点を持つきっかけになる可能性がある。",
+      "content_at": "2026-09-14T06:30:42.017379+09:00"
+    }
+  ],
+  "updated_at": "2026-09-14T06:30:42.017379+09:00"
+}
