@@ -77,7 +77,73 @@
       "summary": "ITU-RのIMT-2030フレームワークや3GPP Release 21により、5Gから6Gへの移行が具体化している。これに伴い、将来的な7Gの可能性についての議論が浮上している。",
       "impact": "通信規格の標準化プロセスが加速する中で、長期的な技術展望や次世代通信インフラの方向性についての議論が今後活発化する可能性がある。",
       "content_at": "2026-09-13T06:30:46.372775+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/457439fd3342fac20dc0b800cae82ff0a0733388/1396_0_5400_4320/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/children-need-interaction-not-ai",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-13T13:30:55.267439+09:00",
+      "title": "子供に必要なのはAIではなく対人交流",
+      "summary": "ピル＆ガリア・コレクティヴとジェーン・ローランド・マーティンが、親のテクノロジー活用に関するダニエル・サスキンドの記事に寄稿した。記事の是非について意見を表明している。",
+      "impact": "デジタル機器が教育に与える影響について、議論を深める可能性がある。",
+      "content_at": "2026-09-13T13:30:55.267439+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/d9003420a1509918b6b6115818aaaae607ac0e1a/524_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/mps-urge-andy-burnham-block-artificial-superintelligence-asi",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-13T13:30:55.267439+09:00",
+      "title": "英議員ら、超知能AIの禁止を支持するようバーナム氏に要請",
+      "summary": "Anthropic社の従業員がAI技術の脅威を警告したことを受け、70人の議員や貴族がバーナム氏への書簡を送付した。彼らは超知能AIの禁止を求めている。",
+      "impact": "AIの安全性に対する法規制の議論が、英国で加速する可能性がある。",
+      "content_at": "2026-09-13T13:30:55.267439+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/80fefc5997cdeb0f175e64ff059a85515b70207a/233_0_3254_2604/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/11/self-driving-cars-should-be-taxed-to-offset-job-losses-thinktank-urges",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-13T13:30:55.267439+09:00",
+      "title": "自動運転車の普及に伴う雇用喪失を補うため課税を検討すべきとの提言",
+      "summary": "シンクタンクの報告書によると、自動運転車の普及により、数十万人規模の雇用が失われるリスクがある。この雇用喪失を補填するために課税を行うべきだと提言した。",
+      "impact": "自動運転技術の導入が経済的および社会的な雇用問題として注目され、関連する政策論議を呼ぶ可能性がある。",
+      "content_at": "2026-09-13T13:30:55.267439+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://icm.museum/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-13T13:30:55.267439+09:00",
+      "title": "暫定コンピュータ博物館",
+      "summary": "暫定コンピュータ博物館について言及されている。",
+      "impact": "影響は不明である。",
+      "content_at": "2026-09-13T13:30:55.267439+09:00"
+    },
+    {
+      "image": "https://dunstanorchard.com/apple-ipod-engraver/og.jpg",
+      "url": "https://dunstanorchard.com/apple-ipod-engraver/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-13T13:30:55.267439+09:00",
+      "title": "Apple iPod刻印ページ（2019年）",
+      "summary": "AppleのオンラインストアにおけるiPod刻印ページを作成した。",
+      "impact": "オンラインストアのカスタマイズ機能に関する限定的な更新であり、社会全体への影響は特段ないと考えられる。",
+      "content_at": "2026-09-13T13:30:55.267439+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-13T13:30:55.267439+09:00",
+      "title": "自分以外はAI開発を減速させるべきという主張",
+      "summary": "自分以外の全員がAI開発を減速させるべきであるという見解が示された。",
+      "impact": "特定の人物による主観的な主張であり、AI開発競争や規制に関する議論が今後も多様な視点で継続する可能性がある。",
+      "content_at": "2026-09-13T13:30:55.267439+09:00"
     }
   ],
-  "updated_at": "2026-09-13T06:30:46.372775+09:00"
+  "updated_at": "2026-09-13T13:30:55.267439+09:00"
 }
