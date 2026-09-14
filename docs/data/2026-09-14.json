@@ -88,7 +88,62 @@
       "summary": "StarTalkの特別編において、ホストのニール・ドグラース・タイソンらがコンピュータ科学者のジャロン・ラニエーを迎え、AIについて議論を行っている。",
       "impact": "AIという技術の背後にある人間活動の役割について、リスナーが新たな視点を持つきっかけになる可能性がある。",
       "content_at": "2026-09-14T06:30:42.017379+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/12/we-must-slow-the-pace-ceo-of-anthropic-calls-for-an-ai-slowdown",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-14T13:30:41.609185+09:00",
+      "title": "Anthropic社CEOがAI開発のペースを落とすよう提言",
+      "summary": "AnthropicのCEOであるダリオ・アモデイ氏が、AIシステムに対する第三者評価を含む開発減速の計画をSNSに投稿した。AIの安全性に対する懸念が示されたものとみられる。",
+      "impact": "AI業界における開発スピードの競争に一石を投じ、AIの安全性確保や規制に関する議論が今後加速する可能性がある。",
+      "content_at": "2026-09-14T13:30:41.609185+09:00"
+    },
+    {
+      "image": "https://www.vals.ai/og.jpg",
+      "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-14T13:30:41.609185+09:00",
+      "title": "Fable 5.1が370年来の暗号「Cyphral Distich」を解読",
+      "summary": "Fable 5.1が370年間未解読であった「Cyphral Distich」を解決した。本システムは法務、税務、金融の専門分野に特化したベンチマークを備えている。",
+      "impact": "専門的な文書解析や歴史的暗号解読の分野において、AI技術が新たな可能性をもたらすと期待される。",
+      "content_at": "2026-09-14T13:30:41.609185+09:00"
+    },
+    {
+      "image": "https://spaceships.treybastian.com/og.png",
+      "url": "https://spaceships.treybastian.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-14T13:30:41.609185+09:00",
+      "title": "逆アステロイドゲーム「Spaceships」の概要",
+      "summary": "重力井戸を配置して岩石を飛ばす「Spaceships」というゲームが紹介された。プレイヤーは宇宙船を操作するのではなく、岩石を操る仕組みである。",
+      "impact": "斬新なゲームプレイを提供することで、特定の層に新たな娯楽体験をもたらすとみられる。",
+      "content_at": "2026-09-14T13:30:41.609185+09:00"
+    },
+    {
+      "image": "https://community.signalusers.org/uploads/db3609/original/3X/2/a/2aae74b9e7c4af45dfcd09cfa6e9c90fb3b7534c.png",
+      "url": "https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-14T13:30:41.609185+09:00",
+      "title": "Signalにおける電話番号不要の登録とゼロ知識証明の活用",
+      "summary": "Signalは電話番号を使わない登録手段としてゼロ知識証明を採用した。この技術は寄付バッジやグループ機能にも利用されており、特定の個人を紐付けることはできない仕組みである。",
+      "impact": "プライバシー保護の技術的信頼性が向上し、オンライン上の匿名性と安全性を重視するユーザーの拡大につながる可能性がある。",
+      "content_at": "2026-09-14T13:30:41.609185+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!pdpS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F53e3cead-b3c3-4fba-8503-c5a599d5fb01_3182x1790.png",
+      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-14T13:30:41.609185+09:00",
+      "title": "オープンソースAIとオープンモデルに関する文献リスト",
+      "summary": "オープンモデルの概要やその影響について理解を深めるための学習リソースが紹介されている。これらを学ぶことで、当該分野に関する知識を習得できる。",
+      "impact": "オープンソースAIに関する情報が整理されることで、技術者や研究者が効率的に学習できるようになり、オープンモデルの理解と活用が進む可能性がある。",
+      "content_at": "2026-09-14T13:30:41.609185+09:00"
     }
   ],
-  "updated_at": "2026-09-14T06:30:42.017379+09:00"
+  "updated_at": "2026-09-14T13:30:41.609185+09:00"
 }
