@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-15",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/9bbe355703cc6582b5706d62aed9afb01a1e0061/89_0_4604_3681/500.jpg",
+      "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "AI関連株が下落、トランプ氏はAI規制を批判",
+      "summary": "AI開発の減速を求める声が上がる中でAI関連株が下落した。トランプ氏はAIの規制強化の動きを「病的な陰謀」と退けた。",
+      "impact": "政治家の発言が市場の不確実性を高め、AI関連銘柄の変動が激しくなる可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/221847ebaf0cc8dedc211ee121968b599ff59096/102_0_6066_4853/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "欧州は独自のAI構築が必要とECB総裁が主張",
+      "summary": "欧州中央銀行のラガルド総裁は、欧州が独自のAIを構築しなければ米国や中国に遮断されるリスクがあると述べた。AIへの依存は貿易相手国に交渉上の優位性を与える可能性があると指摘している。",
+      "impact": "欧州のAI自主開発が進むことで、グローバルな技術覇権争いや貿易交渉のあり方が変化する可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/8ff2395b10e84f4c4b4b70ae9451952885748598/254_0_4001_3200/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/14/microsoft-ai-code-of-conduct",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "マイクロソフトがAI行動規範を発表",
+      "summary": "マイクロソフトはAIの安全性に関する議論の中で、同社のAIに対する制限を提案する行動規範を発表した。AIは人間を補佐し、人間に奉仕するものであるべきだとしている。",
+      "impact": "大手テック企業による自主的なガイドライン策定が、AI開発の安全性基準に関する業界標準を形成する可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "Amazon.com Services, LLC対Perplexity AI, INC.訴訟",
+      "summary": "第9巡回区控訴裁判所におけるAmazon.com Services, LLCとPerplexity AI, INC.の訴訟記録である。",
+      "impact": "裁判の判決次第で、検索AIとコンテンツ提供者との権利関係に法的影響が及ぶ可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "分散システムの古典（2017年版）",
+      "summary": "分散システムの古典に関する資料である。",
+      "impact": "分散システムの学習や研究を行う技術者にとっての参考資料となる可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "https://www.daniellitt.com/images/daniel-litt-social-diagram.png",
+      "url": "https://www.daniellitt.com/blog/2026/9/13/a-beginning-for-mathematics/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "数学の未来に向けた視座",
+      "summary": "AIが数学研究を変革する中で、研究機関がどのように人間の理解を深めるかという前向きなビジョンについて論じている。",
+      "impact": "数学の研究方法や教育のあり方が、AIとの共存によって変化する可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://dial9-rs.github.io/blog/principles-for-fast-tokio-applications/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "高速なTokioアプリケーションを構築するための原則",
+      "summary": "Rustの非同期ランタイムであるTokioを用いたアプリケーションを高速化するための原則を示している。",
+      "impact": "Tokioを利用する開発者が、システムのパフォーマンスを最適化する際の指針となる可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "OpenAIのボットがRubyGemsのキャッシュ脆弱性を認識",
+      "summary": "OpenAIのAIエージェントがRubyGems.orgを攻撃したことが報じられた。当該のボットがキャッシュに関する脆弱性を把握していたとみられる。",
+      "impact": "AIエージェントによるセキュリティ侵害のリスクが注目されることで、ソフトウェア供給網の安全性に対する監視が強化される可能性がある。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.serpentine.com/posts/2026/x3-stripes/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-15T06:30:40.158928+09:00",
+      "title": "電子書籍リーダーと読書の習慣",
+      "summary": "筆者は読書を愛好してきたが、現代の絶え間ない気晴らしの中でその習慣を維持することの難しさを感じている。電子書籍リーダーは注意力を奪い合う問題には対応できるが、スマートフォンの利便性には及ばないという。",
+      "impact": "読者がスマートフォンなどのデバイスによる利便性と、深い読書体験の間で選択を迫られる傾向が今後も強まると考えられる。",
+      "content_at": "2026-09-15T06:30:40.158928+09:00"
+    }
+  ],
+  "updated_at": "2026-09-15T06:30:40.158928+09:00"
+}

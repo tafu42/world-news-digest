@@ -2,28 +2,6 @@
   "date": "2026-09-14",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/a4fc80e643187b6b66f98b0e0f64193afdc28f1e/428_0_3331_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/13/too-little-too-late-critics-perplexed-and-suspicious-of-ai-leaders-call-for-a-slowdown",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-14T06:30:42.017379+09:00",
-      "title": "AIの安全強化策に対する批判の声",
-      "summary": "Anthropic社のCEOによるAI開発の安全性を高める計画に対し、トランプ政権の関係者やAI専門家から否定的な反応が出ている。批評家は、この動きを遅すぎるとし、懐疑的な見方を示している。",
-      "impact": "AI開発の規制や安全性確保に向けた業界の取り組みに対する信頼性が揺らぐ可能性がある。",
-      "content_at": "2026-09-14T06:30:42.017379+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/8fe0ada1bfe4cd865ed9fad2ef90f4d8a7e96a11/500_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/13/openai-sam-altman-elon-musk-back-anthropic-calls-brakes-ai-development",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-14T06:30:42.017379+09:00",
-      "title": "AI開発の減速を求める声に高まる賛同",
-      "summary": "Anthropic社のCEOやAI研究者による安全性への警告を受け、OpenAIのCEOやイーロン・マスク氏らがAI開発の減速を求める動きに加わった。競合する開発者同士が結束を示す珍しい事態となっている。",
-      "impact": "主要なAI開発企業間で安全性を重視する方向へ方針が転換される可能性がある。",
-      "content_at": "2026-09-14T06:30:42.017379+09:00"
-    },
-    {
       "image": "https://www.atomic14.com/assets/article_images/2026-09-13/dodgy.webp",
       "url": "https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads",
       "category": "海外IT",
