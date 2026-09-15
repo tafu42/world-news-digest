@@ -112,50 +112,6 @@
       "content_at": "2026-09-14T13:30:41.609185+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/0fa1e24c8026a54f3f1dcbcd747f7ee270db7c77/1527_365_5799_4642/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/ai-regulation-anthropic-uk-human-rights-committee-mps-lords",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-14T21:30:41.487466+09:00",
-      "title": "英議会、AIによる人権侵害を防ぐ新法を提唱",
-      "summary": "AIによる公的な顔認証やディープフェイクなどの安全上の問題を受け、英国の議員や貴族院議員らが新たな規制の制定を求めている。一連の安全事故が議論の背景にある。",
-      "impact": "今後、英国においてAI技術の利用に対する法的制限が強化される可能性がある。また、企業に対してより厳格な人権保護への配慮が求められるとみられる。",
-      "content_at": "2026-09-14T21:30:41.487466+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/76f2af58beec314abd801f350a25f3b5afc3c222/966_683_2113_1690/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/portland-bnb-airbnb-silicon-valley-legal-battle-festival",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-14T21:30:41.487466+09:00",
-      "title": "ドーセットの小さなB&B、「bnb」の商標を巡りAirbnbと対立",
-      "summary": "ドーセットにある小さなB&Bが、自社の名称に「bnb」を使用することに対し、Airbnbから商標上の異議を唱えられている。運営側は名称の変更を拒否する姿勢を見せている。",
-      "impact": "大手企業による商標権の主張が中小事業者に与える影響について、議論が深まる可能性がある。今後の法的手続きの結果次第では、名称利用に関する先例となるかもしれない。",
-      "content_at": "2026-09-14T21:30:41.487466+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/465c638d2a524d24640b81b56960b158ce2eba32/811_172_5328_4263/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/pixel-11-pro-fold-review-the-foldable-with-the-best-triple-camera",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-14T21:30:41.487466+09:00",
-      "title": "Pixel 11 Pro Foldレビュー：最高峰の3眼カメラを搭載した折りたたみスマホ",
-      "summary": "Pixel 11 Pro Foldは、高度なAIと洗練されたソフトウェアを搭載した折りたたみ式のスマートフォンである。閉じた状態では通常のAndroid端末と同様に使用できる。",
-      "impact": "高性能なカメラを備えた折りたたみデバイスの選択肢が増えることで、市場での競争が促進されると考えられる。消費者はより利便性の高いモバイル体験を享受できるとみられる。",
-      "content_at": "2026-09-14T21:30:41.487466+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/bb84259074a2c64ebed9b2c958f9985eb618beca/482_0_5532_4425/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/ai-ceo-safety-slowdown",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-14T21:30:41.487466+09:00",
-      "title": "AI業界のリーダーたちが開発ペースの減速を訴える",
-      "summary": "サム・アルトマン氏やイーロン・マスク氏らAI企業を率いるリーダーたちが、AIによる脅威に対する警告を発し、アンソロピック社のダリオ・アモデイCEOによる開発ペースの減速という呼びかけを支持した。",
-      "impact": "業界トップが慎重姿勢を示すことで、AI開発の安全性や倫理に関する議論が加速する可能性がある。一方で、実際に開発競争が抑制されるかどうかについては不透明である。",
-      "content_at": "2026-09-14T21:30:41.487466+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/a1734cde6062e1a6b5436cdd563f0b1b59921c76d49fd9dcedcf9a1b4069a40d/callbacked/kinesis",
       "url": "https://github.com/callbacked/kinesis",
       "category": "海外IT",
