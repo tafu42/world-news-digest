@@ -99,7 +99,84 @@
       "summary": "筆者は読書を愛好してきたが、現代の絶え間ない気晴らしの中でその習慣を維持することの難しさを感じている。電子書籍リーダーは注意力を奪い合う問題には対応できるが、スマートフォンの利便性には及ばないという。",
       "impact": "読者がスマートフォンなどのデバイスによる利便性と、深い読書体験の間で選択を迫られる傾向が今後も強まると考えられる。",
       "content_at": "2026-09-15T06:30:40.158928+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/73a18aa416fc46fdb1ec966dd8acacb396e51411/578_447_3851_3081/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/15/the-wilting-rose-emoji-what-its-rise-and-fall-tells-us-about-gen-alpha",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-15T13:30:37.296501+09:00",
+      "title": "凋落するバラの絵文字とジェネレーション・アルファ",
+      "summary": "2025年に急成長したバラの絵文字は、16歳以下の層を中心に利用された。20代がこのトレンドを把握した頃には、すでにブームは終焉を迎えている。",
+      "impact": "特定の世代間におけるデジタル文化やコミュニケーション様式の断絶が、トレンドの移り変わりの早さを通じて示されていると考えられる。",
+      "content_at": "2026-09-15T13:30:37.296501+09:00"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/2026/09/major-updates-for-apples-software-platforms-are-now-available/tile/Apple-OS-availability-hero-lp.jpg.og.jpg?202609141711",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-15T13:30:37.296501+09:00",
+      "title": "iOS 27、iPadOS 27、macOS 27の発表",
+      "summary": "Appleは最新のソフトウェアアップデートとしてiOS 27、iPadOS 27、macOS 27をリリースした。これらのOSにはSiri AIやApple Intelligenceの新機能が搭載されている。",
+      "impact": "AI機能の拡充により、Apple製品のユーザー体験が向上し、日常的なタスクの自動化や効率化が進む可能性がある。",
+      "content_at": "2026-09-15T13:30:37.296501+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-15T13:30:37.296501+09:00",
+      "title": "サッカラで4400年前の裁判官の墓を発見",
+      "summary": "エジプトのサッカラにて、4400年前の裁判官の墓が発見された。墓の壁面には彩色が残されている。",
+      "impact": "古代エジプト文明の歴史や当時の生活様式を解明する上で、重要な考古学的資料となる可能性がある。",
+      "content_at": "2026-09-15T13:30:37.296501+09:00"
+    },
+    {
+      "image": "https://andonlabs.com/pion.og.webp",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-15T13:30:37.296501+09:00",
+      "title": "自律型企業運営プラットフォーム「Pion」の公開",
+      "summary": "企業を自律的に運営するために開発されたプラットフォーム「Pion」が一般公開された。開発元は、より多くの人が自律型ビジネスを試せるようにすることを目的としている。",
+      "impact": "小規模な組織や個人でも複雑な企業運営を自動化できるようになり、ビジネスモデルの構築や運営のあり方が大きく変わる可能性がある。",
+      "content_at": "2026-09-15T13:30:37.296501+09:00"
+    },
+    {
+      "image": "https://dbtcharts.com/assets/social/background_hu_b580101c226cb278.png",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-15T13:30:37.296501+09:00",
+      "title": "チャット用のチャート作成ツール",
+      "summary": "チャット向けに作成されたチャート機能に関する情報である。",
+      "impact": "チャットツール上でのデータ共有が円滑化される可能性がある。",
+      "content_at": "2026-09-15T13:30:37.296501+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/84428dda5b2ff008d8f7ba3d9eb246b83f2deab9c34680a14c26ffa7e8660ed1/JamesRyanATX/fcbnerd",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-15T13:30:37.296501+09:00",
+      "title": "macOSでBehringer FCB1010 MIDIペダルボードを活用する",
+      "summary": "macOS環境において、Behringer FCB1010 MIDIペダルボードを利用するためのリポジトリが公開された。",
+      "impact": "音楽制作やシステム操作において、ペダルを活用した効率的な制御が可能になるとみられる。",
+      "content_at": "2026-09-15T13:30:37.296501+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/4a3c42004bd06e935b9fad8c1fa6847cba29e712021bd9f5f5499780cea9f7a3/stoix-dev/sefaz-webservices-postman",
+      "url": "https://github.com/stoix-dev/sefaz-webservices-postman",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-15T13:30:37.296501+09:00",
+      "title": "ブラジルの全請求書システムとSOAP 1.2のマッピング",
+      "summary": "ブラジルの経済活動における請求書システムで利用されているSOAP 1.2ウェブサービスのPostmanコレクションが公開された。これにはNF-eやNFC-eなどの各種電子文書が含まれる。",
+      "impact": "ブラジルの電子請求書システムを利用する開発者にとって、API連携やテストの作業効率が大幅に向上する可能性がある。",
+      "content_at": "2026-09-15T13:30:37.296501+09:00"
     }
   ],
-  "updated_at": "2026-09-15T06:30:40.158928+09:00"
+  "updated_at": "2026-09-15T13:30:37.296501+09:00"
 }
