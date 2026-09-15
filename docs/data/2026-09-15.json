@@ -2,39 +2,6 @@
   "date": "2026-09-15",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/9bbe355703cc6582b5706d62aed9afb01a1e0061/89_0_4604_3681/500.jpg",
-      "url": "https://www.theguardian.com/business/2026/sep/14/ai-linked-stocks-fall-tech-bosses-call-slowdown-anthropic-openai",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-15T06:30:40.158928+09:00",
-      "title": "AI関連株が下落、トランプ氏はAI規制を批判",
-      "summary": "AI開発の減速を求める声が上がる中でAI関連株が下落した。トランプ氏はAIの規制強化の動きを「病的な陰謀」と退けた。",
-      "impact": "政治家の発言が市場の不確実性を高め、AI関連銘柄の変動が激しくなる可能性がある。",
-      "content_at": "2026-09-15T06:30:40.158928+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/221847ebaf0cc8dedc211ee121968b599ff59096/102_0_6066_4853/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/europe-ai-datacentres-growth-us-china-ecb-christine-lagarde",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-15T06:30:40.158928+09:00",
-      "title": "欧州は独自のAI構築が必要とECB総裁が主張",
-      "summary": "欧州中央銀行のラガルド総裁は、欧州が独自のAIを構築しなければ米国や中国に遮断されるリスクがあると述べた。AIへの依存は貿易相手国に交渉上の優位性を与える可能性があると指摘している。",
-      "impact": "欧州のAI自主開発が進むことで、グローバルな技術覇権争いや貿易交渉のあり方が変化する可能性がある。",
-      "content_at": "2026-09-15T06:30:40.158928+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/8ff2395b10e84f4c4b4b70ae9451952885748598/254_0_4001_3200/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/14/microsoft-ai-code-of-conduct",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-15T06:30:40.158928+09:00",
-      "title": "マイクロソフトがAI行動規範を発表",
-      "summary": "マイクロソフトはAIの安全性に関する議論の中で、同社のAIに対する制限を提案する行動規範を発表した。AIは人間を補佐し、人間に奉仕するものであるべきだとしている。",
-      "impact": "大手テック企業による自主的なガイドライン策定が、AI開発の安全性基準に関する業界標準を形成する可能性がある。",
-      "content_at": "2026-09-15T06:30:40.158928+09:00"
-    },
-    {
       "image": "",
       "url": "https://law.justia.com/cases/federal/appellate-courts/ca9/26-1444/26-1444-2026-08-04.html",
       "category": "海外IT",
