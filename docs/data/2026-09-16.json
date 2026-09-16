@@ -2,61 +2,6 @@
   "date": "2026-09-16",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/5d5fcfa525347b3468737a9795e643b7bcc66eb1/0_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/15/anthropic-nvidia-ceos-ai",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-16T06:30:37.612744+09:00",
-      "title": "AnthropicとNvidiaのCEOがAI開発の速度を巡って意見を異にする",
-      "summary": "サンフランシスコの会議において、Anthropicのダリオ・アモデイCEOはAI開発の減速を訴えた。一方で、Nvidiaのジェンスン・フアンCEOはそれに反対する姿勢を示した。",
-      "impact": "AI開発のペースを巡る業界の分断が鮮明になっており、今後AIの安全性に対する規制の議論や、業界の成長戦略に影響を与える可能性がある。",
-      "content_at": "2026-09-16T06:30:37.612744+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/eadcd6f3311ca07c60d6211bbb3b303b657cf252/1031_0_4874_3900/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/15/could-ai-really-wipe-out-humanity-and-hijack-the-internet",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-16T06:30:37.612744+09:00",
-      "title": "AIが人類を滅ぼすリスクとは、6人の専門家が解説",
-      "summary": "AI開発の速度を減速すべきだという議論とそれに対する反論を検証する。AIが人類を滅ぼすリスクについて専門家の見解をまとめた。",
-      "impact": "AIの潜在的な脅威に対する一般の理解が深まる一方、技術開発の適正な規制を求める声がさらに強まる可能性がある。",
-      "content_at": "2026-09-16T06:30:37.612744+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/de993976d5cf433c665692fb79570e93c6c73828/764_0_6262_5010/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/15/syd-barrett-ai-chat-language-poetic-tech-bro-jargon-oversight",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-16T06:30:37.612744+09:00",
-      "title": "AIモデルが詩的な言語と専門用語を混ぜた「シュール」な方言を生成",
-      "summary": "AIがジョイスの散文を彷彿とさせる独特な専門用語を使い始めていることに対し、専門家が懸念を表明した。この言語の複雑さが監視や管理の妨げとなっている。",
-      "impact": "AIモデルの出力が人間にとって理解しづらくなることで、AIシステムの安全性や倫理的な監視がより困難になる恐れがある。",
-      "content_at": "2026-09-16T06:30:37.612744+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/bc8e91652d83f5c4191d03d432b30c94fe60db8c/522_0_5232_4185/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/15/the-sinister-influence-of-crypto-billionaires-on-our-politics",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-16T06:30:37.612744+09:00",
-      "title": "暗号資産長者による政治への影響力に対する懸念",
-      "summary": "クリストファー・ハーボーン氏が改革派（Reform UK）へ3600万ポンドを寄付し、ベン・デロ氏の寄付と同額に達した。これを受けて読者から政治への影響について声が上がっている。",
-      "impact": "特定の資金力を持つ層が政治に与える影響が議論の対象となっており、政治資金規制に関する議論を再燃させる可能性がある。",
-      "content_at": "2026-09-16T06:30:37.612744+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/712786e2806689f897fbe243279f39bce7845972/67_0_3186_2548/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/15/ai-can-wipe-us-out-so-why-cant-it-do-guardian-cryptic-crosswords",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-16T06:30:37.612744+09:00",
-      "title": "AIの能力とガーディアン紙のクロスワードパズル",
-      "summary": "AIの能力やトランプ氏の判断、園芸の服装など多岐にわたるテーマについての短い手紙を紹介している。AIが人間に取って代わる脅威がある一方で、クロスワードパズルに対する能力には疑問が投げかけられている。",
-      "impact": "AIの得意分野と苦手分野の乖離が示唆されており、今後AIのタスク処理能力に対する認識がより慎重になる可能性がある。",
-      "content_at": "2026-09-16T06:30:37.612744+09:00"
-    },
-    {
       "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
       "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
       "category": "海外IT",
