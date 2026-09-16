@@ -121,7 +121,29 @@
       "summary": "Strixに対しドメインを与えたところ、25分以内にBasetenの運用環境のGitHubに対する管理者アクセス権を持つライブトークンが発見された。",
       "impact": "開発環境やソースコードの管理におけるセキュリティ上の脆弱性が浮き彫りとなり、企業にとって機密情報保護の重要性がより高まるとみられる。",
       "content_at": "2026-09-16T06:30:37.612744+09:00"
+    },
+    {
+      "image": "https://security.apple.com/assets/image/seo-image.jpg",
+      "url": "https://security.apple.com/blog/apple-reference-image/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-16T13:30:39.373709+09:00",
+      "title": "Appleが提供する検証可能な写真撮影機能「Apple Reference Image」",
+      "summary": "Appleは、iPhoneで撮影された画像がカメラセンサーで捉えた内容であることを証明する「Apple Reference Image」を発表した。これはユーザーが選択可能な新しいカメラモードである。",
+      "impact": "写真の改ざん防止や信頼性向上に寄与し、メディアにおけるデジタル画像の真正性を担保する技術として普及する可能性がある。",
+      "content_at": "2026-09-16T13:30:39.373709+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.archive.org/2026/09/11/negativland-culture-jamming-and-the-art-of-making-something-new/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-16T13:30:39.373709+09:00",
+      "title": "Negativlandとカルチャージャミング、そして新しい創作の芸術",
+      "summary": "Negativlandの活動とカルチャージャミングの手法を通じて、新しいものを創造する芸術のあり方について触れている。",
+      "impact": "既存の文化やメディアを再構成する手法が、現代の芸術表現に与える影響や意義が議論される可能性がある。",
+      "content_at": "2026-09-16T13:30:39.373709+09:00"
     }
   ],
-  "updated_at": "2026-09-16T06:30:37.612744+09:00"
+  "updated_at": "2026-09-16T13:30:39.373709+09:00"
 }
