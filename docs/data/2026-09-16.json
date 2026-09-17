@@ -90,39 +90,6 @@
       "content_at": "2026-09-16T13:30:39.373709+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/946b0e05dd0e1b4c6e798b7dd5ff3846fd4f4783/620_0_6195_4958/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/ai-companies-collude-antitrust-laws",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-16T21:30:39.059927+09:00",
-      "title": "AI企業の結託を許すことは危険な提案である",
-      "summary": "AI業界のCEOたちが連携を図ることは、独占禁止法の網をかいくぐるための古い手口の再利用に過ぎない。そのような企業間の結託を許容することは危険な考えである。",
-      "impact": "独占禁止法が有名無実化し、AI市場における健全な競争が阻害される可能性がある。",
-      "content_at": "2026-09-16T21:30:39.059927+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/2a29a3d6979b1db484649ea644abd122682b1d13/855_0_4262_3411/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/building-frankenstein-jd-vance-dismisses-ai-regulation",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-16T21:30:39.059927+09:00",
-      "title": "J.D.バンス米副大統領、AI規制論を否定",
-      "summary": "J.D.バンス米副大統領がAI規制の必要性を否定した。この発言は、AIが人類を滅ぼす可能性があるという元Anthropic研究者の主張が再注目される中でなされた。",
-      "impact": "米政府のAI規制に対する姿勢が明確になり、今後の法整備や企業の自主規制方針に影響を与える可能性がある。",
-      "content_at": "2026-09-16T21:30:39.059927+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/dc78004d494fd54b683c1575f0828645d8e13701/0_0_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/us-government-failing-americans-ai",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-16T21:30:39.059927+09:00",
-      "title": "米国政府のAI政策は国民を裏切っている",
-      "summary": "トランプ氏と共和党はAI企業による自主規制を求めている。この政府の姿勢は責務の放棄であり、AIの安全性を低下させるものである。",
-      "impact": "公的な規制が整備されないことで、AIの安全性に対する懸念が高まり、リスク管理が不十分なまま技術開発が進む可能性がある。",
-      "content_at": "2026-09-16T21:30:39.059927+09:00"
-    },
-    {
       "image": "https://ichef.bbci.co.uk/news/1024/branded_news/b431/live/3960b020-b1b9-11f1-bdcf-d393eb724fa3.jpg",
       "url": "https://www.bbc.com/news/articles/cjwyzrr9d3dko",
       "category": "海外IT",

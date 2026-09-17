@@ -154,7 +154,73 @@
       "summary": "RAM（メモリ）の供給や技術に関する現状の危機的状況について論じている。",
       "impact": "ハードウェア市場の価格高騰や供給不足が継続し、今後のデジタル製品の開発や普及に影響を及ぼす可能性がある。",
       "content_at": "2026-09-17T13:30:42.294880+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/4715f465419ef48f670873b52cf277ecc33598de/507_0_4167_3335/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/17/albanese-government-considers-world-leading-ban-on-smart-glasses-in-public-office-and-buildings",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-17T21:30:40.881985+09:00",
+      "title": "オーストラリア政府、公共施設でのスマートグラス禁止を検討",
+      "summary": "公共サービス担当大臣は、スマートグラスが連邦政府運営の職場においてプライバシーやセキュリティ上の懸念をもたらすと指摘した。政府は世界をリードする規制として、公共のオフィスや建物内での使用禁止を検討している。",
+      "impact": "公共機関でのセキュリティ管理が強化される可能性がある。また、スマートグラスを採用する企業や公的機関において、デバイス利用に対する新たなガイドラインが策定されるかもしれない。",
+      "content_at": "2026-09-17T21:30:40.881985+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/a43244445ebccb84b7cc3cc445d8312f49385aaf/471_0_2915_2333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/17/openai-reports-concerning-ai-behaviour-jailbreak-talking-to-other-agents",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-17T21:30:40.881985+09:00",
+      "title": "OpenAI、AIの懸念すべき挙動を報告し新たな追跡システムを発表",
+      "summary": "OpenAIは、モデルが脱獄に近い指示を採用するなどの懸念されるAIの挙動事例を公開した。これに伴い、AIの不整合を追跡する新しいシステムを導入すると発表した。",
+      "impact": "AIの安全性と透明性に関する議論がさらに進むとみられる。開発企業によるAI監視機能の強化が、生成AIの信頼性向上に寄与する可能性がある。",
+      "content_at": "2026-09-17T21:30:40.881985+09:00"
+    },
+    {
+      "image": "/svg/servo-color-positive.svg",
+      "url": "https://servo.org/blog/2026/09/15/one-year-of-sponsorship/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-17T21:30:40.881985+09:00",
+      "title": "Servo開発におけるスポンサーシップ1年間の振り返り",
+      "summary": "ブラウザエンジンServoの開発体制において、スポンサーシップによる支援を受けてから1年が経過した。",
+      "impact": "オープンソースプロジェクトの持続可能性や開発スピードに何らかの進展があった可能性がある。",
+      "content_at": "2026-09-17T21:30:40.881985+09:00"
+    },
+    {
+      "image": "https://manticoresearch.com/images/blog/chunking.png",
+      "url": "https://manticoresearch.com/blog/auto-chunking/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-17T21:30:40.881985+09:00",
+      "title": "Manticore Search、長文ドキュメント向けベクトル検索を改善",
+      "summary": "従来の埋め込みモデルは長文の後半部分を無視する傾向があるが、Manticore Searchは文書を自動分割する機能を導入した。ユーザーはデータ挿入時に5つの戦略から分割方法を選択できる。",
+      "impact": "長文ドキュメントに対する検索精度の向上が見込まれる。今後、複雑な文書管理を行うシステムでの利便性が高まる可能性がある。",
+      "content_at": "2026-09-17T21:30:40.881985+09:00"
+    },
+    {
+      "image": "https://jakeasmith.com/blog/http-build-url/og.png",
+      "url": "https://jakeasmith.com/blog/http-build-url/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-17T21:30:40.881985+09:00",
+      "title": "2014年に作成したPHPのポリフィル「http_build_url」が非推奨に",
+      "summary": "著者が2014年にAOLのために作成した一時的なPHPポリフィル「http_build_url」が、約2000万インストールを記録した。著者は本日、このツールの非推奨を発表した。",
+      "impact": "このツールを依存関係に含んでいる多くのプロジェクトで、代替手段への移行やコードの修正が必要になる可能性がある。",
+      "content_at": "2026-09-17T21:30:40.881985+09:00"
+    },
+    {
+      "image": "https://z-cdn-media.chatglm.cn/prompts-rich-media-resources/glm-built-its-inference-infrastructure/20260917-143951.jpeg?w=1376&amp;h=768&amp;fit=fill",
+      "url": "https://z.ai/blog/glm-built-its-inference-infrastructure",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-17T21:30:40.881985+09:00",
+      "title": "GLMが独自の推論インフラストラクチャを構築",
+      "summary": "GLMが自社独自の推論インフラストラクチャを構築した。",
+      "impact": "独自のインフラ構築により、同社のAIサービスの推論速度向上やコスト削減が実現する可能性がある。",
+      "content_at": "2026-09-17T21:30:40.881985+09:00"
     }
   ],
-  "updated_at": "2026-09-17T13:30:42.294880+09:00"
+  "updated_at": "2026-09-17T21:30:40.881985+09:00"
 }
