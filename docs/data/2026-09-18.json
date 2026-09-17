@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-18",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-18T06:30:42.188966+09:00",
+      "title": "Metaが英国のディープフェイク削除を命じられる",
+      "summary": "Metaは、労働党議員とイスラム教徒の活動家を装ったAI生成動画を削除しなかったことについて、監視委員会から不適切であると批判された。同社はこれらのフェイク動画を削除するよう命じられている。",
+      "impact": "SNS上のAI生成コンテンツに対する規制や削除基準がより厳格化される可能性がある。プラットフォーム側には、より高度な検知能力と迅速な対応が求められると考えられる。",
+      "content_at": "2026-09-18T06:30:42.188966+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/astra-for-law/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-18T06:30:42.188966+09:00",
+      "title": "法律向けサービス「Astra for Law」",
+      "summary": "法律業務に関連するサービス「Astra for Law」に関する記述である。",
+      "impact": "法律業務の効率化や法的知見の活用に寄与する可能性がある。",
+      "content_at": "2026-09-18T06:30:42.188966+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/fb78bb0e678d30e736fe4bc1b1a67950cd33554cdf6bf8a1830f3768a4cda0fa/asciimoo/hister",
+      "url": "https://github.com/asciimoo/hister",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-18T06:30:42.188966+09:00",
+      "title": "プライベート検索エンジン「Hister」",
+      "summary": "閲覧したページや保存したファイルを対象とする個人用検索エンジン「Hister」のプロジェクトである。GitHubを通じて開発への貢献が求められている。",
+      "impact": "個人のデータ管理や検索の利便性が向上する可能性がある。プライバシーに配慮した情報管理に関心が高まるものとみられる。",
+      "content_at": "2026-09-18T06:30:42.188966+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bend-lang.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-18T06:30:42.188966+09:00",
+      "title": "Bendについて",
+      "summary": "「Bend」に関する記述である。",
+      "impact": "情報が限られているため、具体的な社会への影響は予測できない。",
+      "content_at": "2026-09-18T06:30:42.188966+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://global.fujitsu/en-global/pr/news/2026/09/14-02",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-18T06:30:42.188966+09:00",
+      "title": "富士通が国産次世代CPU「FUJITSU-MONAKA」を発表",
+      "summary": "富士通が国産の次世代CPU「FUJITSU-MONAKA」を発表した。本製品の開発と投入を行うものである。",
+      "impact": "国内の半導体開発能力の維持や、高性能コンピューティング分野における技術的自立性が高まる可能性がある。",
+      "content_at": "2026-09-18T06:30:42.188966+09:00"
+    },
+    {
+      "image": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/ISwell_Thermoactuator.jpg/1280px-ISwell_Thermoactuator.jpg?utm_source=en.wikipedia.org&amp;utm_campaign=index&amp;utm_content=thumbnail",
+      "url": "https://en.wikipedia.org/wiki/Wax_motor",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-18T06:30:42.188966+09:00",
+      "title": "ワックスモーター",
+      "summary": "ワックスモーターに関する情報である。",
+      "impact": "対象が具体的な製品や技術の詳細は不明なため、現時点での社会的な影響を予測することは困難である。",
+      "content_at": "2026-09-18T06:30:42.188966+09:00"
+    },
+    {
+      "image": "https://www.netmeister.org/blog/images/tired.jpg",
+      "url": "https://www.netmeister.org/blog/everybodys-lost-their-minds.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-18T06:30:42.188966+09:00",
+      "title": "誰もが正気を失った",
+      "summary": "AIに関連する情報が拡散しているという言及がある。",
+      "impact": "AI技術の普及や社会への浸透が進む中で、情報の拡散やそれに伴う人々の反応が社会的な注目を集める可能性がある。",
+      "content_at": "2026-09-18T06:30:42.188966+09:00"
+    }
+  ],
+  "updated_at": "2026-09-18T06:30:42.188966+09:00"
+}

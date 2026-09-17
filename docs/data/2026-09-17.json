@@ -2,50 +2,6 @@
   "date": "2026-09-17",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/808eba3e9fc853ef863c9283adc9cfd131207bc7/543_335_2914_2331/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/amazon-minimum-wage-whole-foods-benefit",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-17T06:30:45.503731+09:00",
-      "title": "Amazonが最低時給を20ドルに引き上げ、Whole Foodsでの割引も追加",
-      "summary": "Amazonは米国の最低時給を20ドルに引き上げ、Whole Foodsでの食料品割引特典を新たに追加した。今回の賃上げにより、同社の最低賃金はCostcoと同水準になる。",
-      "impact": "従業員の待遇改善により、小売業界における人材獲得競争が激化する可能性がある。",
-      "content_at": "2026-09-17T06:30:45.503731+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/9c767f0fcd90e963891369fa6bd838b84c415012/194_0_4549_3640/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/why-i-cant-wait-to-get-into-a-driverless-car",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-17T06:30:45.503731+09:00",
-      "title": "自動運転車への期待、読者からの意見",
-      "summary": "Adrian Chilesの記事に対し、眼疾患により運転ができないLars Janssen氏は、自動運転車が恩恵をもたらすと期待を寄せた。他にもRichard Connell氏やMichael Fuller氏からの寄稿が掲載された。",
-      "impact": "自動運転技術の進展が、身体的制約を持つ人々の移動の自由を拡大する一助になると考えられる。",
-      "content_at": "2026-09-17T06:30:45.503731+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/b4261d7b8dd8d6c71cd2325bbb24b1f8a7a83d36/379_84_2522_2017/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-17T06:30:45.503731+09:00",
-      "title": "AIの父が語る、AI規制はコロナ禍のような転換点を迎えている",
-      "summary": "Yoshua Bengio氏は、安全性に関する危機が政府の行動を促す可能性が高まっていると指摘した。AI技術の規制は、パンデミック時の対策に匹敵するような重要な転換点に近づいているとみられる。",
-      "impact": "今後、AIの安全性確保を目的とした各国政府による法規制の動きが加速する可能性がある。",
-      "content_at": "2026-09-17T06:30:45.503731+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/430b9a8b2f6330beab39c5e583b9064bc0a0e6cb/0_105_2000_1600/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/amazon-ring-neighbours-app-uk-doorbell-privacy-safety",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-17T06:30:45.503731+09:00",
-      "title": "AmazonのRingが英国で「近隣監視」アプリを展開へ、米国ではプライバシー懸念も",
-      "summary": "ドアベルメーカーのRingは、治安情報や迷子のペットについて投稿できるプラットフォームを英国で開始する。これはWhatsAppやFacebookグループに代わるコミュニティツールを目指している。",
-      "impact": "地域住民の防犯意識が高まる一方、利用者のプライバシー保護や監視のあり方について議論が巻き起こる可能性がある。",
-      "content_at": "2026-09-17T06:30:45.503731+09:00"
-    },
-    {
       "image": "https://rohanbansal.com/og/qorl-20260916.png",
       "url": "https://rohanbansal.com/qorl",
       "category": "海外IT",
