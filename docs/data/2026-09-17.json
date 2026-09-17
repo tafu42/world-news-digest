@@ -110,7 +110,51 @@
       "summary": "この記事では、ゲーム『Factorio』の乱数生成（RNG）をどのように逆解析したかについて解説している。",
       "impact": "ゲームの内部挙動が解明されることで、特定の条件下での動作再現や検証手法の発展につながる可能性がある。",
       "content_at": "2026-09-17T06:30:45.503731+09:00"
+    },
+    {
+      "image": "/tessa.png",
+      "url": "https://ryan.science/blog/keys-not-included",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-17T13:30:42.294880+09:00",
+      "title": "米国運転免許証のバーコード署名鍵の復元について",
+      "summary": "米国の運転免許証に含まれるバーコードの署名鍵を復元する試みについての記事である。",
+      "impact": "個人のセキュリティやID認証の信頼性に影響を与える可能性がある。",
+      "content_at": "2026-09-17T13:30:42.294880+09:00"
+    },
+    {
+      "image": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-1.webp",
+      "url": "https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-17T13:30:42.294880+09:00",
+      "title": "NVIDIAがRustによるネイティブGPUプログラミングを発表",
+      "summary": "NVIDIAは2026年9月、RustによるネイティブGPUプログラミングへの注力を発表した。既存のCUDA C++やPythonのツールチェーンを強化しつつ、Rustの活用を拡大させる方針である。",
+      "impact": "GPU開発においてRustの採用が加速し、ソフトウェアの安全性やパフォーマンスの向上が期待される。",
+      "content_at": "2026-09-17T13:30:42.294880+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://zartbot.github.io/blog/model_arch/dsv41flash_arch/en.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-17T13:30:42.294880+09:00",
+      "title": "DeepSeek-v4.1 Flash：KVキャッシュ圧縮の限界に挑む",
+      "summary": "DeepSeek-v4.1 FlashにおけるKVキャッシュ圧縮技術についての解説である。",
+      "impact": "LLMの推論効率が向上し、より大規模なデータ処理やメモリ消費の抑制が可能になると考えられる。",
+      "content_at": "2026-09-17T13:30:42.294880+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.madshrimps.be/news/the-painful-truth-the-ram-crisis-is-only-just-the-beginning/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-17T13:30:42.294880+09:00",
+      "title": "RAM危機の真相：それはまだ始まりに過ぎない",
+      "summary": "RAM（メモリ）の供給や技術に関する現状の危機的状況について論じている。",
+      "impact": "ハードウェア市場の価格高騰や供給不足が継続し、今後のデジタル製品の開発や普及に影響を及ぼす可能性がある。",
+      "content_at": "2026-09-17T13:30:42.294880+09:00"
     }
   ],
-  "updated_at": "2026-09-17T06:30:45.503731+09:00"
+  "updated_at": "2026-09-17T13:30:42.294880+09:00"
 }
