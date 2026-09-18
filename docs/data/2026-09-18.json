@@ -143,7 +143,95 @@
       "summary": "Waymoがシンガポールで展開されていることを示す内容である。",
       "impact": "自動運転技術の実用化や交通システムの利便性が向上する可能性があるとみられる。",
       "content_at": "2026-09-18T13:30:41.397955+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/3ac505ec5bde795c6c333ea6dc7fbaadf38f1a93/354_0_4167_3333/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "AnthropicのClaudeを用いてOpenAIの倫理的ハッキングが実施される",
+      "summary": "米国のサイバーセキュリティ研究者が、AnthropicのClaudeチャットボットを利用してOpenAIの倫理的ハッキングを行った。研究者は、理論的にアクセス可能な範囲が非常に広大であったと報告している。",
+      "impact": "AIモデルの脆弱性評価に他のAIツールを活用する手法が広まり、より高度なセキュリティ検証が可能になると考えられる。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/34734119f9d6178e94ad147c3dae613bf60a1e2b/613_0_4631_3707/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "AIが自殺を検討する男性への返信を提案、アンドリュー・ハスティ議員が欠陥を指摘",
+      "summary": "自由党のアンドリュー・ハスティ議員が、安楽死を検討する男性への返信としてAIが「おめでとう！」という提案を行った事例を挙げ、AIの欠陥を指摘した。一方、サイバー担当者は悪意ある攻撃者に対抗するためにはAI技術が必要であると証言した。",
+      "impact": "AIの安全性と判断力に対する懸念が深まり、公的機関によるAI利用のガイドライン策定や監視が強化される可能性がある。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "Bend 2と「バイブ・コーディング」の罠",
+      "summary": "記事は「Bend 2」と「バイブ・コーディングの罠」というトピックについて述べている。",
+      "impact": "具体的な内容が明示されていないため、現時点での影響は不明である。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://hawksley.dev/blog/i-dont-like-passkeys",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "パスキーに対する懸念",
+      "summary": "パスキーを好まないという個人の見解が示されている。",
+      "impact": "認証技術に対するユーザー側の受容性や使い勝手に関する議論の一端を示す可能性がある。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openjev.com/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "OpenJevについて",
+      "summary": "OpenJevに関する記述である。",
+      "impact": "対象の詳細は不明であるため、社会への影響を評価することはできない。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
+    },
+    {
+      "image": "https://tokenstead.ai/og/guides/zcode-silent-git-history-upload.png",
+      "url": "https://tokenstead.ai/guides/zcode-silent-git-history-upload",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "コーディングエージェント「ZCode」のデータ送信問題",
+      "summary": "Z.aiが提供するコーディングエージェント「ZCode」が、Git履歴やキャッシュを含むワークスペース全体をAliyun OSSへアップロードする。UI上の切り替え設定は、このアップロードを停止させる機能を有していない。",
+      "impact": "開発者のソースコードや機密性の高いGit履歴が意図せず流出する可能性があるため、企業や個人の開発環境においてセキュリティ上のリスクとなる可能性がある。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/757edfa22c8cec63243b6db8691aa148bbcede35b72fb0f10a038fa3aa43da14/jemalloc/jemalloc/releases/tag/5.4.0",
+      "url": "https://github.com/jemalloc/jemalloc/releases/tag/5.4.0",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "メモリ割り当てライブラリ「Jemalloc 5.4.0」がリリース",
+      "summary": "Jemallocのバージョン5.4.0がリリースされた。本リリースにはリファクタリング、バグ修正、テストカバレッジの向上など、160件以上のコミットが含まれる。",
+      "impact": "ライブラリの安定性や保守性が向上するため、Jemallocを利用するソフトウェアシステムのパフォーマンスや信頼性に寄与すると考えられる。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
+    },
+    {
+      "image": "https://techcrunch.com/wp-content/uploads/2023/11/GettyImages-1778706504.jpg?resize=1200,783",
+      "url": "https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-18T21:30:39.431524+09:00",
+      "title": "Microsoft幹部がAIのデータ収集を「史上最大の労働の窃盗」と発言",
+      "summary": "MicrosoftがOpenAIのデータ収集手法を内部で「窃盗」と呼んでいたことが、公開された裁判資料から明らかになった。両社は有料のニュースコンテンツをスクレイピングしてデータセットを構築しており、それが出版社を損なわせるという警告を内部で共有していた。",
+      "impact": "AIモデルの学習データ収集における著作権や知的財産権の問題が改めて問われることとなり、今後のAI開発の規制や出版社との契約関係に影響を与える可能性がある。",
+      "content_at": "2026-09-18T21:30:39.431524+09:00"
     }
   ],
-  "updated_at": "2026-09-18T13:30:41.397955+09:00"
+  "updated_at": "2026-09-18T21:30:39.431524+09:00"
 }
