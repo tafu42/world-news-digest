@@ -2,17 +2,6 @@
   "date": "2026-09-18",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/4fd6d7a1e134059d456b5f57c5a274fe87d7708d/542_0_5417_4335/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/17/meta-ordered-remove-deepfakes-oversight-board-inadequate-safeguards",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-18T06:30:42.188966+09:00",
-      "title": "Metaが英国のディープフェイク削除を命じられる",
-      "summary": "Metaは、労働党議員とイスラム教徒の活動家を装ったAI生成動画を削除しなかったことについて、監視委員会から不適切であると批判された。同社はこれらのフェイク動画を削除するよう命じられている。",
-      "impact": "SNS上のAI生成コンテンツに対する規制や削除基準がより厳格化される可能性がある。プラットフォーム側には、より高度な検知能力と迅速な対応が求められると考えられる。",
-      "content_at": "2026-09-18T06:30:42.188966+09:00"
-    },
-    {
       "image": "",
       "url": "https://openai.com/index/astra-for-law/",
       "category": "海外IT",

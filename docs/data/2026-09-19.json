@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-19",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "なぜ欧州はAI安全性の議論から距離を置いているのか",
+      "summary": "欧州には消費者がAIと接する場面を想定した対策が存在する。しかし、最悪のシナリオが現実となれば技術は社会に影響を及ぼすことになる。",
+      "impact": "今後、欧州の規制方針が世界のAI安全性基準の議論において、どのような立ち位置を確立するかが注目される。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/648eff33e39f20b7ce6ac83750c98957b0aa2efb/449_0_4502_3602/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/could-ai-pose-a-serious-threat-to-our-existence",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "AIは人類の存続に対する脅威となるのか",
+      "summary": "元Anthropicの研究者がAI技術により今世紀末までに人類が滅亡する可能性があると警告したことを受け、読者からの反応が寄せられている。",
+      "impact": "AIの安全性に対する懸念が公に議論されることで、AI開発におけるより厳格な規制や安全対策の重要性が高まる可能性がある。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/cc6d8de560e44b2371d23c434d23bc7aa17bd72f/817_0_4084_3267/500.jpg",
+      "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/18/the-tracks-of-my-tears-my-wife-doesnt-care-about-my-location",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "位置情報共有アプリに対する読者の意見",
+      "summary": "読者から位置情報追跡アプリや天気予報、パルテノン神殿の水たまりなどに関する短い意見が寄せられた。",
+      "impact": "個人のプライバシーと技術による監視の関係について、社会的な議論が続く可能性がある。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/138746ee9f3b3f9b0e05cf7c5f27d417e8478e6d/456_0_4560_3648/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/19/swedish-teenager-jailed-cybercrime-attempted-murder-rape-germany-australia-ntwnfb",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "スウェーデンの10代少年がオンラインでの殺人未遂や強姦で実刑判決",
+      "summary": "「Chai」の名で知られる18歳の少年が、ドイツやオーストラリアの被害者に対するオンラインでの残虐な搾取ネットワークに関与し、殺人未遂や強姦などの罪で収監された。",
+      "impact": "オンラインでの犯罪に対する国際的な捜査と連携が強化され、未成年者によるネット上の暴力的な搾取を防ぐための法規制が進む可能性がある。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f1e841a34d911a660df3a71416d55e346e64d779/660_0_6880_5504/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/a-critical-moment-concern-uk-is-not-up-to-speed-in-acting-on-ai-risks",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "英政府、AIリスクへの対応遅れに懸念",
+      "summary": "アンディ・バーナム氏が国内問題に注力していることから、英国政府のAIリスクに対する優先度が低下しているとの懸念が浮上している。AIを巡る重要な局面において、対応が遅れることが危惧されている。",
+      "impact": "英国政府のAI政策の停滞を招く可能性がある。今後の規制や安全対策の構築において遅れが生じるおそれがある。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "Android 17で新APIのAOSP非公開が開始",
+      "summary": "Android 17では、バージョン3.x以降で初めて、Androidオープンソースプロジェクト（AOSP）への公開を伴わない新しいAPIが追加された。",
+      "impact": "AOSPを利用する開発者や関連製品の互換性に影響を及ぼす可能性がある。オープンソースの定義やOSの公開方針について議論を呼ぶとみられる。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "https://claude-code.mintlify.app/_next/image?url=%2F_mintlify%2Fapi%2Fog%3Fdivision%3DGetting%2Bstarted%26title%3DClaude%2BCode%2Bchangelog%26description%3DRelease%2Bnotes%2Bfor%2BClaude%2BCode%252C%2Bincluding%2Bnew%2Bfeatures%252C%2Bimprovements%252C%2Band%2Bbug%2Bfixes%2Bby%2Bversion.%26theme%3D03628e99c753a03aec319053&amp;w=1200&amp;q=100",
+      "url": "https://code.claude.com/docs/en/changelog",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "Claude Codeが「AGENTS.md」の読み込みに対応",
+      "summary": "Claude Codeのリリースノートにて、Claude.mdが存在しない場合にAGENTS.mdを読み込む機能が追加されたことが報告された。その他、新機能や改善、バグ修正が含まれている。",
+      "impact": "Claude Codeを利用する開発者の設定作業が効率化される可能性がある。自動化やエージェント活用に関するプロジェクト管理手法が変化するかもしれない。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://try.cloudflare.com/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "Cloudflare Quick Tunnelsの提供",
+      "summary": "CloudflareがQuick Tunnelsを提供している。",
+      "impact": "ネットワーク接続やリモートアクセスの設定が簡略化される可能性がある。開発者やインフラ管理者の利便性が向上するとみられる。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M2PFY1FZ7AH3P8JEQCDM9YWH.01M2PFY2XJ3KBV9JD78JMJK88K.png",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "CloudflareがPingoraベースのサービスでRAM使用量を削減",
+      "summary": "Cloudflareが、統計手法を用いてPingoraベースのサービスにおけるRAM使用量を削減した。当初の目標を超えて大幅な削減を実現している。",
+      "impact": "サーバーリソースの最適化が進むことで、グローバルネットワークの運用効率が向上し、サービスの安定性やコスト効率が改善する可能性がある。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "https://developer.apple.com/tutorials/developer-og.jpg",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "Xcode 27.1 ベータ版リリースノート",
+      "summary": "Xcode 27.1のベータ版が公開された。開発者に対し、アプリを更新して新機能を利用し、APIの変更に対応するためのテストを行うよう求めている。",
+      "impact": "開発環境の更新により、アプリ開発者は最新のAPI仕様に準拠した開発を行う必要がある。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2510.03215",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-19T06:31:03.214327+09:00",
+      "title": "LLM間での直接的な意味通信技術「Cache-to-Cache」",
+      "summary": "複数のLLMを組み合わせて性能を向上させるシステムにおいて、従来のテキストベースの通信に代わる新しい手法が提案された。これは内部表現を直接やり取りする手法である。",
+      "impact": "LLM間の情報伝達が効率化されることで、マルチモデルシステムの推論速度や精度が向上する可能性がある。",
+      "content_at": "2026-09-19T06:31:03.214327+09:00"
+    }
+  ],
+  "updated_at": "2026-09-19T06:31:03.214327+09:00"
+}
