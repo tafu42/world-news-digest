@@ -68,39 +68,6 @@
       "content_at": "2026-09-18T06:30:42.188966+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/808eba3e9fc853ef863c9283adc9cfd131207bc7/543_335_2914_2331/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/amazon-minimum-wage-whole-foods-benefit",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-09-18T13:30:41.397955+09:00",
-      "title": "Amazonが最低賃金を時給20ドルに引き上げ、ホールフーズの割引特典を追加",
-      "summary": "Amazonは米国の最低賃金を時給20ドルに引き上げ、新たにホールフーズでの買い物に対する割引特典を導入した。この賃金改定により、同社の給与水準はコストコと同等になった。",
-      "impact": "競合他社も人材確保のために賃金水準の引き上げを余儀なくされる可能性がある。",
-      "content_at": "2026-09-18T13:30:41.397955+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/9c767f0fcd90e963891369fa6bd838b84c415012/194_0_4549_3640/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/why-i-cant-wait-to-get-into-a-driverless-car",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-09-18T13:30:41.397955+09:00",
-      "title": "自動運転車に対する期待の声",
-      "summary": "目の疾患により運転ができないLars Janssen氏は、自動運転車が導入されることを望んでいると述べた。これはAdrian Chiles氏の記事に対する反応として投稿された書簡である。",
-      "impact": "自動運転技術の普及により、身体的な制約を持つ人々の移動手段が拡大し、生活の質の向上が期待される。",
-      "content_at": "2026-09-18T13:30:41.397955+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/b4261d7b8dd8d6c71cd2325bbb24b1f8a7a83d36/379_84_2522_2017/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/16/ai-tech-regulation-government-action-yoshua-bengio",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-09-18T13:30:41.397955+09:00",
-      "title": "AIの父が語る「AI規制はコロナ禍のような転換点に近づいている」",
-      "summary": "AIの安全性に関する危機が深刻化しており、政府による規制強化の動きが加速する可能性があるとヨシュア・ベンジオ氏が指摘した。同氏は、AI規制がコロナ禍における対応のような重要な転換点を迎えつつあると述べている。",
-      "impact": "AI技術の開発と利用に対して、世界規模で厳格な法的枠組みが構築される可能性がある。",
-      "content_at": "2026-09-18T13:30:41.397955+09:00"
-    },
-    {
       "image": "https://www.hacktron.ai/_astro/CwjuS_y3.png",
       "url": "https://www.hacktron.ai/blog/hacking-openai",
       "category": "海外IT",
