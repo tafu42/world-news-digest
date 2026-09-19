@@ -101,28 +101,6 @@
       "content_at": "2026-09-18T13:30:41.397955+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/3ac505ec5bde795c6c333ea6dc7fbaadf38f1a93/354_0_4167_3333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/openai-hacked-anthropic-claude-chatbot",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-18T21:30:39.431524+09:00",
-      "title": "AnthropicのClaudeを用いてOpenAIの倫理的ハッキングが実施される",
-      "summary": "米国のサイバーセキュリティ研究者が、AnthropicのClaudeチャットボットを利用してOpenAIの倫理的ハッキングを行った。研究者は、理論的にアクセス可能な範囲が非常に広大であったと報告している。",
-      "impact": "AIモデルの脆弱性評価に他のAIツールを活用する手法が広まり、より高度なセキュリティ検証が可能になると考えられる。",
-      "content_at": "2026-09-18T21:30:39.431524+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/34734119f9d6178e94ad147c3dae613bf60a1e2b/613_0_4631_3707/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/andrew-hastie-says-ai-advised-him-to-reply-congratulations-to-man-who-planned-to-end-life-with-assisted-dying",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-18T21:30:39.431524+09:00",
-      "title": "AIが自殺を検討する男性への返信を提案、アンドリュー・ハスティ議員が欠陥を指摘",
-      "summary": "自由党のアンドリュー・ハスティ議員が、安楽死を検討する男性への返信としてAIが「おめでとう！」という提案を行った事例を挙げ、AIの欠陥を指摘した。一方、サイバー担当者は悪意ある攻撃者に対抗するためにはAI技術が必要であると証言した。",
-      "impact": "AIの安全性と判断力に対する懸念が深まり、公的機関によるAI利用のガイドライン策定や監視が強化される可能性がある。",
-      "content_at": "2026-09-18T21:30:39.431524+09:00"
-    },
-    {
       "image": "",
       "url": "https://blog.liampwll.com/posts/bend_vibe_coding/",
       "category": "海外IT",
