@@ -1,0 +1,72 @@
+{
+  "date": "2026-09-21",
+  "articles": [
+    {
+      "image": "https://wimg.sedaily.com/news/cms/2026/09/20/rcv.YNA.20260318.PYH2026031803840001300_P1.jpg",
+      "url": "https://en.sedaily.com/finance/2026/09/20/samsung-to-double-hbm4-output-next-year-sources-say",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-21T06:30:39.307251+09:00",
+      "title": "サムスン電子、HBM4およびHBM4Eの生産量を倍増へ",
+      "summary": "サムスン電子は来年、HBM4とHBM4Eの生産量を2倍以上に増やす方針である。これに伴い、ガラスキャリアの需要も2.5倍に増加するとみられている。",
+      "impact": "次世代半導体メモリの供給量が増加することで、AI開発に関連するハードウェア市場に影響を与える可能性がある。",
+      "content_at": "2026-09-21T06:30:39.307251+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://seldo.com/posts/nobody-pays-for-open-source-we-can-force-them-to/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-21T06:30:39.307251+09:00",
+      "title": "フリーソフトウェア（FOSS）への課金強制の是非",
+      "summary": "誰もフリーソフトウェアに対して対価を支払っていないとし、強制的に支払わせることが可能であるという主張がなされている。",
+      "impact": "フリーソフトウェアの提供モデルが今後見直され、コミュニティの運営方針や開発体制に変化が生じる可能性がある。",
+      "content_at": "2026-09-21T06:30:39.307251+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-other-websites-via-ad-collector/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-21T06:30:39.307251+09:00",
+      "title": "ChatGPTの広告収集機能による他サイトの行動追跡",
+      "summary": "OpenAIの広告収集機能が、ChatGPTのアカウントに紐付いたCookieを外部サイトでも送信する仕様になっている。このCookieはユーザーが外部サイトを閲覧する際にOpenAIへ送られる。",
+      "impact": "ユーザーの行動データが広範囲に収集されることで、プライバシー保護の観点から議論が活発化する可能性がある。",
+      "content_at": "2026-09-21T06:30:39.307251+09:00"
+    },
+    {
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "url": "https://qwen.ai/blog?id=qwen-image-2.1",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-21T06:30:39.307251+09:00",
+      "title": "Qwen Image 2.1の発表",
+      "summary": "Qwen Image 2.1が発表された。",
+      "impact": "画像処理技術の向上により、関連するAIサービスやアプリケーションの開発に活用される可能性がある。",
+      "content_at": "2026-09-21T06:30:39.307251+09:00"
+    },
+    {
+      "image": "https://pirateface.co/og/home",
+      "url": "https://pirateface.co/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-21T06:30:39.307251+09:00",
+      "title": "LLMモデルを削除から救う「Pirate Face」",
+      "summary": "LLMモデルをチェックサムで検証可能なマグネットリンクとして共有する仕組み。削除不可能な状態で分散ネットワークを通じて配布される。",
+      "impact": "AIモデルの配布やアクセス制限に対する耐性が向上する可能性がある。著作権や利用規約の遵守という観点から、法的な議論を呼ぶとみられる。",
+      "content_at": "2026-09-21T06:30:39.307251+09:00"
+    },
+    {
+      "image": "https://www.dxomark.com/wp-content/uploads/medias/post-194000/iPhone-18-Pro-Max.png",
+      "url": "https://www.dxomark.com/apple-iphone-18-pro-camera-test/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-21T06:30:39.307251+09:00",
+      "title": "iPhone 18 Proのカメラ性能テスト",
+      "summary": "Apple iPhone 18 Proのカメラ性能がスコア172を記録した。ダイナミックレンジ、手ブレ補正、可変絞りの向上が特徴である。",
+      "impact": "スマートフォンのカメラ技術における新たな標準として市場に影響を与える可能性がある。ユーザーによる高画質な撮影機会の拡大が期待される。",
+      "content_at": "2026-09-21T06:30:39.307251+09:00"
+    }
+  ],
+  "updated_at": "2026-09-21T06:30:39.307251+09:00"
+}
