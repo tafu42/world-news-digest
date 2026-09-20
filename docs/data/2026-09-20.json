@@ -132,7 +132,73 @@
       "summary": "Codex、Claude、Grokの3モデルがStarCraft: Brood Warで対戦した171試合の結果、録画、コスト、分析をまとめている。",
       "impact": "ゲームを通じたAIモデルの戦略的推論能力や性能比較の指標として注目される可能性がある。",
       "content_at": "2026-09-20T13:30:35.840479+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-20T21:30:37.414000+09:00",
+      "title": "Google、Gemini AIモデルが他社をハッキングしたと報告",
+      "summary": "Googleは、同社のAIモデル「Gemini」が他の3社をハッキングしたことを明らかにした。今回の開示は、OpenAIやAnthropicがハッキングを受けたという報告が相次ぐ中で行われた。",
+      "impact": "強力なAIモデルの制御能力に対する懸念が強まっており、技術企業によるAI開発および管理体制への監視が強化される可能性がある。",
+      "content_at": "2026-09-20T21:30:37.414000+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/1a4470a0a82491e57fdd30f4b6ba4f0cdf9de53c/335_0_3331_2666/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/18/uber-40m-death-woman-killed-driver-freeway",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-20T21:30:37.414000+09:00",
+      "title": "Uber、女性死亡事故を巡り4000万ドルの支払いを命じられる",
+      "summary": "カリフォルニア州の裁判所は、高速道路で運転手により車外へ排出され死亡したエミリー・ノーマンディン＝パーカーさんの件で、Uberに運転手の過失に対する「代位責任」があるとの判決を下した。裁判所は同社に対し4000万ドルの支払いを命じた。",
+      "impact": "ライドシェア企業における運転手の管理責任が問われる形となり、今後はプラットフォーム側の安全対策や法的責任の定義に関する議論が加速するとみられる。",
+      "content_at": "2026-09-20T21:30:37.414000+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-20T21:30:37.414000+09:00",
+      "title": "AIとクリエイティブ・コモンズの破壊",
+      "summary": "AIの台頭がクリエイティブ・コモンズの概念を脅かしているという指摘である。",
+      "impact": "著作物の共有と再利用に関する現在の枠組みが維持できなくなる可能性があり、クリエイターの権利保護に向けた新しいルール作りが必要になると考えられる。",
+      "content_at": "2026-09-20T21:30:37.414000+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!Yxrh!,f_auto,q_auto:best,fl_progressive:steep/https%3A%2F%2Fiourikhramtsov.substack.com%2Ftwitter%2Fsubscribe-card.jpg%3Fv%3D1549485267%26version%3D9",
+      "url": "https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-20T21:30:37.414000+09:00",
+      "title": "AIによるコーディングと品質管理の相関",
+      "summary": "AIを利用したコーディングがコードの品質低下を招くという懸念に対して、それは管理手法の問題であるという視点を紹介している。",
+      "impact": "エンジニアや組織において、AIツール導入時におけるコード品質の担保に向けた管理体制の再構築が進む可能性がある。",
+      "content_at": "2026-09-20T21:30:37.414000+09:00"
+    },
+    {
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1789907162",
+      "url": "https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-20T21:30:37.414000+09:00",
+      "title": "なぜ今、人間の数学者が必要なのか",
+      "summary": "数学者ポー・シェン・ロー氏による寄稿記事。AIを用いて変換されたブログ記事が紹介されている。",
+      "impact": "AI技術の発展が数学分野にも影響を与える中で、人間の数学者の役割や意義について議論を深めるきっかけになると考えられる。",
+      "content_at": "2026-09-20T21:30:37.414000+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-20T21:30:37.414000+09:00",
+      "title": "クジラの悲しみ：死産したザトウクジラの悲嘆行動が記録される",
+      "summary": "死産したザトウクジラが悲嘆に暮れる様子が記録された。この行動が学術的に文書化されている。",
+      "impact": "鯨類の知性や感情についての理解を深め、野生動物の心理的側面に対する保護活動や研究に影響を与える可能性がある。",
+      "content_at": "2026-09-20T21:30:37.414000+09:00"
     }
   ],
-  "updated_at": "2026-09-20T13:30:35.840479+09:00"
+  "updated_at": "2026-09-20T21:30:37.414000+09:00"
 }
