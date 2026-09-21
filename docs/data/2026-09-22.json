@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-22",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/052b2447feb6c3258cfe4c4f883125d7116c6c47/250_0_2500_2000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/stop-relying-on-chatbots-for-customer-care-uk-service-providers-urged",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "英市民団体、顧客対応におけるチャットボットへの依存中止を要請",
+      "summary": "市民団体Citizens Adviceは、エネルギーや銀行、通信等のサービス提供者に対し、人間と直接対話できる権利を保証するよう求めた。自動化が進む顧客対応において、対人サポートの確保を重視する姿勢を示した。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00",
+      "impact": "企業が顧客対応の自動化を見直し、人間によるサポート体制を強化する動きにつながる可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/fe396fd7cd552ed8efd2ede0c9544f9edd4885d2/227_0_3240_2592/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/meta-ban-virginia-woolf-a-room-of-ones-own-barcelona-teatre-raval",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "Meta、スペインでフェミニズム関連の演劇広告を禁止",
+      "summary": "Metaは、フェミニズムや公民権といった社会的話題に関する広告をフィルタリングしており、スペインの演劇広告がその対象となった。同社はプラットフォーム上の広告審査ポリシーに基づき、これらのトピックを制限している。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00",
+      "impact": "SNS上の広告審査基準が、文化活動や社会的なメッセージの発信に制約を与える可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://mimo.xiaomi.com/mimo-v2-6",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "Xiaomi MiMo v2.6の概要",
+      "summary": "Xiaomi MiMo v2.6に関する情報である。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00",
+      "impact": "提供された情報が限定的であるため、社会的な影響を評価することは困難である。"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/article/nasa-s-mars-sample-return-mission-dead",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "NASAとESAによる火星サンプルリターンミッションが中止",
+      "summary": "NASAとESA（欧州宇宙機関）による火星サンプルリターンミッションが中止された。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00",
+      "impact": "火星探査計画の大幅な見直しや、今後の宇宙探査戦略に影響を与える可能性がある。"
+    },
+    {
+      "image": "https://poloclub.github.io/transformer-explainer/preview/summary.png",
+      "url": "https://poloclub.github.io/transformer-explainer/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "Transformerモデルの視覚的解説",
+      "summary": "大規模言語モデル（LLM）におけるTransformerの仕組みを解説する対話型可視化ツールが公開された。GPTなどのモデルの動作を視覚的に確認できる。",
+      "impact": "開発者や学習者がLLMの内部構造を理解する助けとなり、AI技術の透明性や教育の質の向上に寄与する可能性がある。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "Sunの誤りとは何か",
+      "summary": "Sunが何を誤ったのかについて述べられている。",
+      "impact": "特定の対象についての誤りが指摘されており、関係者や利用者の見解に影響を与える可能性がある。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00"
+    },
+    {
+      "image": "https://www.alicegg.tech/assets/2026-09-21-attention/tetris.jpg",
+      "url": "https://alicegg.tech/2026/09/21/attention",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "Attentionが必要なすべて",
+      "summary": "Attentionの重要性について述べられている。",
+      "impact": "AIモデルの設計思想においてAttentionメカニズムが持つ重要性が強調されているとみられる。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00"
+    },
+    {
+      "image": "https://safedep.io/images/mathmain-encrypted-loader-banner.png",
+      "url": "https://safedep.io/mathmain-encrypted-loader/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-22T06:30:37.846090+09:00",
+      "title": "mathmainが暗号化ローダーを必要とする理由",
+      "summary": "数学ソルバーであるmathmainに関連するnpmパッケージ内に暗号化されたコードが含まれている。ローダーやトリガー行列、リモートアクセスペイロードの追跡結果が記されている。",
+      "impact": "オープンソースパッケージにおけるセキュリティリスクを示唆しており、依存関係の安全性検証の重要性が高まる可能性がある。",
+      "content_at": "2026-09-22T06:30:37.846090+09:00"
+    }
+  ],
+  "updated_at": "2026-09-22T06:30:37.846090+09:00"
+}
