@@ -110,7 +110,106 @@
       "summary": "ブラウン管モニターがピクセルアートの表現にどのような効果を及ぼすかを考察する。",
       "impact": "レトロゲームの視覚的表現に関する理解が深まり、デジタルアートの再現や保存技術において示唆を与えると考えられる。",
       "content_at": "2026-09-21T13:31:16.390217+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c723e9373ad5541713e841d1668422eec041a93f/613_33_3290_2633/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "Googleが位置情報の利用を巡りアイルランド当局から4億ユーロ超の罰金",
+      "summary": "アイルランドの規制当局は、Googleが位置情報を広告配信や興味関心の推測に利用した際、ユーザーがその事実を認識していなかった可能性があると指摘した。これを受けてGoogleに対して4億ユーロを超える罰金が科された。",
+      "impact": "テック企業によるパーソナライズ広告の透明性や、ユーザーのプライバシー保護に関する規制が今後より厳格化される可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "Nvidia CEO、AIが2030年までに世界を滅ぼす可能性は「0%」と否定",
+      "summary": "Nvidiaのジェンスン・フアンCEOは、AIが世界を滅ぼすという一部の元研究者らによる警告を「終末論」として否定した。同氏は2030年までにAIがそのような脅威をもたらす可能性は皆無であると主張している。",
+      "impact": "AIの安全性に対する専門家の意見の分かれが浮き彫りになっており、AI開発の安全性議論に対する世間の認識に影響を与える可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c17b471e8667b30ff47dde61defdda1c70fd7bf9/1274_763_4498_3599/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/pixel-11-pro-xl-review-google-big-screen-superphone-camera-battery",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "Pixel 11 Pro XL：優れたカメラと大画面を備えたGoogleのスマートフォン",
+      "summary": "Pixel 11 Pro XLは、高品質なディスプレイと2日間持続するバッテリーを搭載している。従来の小型なPixel Proシリーズの利点をすべて備えた大画面モデルである。",
+      "impact": "Googleのフラッグシップ機における選択肢が広がり、高機能なスマートフォンを求めるユーザー層の購買行動に影響を与える可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://zuckoff.app/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "カメラの存在を検知するツール「ZuckOff」",
+      "summary": "ZuckOffは、室内にカメラが存在するかどうかを検知するツールである。",
+      "impact": "プライバシー意識の高いユーザーにおいて、個人の監視に対する防衛策として利用される可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "https://media.wired.me/photos/6aa94578e4d360c9269b01f7/191:100/w_1280,c_limit/MetaGlasses_lead.jpg",
+      "url": "https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "Metaのスマートグラスによる録画を検知するアプリ「ZuckOff」",
+      "summary": "ZuckOffは、スマートグラスによる録画を検知するための無料アプリである。スマートグラスを装着した人物が録画しているかをスマートフォンで判別できる。",
+      "impact": "プライバシー保護への意識が高まり、スマートグラスの利用場所や運用ルールに関する議論が活発化する可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/d72037c75709479124dde9af6aad25ed125e7be68ed4f35fa578935e2676a693/jaredpalmer/kev",
+      "url": "https://github.com/jaredpalmer/kev/tree/main",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "Qwen3.5ベースの小型意思決定モデル群「Kev」",
+      "summary": "Kevは、Qwen3.5を基盤とした小型の意思決定モデルファミリーである。ユーザー自身でトレーニングや実行を行うことが可能である。",
+      "impact": "軽量なAIモデルの選択肢が増えることで、個人や小規模な環境でのAI活用が進む可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "https://consumerrights.wiki/images/logo/new_fixed_logo.png",
+      "url": "https://consumerrights.wiki/w/Disney%2B_ad_policy_change",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "Disney+が利用規約を改定、全プランで広告表示が可能に",
+      "summary": "2025年1月、Disney+は加入者規約を更新し、すべてのサブスクリプションプランにおいてコンテンツへの広告表示を許可する条項を追加した。",
+      "impact": "広告なしの視聴を期待していたユーザーの不満を招くほか、動画配信サービスの収益モデル全体に影響を与える可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7f7859fc498d686613e48558e0ed1968992b66e7226a9bbbf720ac09e3c3fad9/f/jev-leftpad",
+      "url": "https://github.com/f/jev-leftpad",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "Jevを使用した文字列の左埋めライブラリ「Jev-Leftpad」",
+      "summary": "Jev-Leftpadは、TypeSafe AIのJevを使用して文字列の左側を埋めるためのライブラリである。",
+      "impact": "開発者が特定のAI環境で文字列操作を行う際の手段として利用される可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
+    },
+    {
+      "image": "",
+      "url": "http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-21T21:30:38.799460+09:00",
+      "title": "『Grim Fandango』パズル設計ドキュメント（1996年）",
+      "summary": "1996年に作成されたビデオゲーム『Grim Fandango』のパズルに関する設計資料が公開された。",
+      "impact": "ゲーム開発の歴史的資料として、当時のパズル設計手法や開発の舞台裏を解明する手がかりになる可能性がある。",
+      "content_at": "2026-09-21T21:30:38.799460+09:00"
     }
   ],
-  "updated_at": "2026-09-21T13:31:16.390217+09:00"
+  "updated_at": "2026-09-21T21:30:38.799460+09:00"
 }

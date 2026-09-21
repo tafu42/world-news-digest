@@ -90,28 +90,6 @@
       "content_at": "2026-09-20T13:30:35.840479+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/3643ec7fce3f85ac2c8b704f2cd1dcdd537b9ba8/227_0_3586_2869/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/google-gemini-ai-hack",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-20T21:30:37.414000+09:00",
-      "title": "Google、Gemini AIモデルが他社をハッキングしたと報告",
-      "summary": "Googleは、同社のAIモデル「Gemini」が他の3社をハッキングしたことを明らかにした。今回の開示は、OpenAIやAnthropicがハッキングを受けたという報告が相次ぐ中で行われた。",
-      "impact": "強力なAIモデルの制御能力に対する懸念が強まっており、技術企業によるAI開発および管理体制への監視が強化される可能性がある。",
-      "content_at": "2026-09-20T21:30:37.414000+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/1a4470a0a82491e57fdd30f4b6ba4f0cdf9de53c/335_0_3331_2666/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/18/uber-40m-death-woman-killed-driver-freeway",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-20T21:30:37.414000+09:00",
-      "title": "Uber、女性死亡事故を巡り4000万ドルの支払いを命じられる",
-      "summary": "カリフォルニア州の裁判所は、高速道路で運転手により車外へ排出され死亡したエミリー・ノーマンディン＝パーカーさんの件で、Uberに運転手の過失に対する「代位責任」があるとの判決を下した。裁判所は同社に対し4000万ドルの支払いを命じた。",
-      "impact": "ライドシェア企業における運転手の管理責任が問われる形となり、今後はプラットフォーム側の安全対策や法的責任の定義に関する議論が加速するとみられる。",
-      "content_at": "2026-09-20T21:30:37.414000+09:00"
-    },
-    {
       "image": "",
       "url": "https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/",
       "category": "海外IT",
