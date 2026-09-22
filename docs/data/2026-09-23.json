@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/db05d15613eea51421b54c74416bf8532ac0f63f/390_0_2874_2299/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/uk-tech-workers-do-you-want-to-join-a-trade-union",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "イギリスのテック業界労働者への労働組合加入に関する調査",
+      "summary": "テック業界で働く人々に対し、労働組合への加入に関する意見を募集している。業界内での労働者の意向を把握しようとする試みである。",
+      "impact": "この調査の結果次第では、テック業界における労働組合の組織化が加速する可能性がある。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b95961888853edd0e0b05c5fb70cd7d1564b943e/418_0_3930_3145/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/ai-doomsday-trump-xi",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "AIの脅威と米中首脳会談の行方",
+      "summary": "AIの破滅的リスクに対する世界的な懸念が高まる中、来週ドナルド・トランプ氏と習近平氏の会談が行われる。しかし、両首脳がAI規制で合意に至る可能性は低いとみられる。",
+      "impact": "世界的なAI規制の枠組み作りにおいて、主要国間の合意形成が困難な状況が続く可能性がある。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c723e9373ad5541713e841d1668422eec041a93f/613_33_3290_2633/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
+      "category": "テクノロジー",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "アイルランド当局、Googleに4億ユーロ超の制裁金を科す",
+      "summary": "アイルランドの規制当局は、Googleが位置情報を広告配信や興味関心の推測に利用していたことを問題視し、4億ユーロ以上の制裁金を科した。ユーザーが自身の情報利用について十分に認識していなかった可能性があるとしている。",
+      "impact": "企業によるデータ収集と広告利用に対する規制当局の監視がより厳格化し、テック企業はプライバシーポリシーの見直しを迫られる可能性がある。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "GPT-6 SolおよびLunaについて",
+      "summary": "GPT-6の名称として「Sol」および「Luna」が挙げられている。",
+      "impact": "現時点では名称以上の詳細が不明であり、社会への具体的な影響は判断できない。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/4zrzovbb/website/f4d37a1d1f582f53f4e89440062b649b6273a093-1200x630.jpg",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "Claude Opus 5.5の発表",
+      "summary": "Claude Opus 5.5は、エージェント型のコーディングやナレッジワークにおいて優れた性能を発揮する。従来のOpus 5と比較して、一般的な作業負荷における運用コストを40%削減した。",
+      "impact": "開発者や企業のAI活用におけるコスト効率が向上し、より複雑なエージェント型タスクへの導入が進む可能性がある。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://foxscript.org/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "Visual FoxProの現代版として復活",
+      "summary": "Visual FoxPro 9向けに、Electron、React、Rustベースの仮想マシンを組み合わせた現代的なIDEと64ビットランタイムが開発された。同言語の機能を維持しつつ、新たな実行環境で動作する。",
+      "impact": "既存のVisual FoxProアプリケーションの保守や運用が、現代の環境下でも継続しやすくなると考えられる。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/2026/09/8136629475_f6f0b408b3_z.jpg",
+      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "FBI職員の個人情報流出をハッカーが主張",
+      "summary": "ハッカー集団がFBI職員全員のデータを保有していると主張しており、5,000人分のサンプルには氏名や住所、電話番号などが含まれている。このサンプルはメディアによって確認された。",
+      "impact": "対象となった職員の安全が脅かされるほか、政府機関のセキュリティ対策に対する信頼が低下する可能性がある。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "OpenAIのGPT-6 Astraがエニグマの暗号を解読",
+      "summary": "OpenAIのGPT-6 Astraが、2005年から未解読であったエニグマのメッセージを解読した。",
+      "impact": "AIの高度な暗号解読能力が証明されたことで、学術研究やセキュリティ分野においてAI活用の新たな可能性が広がるとみられる。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    },
+    {
+      "image": "https://artificialanalysis.ai/en/models/claude-opus-5-5/opengraph-image?ea6b93c60ecab06d",
+      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
+      "category": "海外IT",
+      "time": "06:31",
+      "collected_at": "2026-09-23T06:31:00.511606+09:00",
+      "title": "Anthropic社「Claude Opus 5.5」の性能と価格の分析",
+      "summary": "Anthropic社のAIモデル「Claude Opus 5.5」について、アダプティブ・リーズニングや最大負荷時の挙動などの特徴を解説する。他のAIモデルと比較し、品質や価格、トークン処理速度、コンテキストウィンドウなどの主要指標を検証している。",
+      "impact": "AI開発者や企業がモデル選定を行う際の基準となり、用途に応じた最適なAIモデルの導入が進む可能性がある。",
+      "content_at": "2026-09-23T06:31:00.511606+09:00"
+    }
+  ],
+  "updated_at": "2026-09-23T06:31:00.511606+09:00"
+}
