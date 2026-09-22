@@ -101,39 +101,6 @@
       "content_at": "2026-09-21T13:31:16.390217+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/c723e9373ad5541713e841d1668422eec041a93f/613_33_3290_2633/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/21/google-is-fined-more-than-400m-by-irish-regulator-over-its-use-of-location-data",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-21T21:30:38.799460+09:00",
-      "title": "Googleが位置情報の利用を巡りアイルランド当局から4億ユーロ超の罰金",
-      "summary": "アイルランドの規制当局は、Googleが位置情報を広告配信や興味関心の推測に利用した際、ユーザーがその事実を認識していなかった可能性があると指摘した。これを受けてGoogleに対して4億ユーロを超える罰金が科された。",
-      "impact": "テック企業によるパーソナライズ広告の透明性や、ユーザーのプライバシー保護に関する規制が今後より厳格化される可能性がある。",
-      "content_at": "2026-09-21T21:30:38.799460+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/b253374373d90df65a80636c48e0e49c982a8f75/266_0_4968_3974/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/21/nvidia-boss-jensen-huang-dismisses-warnings-ai-destroys-world-anthropic",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-21T21:30:38.799460+09:00",
-      "title": "Nvidia CEO、AIが2030年までに世界を滅ぼす可能性は「0%」と否定",
-      "summary": "Nvidiaのジェンスン・フアンCEOは、AIが世界を滅ぼすという一部の元研究者らによる警告を「終末論」として否定した。同氏は2030年までにAIがそのような脅威をもたらす可能性は皆無であると主張している。",
-      "impact": "AIの安全性に対する専門家の意見の分かれが浮き彫りになっており、AI開発の安全性議論に対する世間の認識に影響を与える可能性がある。",
-      "content_at": "2026-09-21T21:30:38.799460+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/c17b471e8667b30ff47dde61defdda1c70fd7bf9/1274_763_4498_3599/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/21/pixel-11-pro-xl-review-google-big-screen-superphone-camera-battery",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-21T21:30:38.799460+09:00",
-      "title": "Pixel 11 Pro XL：優れたカメラと大画面を備えたGoogleのスマートフォン",
-      "summary": "Pixel 11 Pro XLは、高品質なディスプレイと2日間持続するバッテリーを搭載している。従来の小型なPixel Proシリーズの利点をすべて備えた大画面モデルである。",
-      "impact": "Googleのフラッグシップ機における選択肢が広がり、高機能なスマートフォンを求めるユーザー層の購買行動に影響を与える可能性がある。",
-      "content_at": "2026-09-21T21:30:38.799460+09:00"
-    },
-    {
       "image": "",
       "url": "https://zuckoff.app/",
       "category": "海外IT",
