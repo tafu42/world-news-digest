@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-24",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-24T06:30:38.099832+09:00",
+      "title": "「昔のGoogleが恋しい」：AI時代の検索行動の変化",
+      "summary": "AIによる概要表示機能の導入が検索体験に大きな変化をもたらしている。この影響により、何十億人ものユーザーの検索習慣が変容している。",
+      "impact": "今後、AIが提供する情報を信頼し活用する検索スタイルがより一般化し、従来のリンクをクリックする検索行動がさらに減少していく可能性がある。",
+      "content_at": "2026-09-24T06:30:38.099832+09:00"
+    },
+    {
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-24T06:30:38.099832+09:00",
+      "title": "ClaudeがCRISPR様反復配列を持つ新しい酵素システムを発見",
+      "summary": "新設されたライフサイエンス研究ラボの初期段階の成果として、Claudeが機能未解明の新しい酵素システムを発見した。",
+      "impact": "AIが生物学的な発見を加速させる可能性を示しており、今後未知の遺伝子編集技術や新たな医療応用への道が開かれることが期待される。",
+      "content_at": "2026-09-24T06:30:38.099832+09:00"
+    },
+    {
+      "image": "https://claude.dev/blog/how-we-made-claude-ai-faster/og.png",
+      "url": "https://claude.dev/blog/how-we-made-claude-ai-faster/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-24T06:30:38.099832+09:00",
+      "title": "Claudeのパフォーマンス向上：3,000の変更を安全に実装した手法",
+      "summary": "Claudeの開発チームは独自のベンチマーク構築やループ処理の最適化を行い、3,000件もの変更を安全に実装した。",
+      "impact": "こうした開発手法や安全のためのガードレールが確立されることで、AIモデルのアップデート速度と安定性が今後さらに高まる可能性がある。",
+      "content_at": "2026-09-24T06:30:38.099832+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pointinthecloud.com/2026-04-11-211700.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-24T06:30:38.099832+09:00",
+      "title": "ポートベロー警察署の時計の修理",
+      "summary": "ポートベロー警察署の時計を修理する取り組みが行われた。",
+      "impact": "時計が正常に機能することで、地域コミュニティにおける正確な時間の周知という小さな利便性が改善されると考えられる。",
+      "content_at": "2026-09-24T06:30:38.099832+09:00"
+    },
+    {
+      "image": "https://devblogs.microsoft.com/oldnewthing/wp-content/uploads/sites/38/2019/02/ShowCover.jpg",
+      "url": "https://devblogs.microsoft.com/oldnewthing/20260922-00/?p=112719/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-24T06:30:38.099832+09:00",
+      "title": "Windowsのスクロールバーショートカットの歴史",
+      "summary": "Windowsのスクロールバーにおける右クリックとシフトクリックの操作について述べられている。",
+      "impact": "特定の操作方法の認知が広まる可能性がある。",
+      "content_at": "2026-09-24T06:30:38.099832+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://apnews.com/article/italy-nuclear-chernobyl-4891b6b7c7791ae84db6b0bf0f7cf567",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-24T06:30:38.099832+09:00",
+      "title": "イタリア議会、原子力発電への回帰を可決",
+      "summary": "イタリア議会が原子力発電への回帰を投票で決定した。",
+      "impact": "同国のエネルギー政策が転換し、今後の電力供給体制に大きな影響を与える可能性がある。",
+      "content_at": "2026-09-24T06:30:38.099832+09:00"
+    },
+    {
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/apple/LensVLM-9B.png",
+      "url": "https://huggingface.co/apple/LensVLM-9B",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-24T06:30:38.099832+09:00",
+      "title": "LensVLM：長文脈を画像として圧縮し、関連ページのみを展開する技術",
+      "summary": "オープンソースとオープンサイエンスを通じて人工知能の発展と民主化を目指す取り組みが示されている。",
+      "impact": "AI技術のオープンな発展により、関連分野の研究や開発が促進される可能性がある。",
+      "content_at": "2026-09-24T06:30:38.099832+09:00"
+    }
+  ],
+  "updated_at": "2026-09-24T06:30:38.099832+09:00"
+}
