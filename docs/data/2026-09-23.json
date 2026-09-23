@@ -143,7 +143,77 @@
       "summary": "Waymoが電車を利用する人に対して報酬を支払う「Transit rewards」という取り組みが行われている。",
       "impact": "公共交通機関の利用が促進され、移動手段の多様化や都市部の交通最適化につながる可能性がある。",
       "content_at": "2026-09-23T13:30:40.147581+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/b6c4a5ca2a7c384a2d34ecc6aa663401f7130433/369_0_1774_1419/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/23/andy-burnham-national-centre-russian-disinformation-deepfakes",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-23T21:30:42.536866+09:00",
+      "title": "英首相、ロシア等の「情報戦」に対抗する新機関を国連で表明",
+      "summary": "英国のバーナム首相は、偽情報やディープフェイクを防ぐための「国家情報防衛センター」を設立すると国連で述べた。有害な情報の拡散を食い止めることを目的としている。",
+      "impact": "英国において偽情報対策が強化されることで、国家の安全保障に関する意識が高まる可能性がある。",
+      "content_at": "2026-09-23T21:30:42.536866+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/46cd27119d365fb4e0fcb8b1a7e4456e941a3908/1245_0_4590_3674/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/22/british-columbia-sues-openai-sam-altman-tumbler-ridge-school-shooting",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-23T21:30:42.536866+09:00",
+      "title": "カナダ・BC州、OpenAIとサム・アルトマン氏を提訴",
+      "summary": "カナダのブリティッシュコロンビア州が、銃乱射事件に関連してOpenAIとサム・アルトマン氏を提訴した。同州は、同社がChatGPTの使用について警察に警告していれば事件を防げたと主張している。",
+      "impact": "AI企業の管理責任が問われることで、生成AIと犯罪の関連性に関する法的議論が加速する可能性がある。",
+      "content_at": "2026-09-23T21:30:42.536866+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/77babae0a544c93dd1accdbba7a706ddedcc6cd4/456_0_7280_5820/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/21/black-employees-accuse-tesla-fostering-discrimination",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-23T21:30:42.536866+09:00",
+      "title": "テスラ黒人従業員らが人種差別で提訴、大規模な裁判へ",
+      "summary": "テスラのカリフォルニア州の旗艦工場において、黒人従業員が長年にわたり蔓延する人種差別にさらされていたと弁護士らが指摘している。同社の人種差別的環境を巡る主要な裁判が開始された。",
+      "impact": "大手企業における職場環境や差別の是正に向けた社会的圧力が強まる可能性がある。",
+      "content_at": "2026-09-23T21:30:42.536866+09:00"
+    },
+    {
+      "image": "https://www.nobodywho.ai/assets/images/blog/2026/jev-in-25-lines/jev.png",
+      "url": "https://www.nobodywho.ai/posts/jev-in-25-lines/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-23T21:30:42.536866+09:00",
+      "title": "Jevを25行のPythonコードで実装",
+      "summary": "話題となっているJevを、25行のPythonコードで実装する方法が公開された。",
+      "impact": "開発者コミュニティにおいて、Jevの実装に対する関心やプログラミングの効率化に関する議論が活発化する可能性がある。",
+      "content_at": "2026-09-23T21:30:42.536866+09:00"
+    },
+    {
+      "en_title": "Z80 REPL",
+      "en_text": "Z80 REPL",
+      "image": "",
+      "url": "https://abagames.github.io/z80-repl/index.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-23T21:30:42.536866+09:00",
+      "title": "Z80 REPL",
+      "summary": "Z80 REPL",
+      "content_at": "2026-09-23T21:30:42.536866+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "The darker side of being a doctor",
+      "en_text": "The darker side of being a doctor",
+      "image": "",
+      "url": "https://drericlevi.pages.dev/the-darker-side-of-being-a-doctor/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-23T21:30:42.536866+09:00",
+      "title": "The darker side of being a doctor",
+      "summary": "The darker side of being a doctor",
+      "content_at": "2026-09-23T21:30:42.536866+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-09-23T13:30:40.147581+09:00"
+  "updated_at": "2026-09-23T21:30:42.536866+09:00"
 }
