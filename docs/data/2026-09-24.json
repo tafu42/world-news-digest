@@ -2,17 +2,6 @@
   "date": "2026-09-24",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/ffd8b81bb89825ac3c9c9f556c5c615c03157e40/99_1102_3623_2899/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/23/google-readers-respond-ai-overview-internet-searches",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-24T06:30:38.099832+09:00",
-      "title": "「昔のGoogleが恋しい」：AI時代の検索行動の変化",
-      "summary": "AIによる概要表示機能の導入が検索体験に大きな変化をもたらしている。この影響により、何十億人ものユーザーの検索習慣が変容している。",
-      "impact": "今後、AIが提供する情報を信頼し活用する検索スタイルがより一般化し、従来のリンクをクリックする検索行動がさらに減少していく可能性がある。",
-      "content_at": "2026-09-24T06:30:38.099832+09:00"
-    },
-    {
       "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/394de337d8a5d8db93a1c048fa1cb53e16a09625-2048x1240.jpg",
       "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "category": "海外IT",
@@ -222,18 +211,16 @@
       "content_at": "2026-09-24T21:30:39.538685+09:00"
     },
     {
-      "en_title": "RAM: the forgotten history (2024)",
-      "en_text": "We owe computers not to Charles Babbage, but to the invention of electronically-controlled working memory.",
       "image": "https://substackcdn.com/image/fetch/$s_!A_Cr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac772573-c5f6-425e-adbd-20dd4202206f_2000x1334.jpeg",
       "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-09-24T21:30:39.538685+09:00",
-      "title": "RAM: the forgotten history (2024)",
-      "summary": "We owe computers not to Charles Babbage, but to the invention of electronically-controlled working memory.",
-      "content_at": "2026-09-24T21:30:39.538685+09:00",
-      "pending": true
+      "title": "RAM：忘れ去られた歴史（2024年版）",
+      "summary": "今日のコンピュータの存在は、チャールズ・バベッジではなく、電子制御された動作メモリの発明によるものである。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00",
+      "impact": "コンピュータ史における動作メモリの重要性が再評価される可能性がある。"
     }
   ],
-  "updated_at": "2026-09-24T21:30:39.538685+09:00"
+  "updated_at": "2026-09-25T06:30:41.082686+09:00"
 }

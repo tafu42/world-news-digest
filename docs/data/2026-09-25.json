@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-25",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/9_0_686_549/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "英最大のAIスパコン、電力供給の問題で稼働が遅延",
+      "summary": "政府が期待を寄せていたデータセンターは来年の稼働開始を予定していたが、2030年代半ばまで遅れる可能性がある。電力供給の問題が原因である。",
+      "impact": "英国のAI開発戦略や技術的競争力に影響を及ぼす可能性がある。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/2287161b2efa6961e3b5edbce7518edc37e98666/1142_182_4369_3497/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/24/parents-children-ai-social-media",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "保護者が抱く子供のSNSやAI利用に対する意識の変化について",
+      "summary": "テクノロジー企業に対する監視の目が厳しくなる中で、子供とテクノロジーの関係性に対する保護者の考えに変化が生じているかについて意見を募集している。",
+      "impact": "保護者の意識変容が、子供のデジタルデバイス利用に関する家庭内ルールや社会的な議論に影響を与える可能性がある。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ee69770a776940e2892feb15709c3eb47dd97272/417_0_4167_3334/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "TikTok、13歳未満の利用制限不履行による1270万ポンドの制裁金への不服申し立てを取り下げ",
+      "summary": "英国の監視機関は2023年、年齢制限を遵守せず13歳未満のユーザーを削除しなかったとして同社に制裁金を科した。",
+      "impact": "今回の決定により、プラットフォーム側には若年層の安全確保と年齢制限管理の厳格化がより強く求められるようになるとみられる。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png",
+      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "F-Droid 2.0がリリース",
+      "summary": "1年以上の開発期間を経て、公式アプリF-Droidの完全な再設計版である「F-Droid 2.0」が発表された。",
+      "impact": "オープンソースアプリの提供方法やユーザーインターフェースが改善され、利用者体験が向上する可能性がある。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "https://bastardica.mitpit.com/scr2.png",
+      "url": "https://bastardica.mitpit.com",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "「Times New Bastard」のような「呪われた」フォントを作成するツール",
+      "summary": "「bastard web fonts」のためのタイプファウンドリである。独特なフォントを生成するためのプロジェクトである。",
+      "impact": "Webデザインにおいて独創的あるいは奇抜な表現を求める開発者やデザイナーにとって、新たな選択肢となる可能性がある。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/999a4382af2037866d4825f6fe6b750101edd7ccb58ece07496f1fc042e22385/devdotfast/whiteboard",
+      "url": "https://github.com/devdotfast/whiteboard",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "オープンソースIDE「Whiteboard (YC W26)」",
+      "summary": "ソフトウェア設計のためのオープンソースのキャンバスである。GitHub上で開発に参加することが可能である。",
+      "impact": "ソフトウェア設計のプロセスが可視化されることで、設計思想の共有や効率的な開発手法の普及に寄与する可能性がある。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "Rails World 2026 オープニング基調講演の動画公開",
+      "summary": "Rails World 2026のオープニング基調講演の動画である。",
+      "impact": "Ruby on Railsのコミュニティにとって、今後の開発ロードマップや重要な技術トレンドを把握するための重要な情報源となる。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://linebender.org/blog/fearless-simd-1-0/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "「Fearless SIMD v1.0」がリリース",
+      "summary": "Fearless SIMDのバージョン1.0がリリースされた。",
+      "impact": "SIMD技術の実装が容易になることで、計算負荷の高いアプリケーションのパフォーマンス最適化が進む可能性がある。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://dynomight.substack.com/p/liver",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-25T06:30:41.082686+09:00",
+      "title": "なぜ肝臓は特異的な再生能力を持つのか",
+      "summary": "肝臓がなぜ特異的な再生能力を持っているのかという疑問について述べられている。このメカニズムに関する探求が示されている。",
+      "impact": "この研究が進展することで、肝疾患の治療法や臓器再生医療の技術が向上する可能性がある。",
+      "content_at": "2026-09-25T06:30:41.082686+09:00"
+    }
+  ],
+  "updated_at": "2026-09-25T06:30:41.082686+09:00"
+}
