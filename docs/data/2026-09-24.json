@@ -176,7 +176,64 @@
       "summary": "Fly.ioチームによるドキュメントとガイドが公開された。VSCodeのSSHエージェントについて説明している。",
       "impact": "開発者がVSCodeを用いたSSH接続をより適切に設定・管理できるようになる可能性がある。",
       "content_at": "2026-09-24T13:30:43.619596+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/08512db3c6c5392283771859f38473c090d637d5/686_0_5761_4608/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/24/nick-clegg-plays-down-fears-godlike-ai-could-exterminate-humanity",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-24T21:30:39.538685+09:00",
+      "title": "ニック・クレッグ氏、AIが人類を滅ぼすという懸念を否定",
+      "summary": "元副首相であり、現在はテクノロジー業界に関わるニック・クレッグ氏は、AIが神のような存在となり人類を滅ぼすという懸念に対して否定的な見解を示した。同氏は、業界内で過剰に不安を煽る動きがあると指摘している。",
+      "impact": "AIの安全性に対する議論において、過度な恐怖心を抑制し、より現実的なリスク管理に向けた議論が進む可能性がある。",
+      "content_at": "2026-09-24T21:30:39.538685+09:00"
+    },
+    {
+      "image": "https://nokiadesignarchive.aalto.fi/images/preview--nokia-design-archive.jpg",
+      "url": "https://nokiadesignarchive.aalto.fi/index.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-24T21:30:39.538685+09:00",
+      "title": "ノキアのデザインアーカイブ（2025年版）",
+      "summary": "本記事は、ノキアにおける未公開のデザインコンセプトや、デザイン主導の変革がもたらす機会を探求するものである。",
+      "impact": "過去のデザイン資産が公開されることで、将来のデザイン開発やイノベーションに対する知見が提供される可能性がある。",
+      "content_at": "2026-09-24T21:30:39.538685+09:00"
+    },
+    {
+      "image": "https://macanorak.com/content/images/2026/09/Two-Tier-Encrypyion-Cover-Image.png",
+      "url": "https://macanorak.com/two-tier-encryption-in-the-uk/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-24T21:30:39.538685+09:00",
+      "title": "英国における二重構造の暗号化：同じアップル端末で保護レベルに差異",
+      "summary": "同じアップル製デバイスを所有していても、個人の設定や状況により、iCloudの保護レベルに格差が生じている。本来同一であるはずの製品間でセキュリティの強度に違いがあることが示された。",
+      "impact": "ユーザーのプライバシー保護において、暗号化の適用範囲が不透明であるという懸念を招く可能性がある。",
+      "content_at": "2026-09-24T21:30:39.538685+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/SubscriberLink/1095425/2d9f411252325784/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-24T21:30:39.538685+09:00",
+      "title": "オープンソースデスクトップ近代化への提言",
+      "summary": "UI（ユーザーインターフェース）およびUX（ユーザーエクスペリエンス）の専門家であるスコット・ジェンソン氏が、オープンソースデスクトップを現代的に改善するためのアイデアを提示する。",
+      "impact": "オープンソースデスクトップ環境のユーザビリティが向上し、より多くの一般利用者に受け入れられるインターフェースが実現される可能性がある。",
+      "content_at": "2026-09-24T21:30:39.538685+09:00"
+    },
+    {
+      "en_title": "RAM: the forgotten history (2024)",
+      "en_text": "We owe computers not to Charles Babbage, but to the invention of electronically-controlled working memory.",
+      "image": "https://substackcdn.com/image/fetch/$s_!A_Cr!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fac772573-c5f6-425e-adbd-20dd4202206f_2000x1334.jpeg",
+      "url": "https://blog.coredump.cx/p/memory-the-forgotten-history",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-24T21:30:39.538685+09:00",
+      "title": "RAM: the forgotten history (2024)",
+      "summary": "We owe computers not to Charles Babbage, but to the invention of electronically-controlled working memory.",
+      "content_at": "2026-09-24T21:30:39.538685+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-09-24T13:30:43.619596+09:00"
+  "updated_at": "2026-09-24T21:30:39.538685+09:00"
 }
