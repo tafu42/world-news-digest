@@ -2,39 +2,6 @@
   "date": "2026-09-25",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/9_0_686_549/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-25T06:30:41.082686+09:00",
-      "title": "英最大のAIスパコン、電力供給の問題で稼働が遅延",
-      "summary": "政府が期待を寄せていたデータセンターは来年の稼働開始を予定していたが、2030年代半ばまで遅れる可能性がある。電力供給の問題が原因である。",
-      "impact": "英国のAI開発戦略や技術的競争力に影響を及ぼす可能性がある。",
-      "content_at": "2026-09-25T06:30:41.082686+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/2287161b2efa6961e3b5edbce7518edc37e98666/1142_182_4369_3497/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/24/parents-children-ai-social-media",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-25T06:30:41.082686+09:00",
-      "title": "保護者が抱く子供のSNSやAI利用に対する意識の変化について",
-      "summary": "テクノロジー企業に対する監視の目が厳しくなる中で、子供とテクノロジーの関係性に対する保護者の考えに変化が生じているかについて意見を募集している。",
-      "impact": "保護者の意識変容が、子供のデジタルデバイス利用に関する家庭内ルールや社会的な議論に影響を与える可能性がある。",
-      "content_at": "2026-09-25T06:30:41.082686+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ee69770a776940e2892feb15709c3eb47dd97272/417_0_4167_3334/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/24/tiktok-drops-appeal-over-fine-for-not-keeping-under-13s-off-platform",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-25T06:30:41.082686+09:00",
-      "title": "TikTok、13歳未満の利用制限不履行による1270万ポンドの制裁金への不服申し立てを取り下げ",
-      "summary": "英国の監視機関は2023年、年齢制限を遵守せず13歳未満のユーザーを削除しなかったとして同社に制裁金を科した。",
-      "impact": "今回の決定により、プラットフォーム側には若年層の安全確保と年齢制限管理の厳格化がより強く求められるようになるとみられる。",
-      "content_at": "2026-09-25T06:30:41.082686+09:00"
-    },
-    {
       "image": "https://f-droid.org/assets/fdroid-logo_bfHl7nsLHOUQxzdU8-rGIhn4bAgl6z7k2mA3fWoCyT4=.png",
       "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
       "category": "海外IT",

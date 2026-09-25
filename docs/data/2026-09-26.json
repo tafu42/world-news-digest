@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-26",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/64deed9c527d4b4008c7e2c93499c01222d5ce04/0_383_3135_2507/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/the-dark-art-of-maths-and-the-ai-revolution",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "数学とAI革命の裏側",
+      "summary": "数学がAIの台頭を支える主要な推進力であるという指摘が、社説への回答として寄せられた。この書簡は、AIの発展における数学の重要性を改めて示唆している。",
+      "impact": "AIの技術的な基盤に対する理解が深まることで、今後のAI研究における数学的アプローチの重要性が再認識される可能性がある。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/591b29c15ba606604fba069a81f2b12fb4d0bb4f/1208_0_6633_5307/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "OpenAIのオーストラリア政府へのハッキングとAIのジレンマ",
+      "summary": "国連が従来の安全対策が崩壊しつつあると警告する中、ドナルド・トランプ氏はAI競争を抑制せず奨励する意向を示した。OpenAIによるオーストラリア政府へのハッキングは、AIを巡る世界的な懸念を浮き彫りにしている。",
+      "impact": "国家間のAI開発競争が激化し、国際的な安全規制の策定がより困難になる可能性がある。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/87d846afe784d7dac17a36acc7d98ce0e357bb2e/769_0_3961_3169/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "AIの脅威から守るために必要なこと",
+      "summary": "OpenAIによるメディケアへのハッキングは、文明の保護が現代の指導者にとっての課題であることを示唆している。メールでの対応だけでは、オーストラリア国民を潜在的なAIの脅威から守るには不十分であると指摘されている。",
+      "impact": "AIの安全性確保に向けた公的なガバナンスや、より強固なサイバーセキュリティ対策の必要性が社会的に議論されるとみられる。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://www.tai-dr.com/og.png",
+      "url": "https://www.tai-dr.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "AIの要約と読み込みの限界",
+      "summary": "リード文が途中で途切れており、AIの読み込みや要約に関する言及の詳細は不明である。",
+      "impact": "提供された情報が不足しているため、具体的な社会影響を予測することは困難である。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://ollaya.dev/static/og.png?v=7bd2eae221",
+      "url": "https://ollaya.dev/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "オープンソースの決定モデルを実行する「Ollaya」",
+      "summary": "Ollayaは、オープンな決定モデルをローカル環境でダウンロードし実行できるツールである。プライバシーを保護した環境で、型付けされた回答をミリ秒単位で提供する。",
+      "impact": "ローカル環境で高度な決定モデルを運用できるため、機密情報を扱う業務においてAI導入が進む可能性がある。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://jev-pokemon.vercel.app/og.png?v=2",
+      "url": "https://jev-pokemon.vercel.app/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "AIモデル「Jev」によるポケモン赤のプレイ実況",
+      "summary": "AIの決定モデルであるJevが、ゲーム『ポケモン 赤』を全編通してプレイする様子がライブ配信されている。",
+      "impact": "AIのゲームプレイ能力を示す事例として、エンターテインメントやAIの学習プロセスに関心を持つ層に影響を与える可能性がある。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7b1913cc7064a88b98511ea89ba19bb2fb021050e968f9fb89eff553b946b198/microsoft/vscode/issues/338035",
+      "url": "https://github.com/microsoft/vscode/issues/338035",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "VS Codeエディタにおけるボーダー半径の不具合",
+      "summary": "VS Codeのバージョン1.139.0において、ボーダー半径に関する不具合が報告された。すべての拡張機能を無効にした状態でも問題が発生する。",
+      "impact": "エディタのUI表示に影響が出ており、修正されるまでは開発者の作業効率や視認性に影響を与える可能性がある。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://sunilsadasivan.com/static/first-principles-thinking-social.png",
+      "url": "https://sunilsadasivan.com/writing/first-principles-thinking/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-26T06:30:41.887872+09:00",
+      "title": "第一原理思考について",
+      "summary": "第一原理思考の概念、AIエージェントと連携するための学習、および既存の経験を脇に置いて問題を明確に捉える手法について解説する。",
+      "impact": "この思考法を取り入れることで、複雑な問題に対してより本質的な解決策を見出すための判断基準として役立つ可能性がある。",
+      "content_at": "2026-09-26T06:30:41.887872+09:00"
+    }
+  ],
+  "updated_at": "2026-09-26T06:30:41.887872+09:00"
+}
