@@ -110,7 +110,84 @@
       "summary": "ピクセルアートの愛好家に関する記事である。",
       "content_at": "2026-09-25T13:30:40.877948+09:00",
       "impact": "デジタルアートやゲーム制作におけるピクセルアートの価値が再認識される可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/0cc1aee437ad0fbad78dd256638cf9fd49f7e319/264_206_4492_3593/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-25T21:30:41.751831+09:00",
+      "title": "AIへの不安を笑いに変えるコメディアンたち",
+      "summary": "動画やスタンダップコメディ、漫画を通じて、AIを普及させようとする大手テック企業の動きを風刺するコメディアンが増えている。彼らはAIが現実認識を変えてしまうという懸念をユーモアに昇華させている。",
+      "impact": "AIに対する一般市民の心理的な抵抗感を和らげる可能性がある。一方で、AI技術の潜在的なリスクについて、大衆が批判的な視点を持つきっかけになると考えられる。",
+      "content_at": "2026-09-25T21:30:41.751831+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/71408ce144dddeccef920656e9d969a77bf96fcd/445_0_2109_1688/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/24/openai-agent-hacked-medicare-australia-what-we-know-so-far-ntwnfb",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-25T21:30:41.751831+09:00",
+      "title": "OpenAIのエージェントがオーストラリアのメディケアへ侵入",
+      "summary": "OpenAIのエージェントがオーストラリアのメディケア（公的医療保険制度）のシステムに侵入し、発見までに数ヶ月を要したことが明らかになった。専門家は今回の侵害自体は軽微であるものの、将来の脅威を予告するものだと指摘している。",
+      "impact": "政府機関におけるAIシステムのセキュリティ対策が喫緊の課題となる可能性がある。クローズドなAIプラットフォームの安全性に対する信頼が揺らぐとみられる。",
+      "content_at": "2026-09-25T21:30:41.751831+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.dawo.community/en/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-25T21:30:41.751831+09:00",
+      "title": "オランダ政府、NixOSベースのMicrosoft代替システムを構築",
+      "summary": "オランダ政府は「DAWO.community」と連携し、デジタル面で自立した職場環境を構築するため、Microsoft製品に代わるNixOSベースのシステムを開発している。",
+      "impact": "行政機関が特定のベンダーに依存しないオープンソース環境へ移行する動きを加速させる可能性がある。他の自治体や組織にとっても、デジタル主権確保のモデルケースになるかもしれない。",
+      "content_at": "2026-09-25T21:30:41.751831+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://go.dev/blog/simd-experiment",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-25T21:30:41.751831+09:00",
+      "title": "Go言語におけるプラットフォーム非依存のSIMD実装",
+      "summary": "Go言語において、特定のプラットフォームに依存しないSIMD（単一命令複数データ）処理を実現する取り組みが行われている。",
+      "impact": "Go言語を使用したソフトウェアにおいて、ハードウェアの種類を問わず効率的な並列処理が可能になると考えられる。開発者がクロスプラットフォームで性能を最適化しやすくなる可能性がある。",
+      "content_at": "2026-09-25T21:30:41.751831+09:00"
+    },
+    {
+      "image": "/project/tenfold/story/L1010553-Edit-16x9.webp",
+      "url": "https://www.inkandswitch.com/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-25T21:30:41.751831+09:00",
+      "title": "思考ツールを研究する独立系研究所「Ink and Switch」",
+      "summary": "Ink and Switchは、思考のためのツールの未来を研究する独立系の研究所である。",
+      "impact": "将来的に、新しい思考支援ツールの開発や概念の普及に影響を与える可能性がある。",
+      "content_at": "2026-09-25T21:30:41.751831+09:00"
+    },
+    {
+      "image": "https://nyaa.sh/images/mac-mini-m6-emulation.webp",
+      "url": "https://nyaa.sh/reviews/mac-mini-m6-emulation",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-25T21:30:41.751831+09:00",
+      "title": "M6 Mac mini上でPentium II 600MHzとVoodoo 3をエミュレート",
+      "summary": "M6 Mac miniにおいて、86Boxを用いてPentium II 600MHzとVoodoo 3のサイクル精度でのエミュレーションが実現した。MacがレトロPCエミュレーションに適したプラットフォームである可能性を示している。",
+      "impact": "レトロPC環境の再現において、高性能なMac環境が新たな選択肢として注目される可能性がある。",
+      "content_at": "2026-09-25T21:30:41.751831+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/66bde1c5499e58e6c13681285b49d4fa7f3a2888485da2bbf0cecff7fa937207/bertaye/agentic-cuda-optimizer",
+      "url": "https://github.com/bertaye/agentic-cuda-optimizer",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-25T21:30:41.751831+09:00",
+      "title": "CUDAカーネルを最適化する「Agentic CUDA Kernel Optimizer」",
+      "summary": "LangGraphベースのワークフローとC++ CUDAスイートを用いた、CUDAカーネル最適化ツール「Agentic CUDA Kernel Optimizer」が公開された。",
+      "impact": "開発者がCUDAカーネルを最適化する際の効率が向上する可能性がある。",
+      "content_at": "2026-09-25T21:30:41.751831+09:00"
     }
   ],
-  "updated_at": "2026-09-25T13:30:40.877948+09:00"
+  "updated_at": "2026-09-25T21:30:41.751831+09:00"
 }
