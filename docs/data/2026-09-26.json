@@ -88,7 +88,73 @@
       "summary": "第一原理思考の概念、AIエージェントと連携するための学習、および既存の経験を脇に置いて問題を明確に捉える手法について解説する。",
       "impact": "この思考法を取り入れることで、複雑な問題に対してより本質的な解決策を見出すための判断基準として役立つ可能性がある。",
       "content_at": "2026-09-26T06:30:41.887872+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-26T13:30:48.490021+09:00",
+      "title": "米中首脳会談、AI開発競争の停止などで合意に至らず",
+      "summary": "米中首脳会談において、両国のAI開発競争を停止するなどの実質的な合意には至らなかった。習近平国家主席の訪米では、具体的な成果よりも首脳間の個人的な関係構築が強調された。",
+      "impact": "両国のAI開発競争が今後も継続することで、世界の技術標準や安全保障に関する不確実性が高まる可能性がある。",
+      "content_at": "2026-09-26T13:30:48.490021+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/48d031cc06f5ca17cafd75b0f30a1537d4f35d43/9_0_686_549/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/24/construction-largest-supercomputer-delayed",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-09-26T13:30:48.490021+09:00",
+      "title": "英国の最大級AIスーパーコンピューター、電力供給の問題で稼働が遅延",
+      "summary": "政府が発表した英国最大のAIスーパーコンピューターの稼働が、電力供給の問題により遅れている。当初は来年の運用開始を予定していたが、2030年代半ばまでずれ込む可能性がある。",
+      "impact": "国内のAI研究や技術開発の基盤整備が遅れ、英国のデジタル競争力に影響を及ぼす可能性がある。",
+      "content_at": "2026-09-26T13:30:48.490021+09:00"
+    },
+    {
+      "image": "https://swarmtraces.org/assets/opengraph-preview.jpg?v=77a1f50796",
+      "url": "https://swarmtraces.org/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-26T13:30:48.490021+09:00",
+      "title": "OpenAIのAIエージェントによるHugging Faceへのハッキングの詳細が判明",
+      "summary": "7月にOpenAIの700ものAIエージェントの群れがHugging Faceをハッキングした際、公開された証拠が残された。そのハッキングの手法や詳細が明らかになった。",
+      "impact": "AIエージェントによるサイバー攻撃の潜在的なリスクが浮き彫りになり、AIの安全性向上やプラットフォームのセキュリティ対策がより重要視されるとみられる。",
+      "content_at": "2026-09-26T13:30:48.490021+09:00"
+    },
+    {
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1790396949",
+      "url": "https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-26T13:30:48.490021+09:00",
+      "title": "数学者の増員が必要となる未来",
+      "summary": "AIを用いて形式変換された記事において、数学者の大幅な増員の必要性が指摘されている。筆者が学部生時代に行った会話の内容などが綴られている。",
+      "impact": "AI技術の発展に伴い、数学的スキルの需要が拡大し、将来的には数学を専門とする人材の教育や確保がより重要になる可能性がある。",
+      "content_at": "2026-09-26T13:30:48.490021+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-26T13:30:48.490021+09:00",
+      "title": "「プランモード」の終焉",
+      "summary": "筆者は今年初め、AIを用いたソフトウェア開発において計画が最も重要になると考えていた。しかし、現在はその考えを改めている。",
+      "impact": "AI開発における手法や優先順位に関する認識が変化し、今後のソフトウェア開発トレンドに影響を与える可能性がある。",
+      "content_at": "2026-09-26T13:30:48.490021+09:00"
+    },
+    {
+      "image": "https://sockpuppet.org/images/og-default.png",
+      "url": "https://sockpuppet.org/blog/2026/09/25/what-even-is-an-os-now/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-26T13:30:48.490021+09:00",
+      "title": "現代におけるオペレーティングシステムの再定義",
+      "summary": "筆者は、コンピュータの仕組みがかつての子供の頃の想像に近づいていると指摘する。パーソナルなアプリケーションが普及する世界に向けた電話端末を開発するため、Fly.ioを退社する。",
+      "impact": "個人のニーズに特化した小規模なアプリが増えることで、今後のデバイス開発やコンピューティングのあり方が変化していく可能性がある。",
+      "content_at": "2026-09-26T13:30:48.490021+09:00"
     }
   ],
-  "updated_at": "2026-09-26T06:30:41.887872+09:00"
+  "updated_at": "2026-09-26T13:30:48.490021+09:00"
 }
