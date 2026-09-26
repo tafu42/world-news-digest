@@ -1,0 +1,83 @@
+{
+  "date": "2026-09-27",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/0cc1aee437ad0fbad78dd256638cf9fd49f7e319/264_206_4492_3593/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-27T06:30:42.180967+09:00",
+      "title": "AIの普及を風刺するコメディアンたち",
+      "summary": "動画やスタンドアップコメディ、漫画などで活動するユーモリストたちが、AIを不可避なものにしようとする大手テック企業の動きを風刺している。彼らはAIが現実の認識を根本から変えてしまう可能性を指摘している。",
+      "impact": "AIの急速な普及に対する人々の不安がコメディを通じて共有されることで、テクノロジーに対する批判的な視点が広まる可能性がある。",
+      "content_at": "2026-09-27T06:30:42.180967+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/145a5437e53445fd88b95d442ea8a5cc44a2803827d399be0cdbc379a2880ed9/InfinityLoop1308/PipePipe",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-27T06:30:42.180967+09:00",
+      "title": "SponsorBlockを実装したNewPipeのフォーク版「PipePipe」",
+      "summary": "YouTubeなどのサービスを自由に閲覧できるオープンソースのAndroidアプリ「PipePipe」が公開された。これはNewPipeのフォークであり、SponsorBlockが実装されている。",
+      "impact": "広告ブロック機能等を備えた代替アプリの選択肢が増えることで、YouTubeなどの既存プラットフォームの利用体験に変化が生じる可能性がある。",
+      "content_at": "2026-09-27T06:30:42.180967+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7c875bc959c383af19533577bd0bc3e455bfa2fffd2c63a4606699a5bbd09db9/reladraw/reladraw",
+      "url": "https://github.com/reladraw/reladraw",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-27T06:30:42.180967+09:00",
+      "title": "レイアウトを自分で決定できる図解言語「Reladraw」",
+      "summary": "要素の配置場所を自ら決定できる図解言語「Reladraw」がGitHubで公開された。開発に向けたコントリビューターを募集している。",
+      "impact": "図解作成において柔軟なレイアウトを求めるユーザーにとって、効率的な描画手段の一つとなる可能性がある。",
+      "content_at": "2026-09-27T06:30:42.180967+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-27T06:30:42.180967+09:00",
+      "title": "大規模言語モデルのための「DeepSeek Elastic Compute (DSec)」",
+      "summary": "AIモデルがリポジトリの検査やツールの呼び出しを行うための、分離されたステートフルな実行環境を提供する大規模エージェント学習・評価用システムである。このシステムは大規模なバーストでサンドボックスを作成する特徴を持つ。",
+      "impact": "AIエージェントの学習や評価における実行環境の効率化が期待され、より複雑なタスクを扱うAIモデルの開発が加速する可能性がある。",
+      "content_at": "2026-09-27T06:30:42.180967+09:00"
+    },
+    {
+      "image": "https://www.movingimagearchive.com/og-cat-20260922.png",
+      "url": "https://www.movingimagearchive.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-27T06:30:42.180967+09:00",
+      "title": "1915年以降のパブリックドメイン映像を検索・視聴・ダウンロードできるライブラリ",
+      "summary": "1915年以降のパブリックドメインのアーカイブ映像を、ショット単位で検索、視聴、ダウンロードできるサービスが提供されている。",
+      "impact": "映像制作者や研究者が歴史的映像資料を容易に入手できるようになり、クリエイティブな二次利用が促進される可能性がある。",
+      "content_at": "2026-09-27T06:30:42.180967+09:00"
+    },
+    {
+      "image": "https://tangled.org/yanndegat.tngl.sh/drawgent/opengraph",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-27T06:30:42.180967+09:00",
+      "title": "Excalidraw上で動作するコーディングエージェント「Drawgent」",
+      "summary": "Excalidrawのキャンバス上で動作するコーディングエージェント「Drawgent」のリポジトリが公開されている。",
+      "impact": "視覚的な図解ツールとプログラミングが統合されることで、開発者の生産性向上や直感的なコーディング環境の実現に寄与する可能性がある。",
+      "content_at": "2026-09-27T06:30:42.180967+09:00"
+    },
+    {
+      "image": "https://www.lightspeedmagazine.com/wp-content/uploads/2016/03/Lightspeed_70_March_2016_575x442px.jpg",
+      "url": "https://www.lightspeedmagazine.com/fiction/welcome-to-the-medical-clinic-at-the-interplanetary-relay-station/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-27T06:30:42.180967+09:00",
+      "title": "惑星間中継基地の医療クリニックにおける虫刺され事故",
+      "summary": "惑星間中継基地の植物栽培エリアで、トマトに群がっていた小さな甲虫のような虫に手を噛まれる事故が発生した。",
+      "impact": "未知の生物による噛み傷が健康にどのような影響を与えるかは不明であり、医学的な処置や生態調査が必要になると考えられる。",
+      "content_at": "2026-09-27T06:30:42.180967+09:00"
+    }
+  ],
+  "updated_at": "2026-09-27T06:30:42.180967+09:00"
+}

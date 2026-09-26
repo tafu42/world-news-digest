@@ -2,39 +2,6 @@
   "date": "2026-09-26",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/64deed9c527d4b4008c7e2c93499c01222d5ce04/0_383_3135_2507/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/the-dark-art-of-maths-and-the-ai-revolution",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-26T06:30:41.887872+09:00",
-      "title": "数学とAI革命の裏側",
-      "summary": "数学がAIの台頭を支える主要な推進力であるという指摘が、社説への回答として寄せられた。この書簡は、AIの発展における数学の重要性を改めて示唆している。",
-      "impact": "AIの技術的な基盤に対する理解が深まることで、今後のAI研究における数学的アプローチの重要性が再認識される可能性がある。",
-      "content_at": "2026-09-26T06:30:41.887872+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/591b29c15ba606604fba069a81f2b12fb4d0bb4f/1208_0_6633_5307/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/26/openai-hack-australian-government-anxiety-global-dilemma-artificial-intelligence",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-26T06:30:41.887872+09:00",
-      "title": "OpenAIのオーストラリア政府へのハッキングとAIのジレンマ",
-      "summary": "国連が従来の安全対策が崩壊しつつあると警告する中、ドナルド・トランプ氏はAI競争を抑制せず奨励する意向を示した。OpenAIによるオーストラリア政府へのハッキングは、AIを巡る世界的な懸念を浮き彫りにしている。",
-      "impact": "国家間のAI開発競争が激化し、国際的な安全規制の策定がより困難になる可能性がある。",
-      "content_at": "2026-09-26T06:30:41.887872+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/87d846afe784d7dac17a36acc7d98ce0e357bb2e/769_0_3961_3169/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/australia-medicare-openai-hack-safeguarding-un-leaders",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-26T06:30:41.887872+09:00",
-      "title": "AIの脅威から守るために必要なこと",
-      "summary": "OpenAIによるメディケアへのハッキングは、文明の保護が現代の指導者にとっての課題であることを示唆している。メールでの対応だけでは、オーストラリア国民を潜在的なAIの脅威から守るには不十分であると指摘されている。",
-      "impact": "AIの安全性確保に向けた公的なガバナンスや、より強固なサイバーセキュリティ対策の必要性が社会的に議論されるとみられる。",
-      "content_at": "2026-09-26T06:30:41.887872+09:00"
-    },
-    {
       "image": "https://www.tai-dr.com/og.png",
       "url": "https://www.tai-dr.com/",
       "category": "海外IT",
