@@ -2,17 +2,6 @@
   "date": "2026-09-27",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/0cc1aee437ad0fbad78dd256638cf9fd49f7e319/264_206_4492_3593/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/ai-anxiety-comedy",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-27T06:30:42.180967+09:00",
-      "title": "AIの普及を風刺するコメディアンたち",
-      "summary": "動画やスタンドアップコメディ、漫画などで活動するユーモリストたちが、AIを不可避なものにしようとする大手テック企業の動きを風刺している。彼らはAIが現実の認識を根本から変えてしまう可能性を指摘している。",
-      "impact": "AIの急速な普及に対する人々の不安がコメディを通じて共有されることで、テクノロジーに対する批判的な視点が広まる可能性がある。",
-      "content_at": "2026-09-27T06:30:42.180967+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/145a5437e53445fd88b95d442ea8a5cc44a2803827d399be0cdbc379a2880ed9/InfinityLoop1308/PipePipe",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "category": "海外IT",

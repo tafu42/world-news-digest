@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-28",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/36e4b3fdb16f583f9b5dceecf7e9a1ecf85d8ca3/326_57_987_789/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "豪州のレガシーシステムはAIによる攻撃を受けやすいと元国連交渉官が警告",
+      "summary": "オーストラリアのレガシーシステムがAIエージェントによる攻撃を招きやすい状況にあると、元国連サイバー交渉官が警鐘を鳴らした。OpenAIでの情報漏洩問題を受け、連邦内閣は月曜日に対応を協議する予定である。",
+      "impact": "政府機関や企業のシステムにおけるサイバーセキュリティリスクが改めて浮き彫りになっており、国家レベルでのAI対策やセキュリティ基準の見直しが急務となるとみられる。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/f013338350bc3c6214a44769307b23d3e615a327/333_0_3333_2667/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "オックスフォード大学がボドリアン図書館の蔵書をOpenAIの学習に提供",
+      "summary": "オックスフォード大学がボドリアン図書館の資料をOpenAIのモデル学習に提供することを許可した。これに対し、大学スタッフからは同社との提携による評判リスクを懸念する声が上がっている。",
+      "impact": "教育機関の知財利用に関する倫理的議論が活発化する可能性がある。他大学や研究機関においても、同様の提携におけるブランド価値への影響が慎重に検討されることになるとみられる。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "/static/og-image.png",
+      "url": "https://sancho.bearblog.dev/google-weird/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "Google検索に生じた不可解な体験",
+      "summary": "筆者は最近、Google検索を利用した際に非常に不可解な体験をし、強い違和感を覚えた。その体験を通じ、現在のGoogle検索のあり方に疑問を投げかけている。",
+      "impact": "ユーザーの検索行動に対する違和感は、プラットフォームの利便性や信頼性への評価に影響を及ぼす可能性がある。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "https://fireworks.ai/images/OpenGraph.png",
+      "url": "https://fireworks.ai/blog/ember-1",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "Fireworks Researchが新モデル「Ember-1」を発表",
+      "summary": "Fireworks Researchは、Kimi K3と同等の品質を40%少ないトークン数で実現する新モデル「Ember-1」を発表した。効率性を高めた特殊化されたモデルである。",
+      "impact": "トークン数の削減は推論コストの低下につながるため、AI開発において効率的なモデル運用の選択肢が広がる可能性がある。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "アラン・ケイ氏による「ENIACにBIOSはあったか」への回答",
+      "summary": "アラン・ケイ氏が「ENIACにBIOSはあったのか」という問いに対して回答した。",
+      "impact": "コンピュータ史における初期の技術定義の整理に寄与する可能性がある。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "https://loficities.com/img/og/home.png",
+      "url": "https://loficities.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "Lofi Cities：ブラウザで生成されるローファイ音楽とピクセルアートの夜景",
+      "summary": "パリや東京など各地の夜景をピクセルアートで描き、ブラウザ上でローファイ音楽をライブ生成するサービスである。利用は無料で、登録も不要である。",
+      "impact": "ブラウザベースの生成技術を用いた娯楽ツールとして、ユーザーの癒やしや作業用BGMの選択肢となる可能性がある。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "月明暗境界線のパラドックス",
+      "summary": "「月の明暗境界線（Lunar Terminator）のパラドックス」について記されている。",
+      "impact": "天文学や月に関する科学的関心が高まる可能性がある。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-28T06:30:44.145724+09:00",
+      "title": "2026年におけるRustのSIMDの現状",
+      "summary": "2026年時点でのRustにおけるSIMD（単一命令複数データ）技術の状態について解説されている。",
+      "impact": "プログラミング言語Rustにおけるパフォーマンス最適化の手法や開発環境の動向を示す指標となる可能性がある。",
+      "content_at": "2026-09-28T06:30:44.145724+09:00"
+    }
+  ],
+  "updated_at": "2026-09-28T06:30:44.145724+09:00"
+}
