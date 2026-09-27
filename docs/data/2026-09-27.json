@@ -154,7 +154,73 @@
       "summary": "GLM-5.3-Flashを用い、各選択肢の確率を含む型付き意思決定モデルを単一のフォワードパスで実現した。Jevと同等の精度を持ちつつ、欧州からの応答速度の向上と機密コンピューティングによる保護が特徴である。",
       "impact": "特定の意思決定モデルの処理速度やセキュリティが改善されることで、ビジネスや研究の現場で効率的な意思決定支援が行われる可能性がある。",
       "content_at": "2026-09-27T13:30:38.202775+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-09-27T21:30:40.444285+09:00",
+      "title": "米中首脳、AI競争停止の合意に至らず",
+      "summary": "習近平国家主席の訪米において、両首脳は個人的な関係の構築を優先した。AIの軍拡競争を停止するような実質的な合意には至っていない。",
+      "impact": "米中間のAI開発競争が今後も継続する可能性がある。",
+      "content_at": "2026-09-27T21:30:40.444285+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2609.25021",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-27T21:30:40.444285+09:00",
+      "title": "LLMの自己言及的な回答の仕組みと課題",
+      "summary": "大規模言語モデル（LLM）は自己に関する問いに対し「私はAIである」といった免責事項を追加する傾向がある。こうした回答を生成する駆動要因については、十分に解明されていない。",
+      "impact": "AIの安全性やモデルの自己認識に関する議論において、AIの自己言及的な性質への理解を深める一助となる可能性がある。",
+      "content_at": "2026-09-27T21:30:40.444285+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mitxela.com/projects/flipflip",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-27T21:30:40.444285+09:00",
+      "title": "フリップドットにおける流体表現",
+      "summary": "フリップドットを用いた流体表現に関するものである。",
+      "impact": "特定のディスプレイ技術における表現手法の事例として活用される可能性がある。",
+      "content_at": "2026-09-27T21:30:40.444285+09:00"
+    },
+    {
+      "image": "https://authorsguild.org/app/uploads/2026/09/OpenAI-Day-2-Advocacy-Rectangle.jpg",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-27T21:30:40.444285+09:00",
+      "title": "OpenAIとマイクロソフト、著作権訴訟で内部文書が公開",
+      "summary": "著者組合がOpenAIとマイクロソフトを訴えた著作権訴訟において、内部文書が公開された。この文書には、両社の従業員や幹部がHacker Newsでの見え方を意識していた様子が示されている。",
+      "impact": "この文書の公開が進行中の訴訟に影響を与える可能性がある。",
+      "content_at": "2026-09-27T21:30:40.444285+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!exwi!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc40c781e-9ade-4737-9d3e-2fb83913a579_1018x511.jpeg",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-27T21:30:40.444285+09:00",
+      "title": "ジョージズムは機能するか：5年後の検証",
+      "summary": "ラース・ドーセットによる寄稿記事。ジョージズムの有効性について5年後の視点から考察している。",
+      "impact": "経済思想としてのジョージズムに対する関心が、既存の経済政策の議論に新たな視点を提供する可能性がある。",
+      "content_at": "2026-09-27T21:30:40.444285+09:00"
+    },
+    {
+      "image": "https://www.sciencenews.org/wp-content/uploads/sites/2/2026/09/091626_TS_blueroses_main.jpg",
+      "url": "https://www.sciencenews.org/article/true-blue-rose-pigment-copigment",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-09-27T21:30:40.444285+09:00",
+      "title": "青いバラがついに実現",
+      "summary": "科学者が青い色素とそれを引き立てる無色の補助分子の両方を生成するバラを開発した。これにより、真の青いバラが実現した。",
+      "impact": "園芸市場において新たな価値が生まれると考えられる。また、花の色を遺伝子工学で制御する技術が他の植物にも応用される可能性がある。",
+      "content_at": "2026-09-27T21:30:40.444285+09:00"
     }
   ],
-  "updated_at": "2026-09-27T13:30:38.202775+09:00"
+  "updated_at": "2026-09-27T21:30:40.444285+09:00"
 }
