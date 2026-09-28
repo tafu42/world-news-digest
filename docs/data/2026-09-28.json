@@ -88,7 +88,40 @@
       "summary": "2026年時点でのRustにおけるSIMD（単一命令複数データ）技術の状態について解説されている。",
       "impact": "プログラミング言語Rustにおけるパフォーマンス最適化の手法や開発環境の動向を示す指標となる可能性がある。",
       "content_at": "2026-09-28T06:30:44.145724+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://colo.to/nvidia-stock-narrative.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-28T13:30:43.404214+09:00",
+      "title": "Nvidiaの株式で10億ドルの負債",
+      "summary": "Nvidiaの株式に関連して10億ドルの負債が発生している。",
+      "impact": "対象となる企業や投資家に対して財務上の大きな影響を及ぼす可能性がある。",
+      "content_at": "2026-09-28T13:30:43.404214+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2110.01834",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-28T13:30:43.404214+09:00",
+      "title": "AIにおける「速い思考と遅い思考」：メタ認知の役割",
+      "summary": "AIシステムは近年劇的に進歩したが、その多くは特定の能力や目標に限定された「狭いAI」の段階にある。現在のAI技術は限定された領域に集中していることが指摘されている。",
+      "impact": "今後、AIがより汎用的な能力を獲得するために、メタ認知の導入が重要な役割を果たす可能性がある。",
+      "content_at": "2026-09-28T13:30:43.404214+09:00"
+    },
+    {
+      "image": "https://www.nissan-global.com/JP/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/ASSETS/IMG/e-power_gen3_thumb.jpg",
+      "url": "https://www.nissan-global.com/EN/INNOVATION/TECHNOLOGY/ARCHIVE/E_POWER_GEN3/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-28T13:30:43.404214+09:00",
+      "title": "日産の第3世代e-POWERパワートレイン",
+      "summary": "日産の第3世代e-POWERに関連し、電動化や自動運転、コネクテッドサービス、エネルギー管理などの各種技術が紹介されている。",
+      "impact": "日産の電動化戦略の進展により、次世代のモビリティサービスやエネルギー管理システムが社会に普及していく可能性がある。",
+      "content_at": "2026-09-28T13:30:43.404214+09:00"
     }
   ],
-  "updated_at": "2026-09-28T06:30:44.145724+09:00"
+  "updated_at": "2026-09-28T13:30:43.404214+09:00"
 }
