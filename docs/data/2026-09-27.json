@@ -101,17 +101,6 @@
       "content_at": "2026-09-27T13:30:38.202775+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/dd96a7ac2aebddf0eba5644f06e8e33e6f1eb6ac/261_0_2596_2078/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/trump-xi-ai-arms-race",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-27T21:30:40.444285+09:00",
-      "title": "米中首脳、AI競争停止の合意に至らず",
-      "summary": "習近平国家主席の訪米において、両首脳は個人的な関係の構築を優先した。AIの軍拡競争を停止するような実質的な合意には至っていない。",
-      "impact": "米中間のAI開発競争が今後も継続する可能性がある。",
-      "content_at": "2026-09-27T21:30:40.444285+09:00"
-    },
-    {
       "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
       "url": "https://arxiv.org/abs/2609.25021",
       "category": "海外IT",
