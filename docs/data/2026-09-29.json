@@ -1,0 +1,105 @@
+{
+  "date": "2026-09-29",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/96fab7de9345f43684d2946c784849f9982aecfd/2_0_3536_2828/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "NvidiaがAIエージェントの暴走を防ぐセキュリティ基盤を発表、1500億ドルの自社株買いも表明",
+      "summary": "Nvidiaは、大手企業で発生したAIエージェントのトラブルを受け、その暴走を防止するための新しいシステムを発表した。同時に1500億ドルの自社株買いも明らかにしている。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00",
+      "impact": "AIの安全性向上に向けた技術的解決策が提供されることで、企業におけるAI導入の信頼性が高まる可能性がある。自社株買いの決定は、市場に対して同社の経営に対する自信を示すものとみられる。"
+    },
+    {
+      "image": "https://media.guim.co.uk/7bdf671e1191bca2bb67d2929491546c1c931d28/1598_813_3978_3181/500.jpg",
+      "url": "https://www.theguardian.com/society/2026/sep/28/high-screen-usage-in-children-linked-to-poorer-outcomes-major-study-suggests",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "長時間スクリーン視聴が子供の学習・言語能力に悪影響を及ぼす可能性",
+      "summary": "子供がスクリーンに触れる時間が長すぎると、学習や言語能力に悪影響を与える可能性があるという報告書が発表された。その影響度は、親の行動や早産の影響と同程度に大きいと指摘されている。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00",
+      "impact": "家庭や教育現場において、子供のデジタルデバイス利用時間を制限する動きが強まる可能性がある。メディア習慣を見直す議論が社会的に広まるとみられる。"
+    },
+    {
+      "image": "https://media.guim.co.uk/aec7cba8735b2ae3c20055f3561db31f83275566/0_0_4714_3771/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "「AIのゴッドファーザー」らがAIの制御不能な知能爆発に警告",
+      "summary": "AIの知能が制御不能に増大する「知能爆発」の可能性について、AIの先駆者やOpenAIのチーフサイエンティストらが共同で報告書を発表した。この報告書では、AIが歴史上最も重要な技術開発になる可能性を指摘している。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00",
+      "impact": "AI開発の安全性や規制の必要性について、世界的な議論がさらに加速する可能性がある。AIのガバナンス強化を求める世論が強まるとみられる。"
+    },
+    {
+      "image": "https://www.worldlabs.ai/api/opengraph-image?imageUrl=/images/blog/globe_chip.png&amp;title=World%20Labs%20is%20Joining%20AMD",
+      "url": "https://www.worldlabs.ai/blog/amd-announcement",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "World LabsがAMDの傘下へ",
+      "summary": "World LabsがAMDに参画した。この提携はAI研究とコンピューティングの未来を加速させることを目的としている。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00",
+      "impact": "AMDによるAI技術の開発能力や研究環境が強化される可能性がある。半導体市場におけるAI関連の競争が激化するとみられる。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/922b9f3d4030a5618de6dd793ee1cbd6d2d41af469ec282efcd1cfd0bd033b91/firelex/jeff",
+      "url": "https://github.com/firelex/jeff",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "家庭で学習可能な0.8Bの意思決定モデル「Jeff」",
+      "summary": "Qwen3.5およびGemma 4をベースにしたゼロショット分類用のファインチューニングモデルである。家庭環境でのトレーニングが可能で、約30ミリ秒の処理速度を実現している。",
+      "impact": "個人のハードウェアで高度な推論モデルを利用しやすくなり、AI開発の裾野が広がる可能性がある。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00"
+    },
+    {
+      "image": "https://images.mubicdn.net/images/notebook/post_spotlight_images/11642/cache-11642-1788879178/images-w1280.jpg",
+      "url": "https://mubi.com/en/notebook/posts/pirating-the-pirates",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "映画保存のアンダーグラウンド：海賊版を海賊する",
+      "summary": "映画保存の裏側における記録についての記事である。",
+      "impact": "映画のアーカイブや保存活動のあり方について、社会的な議論を呼ぶ可能性がある。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://stateofutopia.com/experiments/microllmlab/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "ブラウザで7つの小型LLMを試せる「MicroLLM Lab」",
+      "summary": "ブラウザ上で7種類の小型言語モデル（LLM）を体験できるプラットフォームである。",
+      "impact": "サーバー不要で手軽にモデルを試せるため、軽量なAIモデルへの関心が高まるとみられる。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "1万2000年前のギョベクリテペ遺跡の埋葬と散乱した骨の関連",
+      "summary": "1万2000年前のギョベクリテペ遺跡における埋葬の実態が、骨が散乱している理由を説明している。",
+      "impact": "考古学的な定説が見直され、古代の人類史や埋葬文化に関する理解が深まる可能性がある。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00"
+    },
+    {
+      "image": "https://best-of-british-design.vercel.app/og-image.png",
+      "url": "https://best-of-british-design.vercel.app/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-29T06:30:44.710159+09:00",
+      "title": "英国デザインのベストを決める投票が開始",
+      "summary": "ミニや地下鉄路線図など、英国を象徴する64のアイコンの中から勝者を選ぶ投票が行われている。参加者は自身の選ぶお気に入りのデザインに投票できる。",
+      "impact": "この投票結果により、どのデザインが英国の象徴として最も支持されているかが明らかになると考えられる。また、英国デザインの価値や歴史的意義が改めて注目される可能性がある。",
+      "content_at": "2026-09-29T06:30:44.710159+09:00"
+    }
+  ],
+  "updated_at": "2026-09-29T06:30:44.710159+09:00"
+}

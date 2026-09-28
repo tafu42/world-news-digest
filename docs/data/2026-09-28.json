@@ -2,28 +2,6 @@
   "date": "2026-09-28",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/36e4b3fdb16f583f9b5dceecf7e9a1ecf85d8ca3/326_57_987_789/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/28/australia-is-run-on-legacy-systems-that-ai-agents-can-easily-exploit-former-un-cyber-negotiator-warns",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-28T06:30:44.145724+09:00",
-      "title": "豪州のレガシーシステムはAIによる攻撃を受けやすいと元国連交渉官が警告",
-      "summary": "オーストラリアのレガシーシステムがAIエージェントによる攻撃を招きやすい状況にあると、元国連サイバー交渉官が警鐘を鳴らした。OpenAIでの情報漏洩問題を受け、連邦内閣は月曜日に対応を協議する予定である。",
-      "impact": "政府機関や企業のシステムにおけるサイバーセキュリティリスクが改めて浮き彫りになっており、国家レベルでのAI対策やセキュリティ基準の見直しが急務となるとみられる。",
-      "content_at": "2026-09-28T06:30:44.145724+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/f013338350bc3c6214a44769307b23d3e615a327/333_0_3333_2667/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/26/oxford-university-bodleian-library-open-ai-chat-gpt",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-28T06:30:44.145724+09:00",
-      "title": "オックスフォード大学がボドリアン図書館の蔵書をOpenAIの学習に提供",
-      "summary": "オックスフォード大学がボドリアン図書館の資料をOpenAIのモデル学習に提供することを許可した。これに対し、大学スタッフからは同社との提携による評判リスクを懸念する声が上がっている。",
-      "impact": "教育機関の知財利用に関する倫理的議論が活発化する可能性がある。他大学や研究機関においても、同様の提携におけるブランド価値への影響が慎重に検討されることになるとみられる。",
-      "content_at": "2026-09-28T06:30:44.145724+09:00"
-    },
-    {
       "image": "/static/og-image.png",
       "url": "https://sancho.bearblog.dev/google-weird/",
       "category": "海外IT",
