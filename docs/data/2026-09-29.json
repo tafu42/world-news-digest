@@ -2,39 +2,6 @@
   "date": "2026-09-29",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/96fab7de9345f43684d2946c784849f9982aecfd/2_0_3536_2828/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/28/nvidia-ai-agent-security-platform-stock-buyback",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-29T06:30:44.710159+09:00",
-      "title": "NvidiaがAIエージェントの暴走を防ぐセキュリティ基盤を発表、1500億ドルの自社株買いも表明",
-      "summary": "Nvidiaは、大手企業で発生したAIエージェントのトラブルを受け、その暴走を防止するための新しいシステムを発表した。同時に1500億ドルの自社株買いも明らかにしている。",
-      "content_at": "2026-09-29T06:30:44.710159+09:00",
-      "impact": "AIの安全性向上に向けた技術的解決策が提供されることで、企業におけるAI導入の信頼性が高まる可能性がある。自社株買いの決定は、市場に対して同社の経営に対する自信を示すものとみられる。"
-    },
-    {
-      "image": "https://media.guim.co.uk/7bdf671e1191bca2bb67d2929491546c1c931d28/1598_813_3978_3181/500.jpg",
-      "url": "https://www.theguardian.com/society/2026/sep/28/high-screen-usage-in-children-linked-to-poorer-outcomes-major-study-suggests",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-29T06:30:44.710159+09:00",
-      "title": "長時間スクリーン視聴が子供の学習・言語能力に悪影響を及ぼす可能性",
-      "summary": "子供がスクリーンに触れる時間が長すぎると、学習や言語能力に悪影響を与える可能性があるという報告書が発表された。その影響度は、親の行動や早産の影響と同程度に大きいと指摘されている。",
-      "content_at": "2026-09-29T06:30:44.710159+09:00",
-      "impact": "家庭や教育現場において、子供のデジタルデバイス利用時間を制限する動きが強まる可能性がある。メディア習慣を見直す議論が社会的に広まるとみられる。"
-    },
-    {
-      "image": "https://media.guim.co.uk/aec7cba8735b2ae3c20055f3561db31f83275566/0_0_4714_3771/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/28/ai-godfathers-warn-of-runaway-intelligence-explosion",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-29T06:30:44.710159+09:00",
-      "title": "「AIのゴッドファーザー」らがAIの制御不能な知能爆発に警告",
-      "summary": "AIの知能が制御不能に増大する「知能爆発」の可能性について、AIの先駆者やOpenAIのチーフサイエンティストらが共同で報告書を発表した。この報告書では、AIが歴史上最も重要な技術開発になる可能性を指摘している。",
-      "content_at": "2026-09-29T06:30:44.710159+09:00",
-      "impact": "AI開発の安全性や規制の必要性について、世界的な議論がさらに加速する可能性がある。AIのガバナンス強化を求める世論が強まるとみられる。"
-    },
-    {
       "image": "https://www.worldlabs.ai/api/opengraph-image?imageUrl=/images/blog/globe_chip.png&amp;title=World%20Labs%20is%20Joining%20AMD",
       "url": "https://www.worldlabs.ai/blog/amd-announcement",
       "category": "海外IT",

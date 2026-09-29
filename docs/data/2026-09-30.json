@@ -1,0 +1,94 @@
+{
+  "date": "2026-09-30",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/574125f5ec0bf8c27cdf6cdc227a4cf62416512a/583_0_5827_4663/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "OpenAIが新しいAIエージェント「dots」を発表",
+      "summary": "OpenAIが新たなAIエージェント「dots」を発表した。これはMetaが独自のAIエージェント「Muse」を発表してから数週間後の出来事である。",
+      "impact": "大手企業によるエージェント型AIの開発競争が激化することで、今後AIの自動化機能が急速に発展する可能性がある。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/62f0bbd9e8f26d37d352c0d11035de4a93eb45d5/502_0_4302_3441/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/29/dont-knock-palantir-it-provides-highly-skilled-well-paid-british-jobs",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "Palantirでの雇用と英国の労働市場",
+      "summary": "トム・ワトソン氏が、自身のPalantirでの職務に関するクライヴ・ルイス氏の記事に対し、反論を投稿した。同社は高度なスキルを要する高給の雇用を英国で提供していると主張している。",
+      "impact": "テクノロジー企業による雇用創出の是非について、英国国内で議論が深まる可能性がある。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "米郵便公社、偽造ラベル販売サイトを閉鎖",
+      "summary": "米国の郵便検査官が、偽造された郵便ラベルを販売していたウェブサイトを閉鎖した。",
+      "impact": "配送業務における詐欺行為を抑制することで、郵便サービスの信頼性向上が期待される。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.tcl-lang.org/software/tcltk/9.1.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "Tcl/Tk 9.1のリリース",
+      "summary": "プログラミング言語およびGUIツールキットであるTcl/Tkのバージョン9.1が公開された。",
+      "impact": "関連するソフトウェア開発において、最新バージョンへの移行に伴う機能改善やセキュリティの更新が進むと考えられる。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/introducing-gpt-6-1-sol/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "GPT 6.1 Sol：Astraに近い知能を5分の1の価格で提供",
+      "summary": "GPT 6.1 Solは、Astraに近い性能の知能を従来の5分の1のコストで実現する。",
+      "impact": "AIサービスの導入コストが下がることで、より広範な分野での高度なAI利用が促進される可能性がある。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://statmodeling.stat.columbia.edu/2026/08/27/258/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "ニコラス・ポルソン氏、2026年に258本の学術論文を執筆",
+      "summary": "ニコラス・ポルソン氏は、2026年現在までに258本の学術論文を執筆した。",
+      "impact": "極めて高い執筆ペースは、学術界における研究生産性の定義や評価基準について議論を呼ぶ可能性がある。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=67793961&width=1200&height=600&coordinates=0%2C250%2C0%2C250",
+      "url": "https://spectrum.ieee.org/delhi-electricity-loss",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "デリーが送電ロスを50％から5％へ削減した手法",
+      "summary": "デリーでは送電ロスを50％から5％へと大幅に削減した。",
+      "impact": "エネルギー効率の劇的な改善は、電力インフラの課題を抱える他都市にとってモデルケースとなる可能性がある。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6299cabe35069cadb4c3c808fe3e436b88cde3bbf80fd287dabc6f5b46ba6c63/ntfargo/Relapse-Exploit",
+      "url": "https://github.com/ntfargo/Relapse-Exploit",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-09-30T06:30:43.648332+09:00",
+      "title": "PS5用エクスプロイト「Relapse」が公開",
+      "summary": "PS5のファームウェアバージョン7.00から13.60を対象としたエクスプロイトチェーン「Relapse」がGitHubで公開された。",
+      "impact": "ゲーム機のセキュリティが回避されることで、非公式なソフトウェアの実行や改変が可能になる可能性がある。",
+      "content_at": "2026-09-30T06:30:43.648332+09:00"
+    }
+  ],
+  "updated_at": "2026-09-30T06:30:43.648332+09:00"
+}
