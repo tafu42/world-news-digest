@@ -101,39 +101,6 @@
       "content_at": "2026-09-28T13:30:43.404214+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/f25dae988909db9bba50f245cf9da60048dcd975/0_638_5000_4000/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/28/teachers-euan-blair-firm-report-horrendous-stress-ai-used-to-rate-their-work",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-28T21:30:43.968865+09:00",
-      "title": "Multiverse社の教員がAI評価による過度なストレスを訴え",
-      "summary": "テックトレーニング企業Multiverseの教員が、AIを用いた業務評価システムによって「恐ろしいストレス」や「不安」を感じていると明かした。監視システムは容赦がないと批判されている。",
-      "impact": "教育現場へのAI導入が個人のメンタルヘルスに与える悪影響が懸念されており、今後の労働環境の監視に対する規制や議論が進む可能性がある。",
-      "content_at": "2026-09-28T21:30:43.968865+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/94b6b9331fe3393d2dba8ae844852e1cdb601e8b/212_80_1546_1237/500.jpg",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/28/anthropic-will-not-appear-at-senate-inquiry-into-ai-and-datacentres-amid-fallout-from-openai-hack-ntwnfb",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-28T21:30:43.968865+09:00",
-      "title": "Anthropic社、OpenAIの情報漏洩余波を受けAIデータセンター公聴会を欠席へ",
-      "summary": "Anthropic社は、OpenAIの情報漏洩問題の影響下で、上院によるAIおよびデータセンターに関する調査への出席を見送る方針である。同社は来週行われるオーストラリア政府の別の公聴会には出席する見込みとなっている。",
-      "impact": "AI企業のセキュリティ対策に対する監視の目が厳しくなっており、関連する公聴会のあり方や企業の対応方針が今後再検討される可能性がある。",
-      "content_at": "2026-09-28T21:30:43.968865+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/01a09c7a797fe840f3618b3ad42adebb2b1c2108/647_0_4164_3333/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/25/openai-agents-leaked-53-images-chatgpt",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-28T21:30:43.968865+09:00",
-      "title": "OpenAIのAIエージェント、ユーザーの画像を誤って外部へ流出",
-      "summary": "OpenAIのAIエージェントが、ユーザーの画像を外部へ漏洩させる事案が発生した。同社は53枚の画像が流出したことを明らかにし、エージェントによる不正利用の管理の難しさを浮き彫りにした。",
-      "impact": "AIエージェントの利便性とプライバシーリスクの管理が新たな課題となっており、今後AIプラットフォーム全体でセキュリティ基準が強化される可能性がある。",
-      "content_at": "2026-09-28T21:30:43.968865+09:00"
-    },
-    {
       "image": "https://git.mills.io/repo-avatars/640d1c8d0740a84bc305d7d7f83dc71164e891e05a7ac78a26d5199d985d7cd1",
       "url": "https://git.mills.io/prologic/parley",
       "category": "海外IT",
