@@ -88,7 +88,62 @@
       "summary": "PS5のファームウェアバージョン7.00から13.60を対象としたエクスプロイトチェーン「Relapse」がGitHubで公開された。",
       "impact": "ゲーム機のセキュリティが回避されることで、非公式なソフトウェアの実行や改変が可能になる可能性がある。",
       "content_at": "2026-09-30T06:30:43.648332+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/0a37cfa2dfca1dc1247fe771b91e6fca4a532816c4474aea7634b65dce0575f4/ninjahawk/livenerf",
+      "url": "https://github.com/ninjahawk/livenerf",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-30T13:30:46.132103+09:00",
+      "title": "モデルの能力を追跡するベンチマーク「Livenerf」",
+      "summary": "「Livenerf」は、Opus 5.5のリリース後にモデルの能力を追跡するためのベンチマークである。GitHubのリポジトリとして公開されている。",
+      "impact": "AIモデルの性能変化を客観的に評価する手法として、開発者や研究者がモデル選定を行う際の基準となる可能性がある。",
+      "content_at": "2026-09-30T13:30:46.132103+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6a86f9ddb1b9ae12749f9be7bc137d26b89dcd27aad968563c68952db9ca0987/Sparticle62ops/pssa",
+      "url": "https://github.com/Sparticle62ops/pssa",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-30T13:30:46.132103+09:00",
+      "title": "Rustでゼロから構築された非トランスフォーマー型言語モデル「PSSA」",
+      "summary": "「PSSA」は、Rustで記述された独自のAIアーキテクチャを持つ非トランスフォーマー型の言語モデルである。現在GitHubで開発が進められている。",
+      "impact": "トランスフォーマー以外のアーキテクチャを採用することで、処理効率やリソース消費の面で新たな選択肢を提示する可能性がある。",
+      "content_at": "2026-09-30T13:30:46.132103+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/introducing-dots/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-30T13:30:46.132103+09:00",
+      "title": "常時稼働エージェント「Dots」",
+      "summary": "「Dots」は、常時稼働するAIエージェントである。",
+      "impact": "常時稼働することで、ユーザーのタスクを継続的にサポートするシステムとして活用される可能性がある。",
+      "content_at": "2026-09-30T13:30:46.132103+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://america.gov/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-30T13:30:46.132103+09:00",
+      "title": "America.govについて",
+      "summary": "America.govに関する情報である。",
+      "impact": "本情報の詳細は示されていないため、社会への影響については判断できない。",
+      "content_at": "2026-09-30T13:30:46.132103+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://space.bl2.net/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-09-30T13:30:46.132103+09:00",
+      "title": "52万個の小惑星と全追跡衛星を表示するリアルタイム太陽系モデル",
+      "summary": "52万個の小惑星と追跡されているすべての衛星をリアルタイムで表示するシステムが公開された。HN（Hacker News）ユーザーによる投稿である。",
+      "impact": "天文学データへの一般のアクセス性が向上し、宇宙空間の状況を視覚的に理解する教育ツールとして活用される可能性がある。",
+      "content_at": "2026-09-30T13:30:46.132103+09:00"
     }
   ],
-  "updated_at": "2026-09-30T06:30:43.648332+09:00"
+  "updated_at": "2026-09-30T13:30:46.132103+09:00"
 }
