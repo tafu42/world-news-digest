@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-01",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/9e199385a4bcb1a01eb3ffe0585e3f0394a080bb/318_0_3162_2531/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/30/pete-hegseth-elon-musk-taskforce-warfare",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "イーロン・マスク氏、米軍事戦略タスクフォースの担当に任命",
+      "summary": "スペースXのCEOであるイーロン・マスク氏が、トランプ政権の将来の軍事戦略に関するタスクフォースに任命された。同氏は以前のDogeでの任期を経て、再び政権内での地位を確立した。",
+      "impact": "今後の米国の軍事開発や防衛政策に民間企業の技術や視点がより強く反映される可能性がある。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ed060329a91fc7880904c6696c790bf114840c32/1119_334_4888_3911/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "パランティア社のNHSデータ管理に4万4000件超の異議申し立て",
+      "summary": "パランティア社が管理するNHSのプラットフォームに対し、4万4000件を超える法的異議申し立てが行われた。今回の反発は、同社とイスラエル軍との関わりや、トランプ政権による移民局の取り締まりへの関与に対する懸念が背景にある。",
+      "impact": "医療データの利活用における企業の関与に対して社会的な監視が強まり、公共機関との契約プロセスやプライバシー保護の枠組みが見直される可能性がある。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "新AIモデル「Gemini 4 Argon」発表",
+      "summary": "コーディングやエンタープライズ業務、サイバー防衛を目的とした新しいフロンティアモデル「Gemini 4 Argon」が発表された。近日中に提供が開始される予定である。",
+      "impact": "企業活動やサイバーセキュリティ対策において、AIの活用範囲がより専門的かつ高度に広がる可能性がある。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/09/Thought-Geometry-cr.Mark-Belan-Social.jpg",
+      "url": "https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "脳内の複雑な波が脳の活動メカニズムを明らかに",
+      "summary": "人間の脳内を移動する予期せぬパターンが、脳の活動をリアルタイムで再編成している可能性が示唆された。これは脳の内部構造を解明する手がかりとなる発見である。",
+      "impact": "脳科学や神経疾患の治療研究において、脳の動的な仕組みを理解するための新たな知見が得られるとみられる。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://edgcpp.org/#transition",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "EDGのC++フロントエンドが公開へ",
+      "summary": "2026年9月30日、EDGのC++フロントエンドが公開された。",
+      "impact": "C++開発環境やコンパイラ技術に関連する開発者コミュニティに対して、新たなツール選択肢を提供する可能性がある。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/4d0f3873a6519326187e973429b280fe1482f516a4306c3feccaa188c0cc3927/magnitudedev/magnitude",
+      "url": "https://github.com/magnitudedev/magnitude",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "Magnitude (YC S25)：エージェント向け自己最適化推論エンジン",
+      "summary": "ハードウェアに合わせてカーネルを自動的にコンパイル・調整する、エージェント向けのオープンソース推論エンジンである。llama.cppと比較して最大2倍の実行速度を実現する。",
+      "impact": "AIエージェントの処理速度が向上することで、ローカルデバイス上でのAI活用がより実用的かつ広範に進むと考えられる。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "https://www.netlify.com/images/blog/edge-functions-firecracker-microvms.png",
+      "url": "https://www.netlify.com/blog/edge-functions-firecracker-microvms/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "NetlifyのEdge Functionsが5倍高速化：V8 isolatesからFirecracker MicroVMへ",
+      "summary": "NetlifyはEdge Functionsの基盤をV8 isolatesからFirecracker MicroVMへ刷新した。これにより低遅延、高信頼性、高速なログ配信を実現した。",
+      "impact": "エッジコンピューティング環境のパフォーマンスが向上することで、Webサービスのユーザー体験が改善されるとみられる。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "https://artificialanalysis.ai/en/models/gemini-4-argon/opengraph-image?98c684ee125a0a03",
+      "url": "https://artificialanalysis.ai/models/gemini-4-argon",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-01T06:30:40.360755+09:00",
+      "title": "Gemini 4 Argon (High)：インテリジェンス・性能・価格分析",
+      "summary": "GoogleのAIモデル「Gemini 4 Argon (High)」の分析と、他のAIモデルとの品質、価格、性能、コンテキストウィンドウなどの主要指標の比較が行われた。",
+      "impact": "競合するAIモデルとの性能差が可視化されることで、開発者や企業が最適なAIモデルを選定する際の重要な判断材料になる可能性がある。",
+      "content_at": "2026-10-01T06:30:40.360755+09:00"
+    }
+  ],
+  "updated_at": "2026-10-01T06:30:40.360755+09:00"
+}

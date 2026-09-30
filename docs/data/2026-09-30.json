@@ -2,28 +2,6 @@
   "date": "2026-09-30",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/574125f5ec0bf8c27cdf6cdc227a4cf62416512a/583_0_5827_4663/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/openai-announces-dots-agent-safety-concerns",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-30T06:30:43.648332+09:00",
-      "title": "OpenAIが新しいAIエージェント「dots」を発表",
-      "summary": "OpenAIが新たなAIエージェント「dots」を発表した。これはMetaが独自のAIエージェント「Muse」を発表してから数週間後の出来事である。",
-      "impact": "大手企業によるエージェント型AIの開発競争が激化することで、今後AIの自動化機能が急速に発展する可能性がある。",
-      "content_at": "2026-09-30T06:30:43.648332+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/62f0bbd9e8f26d37d352c0d11035de4a93eb45d5/502_0_4302_3441/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/29/dont-knock-palantir-it-provides-highly-skilled-well-paid-british-jobs",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-09-30T06:30:43.648332+09:00",
-      "title": "Palantirでの雇用と英国の労働市場",
-      "summary": "トム・ワトソン氏が、自身のPalantirでの職務に関するクライヴ・ルイス氏の記事に対し、反論を投稿した。同社は高度なスキルを要する高給の雇用を英国で提供していると主張している。",
-      "impact": "テクノロジー企業による雇用創出の是非について、英国国内で議論が深まる可能性がある。",
-      "content_at": "2026-09-30T06:30:43.648332+09:00"
-    },
-    {
       "image": "",
       "url": "https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/",
       "category": "海外IT",
