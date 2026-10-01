@@ -143,7 +143,92 @@
       "summary": "シンガポール政府が運営する婚活アプリ「FirstDate」は、ノーベル経済学賞を受賞したゲール・シャプレイの安定結婚アルゴリズムを利用している。この手法は、病院の研修医マッチングや腎臓移植のドナー調整にも使用されている。",
       "impact": "効率的なマッチングシステムの導入により、公共の婚活サービスにおける成功率や利用者の満足度が向上する可能性がある。",
       "content_at": "2026-10-01T13:30:39.273096+09:00"
+    },
+    {
+      "en_title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
+      "en_text": "Hostile states could access cameras, microphones or GPS, says intelligence agency amid concerns over Chinese imports",
+      "image": "https://media.guim.co.uk/938586c5c4e34a02d8b527189005f688010cd578/307_306_3368_2694/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-01T21:30:48.570109+09:00",
+      "title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
+      "summary": "Hostile states could access cameras, microphones or GPS, says intelligence agency amid concerns over Chinese imports",
+      "content_at": "2026-10-01T21:30:48.570109+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "AI chatbots remove hijabs from images of Muslim women when prompted",
+      "en_text": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo",
+      "image": "https://media.guim.co.uk/976016b244ec75038c7b4d519a0cbce1e2e70696/0_103_3400_2720/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-01T21:30:48.570109+09:00",
+      "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
+      "summary": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo",
+      "content_at": "2026-10-01T21:30:48.570109+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "StreetComplete on iOS is now in public beta",
+      "en_text": "This ticket is something like the master ticket to coordinate development on an iOS port of StreetComplete. It replaces #1892 which also included a lot of discussion and research / observation work...",
+      "image": "https://opengraph.githubassets.com/1214691b40da9a4bc4a5f40865a62f189fb798e48ff011b7e4a9cad9eaca61af/streetcomplete/StreetComplete/issues/5421",
+      "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-01T21:30:48.570109+09:00",
+      "title": "StreetComplete on iOS is now in public beta",
+      "summary": "This ticket is something like the master ticket to coordinate development on an iOS port of StreetComplete. It replaces ",
+      "content_at": "2026-10-01T21:30:48.570109+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "en_text": "Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Companies sign multi-year agreement to collaborate as preferred partners to...",
+      "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&amp;p=facebook",
+      "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-01T21:30:48.570109+09:00",
+      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
+      "summary": "Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Co",
+      "content_at": "2026-10-01T21:30:48.570109+09:00",
+      "pending": true
+    },
+    {
+      "image": "https://opengraph.githubassets.com/77a29227feaa9913d9b01d3a346022d9a798a11c00ec82733fecc5a5f975f79e/maanHimself/OpenDLSS-NR",
+      "url": "https://github.com/maanHimself/OpenDLSS-NR",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-01T21:30:48.570109+09:00",
+      "title": "NVIDIAのDLSS 5ニューラルレンダリングをVulkanで再実装した「OpenDLSS」",
+      "summary": "NVIDIAのDLSS 5ニューラルレンダリングネットワークをVulkanで再実装したプロジェクト「OpenDLSS」が公開された。オリジナルとビット一致する動作を実現している。",
+      "content_at": "2026-10-01T21:30:48.570109+09:00",
+      "impact": "グラフィックス技術のオープンな実装が進むことで、特定のハードウェア環境に依存しないレンダリング技術の普及に寄与する可能性がある。"
+    },
+    {
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/GettyImages-2288940295-2560x1440.jpg",
+      "url": "https://arstechnica.com/tech-policy/2026/09/immigration-advocate-sues-border-agents-for-demanding-his-cell-phone/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-01T21:30:48.570109+09:00",
+      "title": "休暇帰国時の携帯端末検査：令状なしの検索が可能",
+      "summary": "国境において権利が免除される「国境免除」により、政府は令状なしに携帯電話を検索できる。休暇からの帰国時などには注意が必要である。",
+      "content_at": "2026-10-01T21:30:48.570109+09:00",
+      "impact": "国境通過時のプライバシー保護に関する議論が再燃し、旅行者が電子デバイス内の個人情報の取り扱いにいっそう慎重になる可能性がある。"
+    },
+    {
+      "image": "https://bookofshapes.com/og-default.png",
+      "url": "https://bookofshapes.com/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-01T21:30:48.570109+09:00",
+      "title": "カスタマイズ可能なSVG生成パターン集「Book of Shapes」",
+      "summary": "「Book of Shapes」は、最小限の構成で生成されるSVGパターンのギャラリーである。独自のアルゴリズムによるアートを検索し、カスタマイズしてダウンロードできる。",
+      "content_at": "2026-10-01T21:30:48.570109+09:00",
+      "impact": "ウェブデザインやデジタルアートの分野において、アルゴリズムで生成されたグラフィック資源の利用がより容易になると考えられる。"
     }
   ],
-  "updated_at": "2026-10-01T13:30:39.273096+09:00"
+  "updated_at": "2026-10-01T21:30:48.570109+09:00"
 }

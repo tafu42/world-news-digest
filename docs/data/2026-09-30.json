@@ -123,50 +123,6 @@
       "content_at": "2026-09-30T13:30:46.132103+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/6c9559e6c1a3badb7e83f824e28884bb11f226a7/0_46_4672_3736/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/ai-tool-copied-actor-kenjiro-tsuda-tokyo-court",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-30T21:30:43.708386+09:00",
-      "title": "俳優・津田健次郎さんの声を無断複製したAI動画、東京地裁が権利侵害を認定",
-      "summary": "俳優の津田健次郎さんが、自身の声を無断で複製したTikTokアカウントを訴えた裁判で勝訴した。この判決は、パブリシティ権を保護する日本初の画期的な事例となった。",
-      "impact": "今後、AIによる著名人の声の無断利用に対する法的抑止力が高まると考えられる。",
-      "content_at": "2026-09-30T21:30:43.708386+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-30T21:30:43.708386+09:00",
-      "title": "英中銀総裁、AIの脅威に対して「介入する権利」の必要性を訴え",
-      "summary": "暴走するAIモデルが金融システムを乗っ取る懸念が高まる中、イングランド銀行のアンドリュー・ベイリー総裁がAIへの介入権の重要性に言及した。",
-      "impact": "金融システムの安定性を守るため、今後AIの利用を監視・制御する規制枠組みが強化される可能性がある。",
-      "content_at": "2026-09-30T21:30:43.708386+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/90205fdbc5bfd3b26f6750ebb29f52c206fa979a/0_140_3400_2720/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/ai-deepfakes-politicans",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-30T21:30:43.708386+09:00",
-      "title": "選挙におけるAI画像の影響に懸念、有権者が真偽を見極める難しさが課題に",
-      "summary": "AIによって生成されたディープフェイクや誤情報が、議員や活動家、一般市民の間で大きな懸念事項となっている。選挙におけるAIの悪用が真実性を揺るがす事態が危惧されている。",
-      "impact": "情報の真偽を見分ける仕組みの導入や、選挙に関するメディアリテラシーの向上が強く求められるようになるとみられる。",
-      "content_at": "2026-09-30T21:30:43.708386+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/69b176a7aed6a3b0e3c067ac32ba07fabe983fec/209_76_4167_3334/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/lisa-nandy-social-media-ban-online-safety-culture-secretary",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-09-30T21:30:43.708386+09:00",
-      "title": "英文化相、子供のSNS利用禁止は「出発点」と語る",
-      "summary": "英国のナンディ文化相は、子供のソーシャルメディア利用禁止措置について、オンライン安全性確保に向けた第一歩に過ぎないと述べた。同国はテクノロジーをより良いものにするため、今後さらなる規制を強化する方針である。",
-      "impact": "英国において今後、未成年の保護を目的としたテック企業へのより厳格な規制が導入される可能性がある。",
-      "content_at": "2026-09-30T21:30:43.708386+09:00"
-    },
-    {
       "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;you-said-no-mcp.png",
       "url": "https://earendil.com/posts/you-said-no-mcp/",
       "category": "海外IT",
