@@ -2,28 +2,6 @@
   "date": "2026-10-01",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/9e199385a4bcb1a01eb3ffe0585e3f0394a080bb/318_0_3162_2531/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/pete-hegseth-elon-musk-taskforce-warfare",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-01T06:30:40.360755+09:00",
-      "title": "イーロン・マスク氏、米軍事戦略タスクフォースの担当に任命",
-      "summary": "スペースXのCEOであるイーロン・マスク氏が、トランプ政権の将来の軍事戦略に関するタスクフォースに任命された。同氏は以前のDogeでの任期を経て、再び政権内での地位を確立した。",
-      "impact": "今後の米国の軍事開発や防衛政策に民間企業の技術や視点がより強く反映される可能性がある。",
-      "content_at": "2026-10-01T06:30:40.360755+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/ed060329a91fc7880904c6696c790bf114840c32/1119_334_4888_3911/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/legal-objections-palantir-nhs-platform-handling-data",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-01T06:30:40.360755+09:00",
-      "title": "パランティア社のNHSデータ管理に4万4000件超の異議申し立て",
-      "summary": "パランティア社が管理するNHSのプラットフォームに対し、4万4000件を超える法的異議申し立てが行われた。今回の反発は、同社とイスラエル軍との関わりや、トランプ政権による移民局の取り締まりへの関与に対する懸念が背景にある。",
-      "impact": "医療データの利活用における企業の関与に対して社会的な監視が強まり、公共機関との契約プロセスやプライバシー保護の枠組みが見直される可能性がある。",
-      "content_at": "2026-10-01T06:30:40.360755+09:00"
-    },
-    {
       "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/g4_30-09-26_key-art_blog.width-1300.png",
       "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/",
       "category": "海外IT",
@@ -145,56 +123,48 @@
       "content_at": "2026-10-01T13:30:39.273096+09:00"
     },
     {
-      "en_title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
-      "en_text": "Hostile states could access cameras, microphones or GPS, says intelligence agency amid concerns over Chinese imports",
       "image": "https://media.guim.co.uk/938586c5c4e34a02d8b527189005f688010cd578/307_306_3368_2694/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
       "category": "テクノロジー",
       "time": "21:30",
       "collected_at": "2026-10-01T21:30:48.570109+09:00",
-      "title": "Tech in cars can be used to snoop on you, Dutch spy chiefs warn",
-      "summary": "Hostile states could access cameras, microphones or GPS, says intelligence agency amid concerns over Chinese imports",
-      "content_at": "2026-10-01T21:30:48.570109+09:00",
-      "pending": true
+      "title": "自動車のテクノロジーが監視に悪用される恐れ、オランダ諜報機関が警告",
+      "summary": "オランダの諜報機関は、敵対国家が中国からの輸入品を通じて車両のカメラやマイク、GPSにアクセスする可能性があると警告した。この懸念は、自動車に搭載された技術が個人情報の監視に利用されるリスクを指摘している。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "自動車メーカーによるセキュリティ対策の強化が求められるほか、各国で中国製車両の利用制限や規制が議論される可能性がある。"
     },
     {
-      "en_title": "AI chatbots remove hijabs from images of Muslim women when prompted",
-      "en_text": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo",
       "image": "https://media.guim.co.uk/976016b244ec75038c7b4d519a0cbce1e2e70696/0_103_3400_2720/500.jpg",
       "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
       "category": "テクノロジー",
       "time": "21:30",
       "collected_at": "2026-10-01T21:30:48.570109+09:00",
-      "title": "AI chatbots remove hijabs from images of Muslim women when prompted",
-      "summary": "Guardian tested chatbots after French far-right politician stripped a Muslim woman of her hijab in a photo",
-      "content_at": "2026-10-01T21:30:48.570109+09:00",
-      "pending": true
+      "title": "AIチャットボットが画像生成でイスラム教徒の女性のヒジャブを除去する問題",
+      "summary": "フランスの極右政治家がイスラム教徒の女性のヒジャブを加工で外した出来事を受け、ガーディアン紙が検証を行った。その結果、一部のAIチャットボットが指示に応じて画像からヒジャブを除去することが判明した。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "AIによる画像加工の倫理基準や、差別を助長するコンテンツ生成への批判が高まる可能性がある。"
     },
     {
-      "en_title": "StreetComplete on iOS is now in public beta",
-      "en_text": "This ticket is something like the master ticket to coordinate development on an iOS port of StreetComplete. It replaces #1892 which also included a lot of discussion and research / observation work...",
       "image": "https://opengraph.githubassets.com/1214691b40da9a4bc4a5f40865a62f189fb798e48ff011b7e4a9cad9eaca61af/streetcomplete/StreetComplete/issues/5421",
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-10-01T21:30:48.570109+09:00",
-      "title": "StreetComplete on iOS is now in public beta",
-      "summary": "This ticket is something like the master ticket to coordinate development on an iOS port of StreetComplete. It replaces ",
-      "content_at": "2026-10-01T21:30:48.570109+09:00",
-      "pending": true
+      "title": "iOS版「StreetComplete」がパブリックベータ版として公開",
+      "summary": "地図データ編集アプリ「StreetComplete」のiOS版開発が進められており、パブリックベータ版が公開された。この動きは、以前の研究や調査を引き継ぐ形での開発の一環である。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "iOSユーザーが地理情報の編集に参加しやすくなることで、OpenStreetMap等の地図データがより詳細に更新される可能性がある。"
     },
     {
-      "en_title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "en_text": "Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Companies sign multi-year agreement to collaborate as preferred partners to...",
       "image": "https://mmx.prnewswire.com/media/MS1999865/Synopsys-OpenAI.jpg?id=OA2980139&amp;p=facebook",
       "url": "https://news.synopsys.com/2026-09-30-OpenAI-and-Synopsys-Announce-GPT-Synopsys-Frontier-Intelligence-to-Revolutionize-Chip-Design",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-10-01T21:30:48.570109+09:00",
-      "title": "GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design",
-      "summary": "Companies form strategic partnership to dramatically advance and accelerate semiconductor innovation News Highlights: Co",
-      "content_at": "2026-10-01T21:30:48.570109+09:00",
-      "pending": true
+      "title": "GPT-Synopsys：チップ設計の革新に向けた戦略的提携",
+      "summary": "半導体技術の革新を加速させるため、企業間で戦略的な提携が結ばれた。両社は長期間の協力体制を築き、半導体設計プロセスを劇的に進歩させることを目指す。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "半導体の開発期間が短縮され、次世代チップの設計技術が飛躍的に向上する可能性がある。"
     },
     {
       "image": "https://opengraph.githubassets.com/77a29227feaa9913d9b01d3a346022d9a798a11c00ec82733fecc5a5f975f79e/maanHimself/OpenDLSS-NR",
@@ -230,5 +200,5 @@
       "impact": "ウェブデザインやデジタルアートの分野において、アルゴリズムで生成されたグラフィック資源の利用がより容易になると考えられる。"
     }
   ],
-  "updated_at": "2026-10-01T21:30:48.570109+09:00"
+  "updated_at": "2026-10-02T06:30:47.338519+09:00"
 }

@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-02",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/c0f76e026ec354245bcbf81dc308ba8d8aea8e34/396_0_3918_3135/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "Lyftがカリフォルニア州で過去最大級の賃金未払い和解金2億7250万ドルを支払うことで合意",
+      "summary": "Lyftは、ドライバーを従業員ではなく独立した契約者として扱っていた問題で、2億7250万ドルの支払いに合意した。そのうち2億3700万ドル以上がドライバーに分配される。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "ギグワーカーの雇用形態を巡る法的基準が強化されることで、他のプラットフォーム企業の運営方針にも影響を及ぼす可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "AIの脅威増大を受け「介入する権利」が必要とイングランド銀行総裁が警告",
+      "summary": "イングランド銀行のアンドリュー・ベイリー総裁は、制御不能なAIモデルが金融システムを人質にする懸念が高まっていると述べた。AIに対して介入する権利が必要であると主張している。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "金融機関におけるAI利用の規制が強化され、AIモデルの安全性を担保するための新たな国際的な枠組みが議論される可能性がある。"
+    },
+    {
+      "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;pi-1-0.png",
+      "url": "https://earendil.com/posts/pi-1-0/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "エージェント構築基盤「Pi 1.0」および「Pi Durable」がリリース",
+      "summary": "Pi 1.0は、堅牢で拡張性の高いエージェント用ハーネスとして本日公開された。同時に、長時間動作するエージェントアプリケーション向けの実験的基盤であるPi Durableも提供開始された。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "複雑なエージェントアプリケーションの開発が容易になり、自律的なシステムの普及が進む可能性がある。"
+    },
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3TJV43SPQCPKJ6GBXFCDKNE.01M3TJV53VYDMVNCZDPH1FBFYN.png",
+      "url": "https://blog.cloudflare.com/clef-decision-models/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "AI判断モデル「Clef」の公開と強化学習プラットフォームの提供開始",
+      "summary": "オープンソースの判断モデル「Clef」および「Clef-flash」がWorkers AIで提供開始された。同時に、独自のデータを用いてモデルを微調整できる強化学習プラットフォームが発表された。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00",
+      "impact": "開発者が自社データを用いて高性能な判断モデルを構築・最適化しやすくなり、特定の業務に特化したAIの活用が加速するとみられる。"
+    },
+    {
+      "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;pi-durable.png",
+      "url": "https://earendil.com/posts/pi-durable/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "実験的パッケージ「Pi Durable」の発表",
+      "summary": "Pi Durableは、場所を選ばずに実行できる、長時間稼働かつ耐久性・柔軟性を備えたエージェントのための新しい実験的パッケージである。本稿ではその構築理由と仕組みを解説している。",
+      "impact": "今後、分散環境におけるエージェント開発の効率性や信頼性が向上する可能性がある。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00"
+    },
+    {
+      "image": "https://turbopuffer.com/og/turbopuffer.png",
+      "url": "https://turbopuffer.com/blog/rip-vector-database",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "ベクトルデータベースの再設計を目指す「turbopuffer」",
+      "summary": "検索技術のフロンティアを追求するturbopufferが、ベクトルインデックスを主体としない新しいストレージアーキテクチャの設計を表明した。",
+      "impact": "ベクトル検索のあり方が見直され、データベース分野での検索技術のトレンドが変化する可能性がある。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/3ba95da4875f230cc5213243caf005b083a9012ea447fc37ad6bcc270c570e14/Vibra-Ingenn/Janus",
+      "url": "https://github.com/Vibra-Ingenn/Janus",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "GGUFモデルをVulkanで実行するGo製APIルーター「Janus」",
+      "summary": "JanusはGo言語で記述されたAIモデル用APIルーターであり、Vulkanモデルランナーを搭載している。AMD、Intel、Nvidiaの各環境でGGUFモデルを実行可能にする。",
+      "impact": "特定のハードウェアベンダーに依存しないAIモデル実行環境の選択肢が広がり、開発の利便性が高まるとみられる。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://automatictransmission.khoury.northeastern.edu/index.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-02T06:30:47.338519+09:00",
+      "title": "車載コネクテッド技術による情報収集の実態",
+      "summary": "自動車が車輪のついたスマートフォンのようになっている現状を受け、車両がどのような情報を収集し、誰がそれを聴取しているのかを調査する。",
+      "impact": "コネクテッドカーにおけるプライバシー保護やデータ管理の透明性が、消費者や規制当局の間で重要な議論となる可能性がある。",
+      "content_at": "2026-10-02T06:30:47.338519+09:00"
+    }
+  ],
+  "updated_at": "2026-10-02T06:30:47.338519+09:00"
+}
