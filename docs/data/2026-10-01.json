@@ -88,7 +88,62 @@
       "summary": "GoogleのAIモデル「Gemini 4 Argon (High)」の分析と、他のAIモデルとの品質、価格、性能、コンテキストウィンドウなどの主要指標の比較が行われた。",
       "impact": "競合するAIモデルとの性能差が可視化されることで、開発者や企業が最適なAIモデルを選定する際の重要な判断材料になる可能性がある。",
       "content_at": "2026-10-01T06:30:40.360755+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/14fb9f38472e5b9c4a736c05c45a305ad892dc81/0_0_5000_4000/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/how-ai-could-supercharge-fake-news-elections-south-east-asia",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-01T13:30:39.273096+09:00",
+      "title": "東南アジアの選挙におけるAIの悪用リスク",
+      "summary": "若年層が多くインターネット接続環境が普及している東南アジアにおいて、AIが選挙で武器として悪用されることを専門家が懸念している。",
+      "impact": "フェイクニュースやプロパガンダの拡散により、選挙結果や民主主義のプロセスに悪影響を及ぼす可能性がある。",
+      "content_at": "2026-10-01T13:30:39.273096+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.thespacereview.com/article/4951/1",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-01T13:30:39.273096+09:00",
+      "title": "2025年の最高機密衛星URSALA、RAQUEL、FARRAH",
+      "summary": "2025年に運用される最高機密衛星としてURSALA、RAQUEL、FARRAHが存在する。",
+      "impact": "詳細は不明だが、軍事や諜報活動において重要な役割を果たしている可能性がある。",
+      "content_at": "2026-10-01T13:30:39.273096+09:00"
+    },
+    {
+      "image": "https://56k.rip/og.png",
+      "url": "https://56k.rip/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-01T13:30:39.273096+09:00",
+      "title": "1996年のダイヤルアップ接続を体験できるサイト「56k.rip」",
+      "summary": "「56k.rip」は、接続時のハンドシェイク音や待機時間など、1996年当時のダイヤルアップ接続を再現しているウェブサイトである。",
+      "impact": "当時のインターネット体験を追体験させることで、技術の進化を再認識させる機会を提供するとみられる。",
+      "content_at": "2026-10-01T13:30:39.273096+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!Uazu!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F706f94b0-b620-4a80-8d84-e5c0c08fcc1b_2560x1707.webp",
+      "url": "https://www.worksinprogress.news/p/why-really-caused-the-bronze-age",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-01T13:30:39.273096+09:00",
+      "title": "青銅器時代の崩壊の理由について",
+      "summary": "歴史家は干ばつや飢饉、侵略者を崩壊の原因として挙げるが、それだけでは帝国が二度と再建されなかった理由を説明できないとされている。",
+      "impact": "過去の文明崩壊のメカニズムを再考することで、現代文明の持続可能性に関する議論に示唆を与える可能性がある。",
+      "content_at": "2026-10-01T13:30:39.273096+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1996014367368966144/78LfGHq7_400x400.jpg",
+      "url": "https://twitter.com/tuakdotsol/status/2105105417760391258",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-01T13:30:39.273096+09:00",
+      "title": "シンガポール政府の婚活アプリ、ノーベル賞受賞のアルゴリズムを採用",
+      "summary": "シンガポール政府が運営する婚活アプリ「FirstDate」は、ノーベル経済学賞を受賞したゲール・シャプレイの安定結婚アルゴリズムを利用している。この手法は、病院の研修医マッチングや腎臓移植のドナー調整にも使用されている。",
+      "impact": "効率的なマッチングシステムの導入により、公共の婚活サービスにおける成功率や利用者の満足度が向上する可能性がある。",
+      "content_at": "2026-10-01T13:30:39.273096+09:00"
     }
   ],
-  "updated_at": "2026-10-01T06:30:40.360755+09:00"
+  "updated_at": "2026-10-01T13:30:39.273096+09:00"
 }
