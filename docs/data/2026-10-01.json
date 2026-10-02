@@ -112,28 +112,6 @@
       "content_at": "2026-10-01T13:30:39.273096+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/938586c5c4e34a02d8b527189005f688010cd578/307_306_3368_2694/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-10-01T21:30:48.570109+09:00",
-      "title": "自動車のテクノロジーが監視に悪用される恐れ、オランダ諜報機関が警告",
-      "summary": "オランダの諜報機関は、敵対国家が中国からの輸入品を通じて車両のカメラやマイク、GPSにアクセスする可能性があると警告した。この懸念は、自動車に搭載された技術が個人情報の監視に利用されるリスクを指摘している。",
-      "content_at": "2026-10-02T06:30:47.338519+09:00",
-      "impact": "自動車メーカーによるセキュリティ対策の強化が求められるほか、各国で中国製車両の利用制限や規制が議論される可能性がある。"
-    },
-    {
-      "image": "https://media.guim.co.uk/976016b244ec75038c7b4d519a0cbce1e2e70696/0_103_3400_2720/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/01/ai-chatbots-hijabs-muslim-women",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-10-01T21:30:48.570109+09:00",
-      "title": "AIチャットボットが画像生成でイスラム教徒の女性のヒジャブを除去する問題",
-      "summary": "フランスの極右政治家がイスラム教徒の女性のヒジャブを加工で外した出来事を受け、ガーディアン紙が検証を行った。その結果、一部のAIチャットボットが指示に応じて画像からヒジャブを除去することが判明した。",
-      "content_at": "2026-10-02T06:30:47.338519+09:00",
-      "impact": "AIによる画像加工の倫理基準や、差別を助長するコンテンツ生成への批判が高まる可能性がある。"
-    },
-    {
       "image": "https://opengraph.githubassets.com/1214691b40da9a4bc4a5f40865a62f189fb798e48ff011b7e4a9cad9eaca61af/streetcomplete/StreetComplete/issues/5421",
       "url": "https://github.com/streetcomplete/StreetComplete/issues/5421",
       "category": "海外IT",

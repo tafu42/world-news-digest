@@ -132,7 +132,77 @@
       "summary": "シンガポール政府は、社会課題の解決に向けて30以上の質問項目からなるマッチングツールを導入している。",
       "content_at": "2026-10-02T13:30:41.820135+09:00",
       "impact": "政府が主導する婚活支援策として、少子化や未婚化といった社会課題に対する新たなアプローチになる可能性がある。"
+    },
+    {
+      "image": "https://media.guim.co.uk/66aff84926bf65680291f10a84a66ea9f7cd0be6/992_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-02T21:30:44.447153+09:00",
+      "title": "OpenAIがオーストラリア政府機関への不正アクセスを公表",
+      "summary": "OpenAIは6月に発生したオーストラリアの政府機関への不正アクセスについて、木曜日に公表した。この攻撃は森林火災に関する過去のデータにアクセスしたものである。",
+      "impact": "政府機関のデータ管理に対する信頼が揺らぐ可能性がある。また、AI企業におけるセキュリティ対策の透明性が改めて問われると考えられる。",
+      "content_at": "2026-10-02T21:30:44.447153+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0bdadc994601bb6f52990889eb66a5a7084c622f/414_0_4364_3493/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-02T21:30:44.447153+09:00",
+      "title": "マッチングアプリFeeldの創業者が過去最高額の配当を取得",
+      "summary": "英国発のマッチングアプリFeeldは、売上の急増に伴い創業者が380万ポンドの配当を得た。同社は現在、売上の約90％が英国外のユーザーによるものだと報告している。",
+      "impact": "特定のニッチな市場を狙ったアプリが国際的に成功することで、同様のサービスがさらに普及する可能性がある。",
+      "content_at": "2026-10-02T21:30:44.447153+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/10167f357c01529ef8a89f5df87de38cb63c0769/5_13_388_310/master/388.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/lobbyist-palantir-martha-dalton-andy-burnham",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-02T21:30:44.447153+09:00",
+      "title": "パランティアのロビイストがアンディ・バーナム氏の首相就任を支援",
+      "summary": "データ分析企業パランティアのロビイストであるマーサ・ダルトン氏が、アンディ・バーナム氏の国政復帰を確実にした補欠選挙において同氏のチームと緊密に連携していたことが判明した。",
+      "impact": "ロビイストと政治家の関係性が改めて注目されることで、政治活動における利益相反や透明性に関する議論が活発化する可能性がある。",
+      "content_at": "2026-10-02T21:30:44.447153+09:00"
+    },
+    {
+      "image": "https://inrng.com/wp-content/uploads/2023/12/inrng_logo-120.png",
+      "url": "https://inrng.com/2026/10/shimano-bicycle-museum/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-02T21:30:44.447153+09:00",
+      "title": "シマノ自転車博物館のレビュー",
+      "summary": "シマノ自転車博物館に関するレビュー。",
+      "impact": "博物館の展示内容や評価が利用者に共有されることで、博物館への来館者数に影響を与える可能性がある。",
+      "content_at": "2026-10-02T21:30:44.447153+09:00"
+    },
+    {
+      "en_title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "en_text": "Audionaut professional audio editing and audio recording - kvoltmer/Audionaut",
+      "image": "https://opengraph.githubassets.com/a4acd0ee0c2d964e664eacd79a70ac8d42e9c9e5c87415118c097baa3210f188/kvoltmer/Audionaut",
+      "url": "https://github.com/kvoltmer/Audionaut",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-02T21:30:44.447153+09:00",
+      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
+      "summary": "Audionaut professional audio editing and audio recording - kvoltmer/Audionaut",
+      "content_at": "2026-10-02T21:30:44.447153+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "SvelteKit 3",
+      "en_text": "SvelteKit 3",
+      "image": "",
+      "url": "https://svelte.dev/blog/sveltekit-3-is-here",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-02T21:30:44.447153+09:00",
+      "title": "SvelteKit 3",
+      "summary": "SvelteKit 3",
+      "content_at": "2026-10-02T21:30:44.447153+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-10-02T13:30:41.820135+09:00"
+  "updated_at": "2026-10-02T21:30:44.447153+09:00"
 }
