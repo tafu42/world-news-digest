@@ -2,28 +2,6 @@
   "date": "2026-10-02",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/c0f76e026ec354245bcbf81dc308ba8d8aea8e34/396_0_3918_3135/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-02T06:30:47.338519+09:00",
-      "title": "Lyftがカリフォルニア州で過去最大級の賃金未払い和解金2億7250万ドルを支払うことで合意",
-      "summary": "Lyftは、ドライバーを従業員ではなく独立した契約者として扱っていた問題で、2億7250万ドルの支払いに合意した。そのうち2億3700万ドル以上がドライバーに分配される。",
-      "content_at": "2026-10-02T06:30:47.338519+09:00",
-      "impact": "ギグワーカーの雇用形態を巡る法的基準が強化されることで、他のプラットフォーム企業の運営方針にも影響を及ぼす可能性がある。"
-    },
-    {
-      "image": "https://media.guim.co.uk/23b0ea2be283b07b648c19b8cc26c9fb9a6a40c8/61_0_3698_2958/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/intervene-ai-growing-threat-bank-of-england-boss",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-02T06:30:47.338519+09:00",
-      "title": "AIの脅威増大を受け「介入する権利」が必要とイングランド銀行総裁が警告",
-      "summary": "イングランド銀行のアンドリュー・ベイリー総裁は、制御不能なAIモデルが金融システムを人質にする懸念が高まっていると述べた。AIに対して介入する権利が必要であると主張している。",
-      "content_at": "2026-10-02T06:30:47.338519+09:00",
-      "impact": "金融機関におけるAI利用の規制が強化され、AIモデルの安全性を担保するための新たな国際的な枠組みが議論される可能性がある。"
-    },
-    {
       "image": "https:&#x2f;&#x2f;earendil.com&#x2f;static&#x2f;og&#x2f;posts&#x2f;pi-1-0.png",
       "url": "https://earendil.com/posts/pi-1-0/",
       "category": "海外IT",

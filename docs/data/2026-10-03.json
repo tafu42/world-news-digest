@@ -1,0 +1,94 @@
+{
+  "date": "2026-10-03",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/20f250818efa5f622875d95be2c92860dd90164f/152_0_4483_3585/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/peter-thiel-mansion-bel-air",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "ピーター・ティール氏がベル・エアの豪邸を1億3000万ドルで購入",
+      "summary": "1938年に建てられた邸宅「カサ・エンカンターダ」が競売にかけられ、ピーター・ティール氏が購入したことが明らかになった。同邸宅はかつてコンラッド・ヒルトン氏が所有していた。",
+      "impact": "著名人による超高級物件の購入が明らかになったことで、不動産市場の動向が注目される可能性がある。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/938586c5c4e34a02d8b527189005f688010cd578/307_306_3368_2694/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "オランダの情報機関、車載技術を通じた監視の危険性に警告",
+      "summary": "オランダの情報機関は、車載カメラやマイク、GPSが敵対的な国家によって悪用される懸念があると警告した。中国製の輸入車に対する懸念が背景にある。",
+      "impact": "コネクテッドカーのセキュリティに対する懸念が高まり、各国で車両の輸入規制や安全基準の見直しが進む可能性がある。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "https://developer.apple.com/news/images/og/pass-designer-og.png",
+      "url": "https://developer.apple.com/pass-designer/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "Appleのパス作成ツール「Pass Designer」",
+      "summary": "「Pass Designer」は、地域施設からグローバル企業まで、あらゆる規模の事業者が独自のパスを簡単に作成・プレビューできるツールである。",
+      "impact": "多様な業種でデジタルパスの活用が進み、顧客体験のデジタル化が加速する可能性がある。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ziglang.org/download/0.17.0/release-notes.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "プログラミング言語「Zig v0.17.0」がリリース",
+      "summary": "プログラミング言語Zigのバージョン0.17.0が公開された。",
+      "impact": "開発環境のアップデートに伴い、Zigを利用するプロジェクトやソフトウェア開発における効率化が進むとみられる。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "https://www.eff.org/files/banner_library/vpn-highway-tunnel-banner.jpg",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "米ユタ州のVPN年齢確認法、連邦地裁が差し止め命令",
+      "summary": "ユタ州のVPNを通じた年齢確認を義務付ける法律（SB 73）に対し、連邦地方裁判所が仮処分を下した。電子フロンティア財団（EFF）は、プラットフォームに技術的な不可能性を強いるものだと指摘していた。",
+      "impact": "プライバシー保護に関するデジタル権の重要な判断として注目される。今後、同様の州法や規制のあり方に影響を与える可能性がある。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "https://video.bsky.app/watch/did%3Aplc%3Awwbktud2d34ont3frkv73pjo/bafkreigrgiobnhj6rl64sejfafxzpaife6lahnriedl6uc6mox5ebppmym/thumbnail.jpg",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "12年間の観測で捉えられた恒星と4つの惑星の公転映像",
+      "summary": "133光年先にある恒星と、その周囲を公転する4つの巨大な系外惑星を12年間にわたって撮影した画像が公開された。それぞれの惑星は木星よりも質量が大きいことが示されている。",
+      "impact": "系外惑星の動的な観測データとして天文学の知見を深めるものとなる。将来的な宇宙観測技術の進歩や理解の促進につながるとみられる。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=NnV_cWeoo5Q",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "グレッグ・クロー＝ハートマンが語るLLM時代のセキュリティ",
+      "summary": "大規模言語モデル（LLM）が普及する時代におけるセキュリティについて、グレッグ・クロー＝ハートマンが解説する動画が公開された。",
+      "impact": "AI技術の発展に伴うセキュリティリスクや対策に関心が高まる中で、エンジニアや関係者にとって重要な示唆を与える可能性がある。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "https://assets.verja.net/thoughtsofwiddershins.png",
+      "url": "https://widdershins.verja.net/everyones-packing-up/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-03T06:30:40.894572+09:00",
+      "title": "プラットフォームを離れるユーザーの動向",
+      "summary": "RedditやWordPressなど、特定のプラットフォームを離れるユーザーが増加しているという投稿が散見されている。投稿者はこうした一連の動きに注目している。",
+      "impact": "主要なオンラインコミュニティの利用環境が変化している可能性を示唆する。今後、プラットフォーム運営側やコミュニティ文化に何らかの変化が生じる可能性がある。",
+      "content_at": "2026-10-03T06:30:40.894572+09:00"
+    }
+  ],
+  "updated_at": "2026-10-03T06:30:40.894572+09:00"
+}
