@@ -88,7 +88,51 @@
       "summary": "自動車が車輪のついたスマートフォンのようになっている現状を受け、車両がどのような情報を収集し、誰がそれを聴取しているのかを調査する。",
       "impact": "コネクテッドカーにおけるプライバシー保護やデータ管理の透明性が、消費者や規制当局の間で重要な議論となる可能性がある。",
       "content_at": "2026-10-02T06:30:47.338519+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/9e199385a4bcb1a01eb3ffe0585e3f0394a080bb/318_0_3162_2531/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/sep/30/pete-hegseth-elon-musk-taskforce-warfare",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-02T13:30:41.820135+09:00",
+      "title": "ピート・ヘグセス氏がイーロン・マスク氏を米国の未来の戦争タスクフォースに任命",
+      "summary": "スペースXのCEOであるイーロン・マスク氏が、トランプ政権に復帰した。同氏は、ピート・ヘグセス氏によって未来の戦争に関するタスクフォースに任命された。",
+      "content_at": "2026-10-02T13:30:41.820135+09:00",
+      "impact": "米国の防衛戦略や軍事技術の発展に、民間企業の知見や技術がより直接的に反映される可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/Articles/1097401/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-02T13:30:41.820135+09:00",
+      "title": "Linuxカーネルで複数の脆弱性が発見される",
+      "summary": "Linuxカーネルにおいて、複数の脆弱性が新たに発見された。",
+      "content_at": "2026-10-02T13:30:41.820135+09:00",
+      "impact": "Linuxを利用するシステムやサーバーにおいて、攻撃者による不正アクセスや情報漏洩のリスクが高まる可能性があるため、速やかなパッチ適用や対策が求められると考えられる。"
+    },
+    {
+      "image": "https://www.deepseek.com/harness/images/deepseek-harness-social.jpg",
+      "url": "https://www.deepseek.com/en/harness/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-02T13:30:41.820135+09:00",
+      "title": "macOSおよびWindows向けDeepSeek Harnessデスクトップ版",
+      "summary": "DeepSeek Harnessがデスクトップアプリとして利用可能になった。文書作成、スプレッドシート分析、コード作成、タスク管理をサポートし、プラグインによる機能拡張が可能である。",
+      "content_at": "2026-10-02T13:30:41.820135+09:00",
+      "impact": "ユーザーの業務効率化や生産性向上に寄与する可能性がある。"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!g2hS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fa6da96f2-5327-4b47-9832-9e9bf0ee3093_2400x1860.png",
+      "url": "https://www.singapore-samizdat.com/p/how-singapores-government-run-dating-service-firstdate-works",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-02T13:30:41.820135+09:00",
+      "title": "シンガポールの政府運営によるマッチングサービスの仕組み",
+      "summary": "シンガポール政府は、社会課題の解決に向けて30以上の質問項目からなるマッチングツールを導入している。",
+      "content_at": "2026-10-02T13:30:41.820135+09:00",
+      "impact": "政府が主導する婚活支援策として、少子化や未婚化といった社会課題に対する新たなアプローチになる可能性がある。"
     }
   ],
-  "updated_at": "2026-10-02T06:30:47.338519+09:00"
+  "updated_at": "2026-10-02T13:30:41.820135+09:00"
 }
