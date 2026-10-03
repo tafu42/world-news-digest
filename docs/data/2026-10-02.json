@@ -68,17 +68,6 @@
       "content_at": "2026-10-02T06:30:47.338519+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/9e199385a4bcb1a01eb3ffe0585e3f0394a080bb/318_0_3162_2531/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/sep/30/pete-hegseth-elon-musk-taskforce-warfare",
-      "category": "テクノロジー",
-      "time": "13:30",
-      "collected_at": "2026-10-02T13:30:41.820135+09:00",
-      "title": "ピート・ヘグセス氏がイーロン・マスク氏を米国の未来の戦争タスクフォースに任命",
-      "summary": "スペースXのCEOであるイーロン・マスク氏が、トランプ政権に復帰した。同氏は、ピート・ヘグセス氏によって未来の戦争に関するタスクフォースに任命された。",
-      "content_at": "2026-10-02T13:30:41.820135+09:00",
-      "impact": "米国の防衛戦略や軍事技術の発展に、民間企業の知見や技術がより直接的に反映される可能性がある。"
-    },
-    {
       "image": "",
       "url": "https://lwn.net/Articles/1097401/",
       "category": "海外IT",
@@ -156,31 +145,27 @@
       "content_at": "2026-10-02T21:30:44.447153+09:00"
     },
     {
-      "en_title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-      "en_text": "Audionaut professional audio editing and audio recording - kvoltmer/Audionaut",
       "image": "https://opengraph.githubassets.com/a4acd0ee0c2d964e664eacd79a70ac8d42e9c9e5c87415118c097baa3210f188/kvoltmer/Audionaut",
       "url": "https://github.com/kvoltmer/Audionaut",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-10-02T21:30:44.447153+09:00",
-      "title": "Show HN: Audionaut – an open-source cross-platform multitrack audio editor",
-      "summary": "Audionaut professional audio editing and audio recording - kvoltmer/Audionaut",
-      "content_at": "2026-10-02T21:30:44.447153+09:00",
-      "pending": true
+      "title": "オープンソースのマルチトラック音声編集ソフト「Audionaut」",
+      "summary": "Audionautは、クロスプラットフォームに対応したオープンソースのマルチトラック音声編集・録音ソフトウェアである。kvoltmer氏によって公開された。",
+      "content_at": "2026-10-03T13:30:39.822047+09:00",
+      "impact": "開発者やクリエイターの間で、無料の音声編集ツールの選択肢が増える可能性がある。"
     },
     {
-      "en_title": "SvelteKit 3",
-      "en_text": "SvelteKit 3",
       "image": "",
       "url": "https://svelte.dev/blog/sveltekit-3-is-here",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-10-02T21:30:44.447153+09:00",
-      "title": "SvelteKit 3",
-      "summary": "SvelteKit 3",
-      "content_at": "2026-10-02T21:30:44.447153+09:00",
-      "pending": true
+      "title": "SvelteKit 3の発表",
+      "summary": "SvelteKit 3についての情報が示されている。",
+      "content_at": "2026-10-03T13:30:39.822047+09:00",
+      "impact": "Webアプリケーション開発のフレームワークとして、今後どのような新機能や変更が提供されるのか注目される可能性がある。"
     }
   ],
-  "updated_at": "2026-10-02T21:30:44.447153+09:00"
+  "updated_at": "2026-10-03T13:30:39.822047+09:00"
 }

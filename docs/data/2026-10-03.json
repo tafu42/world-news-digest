@@ -88,7 +88,62 @@
       "summary": "RedditやWordPressなど、特定のプラットフォームを離れるユーザーが増加しているという投稿が散見されている。投稿者はこうした一連の動きに注目している。",
       "impact": "主要なオンラインコミュニティの利用環境が変化している可能性を示唆する。今後、プラットフォーム運営側やコミュニティ文化に何らかの変化が生じる可能性がある。",
       "content_at": "2026-10-03T06:30:40.894572+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/c0f76e026ec354245bcbf81dc308ba8d8aea8e34/396_0_3918_3135/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/01/lyft-largest-ever-wage-theft-settlement",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-03T13:30:39.822047+09:00",
+      "title": "Lyft、カリフォルニア州での賃金未払い訴訟で過去最大規模の和解に合意",
+      "summary": "Lyftは、ドライバーを従業員ではなく独立した請負業者として扱った問題を巡り、計2億7250万ドルを支払う和解に合意した。このうち2億3700万ドル以上がドライバーに分配される。",
+      "impact": "ギグワーカーの雇用形態を巡る法的基準に影響を与える可能性がある。同様のビジネスモデルを持つ企業に対し、待遇改善や法的リスクへの対応を迫る動きにつながるとみられる。",
+      "content_at": "2026-10-03T13:30:39.822047+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.newgrounds.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-03T13:30:39.822047+09:00",
+      "title": "Newgrounds.com：ゲーム、音楽、アートのコミュニティ",
+      "summary": "Newgrounds.comは、ゲーム、音楽、アートを中心としたオンラインコミュニティである。",
+      "impact": "個人のクリエイターやファンが作品を共有するプラットフォームとして、インターネット上のクリエイティブな文化形成に寄与していると考えられる。",
+      "content_at": "2026-10-03T13:30:39.822047+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-03T13:30:39.822047+09:00",
+      "title": "忘却するCPU（M4チップでのLinux）",
+      "summary": "M4チップ上でのLinuxの動作に関する内容である。",
+      "impact": "新しいハードウェアアーキテクチャへのLinuxの移植性や互換性について、技術的な知見が共有される可能性がある。",
+      "content_at": "2026-10-03T13:30:39.822047+09:00"
+    },
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3XZ8QDSM1TSSYPVFW13B39E.01M3XZ8RDWEX6N8XXP6ZRDY0DK.png",
+      "url": "https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-03T13:30:39.822047+09:00",
+      "title": "CloudflareがOHTTP Gatewayのクローズドベータ版を発表",
+      "summary": "Cloudflareは、セルフサービス型のOHTTP Gatewayのクローズドベータ版を開始した。また、製品の区別を明確にするため、Privacy GatewayをCloudflare OHTTP Relayに改称した。",
+      "impact": "Webプライバシーの保護技術が更新されることで、オンライン通信の匿名性向上やセキュリティ対策に役立つ可能性がある。",
+      "content_at": "2026-10-03T13:30:39.822047+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-03T13:30:39.822047+09:00",
+      "title": "マイク・トムリン氏が12年かけてマインクラフトで街を建設",
+      "summary": "マイク・トムリン氏が12年もの歳月をかけて、ゲーム「マインクラフト」内に街を建設した。同氏の長期にわたる創作活動が明らかになった。",
+      "impact": "ゲームを通じた長期的なクリエイティブ活動が注目されることで、デジタル空間での創造性や個人の趣味への関心が高まる可能性がある。",
+      "content_at": "2026-10-03T13:30:39.822047+09:00"
     }
   ],
-  "updated_at": "2026-10-03T06:30:40.894572+09:00"
+  "updated_at": "2026-10-03T13:30:39.822047+09:00"
 }
