@@ -1,0 +1,116 @@
+{
+  "date": "2026-10-04",
+  "articles": [
+    {
+      "image": "https://media.guim.co.uk/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "OpenAIの安全部門リーダーが辞任、社内文化が崩壊していると指摘",
+      "summary": "David Robinson氏がOpenAIの安全担当リーダーを辞任した。同氏は急速に発展するAI技術に対し、企業がより注意を払うべきだと訴える内部関係者の1人に加わった。",
+      "impact": "AI企業の安全管理体制や企業文化に対する懸念が高まる可能性がある。業界全体でAI開発の安全性に対する監視が強まるかもしれない。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/a7ae6b6345db6bcbca850fbce1224501d4714e2d/556_0_5556_4445/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "カリフォルニア州、AIによる雇用喪失を防ぐための新たな労働法を導入",
+      "summary": "多数のAI企業を抱えるカリフォルニア州が、AI技術を対象とした職場規制を導入した。AIによる職の喪失という労働者の懸念に対応するものである。",
+      "impact": "今後、AI導入に伴う法的規制のモデルケースとして他地域に影響を与える可能性がある。企業はAI導入において労働者の権利保護をより考慮する必要が生じるとみられる。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/66aff84926bf65680291f10a84a66ea9f7cd0be6/992_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "OpenAI、オーストラリア政府機関へのハッキング被害を公表",
+      "summary": "OpenAIはオーストラリアの政府機関がハッキング被害に遭ったことを公表した。6月に発生した森林火災に関する履歴データへの不正アクセスであり、同社は木曜日まで公表していなかった。",
+      "impact": "AI企業によるデータ保護体制や被害公表のプロセスに対する信頼が問われる可能性がある。政府機関などはAI利用におけるセキュリティ基準の見直しを迫られると考えられる。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/0bdadc994601bb6f52990889eb66a5a7084c622f/414_0_4364_3493/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
+      "category": "テクノロジー",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "マッチングアプリFeeld、売上増に伴い創業者が約380万ポンドの配当を獲得",
+      "summary": "好奇心旺盛なユーザーをターゲットとする英国のマッチングアプリFeeldは、売上が急増した。収益の約9割を英国外のユーザーが占めている。",
+      "impact": "ニッチな市場を狙ったマッチングアプリのビジネスモデルが成功していることを示している。同様の市場を狙うサービスにとって参考となる事例と考えられる。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://notoriousbfg.com/hole-punch/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "重力場を利用した宇宙船の操縦ゲーム「Hole Punch」",
+      "summary": "重力場を利用して宇宙船をスイングさせるゲーム「Hole Punch」について記述されている。",
+      "impact": "物理法則を利用した新たなゲーム体験の提供につながる可能性がある。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/og.png",
+      "url": "https://claude.dev/blog/getting-the-most-out-of-opus-5-5/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "ClaudeおよびClaude CodeにおけるOpus 5.5の活用法",
+      "summary": "ClaudeアプリやClaude CodeでOpus 5.5モデルにプロンプトを指示し、実行を制御して結果を確認する方法が紹介されている。",
+      "impact": "ユーザーがAIモデルを効率的に運用することで、開発や業務の生産性が向上するとみられる。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://www.whec.com/wp-content/uploads/2026/09/kidney-guy-.png",
+      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "16歳で受けた腎臓移植から100歳を迎えた男性の事例",
+      "summary": "1978年に母親から腎臓提供を受け、移植手術を受けた男性がその腎臓の100周年を祝っている。当時の移植はストロング病院で実施された。",
+      "impact": "長期的な腎臓移植の成功例として、医療記録における重要な事例となる可能性がある。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M3VGEQ8Q6FVNPPSWW71YRRKT.01M3VGER1EC7W9TEZXNR3GGMK7.png",
+      "url": "https://blog.cloudflare.com/next-git-platform-on-cloudflare/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "Cloudflareによる次世代Gitプラットフォーム構築コンテスト",
+      "summary": "CloudflareはAIエージェント時代に向けた次世代Gitプラットフォームの構築を競うコンテストを開催している。現在Artifactsはオープンベータ版が公開されている。",
+      "impact": "AIエージェントに適した新しい開発ツールやプラットフォームが登場する可能性がある。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pipod.dev/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "Pi pod：独自のサーバー上でコーディングエージェントをサンドボックス実行",
+      "summary": "Pi podは、ユーザー自身のサーバー環境でコーディングエージェントをサンドボックス内で実行するためのツールである。",
+      "impact": "開発者が自身の管理下で安全にエージェントを運用できる環境が広がる可能性がある。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://aleph-alpha.com/_astro/00-cover.Du35XCGh_zJqw.jpeg",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-04T06:30:41.375272+09:00",
+      "title": "Kolibri：主権性を備えたオープンウェイトモデル",
+      "summary": "Kolibriは、英語とドイツ語に対応したMixture-of-Expertsモデルであり、78Bの総パラメータと3Bのアクティブパラメータを持つ。最大1Mトークンのコンテキストに対応し、Apache 2.0ライセンスで公開されている。",
+      "impact": "ミッションクリティカルな用途において、企業や組織が主権を維持しつつAIを活用するための選択肢が増えるとみられる。",
+      "content_at": "2026-10-04T06:30:41.375272+09:00"
+    }
+  ],
+  "updated_at": "2026-10-04T06:30:41.375272+09:00"
+}

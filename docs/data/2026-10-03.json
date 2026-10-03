@@ -2,28 +2,6 @@
   "date": "2026-10-03",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/20f250818efa5f622875d95be2c92860dd90164f/152_0_4483_3585/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/02/peter-thiel-mansion-bel-air",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-03T06:30:40.894572+09:00",
-      "title": "ピーター・ティール氏がベル・エアの豪邸を1億3000万ドルで購入",
-      "summary": "1938年に建てられた邸宅「カサ・エンカンターダ」が競売にかけられ、ピーター・ティール氏が購入したことが明らかになった。同邸宅はかつてコンラッド・ヒルトン氏が所有していた。",
-      "impact": "著名人による超高級物件の購入が明らかになったことで、不動産市場の動向が注目される可能性がある。",
-      "content_at": "2026-10-03T06:30:40.894572+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/938586c5c4e34a02d8b527189005f688010cd578/307_306_3368_2694/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/01/cars-smart-features-spy-gps-chinese-imports",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-03T06:30:40.894572+09:00",
-      "title": "オランダの情報機関、車載技術を通じた監視の危険性に警告",
-      "summary": "オランダの情報機関は、車載カメラやマイク、GPSが敵対的な国家によって悪用される懸念があると警告した。中国製の輸入車に対する懸念が背景にある。",
-      "impact": "コネクテッドカーのセキュリティに対する懸念が高まり、各国で車両の輸入規制や安全基準の見直しが進む可能性がある。",
-      "content_at": "2026-10-03T06:30:40.894572+09:00"
-    },
-    {
       "image": "https://developer.apple.com/news/images/og/pass-designer-og.png",
       "url": "https://developer.apple.com/pass-designer/",
       "category": "海外IT",
