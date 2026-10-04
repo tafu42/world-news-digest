@@ -187,7 +187,29 @@
       "summary": "Valve社のTimur Kristóf氏が、Linuxにおいて古いAMD製GPUの性能を改善するための開発に取り組んでいる。",
       "impact": "古いハードウェアを使用しているユーザーにとって、Linux環境でのゲームプレイやグラフィックス性能が向上する可能性がある。",
       "content_at": "2026-10-04T13:30:44.280436+09:00"
+    },
+    {
+      "image": "https://gamehistory.org/wp-content/uploads/2026/09/5Kcollage-1.jpg",
+      "url": "https://gamehistory.org/5k-magazines/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-04T21:30:44.246276+09:00",
+      "title": "VGHFデジタルアーカイブが雑誌5000冊を突破",
+      "summary": "ビデオゲーム歴史財団（VGHF）が運営するデジタルアーカイブの収蔵数が5000冊に達した。今後はこの雑誌コレクションの今後の展開について議論を進めるとしている。",
+      "impact": "ゲーム関連資料の保存体制が強化されることで、歴史的背景の研究が進むと考えられる。",
+      "content_at": "2026-10-04T21:30:44.246276+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/175d30bcfbbec87d5bc5f7817a67efd7340eeac4e3d91e946a53b79234d63d0c/mikesart/gpuvis",
+      "url": "https://github.com/mikesart/gpuvis",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-04T21:30:44.246276+09:00",
+      "title": "GPUトレース可視化ツール「gpuvis」",
+      "summary": "GPUのトレース情報を可視化するツール「gpuvis」に関するGitHub上のプロジェクトページである。ユーザーはアカウントを作成することで開発への貢献が可能である。",
+      "impact": "開発者がこのツールに貢献することで、GPUのパフォーマンス分析やデバッグ作業が効率化される可能性がある。",
+      "content_at": "2026-10-04T21:30:44.246276+09:00"
     }
   ],
-  "updated_at": "2026-10-04T13:30:44.280436+09:00"
+  "updated_at": "2026-10-04T21:30:44.246276+09:00"
 }
