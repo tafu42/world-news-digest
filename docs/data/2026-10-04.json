@@ -2,50 +2,6 @@
   "date": "2026-10-04",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-04T06:30:41.375272+09:00",
-      "title": "OpenAIの安全部門リーダーが辞任、社内文化が崩壊していると指摘",
-      "summary": "David Robinson氏がOpenAIの安全担当リーダーを辞任した。同氏は急速に発展するAI技術に対し、企業がより注意を払うべきだと訴える内部関係者の1人に加わった。",
-      "impact": "AI企業の安全管理体制や企業文化に対する懸念が高まる可能性がある。業界全体でAI開発の安全性に対する監視が強まるかもしれない。",
-      "content_at": "2026-10-04T06:30:41.375272+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/a7ae6b6345db6bcbca850fbce1224501d4714e2d/556_0_5556_4445/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-04T06:30:41.375272+09:00",
-      "title": "カリフォルニア州、AIによる雇用喪失を防ぐための新たな労働法を導入",
-      "summary": "多数のAI企業を抱えるカリフォルニア州が、AI技術を対象とした職場規制を導入した。AIによる職の喪失という労働者の懸念に対応するものである。",
-      "impact": "今後、AI導入に伴う法的規制のモデルケースとして他地域に影響を与える可能性がある。企業はAI導入において労働者の権利保護をより考慮する必要が生じるとみられる。",
-      "content_at": "2026-10-04T06:30:41.375272+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/66aff84926bf65680291f10a84a66ea9f7cd0be6/992_0_5033_4024/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-04T06:30:41.375272+09:00",
-      "title": "OpenAI、オーストラリア政府機関へのハッキング被害を公表",
-      "summary": "OpenAIはオーストラリアの政府機関がハッキング被害に遭ったことを公表した。6月に発生した森林火災に関する履歴データへの不正アクセスであり、同社は木曜日まで公表していなかった。",
-      "impact": "AI企業によるデータ保護体制や被害公表のプロセスに対する信頼が問われる可能性がある。政府機関などはAI利用におけるセキュリティ基準の見直しを迫られると考えられる。",
-      "content_at": "2026-10-04T06:30:41.375272+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/0bdadc994601bb6f52990889eb66a5a7084c622f/414_0_4364_3493/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/02/feeld-dating-app-pays-founders-sales-jump",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-04T06:30:41.375272+09:00",
-      "title": "マッチングアプリFeeld、売上増に伴い創業者が約380万ポンドの配当を獲得",
-      "summary": "好奇心旺盛なユーザーをターゲットとする英国のマッチングアプリFeeldは、売上が急増した。収益の約9割を英国外のユーザーが占めている。",
-      "impact": "ニッチな市場を狙ったマッチングアプリのビジネスモデルが成功していることを示している。同様の市場を狙うサービスにとって参考となる事例と考えられる。",
-      "content_at": "2026-10-04T06:30:41.375272+09:00"
-    },
-    {
       "image": "",
       "url": "https://notoriousbfg.com/hole-punch/",
       "category": "海外IT",
