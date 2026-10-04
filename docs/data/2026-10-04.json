@@ -110,7 +110,84 @@
       "summary": "Kolibriは、英語とドイツ語に対応したMixture-of-Expertsモデルであり、78Bの総パラメータと3Bのアクティブパラメータを持つ。最大1Mトークンのコンテキストに対応し、Apache 2.0ライセンスで公開されている。",
       "impact": "ミッションクリティカルな用途において、企業や組織が主権を維持しつつAIを活用するための選択肢が増えるとみられる。",
       "content_at": "2026-10-04T06:30:41.375272+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/ce20e26232fa2e55005f39d60f31927088718526/596_0_5308_4245/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/04/viral-amsterdam-chip-shop-court-fabel-friet",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-04T13:30:44.280436+09:00",
+      "title": "アムステルダムの人気チップス店を巡り近隣住民が提訴",
+      "summary": "アムステルダムにあるチップス店「Fabel Friet」に集まる客により、運河沿いの道路が混雑し、ゴミや害獣の問題が発生している。これに対し近隣住民が苦情を申し立て、法廷闘争に発展した。",
+      "impact": "飲食店による観光公害が深刻化しており、地域住民の生活環境を守るための規制や対策が強化される可能性がある。",
+      "content_at": "2026-10-04T13:30:44.280436+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/20f250818efa5f622875d95be2c92860dd90164f/152_0_4483_3585/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/peter-thiel-mansion-bel-air",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-04T13:30:44.280436+09:00",
+      "title": "ベルエアの豪邸「カサ・エンカンターダ」をピーター・ティール氏が購入",
+      "summary": "かつてコンラッド・ヒルトンが所有していたベルエアの豪邸「カサ・エンカンターダ」が競売にかけられ、ピーター・ティール氏が秘密裏に購入したことが明らかになった。同物件は1億3000万ドルで売却された。",
+      "impact": "著名投資家による超高額物件の購入により、当該エリアの不動産市場への関心や価値観に影響を与える可能性がある。",
+      "content_at": "2026-10-04T13:30:44.280436+09:00"
+    },
+    {
+      "image": "https://nolanlawson.com/_astro/dragndrop.CW1aBe6Q_ZDDLsQ.webp",
+      "url": "https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-04T13:30:44.280436+09:00",
+      "title": "ウェブ開発者が標準機能を使用すべき理由",
+      "summary": "ウェブ標準やパフォーマンス、アクセシビリティを重視する専門家たちが、長年にわたり開発者に対して「ウェブプラットフォームの標準機能を使うべき」だと提言してきた。著者もこれまでその主張を繰り返してきた一人である。",
+      "impact": "この提言はウェブ開発の標準化を推進し、開発効率やウェブサイトのアクセシビリティを向上させるものとみられる。",
+      "content_at": "2026-10-04T13:30:44.280436+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-04T13:30:44.280436+09:00",
+      "title": "「予算の上限設定」機能の必要性について",
+      "summary": "今後、多くの製品やサービスにおいて、強制的な予算上限設定機能が不可欠になるとの見方が示されている。筆者は、あらゆるものにデフォルトでハードな予算制限を設ける必要性を論じている。",
+      "impact": "予算管理機能の重要性が高まることで、消費者や企業は過剰支出を抑制し、経済的なコントロール力を向上させる可能性がある。",
+      "content_at": "2026-10-04T13:30:44.280436+09:00"
+    },
+    {
+      "image": "https://asteriskmag.com/media/pages/issues/15/so-you-think-you-could-be-an-electrician/75a9ca6492-1790620578/blue-collar-jesse-smith-1600x900-crop-sharpen50.png",
+      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-04T13:30:44.280436+09:00",
+      "title": "職業選択のアドバイスとホワイトカラーの視点",
+      "summary": "子供たちに技能職への就職を勧める人々の多くがホワイトカラー層であるという現状を指摘している。",
+      "impact": "将来のキャリア選択において、経験に基づかない助言がなされる可能性について再考を促すきっかけになるかもしれない。",
+      "content_at": "2026-10-04T13:30:44.280436+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-04T13:30:44.280436+09:00",
+      "title": "ロダン美術館の3Dスキャンを巡る判決の裏切り",
+      "summary": "ロダン美術館の3Dスキャンに関する判決において、裏切り行為があったとされる状況について報じている。",
+      "impact": "美術館におけるデジタル技術の活用や著作権管理の透明性について、法的および倫理的な議論を呼ぶ可能性がある。",
+      "content_at": "2026-10-04T13:30:44.280436+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-04T13:30:44.280436+09:00",
+      "title": "Linux環境下での古いAMD製GPU性能向上に向けた取り組み",
+      "summary": "Valve社のTimur Kristóf氏が、Linuxにおいて古いAMD製GPUの性能を改善するための開発に取り組んでいる。",
+      "impact": "古いハードウェアを使用しているユーザーにとって、Linux環境でのゲームプレイやグラフィックス性能が向上する可能性がある。",
+      "content_at": "2026-10-04T13:30:44.280436+09:00"
     }
   ],
-  "updated_at": "2026-10-04T06:30:41.375272+09:00"
+  "updated_at": "2026-10-04T13:30:44.280436+09:00"
 }
