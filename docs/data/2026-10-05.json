@@ -88,7 +88,95 @@
       "summary": "AIクラスター向け通信プロトコルである「Homa」に関する解説動画が公開された。",
       "impact": "AIクラスターの通信効率化における新しい技術選択肢として、データセンターやAIインフラ構築の現場で注目される可能性がある。",
       "content_at": "2026-10-05T06:30:40.522772+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/77b3a6702fa4e94c36e292a72e438fa40eb19184/625_0_6261_5010/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-safety-leader-quits-warning-ai-companys-culture-is-broken",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "OpenAIの安全部門リーダーが退職、同社の企業文化に苦言",
+      "summary": "OpenAIの安全部門リーダーであるデビッド・ロビンソン氏が退職した。同氏は急速に発展するAI技術に対し、企業がより慎重であるべきだと主張する他の関係者たちと同調している。",
+      "impact": "AI開発の安全性に対する監視の目が厳しくなり、業界全体で技術開発のペースや倫理規定が見直される可能性がある。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/a7ae6b6345db6bcbca850fbce1224501d4714e2d/556_0_5556_4445/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/03/california-ai-laws-worker-protection",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "カリフォルニア州がAIによる雇用への影響に対抗する新法を制定",
+      "summary": "AI企業が集まるカリフォルニア州が、職を奪われる懸念に対応するための職場規制を導入した。AI関連の労働規制を行う初期の州の一つとなる。",
+      "impact": "雇用主にはAI導入に伴う新たな法的義務が課されることになり、他の州や国におけるAI労働規制のモデルとなる可能性がある。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/66aff84926bf65680291f10a84a66ea9f7cd0be6/992_0_5033_4024/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/02/openai-disclose-another-hack-on-government-department-in-australia",
+      "category": "テクノロジー",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "OpenAIがオーストラリア政府機関へのサイバー攻撃を公表",
+      "summary": "OpenAIは、6月に発生したオーストラリアの政府部門へのハッキング被害を木曜日に公表した。この攻撃により、森林火災に関する履歴データが流出した。",
+      "impact": "AI企業の管理体制に対する信頼性に影響が及ぶ可能性があり、政府機関におけるAI利用時のセキュリティ対策が強化されるとみられる。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "F1バーレーンGPでシステム障害が発生しドライバーが困惑",
+      "summary": "F1バーレーンGPにおいて、ソフトウェアの不具合によりドライバーがパワーを失うというトラブルが発生した。",
+      "impact": "レースの安全性や公正性に懸念が生じており、今後はF1におけるソフトウェア管理やバックアップ体制の改善が求められる可能性がある。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "https://spaces.filmstories.co.uk/uploads/2019/10/phil-tippett.jpg",
+      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "閉鎖されたティペット・スタジオのアニメーション作品がデジタルアーカイブ化",
+      "summary": "フィル・ティペット氏のストップモーション作品や、閉鎖されたティペット・スタジオの資料がオンライン上の無料アーカイブで保存されることになった。誰でも閲覧可能な状態で公開されている。",
+      "impact": "貴重な映像制作資料が後世に保存されることで、アニメーションや映画制作の歴史研究に役立つ可能性がある。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "https://static.themoscowtimes.com/image/og/0f/93857__0f14653f3a4ec7cfb9db0da62deba05b.jpg",
+      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "イルクーツクでラボ職員がペストで死亡、約200人が経過観察下に",
+      "summary": "シベリアのイルクーツク地方で、研究所の職員がペストにより死亡した。これを受け、当局は約200人を医学的な経過観察下に置いた。",
+      "impact": "感染拡大を防止するための検疫措置が講じられており、今後の状況次第ではさらなる警戒体制が強化される可能性がある。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "ゲーム「Infidel」における深刻なバグの発見",
+      "summary": "作者がゲーム「Infidel」の制作に注力する中で、インフォコムのゲームとしては前例のない深刻なバグを発見した。このバグは極めて検出が困難なものである。",
+      "impact": "開発者による修正作業が進められると考えられ、製品版の品質維持に影響を与える可能性がある。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://wieslawsoltes.github.io/VB6/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-05T13:30:43.229712+09:00",
+      "title": "ブラウザ上で動作するVisual Basic 6 IDE",
+      "summary": "ブラウザネイティブな環境で動作する、古典的なVisual Basic 6（VB6）の開発環境（IDE）が公開された。",
+      "impact": "レガシーな開発環境をブラウザ上で手軽に再現できるため、古いソフトウェアのメンテナンスや学習を行う開発者にとって利便性が向上するとみられる。",
+      "content_at": "2026-10-05T13:30:43.229712+09:00"
     }
   ],
-  "updated_at": "2026-10-05T06:30:40.522772+09:00"
+  "updated_at": "2026-10-05T13:30:43.229712+09:00"
 }
