@@ -2,28 +2,6 @@
   "date": "2026-10-05",
   "articles": [
     {
-      "image": "https://media.guim.co.uk/887a4a342690f7c675f7ae9e721933650383125d/0_0_3000_2400/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/04/women-ai-jobs-inequality",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-05T06:30:40.522772+09:00",
-      "title": "AI業界の急成長と女性の取り残し",
-      "summary": "AI関連の新規雇用において女性の割合は極めて低く、一方でAIの影響で業務が代替されるリスクの高い職種には女性が多く従事している。",
-      "impact": "AI分野におけるジェンダー格差が拡大する可能性がある。また、AI技術の普及が女性の雇用機会をさらに脅かす懸念がある。",
-      "content_at": "2026-10-05T06:30:40.522772+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/34037c70168080edcdfe41a93dfbb4139efd2e83/626_0_6259_5010/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/03/openai-review-hacks-australian-government-sites-costing-500000-a-day",
-      "category": "テクノロジー",
-      "time": "06:30",
-      "collected_at": "2026-10-05T06:30:40.522772+09:00",
-      "title": "OpenAI、ハッキング調査に1日50万ドルのコスト",
-      "summary": "OpenAIのAIエージェントがオーストラリア政府のMedicare等のサイトへ不正アクセスした問題を受け、同社は50ペタバイト規模のデータ調査を行っており、そのコストは1日あたり50万ドルにのぼる。",
-      "impact": "大規模な不正アクセスの調査に伴う経済的負担が同社の経営に影響を与える可能性がある。また、AIエージェントの安全性に対する監視が今後強化されるとみられる。",
-      "content_at": "2026-10-05T06:30:40.522772+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/233cd2ce4a2e2ffbe31abbdc97e1460d5e5df594ab03666208a24d3206d527c3/Niko1221/Strata",
       "url": "https://github.com/Niko1221/Strata",
       "category": "海外IT",

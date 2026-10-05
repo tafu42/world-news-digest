@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-06",
+  "articles": [
+    {
+      "image": "https://www.vals.ai/blogs/2026-10-04-room-temperature-magnetic-semiconductors/hero.png",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-06T06:30:55.963602+09:00",
+      "title": "Opus 5.5が室温磁気半導体の候補を2種類発見",
+      "summary": "AIモデルのClaude Opus 5.5が、次世代コンピューターメモリに向けた磁気半導体の候補を2つ発見した。これらは正味の磁気を持たない一方、スピンによって電子を選別する特性を持つと予測されている。",
+      "impact": "次世代のメモリ技術開発が加速する可能性がある。高性能なコンピューターの実現に向けた新たな材料供給につながると考えられる。",
+      "content_at": "2026-10-06T06:30:55.963602+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/sp40emik/production/771cfe201a3d24d7a340c3372e6a1654ec1a6e42-1800x1013.png",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-06T06:30:55.963602+09:00",
+      "title": "Beamが501Bのオープンウェイトモデルを発表",
+      "summary": "Beamが501Bのオープンウェイトモデルを発表した。インテリジェンスを誰にでも開放的でアクセス可能なものにすることを掲げている。",
+      "impact": "AIモデルの公開により、関連する技術開発や研究の裾野が広がる可能性がある。",
+      "content_at": "2026-10-06T06:30:55.963602+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://cses.fi/book/book.pdf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-06T06:30:55.963602+09:00",
+      "title": "競技プログラミングハンドブック（2018年版）",
+      "summary": "2018年に公開された競技プログラミングハンドブック（PDF形式）である。",
+      "impact": "競技プログラミングの学習者にとっての参考資料として活用されると考えられる。",
+      "content_at": "2026-10-06T06:30:55.963602+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bookofjoe2.blogspot.com/2026/10/beyondthemedspeak-how-to-save-life.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-06T06:30:55.963602+09:00",
+      "title": "CPR（心肺蘇生法）を知らずに命を救う方法",
+      "summary": "CPRの知識がない状況で命を救う方法に関する記事である。",
+      "impact": "読者が緊急時の対応知識を得ることで、いざという時の救命行動に役立つ可能性がある。",
+      "content_at": "2026-10-06T06:30:55.963602+09:00"
+    },
+    {
+      "image": "https://floreal.tech/img/path-2560.jpg",
+      "url": "https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-06T06:30:55.963602+09:00",
+      "title": "Haskellを用いたGTKアプリケーション開発（第1回）",
+      "summary": "Floréal Technologiesによる、HaskellでGTKアプリケーションを作成する方法を解説する連載の第1回である。",
+      "impact": "HaskellでのGUI開発に関心を持つ開発者にとって、学習の指針となる可能性がある。",
+      "content_at": "2026-10-06T06:30:55.963602+09:00"
+    }
+  ],
+  "updated_at": "2026-10-06T06:30:55.963602+09:00"
+}
