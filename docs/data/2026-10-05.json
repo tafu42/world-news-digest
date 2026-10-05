@@ -176,7 +176,106 @@
       "summary": "ブラウザネイティブな環境で動作する、古典的なVisual Basic 6（VB6）の開発環境（IDE）が公開された。",
       "impact": "レガシーな開発環境をブラウザ上で手軽に再現できるため、古いソフトウェアのメンテナンスや学習を行う開発者にとって利便性が向上するとみられる。",
       "content_at": "2026-10-05T13:30:43.229712+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/25a7b311b78477fb430906540593c2693953f97f/1129_0_7005_5604/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "サム・アルトマン氏、AIの恩恵のために「悪いこと」の受容を呼びかけ",
+      "summary": "OpenAIのCEOは、AIがもたらす有益性を重視し、規制を緩やかにするよう求めた。",
+      "impact": "規制のあり方についての議論に影響を与える可能性がある。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/58742fd273ee12ce51a1af9f25ed9693ec972212/678_291_4969_3975/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/apple-iphone-18-pro-review-battery-life-screen-siri-camera-variable-aperture-ios-27",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "iPhone 18 Proレビュー：小さな変化と大きな進化",
+      "summary": "昨年のモデルから刷新され、バッテリー持続時間や画面品質が向上し、Siriやカメラ機能も強化された。",
+      "impact": "ユーザーの利便性が向上し、買い替え需要に影響する可能性がある。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "https://media.guim.co.uk/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/500.jpg",
+      "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
+      "category": "テクノロジー",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "IWF、AIによる児童性的虐待画像の急増を報告",
+      "summary": "インターネット監視団体IWFによると、今年確認されたAI生成の虐待画像数は、すでに昨年の総数を40%上回っている。",
+      "impact": "AIによる犯罪の深刻化が浮き彫りになり、AI開発や利用に対する法規制の強化が求められるとみられる。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "欧州のロボット工学ユニコーン、ドイツのRobCoが評価額10億ドルに到達",
+      "summary": "ドイツのロボット企業RobCoが、10億ドルの評価額を達成しユニコーン企業となった。",
+      "impact": "欧州におけるロボット産業への投資がさらに活発化する可能性がある。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/og.png?v=1deaa8fb09156b56",
+      "url": "https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "AIエージェント向けWeb検索API",
+      "summary": "Ceramic.ai、Exa、Linkupの各サービスを通じ、AIエージェントやアプリケーションからWeb検索が可能になる。",
+      "impact": "AIエージェントがより広範なWeb情報を活用できるようになり、自動化されたタスクの精度や利便性が向上する可能性がある。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "https://stratechery.com/wp-content/uploads/2026/10/apple-hacker-5.png",
+      "url": "https://stratechery.com/2026/apple-and-a-hackers-future/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "Appleの保護機能とAI活用への懸念",
+      "summary": "Appleの閉鎖的なエコシステムを長年評価してきたユーザーが、AIの利用にあたり同社の保護機能を制約と感じている。",
+      "impact": "Apple製品におけるAIの実装方針が、既存ユーザーの利便性や満足度に影響を与える可能性がある。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "デンマークで880万人分の個人データ流出",
+      "summary": "デンマークの中央個人登録システム（CPR）において、企業が持つ正規のアクセス権を悪用した深刻なセキュリティ事案が発生した。",
+      "impact": "個人情報の流出により、対象者に対して不正利用などの被害が発生する恐れがある。関係機関による早急な調査と対策が求められる。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "https://www.nobelprize.org/uploads/2026/10/NP_POM_2026_3-2_01-1024x683.jpg",
+      "url": "https://www.nobelprize.org/prizes/medicine/2026/press-release/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "2026年ノーベル生理学・医学賞発表",
+      "summary": "光感受性イオンチャネルおよびオプトジェネティクスに関する発見により、カール・ダイセロス氏、ピーター・ヘーゲマン氏、ゲオルグ・ナーゲル氏の3氏が共同で2026年ノーベル生理学・医学賞を受賞した。",
+      "impact": "光遺伝学という神経科学分野の革新的な技術が改めて評価されたことで、関連する医療・バイオテクノロジー分野の研究がより一層加速する可能性がある。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
+    },
+    {
+      "image": "https://www-file.huawei.com/dam/asset/view/261005-01.jpg",
+      "url": "https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-05T21:30:46.673418+09:00",
+      "title": "ファーウェイとクアルコムが広範な特許ライセンス契約を締結",
+      "summary": "ファーウェイとクアルコムは、両社の特許ポートフォリオを相互に利用する複数年の広範なライセンス契約を発表した。この契約は、幅広い技術分野を対象としている。",
+      "impact": "両社の特許活用が進むことで、関連する技術分野における製品開発や市場競争に影響を与える可能性がある。",
+      "content_at": "2026-10-05T21:30:46.673418+09:00"
     }
   ],
-  "updated_at": "2026-10-05T13:30:43.229712+09:00"
+  "updated_at": "2026-10-05T21:30:46.673418+09:00"
 }
