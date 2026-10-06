@@ -123,39 +123,6 @@
       "content_at": "2026-10-05T13:30:43.229712+09:00"
     },
     {
-      "image": "https://media.guim.co.uk/25a7b311b78477fb430906540593c2693953f97f/1129_0_7005_5604/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/05/sam-altman-open-ai-chatgpt-benefits-risks",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-10-05T21:30:46.673418+09:00",
-      "title": "サム・アルトマン氏、AIの恩恵のために「悪いこと」の受容を呼びかけ",
-      "summary": "OpenAIのCEOは、AIがもたらす有益性を重視し、規制を緩やかにするよう求めた。",
-      "impact": "規制のあり方についての議論に影響を与える可能性がある。",
-      "content_at": "2026-10-05T21:30:46.673418+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/58742fd273ee12ce51a1af9f25ed9693ec972212/678_291_4969_3975/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/05/apple-iphone-18-pro-review-battery-life-screen-siri-camera-variable-aperture-ios-27",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-10-05T21:30:46.673418+09:00",
-      "title": "iPhone 18 Proレビュー：小さな変化と大きな進化",
-      "summary": "昨年のモデルから刷新され、バッテリー持続時間や画面品質が向上し、Siriやカメラ機能も強化された。",
-      "impact": "ユーザーの利便性が向上し、買い替え需要に影響する可能性がある。",
-      "content_at": "2026-10-05T21:30:46.673418+09:00"
-    },
-    {
-      "image": "https://media.guim.co.uk/913d2a2873d954475e8254c07cccfe667a155258/1365_0_6827_5464/500.jpg",
-      "url": "https://www.theguardian.com/technology/2026/oct/05/internet-watch-foundation-huge-rise-ai-child-sexual-abuse-material",
-      "category": "テクノロジー",
-      "time": "21:30",
-      "collected_at": "2026-10-05T21:30:46.673418+09:00",
-      "title": "IWF、AIによる児童性的虐待画像の急増を報告",
-      "summary": "インターネット監視団体IWFによると、今年確認されたAI生成の虐待画像数は、すでに昨年の総数を40%上回っている。",
-      "impact": "AIによる犯罪の深刻化が浮き彫りになり、AI開発や利用に対する法規制の強化が求められるとみられる。",
-      "content_at": "2026-10-05T21:30:46.673418+09:00"
-    },
-    {
       "image": "",
       "url": "https://techfundingnews.com/europes-new-robotics-unicorn-germanys-robco-hits-1b-valuation/",
       "category": "海外IT",
