@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-07",
+  "articles": [
+    {
+      "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-07T06:30:48.162344+09:00",
+      "title": "Mistral Large 4の概要",
+      "summary": "Mistral Large 4は企業向けの強力なAIプラットフォームである。オープンモデルを使用してAIアシスタントや自律型エージェント、マルチモーダルAIのカスタマイズや展開が可能である。",
+      "impact": "企業におけるAI導入の柔軟性と開発効率が向上する可能性がある。",
+      "content_at": "2026-10-07T06:30:48.162344+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/embeddinggemma2-banner_169.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-07T06:30:48.162344+09:00",
+      "title": "EmbeddingGemma 2の発表",
+      "summary": "プライバシーを優先するユースケースに最適化されたオープンなマルチモーダル埋め込みモデル、EmbeddingGemma 2が導入された。",
+      "impact": "個人情報保護を重視する環境下でのAI活用が進む可能性がある。",
+      "content_at": "2026-10-07T06:30:48.162344+09:00"
+    },
+    {
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/david-ellison-1152x648-1791303833.jpg",
+      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-07T06:30:48.162344+09:00",
+      "title": "パラマウントとワーナー・ブラザースの合併完了",
+      "summary": "パラマウントがワーナー・ブラザースを買収し、合併が完了した。これによりスカイダンスを中心とした巨大企業が誕生する。",
+      "impact": "メディア業界における勢力図が大きく塗り替えられるとみられる。",
+      "content_at": "2026-10-07T06:30:48.162344+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.openssh.org/releasenotes.html#10.6",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-07T06:30:48.162344+09:00",
+      "title": "OpenSSH 10.6の公開",
+      "summary": "OpenSSH 10.6が公開された。",
+      "impact": "ネットワーク接続の安全性や機能が向上する可能性がある。",
+      "content_at": "2026-10-07T06:30:48.162344+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://matklad.github.io/2026/10/05/benchmark-milliseconds.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-07T06:30:48.162344+09:00",
+      "title": "ミリ秒単位のベンチマーク",
+      "summary": "ミリ秒単位でのベンチマーク測定に関する記事である。",
+      "impact": "開発者がプログラムの実行時間をより精密に計測できるようになり、ソフトウェアの最適化やパフォーマンス向上に寄与する可能性がある。",
+      "content_at": "2026-10-07T06:30:48.162344+09:00"
+    }
+  ],
+  "updated_at": "2026-10-07T06:30:48.162344+09:00"
+}
