@@ -55,7 +55,62 @@
       "summary": "ミリ秒単位でのベンチマーク測定に関する記事である。",
       "impact": "開発者がプログラムの実行時間をより精密に計測できるようになり、ソフトウェアの最適化やパフォーマンス向上に寄与する可能性がある。",
       "content_at": "2026-10-07T06:30:48.162344+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-07T13:30:46.784534+09:00",
+      "title": "数学におけるAIの進歩の共有",
+      "summary": "数学分野におけるAIの進歩の共有について述べられている。",
+      "impact": "数学の研究や教育において、AIの活用がより進展する可能性がある。",
+      "content_at": "2026-10-07T13:30:46.784534+09:00"
+    },
+    {
+      "image": "https://strandsagents.com/blog/og/introducing-strands-decider.png",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-07T13:30:46.784534+09:00",
+      "title": "オープンソースの意思決定モデル「Strands Decider 2B」",
+      "summary": "Strands Decider 2Bは、迅速な実験やローカル開発、イノベーションのために最適化された小型のオープンソース意思決定モデルである。",
+      "impact": "開発者が低コストで柔軟な意思決定機能を導入しやすくなり、AI技術を用いたアプリケーション開発が加速する可能性がある。",
+      "content_at": "2026-10-07T13:30:46.784534+09:00"
+    },
+    {
+      "image": "https://developers.openai.com/og/api/docs/guides/decisions.png",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-07T13:30:46.784534+09:00",
+      "title": "「Decisions API」のパブリックベータ版が公開",
+      "summary": "条件確認や選択肢の選定、ルーブリックに基づいたテキストや画像の評価を行うためのDecisions APIがパブリックベータ版として公開された。",
+      "impact": "システム構築における自動化や評価プロセスの効率化が容易になり、様々なサービスで意思決定支援機能の実装が進むと考えられる。",
+      "content_at": "2026-10-07T13:30:46.784534+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-07T13:30:46.784534+09:00",
+      "title": "嘘の代償：Mineserverの物語",
+      "summary": "Mineserverに関する物語「The cost of lies」が紹介されている。",
+      "impact": "本ニュースに関する情報が限られているため、具体的な社会への影響は不明である。",
+      "content_at": "2026-10-07T13:30:46.784534+09:00"
+    },
+    {
+      "image": "https://penguin-mail.com/brand/social-preview.png",
+      "url": "https://penguin-mail.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-07T13:30:46.784534+09:00",
+      "title": "Rust製のLinux向けオープンソースメールクライアント「Penguin Mail」",
+      "summary": "Penguin Mailは、GmailやMicrosoft、IMAP/POP3アカウント、カレンダー、連絡先を一つの高速なアプリに集約できるLinux向けメールクライアントである。AI機能を備えており、自身のコンピュータ上で動作する。",
+      "impact": "Linuxユーザーにとって、複数のメールサービスやスケジュールを一元管理できる効率的なツールになる可能性がある。AIの統合により、メール作成や整理が迅速化されるとみられる。",
+      "content_at": "2026-10-07T13:30:46.784534+09:00"
     }
   ],
-  "updated_at": "2026-10-07T06:30:48.162344+09:00"
+  "updated_at": "2026-10-07T13:30:46.784534+09:00"
 }
