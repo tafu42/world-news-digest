@@ -110,7 +110,51 @@
       "summary": "Penguin Mailは、GmailやMicrosoft、IMAP/POP3アカウント、カレンダー、連絡先を一つの高速なアプリに集約できるLinux向けメールクライアントである。AI機能を備えており、自身のコンピュータ上で動作する。",
       "impact": "Linuxユーザーにとって、複数のメールサービスやスケジュールを一元管理できる効率的なツールになる可能性がある。AIの統合により、メール作成や整理が迅速化されるとみられる。",
       "content_at": "2026-10-07T13:30:46.784534+09:00"
+    },
+    {
+      "image": "https://developer.chrome.com/static/blog/jpeg-xl-in-chrome/images/cover.png",
+      "url": "https://developer.chrome.com/blog/jpeg-xl-in-chrome",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-07T21:30:49.216074+09:00",
+      "title": "ChromeでのJPEG XLサポート",
+      "summary": "JPEG XLはJPEGよりも優れた圧縮率を実現する。また、HDRサポートやロスレスでのJPEGトランスコードなどの機能を備えている。",
+      "impact": "Webサイトの読み込み速度向上や高画質な画像表示の普及に寄与する可能性がある。",
+      "content_at": "2026-10-07T21:30:49.216074+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/acab53601e8ed1d8942866e854ef32023d0182ceb7a8c8355bb075143172bce9/szabadkai/c64-keyboard-font",
+      "url": "https://github.com/szabadkai/c64-keyboard-font/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-07T21:30:49.216074+09:00",
+      "title": "Commodore 64のキーボードフォントの復元",
+      "summary": "古典的なCommodore 64のキーキャップの写真を基に、文字のデザインをフォントとして再現した。デスクトップ用、Web用フォントや編集可能なアウトラインなどが提供されている。",
+      "impact": "レトロなデザインを好むクリエイターや愛好家の間で、当時の雰囲気を再現したコンテンツ制作に活用されると考えられる。",
+      "content_at": "2026-10-07T21:30:49.216074+09:00"
+    },
+    {
+      "image": "https://www.nobelprize.org/uploads/2026/10/fig_ke_26_3x2-1024x683.jpg",
+      "url": "https://www.nobelprize.org/prizes/chemistry/2026/press-release/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-07T21:30:49.216074+09:00",
+      "title": "2026年ノーベル化学賞にアンリ・B・カガン氏と宗像健三氏",
+      "summary": "2026年のノーベル化学賞は、非線形効果と不斉有機合成における自己触媒作用を発見したアンリ・B・カガン氏と宗像健三氏に授与された。",
+      "impact": "この研究成果は、医薬品や化学製品の効率的な合成技術の発展に大きく貢献したものとみられる。",
+      "content_at": "2026-10-07T21:30:49.216074+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://fiveminutesforward.com/post/2026-10-04-telegraph-test/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-07T21:30:49.216074+09:00",
+      "title": "1866年風の書き方：LLMが電信短縮語を再学習",
+      "summary": "大規模言語モデル（LLM）に対し、電信技士が使用していた短縮語「ケーブル語」で回答するように指示した。",
+      "impact": "LLMが特定の歴史的文体や専門的な言語ルールを模倣する能力を向上させ、特定の用途における効率的なテキスト生成に利用される可能性がある。",
+      "content_at": "2026-10-07T21:30:49.216074+09:00"
     }
   ],
-  "updated_at": "2026-10-07T13:30:46.784534+09:00"
+  "updated_at": "2026-10-07T21:30:49.216074+09:00"
 }
