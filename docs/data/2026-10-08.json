@@ -121,7 +121,51 @@
       "summary": "194歳のアルダブラゾウガメであるジョナサンのゲノムが解析された。科学者たちはその長寿の秘訣を明らかにしようとしている。",
       "impact": "この研究により長寿に関わる遺伝的要因が特定され、将来的に人間の寿命延長や健康寿命の改善に応用される可能性がある。",
       "content_at": "2026-10-08T13:30:53.164231+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mathstodon.xyz/@tao/117395269325940185",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-08T21:30:51.682806+09:00",
+      "title": "「Math 2.0」における数学的進歩の評価のあり方",
+      "summary": "「Math 2.0」では、数学的な進歩をより全体的（ホリスティック）に評価する必要がある。",
+      "impact": "数学教育や研究評価の基準が見直され、多角的な能力を重視する評価体系へ移行する可能性がある。",
+      "content_at": "2026-10-08T21:30:51.682806+09:00"
+    },
+    {
+      "image": "https://assets.buttondown.email/images/f57f48fc-aaca-4b67-b624-c13a1643b08a.jpg?w=960&amp;fit=max",
+      "url": "https://newsletter.dancohen.org/archive/the-slow-formation-of-durable-software/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-08T21:30:51.682806+09:00",
+      "title": "持続可能なソフトウェア開発の歴史",
+      "summary": "歴史家グループが数年をかけて、後に数百万人に利用される研究用アプリ「Zotero」を構築した過程が語られている。",
+      "impact": "長期間を要する堅実なソフトウェア開発手法が、現代の急進的な開発環境において再評価されるきっかけになるかもしれない。",
+      "content_at": "2026-10-08T21:30:51.682806+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/f7d25159db6e23a8aba8a8d7bfb8a64f5c584d3083b8d08cb92c40ff98760e10/openai/math",
+      "url": "https://github.com/openai/math/blob/main/history.md",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-08T21:30:51.682806+09:00",
+      "title": "OpenAI、数学論文3本を取り下げ",
+      "summary": "OpenAIが公開していた数学に関する論文3本を取り下げた。詳細はGitHubのOpenAI/mathリポジトリで確認できる。",
+      "impact": "AIモデルの数学的推論能力や研究の信頼性に対する検証が、今後厳格化される可能性がある。",
+      "content_at": "2026-10-08T21:30:51.682806+09:00"
+    },
+    {
+      "image": "https://shahidhussain.com/images/writing/search-for-salvage/front.jpg",
+      "url": "https://shahidhussain.com/writing/search-for-salvage/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-08T21:30:51.682806+09:00",
+      "title": "一度チャート入りして消えたバンド「Salvage」の15年間の軌跡",
+      "summary": "15年前に楽曲をリリースしてチャート入りしたものの、その後消息を絶ったバンド「Salvage」の足跡をたどる調査が行われた。",
+      "impact": "ネット上の情報収集やアーカイブ化の進展により、過去の埋もれた創作物やアーティストの再発見が容易になる可能性がある。",
+      "content_at": "2026-10-08T21:30:51.682806+09:00"
     }
   ],
-  "updated_at": "2026-10-08T13:30:53.164231+09:00"
+  "updated_at": "2026-10-08T21:30:51.682806+09:00"
 }
