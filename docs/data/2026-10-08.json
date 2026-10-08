@@ -66,7 +66,62 @@
       "summary": "スマートフォンやタブレットなどの画面にメッセージを表示し、簡易的な看板として活用できる無料のWebサービスである。アカウント登録やアプリのインストールは不要である。",
       "impact": "店舗の案内やイベントでの情報表示などにおいて、既存のデジタル端末を即座に活用できる手段として普及する可能性がある。",
       "content_at": "2026-10-08T06:31:07.005319+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://100r.ca/site/home.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-08T13:30:53.164231+09:00",
+      "title": "オフグリッド生活：Hundred Rabbits",
+      "summary": "オフグリッド生活を送るHundred Rabbitsについての記事。",
+      "impact": "自給自足やオフグリッドのライフスタイルへの関心が高まる可能性がある。",
+      "content_at": "2026-10-08T13:30:53.164231+09:00"
+    },
+    {
+      "image": "https://news.mit.edu/sites/default/files/images/202610/margaret-hamilton-portrait-toan-trinh-mit-technology-review-A1_1.png",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-08T13:30:53.164231+09:00",
+      "title": "マーガレット・ハミルトン氏が死去",
+      "summary": "NASAのアポロ計画でMITのソフトウェアエンジニアリングチームを率いたコンピュータ科学者、マーガレット・H・ハミルトン氏が90歳で死去した。",
+      "impact": "宇宙開発史におけるソフトウェア工学の先駆者として、多大な功績が改めて称賛されることになるだろう。",
+      "content_at": "2026-10-08T13:30:53.164231+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://en.wikipedia.org/wiki/Cleo_(mathematician)",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-08T13:30:53.164231+09:00",
+      "title": "数学者クレオ",
+      "summary": "数学者クレオについての記事。",
+      "impact": "特定の人物への関心が一時的に高まる可能性がある。",
+      "content_at": "2026-10-08T13:30:53.164231+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-08T13:30:53.164231+09:00",
+      "title": "ロザリンド・フランクリンはDNA画像でヘリックスを見逃していたのか？それは誤りである",
+      "summary": "ロザリンド・フランクリンがDNAの有名な画像でヘリックス構造を見逃していなかったという事実について解説している。",
+      "impact": "科学史における特定の発見に関する誤解が是正され、彼女の貢献が再評価されるとみられる。",
+      "content_at": "2026-10-08T13:30:53.164231+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/0f/76/0f76b548-bc58-4f25-abc3-3f5ebca07da4/content/images/size/w1200/2026/10/jonathan.png",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-08T13:30:53.164231+09:00",
+      "title": "世界最高齢の陸上動物「ジョナサン」のゲノム解析を実施",
+      "summary": "194歳のアルダブラゾウガメであるジョナサンのゲノムが解析された。科学者たちはその長寿の秘訣を明らかにしようとしている。",
+      "impact": "この研究により長寿に関わる遺伝的要因が特定され、将来的に人間の寿命延長や健康寿命の改善に応用される可能性がある。",
+      "content_at": "2026-10-08T13:30:53.164231+09:00"
     }
   ],
-  "updated_at": "2026-10-08T06:31:07.005319+09:00"
+  "updated_at": "2026-10-08T13:30:53.164231+09:00"
 }
