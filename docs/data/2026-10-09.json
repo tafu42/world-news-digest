@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-09",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://cactuscompute.com/blog/whistle",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-09T06:30:47.959094+09:00",
+      "title": "軽量な音声認識モデル「Whistle」が公開",
+      "summary": "16.9MBの軽量なオープンソース音声認識モデル「Whistle」が登場した。CPUエンジンで動作し、7言語の文字起こしに対応するほか、ツール呼び出しへの変換も可能である。",
+      "impact": "軽量であるため、デバイス上のローカル環境で音声認識機能が利用しやすくなると考えられる。",
+      "content_at": "2026-10-09T06:30:47.959094+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-09T06:30:47.959094+09:00",
+      "title": "DeepSeek 4.1 Flashに対する業界の反応",
+      "summary": "DeepSeek 4.1 Flashという技術に対し、なぜ業界が大きな騒ぎを起こしていないのかという疑問が呈されている。",
+      "impact": "本技術が業界に与える影響や評価について、今後議論が活発化する可能性がある。",
+      "content_at": "2026-10-09T06:30:47.959094+09:00"
+    },
+    {
+      "image": "https://www.theranos.world/assets/theranos-world-social-v1.jpg",
+      "url": "https://www.theranos.world/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-09T06:30:47.959094+09:00",
+      "title": "エリザベス・ホームズの対話型シミュレーションサイト",
+      "summary": "エリザベス・ホームズを模したインタラクティブなシミュレーションサイト「Theranos.world」が公開された。",
+      "impact": "特定の人物をテーマにしたシミュレーションを通じて、世間の関心や議論を呼ぶ可能性がある。",
+      "content_at": "2026-10-09T06:30:47.959094+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1876672891107868672/MheNrACO_400x400.jpg",
+      "url": "https://twitter.com/matthew_d_green/status/2108278850555674975",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-09T06:30:47.959094+09:00",
+      "title": "公開鍵暗号の存続に対する懸念",
+      "summary": "筆者が自身のSNSでの発言を補足する形で、公開鍵暗号が失われる可能性についての考えを述べている。",
+      "impact": "暗号技術の未来に対する不安を広める可能性がある一方、セキュリティの脆弱性に関する議論を促進するとみられる。",
+      "content_at": "2026-10-09T06:30:47.959094+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-09T06:30:47.959094+09:00",
+      "title": "要点を絞らないことの価値（2015年）",
+      "summary": "「要点を絞らないことの価値」についての2015年の記事である。",
+      "impact": "効率性や短縮化が求められる現代のコミュニケーションにおいて、回り道や冗長な対話が持つ意味を再考させるきっかけになる可能性がある。",
+      "content_at": "2026-10-09T06:30:47.959094+09:00"
+    },
+    {
+      "image": "https://biohub.org/wp-content/uploads/sites/32/2026/10/VBI-wordmark-Jade-on-dark_Social-Share_1200x630@1x.png",
+      "url": "https://biohub.org/news/virtual-biology-initiative-expansion/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-09T06:30:47.959094+09:00",
+      "title": "AI対応の生物学的データへ18億ドルの国際的投資",
+      "summary": "Biohub、DOE、NIHなどのパートナーが、細胞の反応を予測するAIモデルの学習用として、公開・標準化された生物学的データを生成する。この取り組みには18億ドルの資金が投入される。",
+      "impact": "高品質なデータセットが整備されることで、創薬や医療研究におけるAIの予測精度が向上するとみられる。これにより、治療法開発のスピードアップや医療の発展に寄与する可能性がある。",
+      "content_at": "2026-10-09T06:30:47.959094+09:00"
+    }
+  ],
+  "updated_at": "2026-10-09T06:30:47.959094+09:00"
+}
