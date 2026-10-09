@@ -110,7 +110,51 @@
       "summary": "投稿者はイラストレーターに自宅を描いてもらい、そのイラストをホームオートメーションシステム「Home Assistant」のダッシュボードとして利用した。",
       "impact": "スマートホームのインターフェースデザインに個性を求めるユーザーの間で、同様の視覚的なカスタマイズが広がる可能性がある。",
       "content_at": "2026-10-09T13:30:44.119904+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/c6c13b0ba04fddb4df3c99ae85354a1bb3927987e50589c7b370bb844b35001f/franzenzenhofer/big-arrow-on-the-screen",
+      "url": "https://github.com/franzenzenhofer/big-arrow-on-the-screen",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-09T21:30:45.823323+09:00",
+      "title": "Mac画面上に図形やテキストを描画するAIエージェント向けツール",
+      "summary": "Macの画面上に大きな矢印や枠線、テキストを描画できるAIエージェント向けのツールが公開された。コマンドライン操作から利用可能で、自動的に非表示となる仕組みを備えている。",
+      "impact": "AIエージェントによる視覚的な指示や強調が容易になることで、AIとの協働やタスク操作の効率が向上する可能性がある。",
+      "content_at": "2026-10-09T21:30:45.823323+09:00"
+    },
+    {
+      "image": "https://www.nobelprize.org/uploads/2026/10/2026_peace_carrier_image_3-2-1024x683.png",
+      "url": "https://www.nobelprize.org/prizes/peace/2026/press-release/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-09T21:30:45.823323+09:00",
+      "title": "2026年ノーベル平和賞にナバネセム・ピレイ氏が選出",
+      "summary": "2026年のノーベル平和賞が、平和と国際法の促進に尽力したナバネセム・「ナヴィ」・ピレイ氏に授与された。",
+      "impact": "国際法や平和活動における同氏の功績が改めて注目され、関連する人権・平和分野の議論に影響を与える可能性がある。",
+      "content_at": "2026-10-09T21:30:45.823323+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://iminafleeting.com/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-09T21:30:45.823323+09:00",
+      "title": "会議中であることを示すツール「I'm in a Meeting」",
+      "summary": "「I'm in a Meeting（会議中です）」という名称のツール。",
+      "impact": "利用者の現在のステータスを周囲に周知するためのツールとして活用されると考えられる。",
+      "content_at": "2026-10-09T21:30:45.823323+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/0301fabe1fcccc5f3b0ff971368d0f8b7aec32088b471d9078c0fbac46d0697f/alex0ptr/once",
+      "url": "https://github.com/alex0ptr/once",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-09T21:30:45.823323+09:00",
+      "title": "CLIコマンドの結果をキャッシュするツール「Once」",
+      "summary": "一度実行したコマンドの結果を一定期間再利用するためのCLIツール「Once」がGitHubで公開された。",
+      "impact": "コマンド実行の繰り返しを減らすことで、特定の処理にかかる時間やシステム負荷を軽減できる可能性がある。",
+      "content_at": "2026-10-09T21:30:45.823323+09:00"
     }
   ],
-  "updated_at": "2026-10-09T13:30:44.119904+09:00"
+  "updated_at": "2026-10-09T21:30:45.823323+09:00"
 }
