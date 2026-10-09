@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-10",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-10T06:30:45.125211+09:00",
+      "title": "警察車両を追跡するカメラを自作したYouTuber、警察が訪問したと語る",
+      "summary": "警察車両を追跡するためにFlock社製品と同様のカメラを自作したYouTuberが、警察が訪問してきたことを明かした。",
+      "impact": "個人の監視技術の向上と法執行機関による介入のあり方について、プライバシーと公的監視の境界に関する議論を呼ぶ可能性がある。",
+      "content_at": "2026-10-10T06:30:45.125211+09:00"
+    },
+    {
+      "image": "https://borretti.me/assets/card/no-man-is-an-island.webp",
+      "url": "https://borretti.me/article/no-man-is-an-island",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-10T06:30:45.125211+09:00",
+      "title": "人間は孤島にあらず",
+      "summary": "AIが知的貢献を不必要なものにしている。",
+      "impact": "知的生産のプロセスがAIに代替されることで、社会における個人の知的価値や労働の定義が大きく変化する可能性がある。",
+      "content_at": "2026-10-10T06:30:45.125211+09:00"
+    },
+    {
+      "image": "https://deno.com/blog/cloudflare/deno-cf-balanced-og.webp",
+      "url": "https://deno.com/blog/cloudflare",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-10T06:30:45.125211+09:00",
+      "title": "CloudflareがDenoを買収",
+      "summary": "Cloudflareは、Webの未来を構築するための最適な環境を整えることを目的にDenoを買収した。",
+      "impact": "Web開発環境の統合が進み、Cloudflareのプラットフォームにおける開発者体験やWeb構築のスピードが向上するとみられる。",
+      "content_at": "2026-10-10T06:30:45.125211+09:00"
+    },
+    {
+      "image": "https://minesweeper.mikelacher.com/images/share.png",
+      "url": "https://minesweeper.mikelacher.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-10T06:30:45.125211+09:00",
+      "title": "マインスイーパーのAAAリブート版が登場",
+      "summary": "往年のパズルゲームであるマインスイーパーが、アクション要素を含んだAAAタイトルとしてリブートされた。",
+      "impact": "古典的なゲームの再解釈により、幅広い層のゲーマーから注目を集める可能性がある。",
+      "content_at": "2026-10-10T06:30:45.125211+09:00"
+    },
+    {
+      "image": "https://carrierexplode.com/og.png",
+      "url": "https://carrierexplode.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-10T06:30:45.125211+09:00",
+      "title": "iPhoneやPixel、Galaxyのキャリア設定を解析するツール「Carrier-Explode」",
+      "summary": "iPhoneやPixel、Galaxyのファームウェアからキャリア設定を抽出・比較するツールが公開された。APN、VoLTE、5G、Wi-Fi通話の設定内容やビルドごとの変更点が確認できる。",
+      "impact": "モバイル端末の設定の詳細を可視化することで、通信環境のトラブルシューティングや設定の最適化に役立つ可能性がある。",
+      "content_at": "2026-10-10T06:30:45.125211+09:00"
+    },
+    {
+      "image": "https://framerusercontent.com/images/RtIGTDwO43jR4ZDilesXiR5znc.jpg",
+      "url": "https://typesafe.ai/blog/series-ai",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-10T06:30:45.125211+09:00",
+      "title": "AIスタートアップのTypeSafe AIが8.7億ドルを調達、評価額は75億ドルに",
+      "summary": "TypeSafe AIが8億7000万ドルを調達し、企業価値評価額が75億ドルとなった。同社は自動化に向けた機械ネイティブなインテリジェンス基盤を開発している。",
+      "impact": "ソフトウェア内で判断を行うAIモデルの開発が進むことで、企業の業務自動化の効率が向上する可能性がある。",
+      "content_at": "2026-10-10T06:30:45.125211+09:00"
+    }
+  ],
+  "updated_at": "2026-10-10T06:30:45.125211+09:00"
+}
