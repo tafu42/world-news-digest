@@ -66,7 +66,51 @@
       "summary": "Biohub、DOE、NIHなどのパートナーが、細胞の反応を予測するAIモデルの学習用として、公開・標準化された生物学的データを生成する。この取り組みには18億ドルの資金が投入される。",
       "impact": "高品質なデータセットが整備されることで、創薬や医療研究におけるAIの予測精度が向上するとみられる。これにより、治療法開発のスピードアップや医療の発展に寄与する可能性がある。",
       "content_at": "2026-10-09T06:30:47.959094+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/Articles/1095811/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-09T13:30:44.119904+09:00",
+      "title": "C言語における未定義動作の削減",
+      "summary": "生物医学工学の教授であるMartin Uecker氏が、C言語における未定義動作の削減について取り組んでいる。同氏は、この分野の典型的な専門家とは異なる経歴を持つ人物として紹介されている。",
+      "impact": "C言語の安全性向上に関する研究が進むことで、将来的にソフトウェアの脆弱性が低減される可能性がある。",
+      "content_at": "2026-10-09T13:30:44.119904+09:00"
+    },
+    {
+      "image": "https://unsung.aresluna.org/_media/deeper-dive-keyboard-differences-between-windows-and-macs/ogimage.jpg",
+      "url": "https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-09T13:30:44.119904+09:00",
+      "title": "WindowsとMacのキーボードの違い",
+      "summary": "ソフトウェアの技術と品質に関するブログ記事が、WindowsとMacにおけるキーボードの違いについて解説している。",
+      "impact": "両OS間でのキーボード操作の差異を理解することで、ユーザーは効率的な作業環境を構築できるようになると考えられる。",
+      "content_at": "2026-10-09T13:30:44.119904+09:00"
+    },
+    {
+      "image": "https://www.dexerto.com/cdn-image/wp-content/uploads/2026/10/07/coffee-maker-stock-photo.jpg",
+      "url": "https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-09T13:30:44.119904+09:00",
+      "title": "両親のコーヒーメーカーが10日間で1TBのデータを使用していた",
+      "summary": "ある男性が、自身の両親が所有するコーヒーメーカーが予想を大きく上回るデータ通信を行っていたことを発見した。使用量は10日間で1TBに達していた。",
+      "impact": "IoT機器の通信異常が予期せぬデータ消費を引き起こす事例として、スマート家電のセキュリティや監視体制の重要性が再認識される可能性がある。",
+      "content_at": "2026-10-09T13:30:44.119904+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-09T13:30:44.119904+09:00",
+      "title": "依頼した家のイラストをHome Assistantのダッシュボードに活用",
+      "summary": "投稿者はイラストレーターに自宅を描いてもらい、そのイラストをホームオートメーションシステム「Home Assistant」のダッシュボードとして利用した。",
+      "impact": "スマートホームのインターフェースデザインに個性を求めるユーザーの間で、同様の視覚的なカスタマイズが広がる可能性がある。",
+      "content_at": "2026-10-09T13:30:44.119904+09:00"
     }
   ],
-  "updated_at": "2026-10-09T06:30:47.959094+09:00"
+  "updated_at": "2026-10-09T13:30:44.119904+09:00"
 }
