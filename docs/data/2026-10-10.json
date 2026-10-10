@@ -66,7 +66,40 @@
       "summary": "TypeSafe AIが8億7000万ドルを調達し、企業価値評価額が75億ドルとなった。同社は自動化に向けた機械ネイティブなインテリジェンス基盤を開発している。",
       "impact": "ソフトウェア内で判断を行うAIモデルの開発が進むことで、企業の業務自動化の効率が向上する可能性がある。",
       "content_at": "2026-10-10T06:30:45.125211+09:00"
+    },
+    {
+      "image": "https://rea.tools/assets/social-card.png",
+      "url": "https://rea.tools/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-10T13:30:45.875419+09:00",
+      "title": "アプリやバイナリを解析するコーディングエージェント「REA」",
+      "summary": "REAは、アプリ、バイナリ、ブラウザの挙動をリバースエンジニアリングするためのコーディングエージェントである。ガイドやインタラクティブな例を通じて利用方法を学ぶことができる。",
+      "impact": "開発者がソフトウェアの解析作業を効率化できる可能性がある。",
+      "content_at": "2026-10-10T13:30:45.875419+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-10T13:30:45.875419+09:00",
+      "title": "遠距離隠しカメラ検知技術「Eye of Sauron」",
+      "summary": "Eye of Sauronは、遠距離から隠しスパイカメラを検知するための技術である。",
+      "impact": "プライバシー保護やセキュリティ向上に寄与する可能性がある。",
+      "content_at": "2026-10-10T13:30:45.875419+09:00"
+    },
+    {
+      "image": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/dit-generative-10x.gif",
+      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-10T13:30:45.875419+09:00",
+      "title": "自己回帰拡散モデルを用いた市場データの生成について",
+      "summary": "本記事は、2026年夏のインターンシッププロジェクトに関するシリーズの一環である。自己回帰拡散モデルによる市場データ生成の可能性について論じている。",
+      "impact": "金融モデリングやデータ生成の分野において、新たな手法が示される可能性がある。",
+      "content_at": "2026-10-10T13:30:45.875419+09:00"
     }
   ],
-  "updated_at": "2026-10-10T06:30:45.125211+09:00"
+  "updated_at": "2026-10-10T13:30:45.875419+09:00"
 }
