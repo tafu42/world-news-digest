@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-11",
+  "articles": [
+    {
+      "image": "https://patkerr.co.uk/2d-vehicles/social-card.jpg",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-11T06:30:42.451468+09:00",
+      "title": "2D車両物理シミュレーター「Motion Lab」",
+      "summary": "1996年に作成された車両物理プロトタイプをウェブ向けに再構築した「Motion Lab」が公開された。過去の技術を現代のブラウザ環境で体験できる。",
+      "impact": "レトロなソフトウェアのアーカイブやウェブ上での物理演算の再現手法として、教育や技術共有の面で参考になる可能性がある。",
+      "content_at": "2026-10-11T06:30:42.451468+09:00"
+    },
+    {
+      "image": "https://motherduck-com-web-prod.s3.us-east-1.amazonaws.com/assets/img/duckdb20_96b85ab729.png",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-11T06:30:42.451468+09:00",
+      "title": "DuckDB 2.0の高速化要因",
+      "summary": "DuckDB 2.0アルファ版と1.5.5版を比較し、再帰的CTEやVARIANT型、S3への非同期I/O処理の性能向上を確認した。高速化の要因とデータモデルの構築方法について解説している。",
+      "impact": "データ処理環境において、より高速なクエリ実行やI/O処理が可能になり、データ分析の効率化が期待できるとみられる。",
+      "content_at": "2026-10-11T06:30:42.451468+09:00"
+    },
+    {
+      "image": "https://www.thomas-huehn.com/knuth.scheck-256.jpg",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-11T06:30:42.451468+09:00",
+      "title": "ドナルド・クヌース氏からの報酬小切手",
+      "summary": "筆者が20年前にドナルド・クヌース氏から報酬として小切手を受け取ったというエピソードが紹介されている。",
+      "impact": "特定の個人的な回想であり、社会への直接的な影響は特にないと考えられる。",
+      "content_at": "2026-10-11T06:30:42.451468+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-11T06:30:42.451468+09:00",
+      "title": "デバッグツール「Rewind VM」の活用",
+      "summary": "決定論的な仮想マシンであるRewind VMを使用し、Nixビルドにおける競合状態の特定と解決を行っている。このツールはNixの実行を純粋関数として扱う。",
+      "impact": "ビルドプロセスの複雑なバグ解消を支援し、ソフトウェア開発の信頼性と再現性を向上させる可能性があるとみられる。",
+      "content_at": "2026-10-11T06:30:42.451468+09:00"
+    },
+    {
+      "image": "https://epoch.ai/assets/images/posts/2026/innovationeval/t-innovationeval.jpg",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-11T06:30:42.451468+09:00",
+      "title": "最新のAIモデルは人間のアルゴリズム開発に及ばず",
+      "summary": "InnovationEvalの初期の調査において、AIモデルが人間のアルゴリズム革新と同等の成果を出すことはできなかった。",
+      "impact": "今後、AIが人間と同等の創造的な問題解決能力を持つかどうかの議論において、一つの判断材料になると考えられる。",
+      "content_at": "2026-10-11T06:30:42.451468+09:00"
+    },
+    {
+      "image": "https://lightbulbcomputer.com/social-preview.jpg",
+      "url": "https://lightbulbcomputer.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-11T06:30:42.451468+09:00",
+      "title": "電球型コンピュータの新たな試み",
+      "summary": "プロジェクターとコンピュータビジョンを組み合わせ、情報を現実世界に投影して拡張する電球型のデバイスが提案された。",
+      "impact": "この技術が実用化されれば、空間認識を用いた新しいインターフェースとして日常生活や業務の効率化に貢献する可能性がある。",
+      "content_at": "2026-10-11T06:30:42.451468+09:00"
+    }
+  ],
+  "updated_at": "2026-10-11T06:30:42.451468+09:00"
+}
