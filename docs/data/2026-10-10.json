@@ -99,7 +99,51 @@
       "summary": "本記事は、2026年夏のインターンシッププロジェクトに関するシリーズの一環である。自己回帰拡散モデルによる市場データ生成の可能性について論じている。",
       "impact": "金融モデリングやデータ生成の分野において、新たな手法が示される可能性がある。",
       "content_at": "2026-10-10T13:30:45.875419+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-10T21:30:47.486994+09:00",
+      "title": "デンマークの個人番号データ流出、パスワードに「123456」を使用",
+      "summary": "デンマークのCPRデータ流出事故において、パスワードとして「123456」が使用されていたことが明らかになった。",
+      "impact": "脆弱なパスワード設定が大規模な情報流出につながる危険性が改めて示された。今後、システム管理における認証基準の見直しが求められる可能性がある。",
+      "content_at": "2026-10-10T21:30:47.486994+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6af17753333ee5b6d888a7747982aeb5fabf26d05763ea1a4c89c4778d19d2fe/rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-10T21:30:47.486994+09:00",
+      "title": "Cloudflareの無料枠でホストできる個人用AIエージェント「Talorys」",
+      "summary": "TalorysはCloudflareの無料枠を利用して自身のクラウド環境にデプロイできる個人用AIエージェントである。1つのコマンドでチャットやタスク管理、予定の通知機能などを構築できる。",
+      "impact": "低コストで個人用AI環境を構築できるため、AIエージェントの導入障壁が下がる可能性がある。個人の生産性向上に貢献するツールとして注目されると考えられる。",
+      "content_at": "2026-10-10T21:30:47.486994+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.opengroup.org//openbrand/register/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-10T21:30:47.486994+09:00",
+      "title": "AppleのmacOSが公式Unixレジストリから削除",
+      "summary": "AppleのmacOSが公式のUnixレジストリから静かに削除された。",
+      "impact": "macOSのUnix認証における位置付けの変化を示唆しており、今後の開発コミュニティやシステム標準への対応に影響を与える可能性がある。",
+      "content_at": "2026-10-10T21:30:47.486994+09:00"
+    },
+    {
+      "image": "https://beaksec.github.io/assets/img/posts/telegram-desktop-one-click-account-takeover/cover.png",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-10T21:30:47.486994+09:00",
+      "title": "Telegram Desktopに任意のファイルを盗まれる脆弱性",
+      "summary": "Telegram DesktopのIPC処理におけるエスケープ漏れにより、リンクをクリックさせることで攻撃者が任意のファイルを読み取ることが可能な脆弱性が存在した。セッションファイルも盗難の対象に含まれる。",
+      "impact": "ユーザーのプライバシーが侵害される重大なリスクがある。今回の脆弱性修正を機に、デスクトップアプリケーションのセキュリティ対策が強化されるとみられる。",
+      "content_at": "2026-10-10T21:30:47.486994+09:00"
     }
   ],
-  "updated_at": "2026-10-10T13:30:45.875419+09:00"
+  "updated_at": "2026-10-10T21:30:47.486994+09:00"
 }
