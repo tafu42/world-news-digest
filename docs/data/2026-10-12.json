@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-12",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://nanolathe.gg",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-12T06:30:48.143739+09:00",
+      "title": "「Total Annihilation」が現代のPC向けに再構築",
+      "summary": "オープンソースの2.5D RTSエンジン「Nanolathe」により、ブラウザ上でオリジナルの「Total Annihilation」デモ版がプレイ可能になった。ネイティブベータ版のインストールやオンライン対戦、ソースコードの利用にも対応している。",
+      "impact": "レトロゲームの再構築やオープンソース化が進むことで、古典的なゲーム作品が現代の環境でも保存・継承されやすくなると考えられる。",
+      "content_at": "2026-10-12T06:30:48.143739+09:00"
+    },
+    {
+      "image": "https://cartographers-nk.wonyoung.so/assets/og-img.png",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-12T06:30:48.143739+09:00",
+      "title": "北朝鮮におけるOpenStreetMapデータの分析",
+      "summary": "北朝鮮のOpenStreetMapデータについて、寄稿者が誰であるかを分析する内容である。",
+      "impact": "外部からの情報収集が制限されている地域において、オープンデータがどのように生成されているかを明らかにすることで、地図データの信頼性や管理手法について議論が深まる可能性がある。",
+      "content_at": "2026-10-12T06:30:48.143739+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mailchi.mp/email.theonion.com/archivehunt",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-12T06:30:48.143739+09:00",
+      "title": "2012年以前の「Onion」関連の問題について",
+      "summary": "2012年以前の「Onion」に関連する問題の有無について問う内容である。",
+      "impact": "特定の過去の事象やシステムに関する不具合・情報の整理を促すことで、関連するコミュニティや利用者の間で情報共有が進む可能性がある。",
+      "content_at": "2026-10-12T06:30:48.143739+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.ways-of-seeing.com/ch1",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-12T06:30:48.143739+09:00",
+      "title": "ジョン・バージャー著「Ways of Seeing」第1章",
+      "summary": "ジョン・バージャーによる著書「Ways of Seeing」の第1章である。",
+      "impact": "芸術や視覚文化に関する古典的な批評作品に触れる機会が増えることで、読者の視覚的な理解や美術批評に対する関心が高まる可能性がある。",
+      "content_at": "2026-10-12T06:30:48.143739+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://richwhitehouse.com/index.php?postid=78",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-12T06:30:48.143739+09:00",
+      "title": "人工的な狂気",
+      "summary": "「Artificial Insanity」というテーマについての記述である。",
+      "content_at": "2026-10-12T06:30:48.143739+09:00",
+      "impact": "この概念が何を指すのか詳細が不明なため、現時点で社会への影響を予測することは困難である。"
+    },
+    {
+      "image": "",
+      "url": "https://www.nyc.gov/main/click-to-cancel",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-12T06:30:48.143739+09:00",
+      "title": "ニューヨーク市の「クリック・トゥ・キャンセル」規則が施行",
+      "summary": "ニューヨーク市において、オンラインサービスの解約を簡素化する「クリック・トゥ・キャンセル」規則が施行された。",
+      "content_at": "2026-10-12T06:30:48.143739+09:00",
+      "impact": "消費者が容易に契約を解除できるようになり、サブスクリプションサービスの運用方法や解約手続きの仕組みに変化が生じる可能性がある。"
+    }
+  ],
+  "updated_at": "2026-10-12T06:30:48.143739+09:00"
+}
