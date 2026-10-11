@@ -66,7 +66,62 @@
       "summary": "プロジェクターとコンピュータビジョンを組み合わせ、情報を現実世界に投影して拡張する電球型のデバイスが提案された。",
       "impact": "この技術が実用化されれば、空間認識を用いた新しいインターフェースとして日常生活や業務の効率化に貢献する可能性がある。",
       "content_at": "2026-10-11T06:30:42.451468+09:00"
+    },
+    {
+      "image": "https://wallhop.io/og.png",
+      "url": "https://wallhop.io/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-11T13:30:42.437445+09:00",
+      "title": "12ft.ioの代替ツール「WallHop」が公開",
+      "summary": "12ft.ioに代わるサービスとして、リンクを貼り付けるだけで記事を無料で閲覧できる「WallHop」が開発された。会員登録なしで利用できる。",
+      "impact": "有料記事の制限を回避する手段が提供されることで、メディア側の収益モデルに影響を与える可能性がある。",
+      "content_at": "2026-10-11T13:30:42.437445+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-11T13:30:42.437445+09:00",
+      "title": "独自の意思決定モデルの構築手法",
+      "summary": "システム1と呼ばれる意思決定モデルは、各回答に対して調整された確率を推論して応答する。言語モデルからJSON形式の出力を得るには、構造化出力を用いて有効なJSONを保証する必要がある。",
+      "impact": "AI開発において、より精度の高い意思決定モデルを構築する際の技術的な指針となる可能性がある。",
+      "content_at": "2026-10-11T13:30:42.437445+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://worldfacts.app",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-11T13:30:42.437445+09:00",
+      "title": "CIA World Facebookの再構築プロジェクト",
+      "summary": "終了した「CIA World Facebook」を再現しようとする試みが行われている。",
+      "impact": "かつて提供されていた情報リソースが再び利用可能になることで、特定の層に役立つ可能性がある。",
+      "content_at": "2026-10-11T13:30:42.437445+09:00"
+    },
+    {
+      "image": "https://housing.over.pizza/share-card.png",
+      "url": "https://housing.over.pizza/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-11T13:30:42.437445+09:00",
+      "title": "サンフランシスコを舞台にした都市建設ゲーム",
+      "summary": "Oliver Sin氏が制作した、サンフランシスコで住宅建設を目指す都市建設ゲーム。",
+      "impact": "実際の都市の住宅問題を題材にすることで、プレイヤーに社会課題を考える機会を提供する可能性がある。",
+      "content_at": "2026-10-11T13:30:42.437445+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/1770971923b1cebb1eaf5485e8eb803bcaf9e95fe0e180dd896cdf3e3fb29494/othermod/PSPi-Version-6",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-11T13:30:42.437445+09:00",
+      "title": "PSPi 6 – Raspberry Piを組み込んだPSP",
+      "summary": "GitHub上でPSPi-Version-6の開発プロジェクトへの貢献が呼びかけられている。このプロジェクトはRaspberry PiをPSPに組み込むことを目的としている。",
+      "impact": "レトロゲーム機の改造や自作PCに関心を持つコミュニティにおいて、ハードウェアのカスタマイズに関する技術的な情報共有が進む可能性がある。",
+      "content_at": "2026-10-11T13:30:42.437445+09:00"
     }
   ],
-  "updated_at": "2026-10-11T06:30:42.451468+09:00"
+  "updated_at": "2026-10-11T13:30:42.437445+09:00"
 }
