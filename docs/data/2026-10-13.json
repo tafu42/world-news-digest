@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-13",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://z.ai/blog/glm-legal",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-13T06:30:45.024771+09:00",
+      "title": "GLM-Legalについて",
+      "summary": "GLM-Legalに関する情報である。",
+      "impact": "法的・技術的な関連情報として活用される可能性がある。",
+      "content_at": "2026-10-13T06:30:45.024771+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-13T06:30:45.024771+09:00",
+      "title": "C言語によるモダンなウェブアプリケーション",
+      "summary": "C言語を用いて構築されたモダンなウェブアプリケーションに関する内容である。",
+      "impact": "C言語でのウェブ開発手法や可能性についての示唆が得られるとみられる。",
+      "content_at": "2026-10-13T06:30:45.024771+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.markround.com/blog/2026/zx-spectrum-intro",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-13T06:30:45.024771+09:00",
+      "title": "ZX Spectrumでのデモシーン・イントロの制作",
+      "summary": "筆者が80年代後半にZX Spectrumで雑誌のプログラムを写経し、Amigaのクラック・イントロを再現しようと試みた経験が綴られている。",
+      "impact": "レトロゲーム機におけるプログラミングの歴史的関心や、当時の技術的背景を理解する一助となると考えられる。",
+      "content_at": "2026-10-13T06:30:45.024771+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/9b0a6027cc5e4c770ea04e498aa39431b1d931bd069147955e5c17c622ddee4a/openai/codex/issues/48195",
+      "url": "https://github.com/openai/codex/issues/48195",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-13T06:30:45.024771+09:00",
+      "title": "Codex CLIがバックグラウンド常駐プログラムをデフォルトでインストールする仕様への指摘",
+      "summary": "Codex CLIのインストール時にバックグラウンドで自動更新を行う常駐プログラムがデフォルトでインストールされる仕様について、改善案が提示されている。",
+      "impact": "ユーザー側で設定の任意化（オプトイン）が選択できるようになれば、意図しないバックグラウンド動作を防ぐ利便性の向上が見込まれる。",
+      "content_at": "2026-10-13T06:30:45.024771+09:00"
+    },
+    {
+      "image": "https://cdn.mos.cms.futurecdn.net/o7hTqTruL84oHxvg6pYS3K-2000-80.jpg",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-13T06:30:45.024771+09:00",
+      "title": "欧州のスーパーマーケットで冷蔵庫が停止するサイバー攻撃が発生",
+      "summary": "ヨーロッパのスーパーマーケットがサイバー攻撃を受けた。この攻撃により、冷蔵庫が自動霜取り機能などを停止させられる事態となった。",
+      "impact": "店舗で販売されている食品の品質や安全性に影響が出る可能性がある。同様のシステムを使用する小売チェーン全体で、さらなるセキュリティ対策の強化が求められるとみられる。",
+      "content_at": "2026-10-13T06:30:45.024771+09:00"
+    },
+    {
+      "image": "https://static.licdn.com/scds/common/u/images/email/artdeco/logos/96/linkedin-bug-color.png",
+      "url": "https://www.linkedin.com/pulse/ai-tool-rich-hickey-kjl8e",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-13T06:30:45.024771+09:00",
+      "title": "リッチ・ヒッキーによる「AI」の定義に関する考察",
+      "summary": "リッチ・ヒッキーが「AIはツールではない」という主張について述べている。この見解は同氏の講演や主張の中で繰り返し語られている。",
+      "impact": "技術者や開発者の間で、AIの定義やあり方に関する議論が深まる可能性がある。",
+      "content_at": "2026-10-13T06:30:45.024771+09:00"
+    }
+  ],
+  "updated_at": "2026-10-13T06:30:45.024771+09:00"
+}
