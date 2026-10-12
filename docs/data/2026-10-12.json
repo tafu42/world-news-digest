@@ -110,7 +110,62 @@
       "summary": "標準C言語には、文字列を浮動小数点数に変換する際のエラーを検出するポータブルな方法が存在しない。",
       "impact": "数値計算を行うプログラムの信頼性に影響が出る可能性があり、開発者は環境依存の対策を講じる必要があると考えられる。",
       "content_at": "2026-10-12T13:30:46.701025+09:00"
+    },
+    {
+      "image": "https://ichef.bbci.co.uk/news/1024/branded_news/abc3/live/b06f9880-c621-11f1-bc2e-018d645d8d21.jpg",
+      "url": "https://www.bbc.com/news/articles/c64g1l5389kvo",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-12T21:30:47.100838+09:00",
+      "title": "デロイトがアブラモビッチ氏の資産税逃れのために文書を偽造",
+      "summary": "調査により、ロシアのオリガルヒであるアブラモビッチ氏の資産からヨットや邸宅を除外するため、デロイトが日付を遡及させた書類を作成していたことが判明した。税務回避を目的とした組織的な文書改ざんが行われていたとされる。",
+      "impact": "国際的な監査法人の信用が失墜し、大手会計事務所に対する規制や監視が強化される可能性がある。",
+      "content_at": "2026-10-12T21:30:47.100838+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/ecd8d0f901eee0f806d831e96afb55ccec8a03b57832f9afe745d5fb8238f56c/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "url": "https://github.com/qgis/QGIS-Enhancement-Proposals/pull/387",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-12T21:30:47.100838+09:00",
+      "title": "QGISがAIを用いたコントリビューションを禁止",
+      "summary": "QGISは、AIによる支援を受けた開発成果物の提供を正式に禁止する方針を決定した。このポリシー変更により、AIを活用した投稿は一切認められないこととなった。",
+      "impact": "オープンソースプロジェクトにおけるAI利用の是非について、開発コミュニティ内で議論が加速するとみられる。",
+      "content_at": "2026-10-12T21:30:47.100838+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-12T21:30:47.100838+09:00",
+      "title": "スーパーマリオ64の制作秘話：ジャイルズ・ゴダード氏インタビュー（2001年）",
+      "summary": "2001年に行われた、スーパーマリオ64の制作に関するジャイルズ・ゴダード氏への全インタビューが公開された。",
+      "impact": "ゲーム開発史における貴重な一次資料として、当時の制作環境や技術的背景を理解する上で役立つと考えられる。",
+      "content_at": "2026-10-12T21:30:47.100838+09:00"
+    },
+    {
+      "image": "https://www.sciencealert.com/images/2026/10/OrangeCatsSurprise.jpg",
+      "url": "https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-12T21:30:47.100838+09:00",
+      "title": "60年の調査の末に明かされたオレンジ色の猫の秘密",
+      "summary": "オレンジ色の猫が他の猫とは異質な特徴を持っているということが、60年にわたる調査の結果として語られている。",
+      "impact": "特定の毛色の猫に関する科学的な理解が深まることで、愛猫家の間で話題となる可能性がある。",
+      "content_at": "2026-10-12T21:30:47.100838+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-12T21:30:47.100838+09:00",
+      "title": "Zig言語における型安全なHTMLテンプレート",
+      "summary": "著者による長年のウェブ開発経験と、過去に用いたPHPやPython、PerlなどのHTML生成手法の歴史が紹介されている。現在はZig言語を用いた型安全なHTMLテンプレートの手法について解説している。",
+      "impact": "Zig言語を採用する開発者にとって、型安全なHTML生成手法の選択肢が増える可能性がある。",
+      "content_at": "2026-10-12T21:30:47.100838+09:00"
     }
   ],
-  "updated_at": "2026-10-12T13:30:46.701025+09:00"
+  "updated_at": "2026-10-12T21:30:47.100838+09:00"
 }
