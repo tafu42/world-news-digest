@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-14",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://deepmind.google/models/gemini/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-14T06:30:42.550936+09:00",
+      "title": "Gemini 4 Argonについて",
+      "summary": "Gemini 4 Argonに関する情報である。",
+      "impact": "現時点では情報が限られており、社会への影響は不明である。",
+      "content_at": "2026-10-14T06:30:42.550936+09:00"
+    },
+    {
+      "image": "https://guitoro.com/brand/guitoro-social.png?v=gold-cutout-medium",
+      "url": "https://guitoro.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-14T06:30:42.550936+09:00",
+      "title": "仮想ギターツール「Guitoro」公開",
+      "summary": "キーボードやタッチ操作で演奏できるオンラインの仮想ギターツールが公開された。スロー再生機能や、どの弦を弾いているかを確認する機能を備えている。",
+      "impact": "音楽制作や練習を補助するツールとして、個人ユーザーに利用される可能性がある。",
+      "content_at": "2026-10-14T06:30:42.550936+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-14T06:30:42.550936+09:00",
+      "title": "Ledgerが仮想通貨ウォレットへのスパイチップ埋め込みを認める",
+      "summary": "Ledger社が、仮想通貨ウォレットにおけるスパイチップの埋め込みが盗難の原因であることを確認した。",
+      "impact": "セキュリティへの不信感からユーザーの離反を招く恐れがあるほか、ハードウェアウォレット全体の信頼性見直し議論に発展する可能性がある。",
+      "content_at": "2026-10-14T06:30:42.550936+09:00"
+    },
+    {
+      "image": "https://www.apple.com/v/apple-homeview/a/images/meta/apple-homeview__lk7n65hb6bm2_og.png?202610121723",
+      "url": "https://www.apple.com/apple-homeview/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-14T06:30:42.550936+09:00",
+      "title": "Appleのスマートディスプレイ「Apple HomeView」",
+      "summary": "Apple HomeViewは、Siri AIやLiquid Retinaディスプレイを搭載したスマートディスプレイである。高音質オーディオやFaceTime、スマートホーム制御機能などを備えている。",
+      "impact": "スマートホーム市場において、Apple製品間の連携強化やシェア拡大に寄与するとみられる。",
+      "content_at": "2026-10-14T06:30:42.550936+09:00"
+    },
+    {
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/d344b849251502fade67ad16f09bb86fa6f42363-500x263.png",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-14T06:30:42.550936+09:00",
+      "title": "Anthropicが独自のソースコード管理システムへ移行",
+      "summary": "1日あたりのマージ数が増加し、従来のソース管理が開発のボトルネックとなった。Anthropicは5ヶ月をかけて独自のバージョン管理システムへ移行した。",
+      "impact": "開発効率の大幅な向上が見込まれる。同様の課題を抱える他の大規模開発組織にとっても、自社開発システムへの移行が検討される可能性がある。",
+      "content_at": "2026-10-14T06:30:42.550936+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-14T06:30:42.550936+09:00",
+      "title": "iOS版Thunderbirdが登場",
+      "summary": "メールクライアント「Thunderbird」のiOS版が提供される。",
+      "impact": "iOSユーザーがThunderbirdをモバイル環境で利用できるようになる。これにより、既存のデスクトップユーザーの利便性が向上する可能性がある。",
+      "content_at": "2026-10-14T06:30:42.550936+09:00"
+    }
+  ],
+  "updated_at": "2026-10-14T06:30:42.550936+09:00"
+}
