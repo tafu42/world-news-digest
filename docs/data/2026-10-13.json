@@ -110,7 +110,62 @@
       "summary": "「vfmaddrnd231pd」という名称の人物や存在について問う記事である。",
       "impact": "現時点では情報が不足しており、社会的な影響は予測できない。",
       "content_at": "2026-10-13T13:30:42.151343+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6257720fd694ad6928b48015d46c6fd65451b426c2645013baeaa6c3f86da2af/rust-lang/rust/issues/164250",
+      "url": "https://github.com/rust-lang/rust/issues/164250",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-13T21:30:43.348012+09:00",
+      "title": "Rustの借用チェッカーに11年前から存在する不具合が見つかる",
+      "summary": "Rustの借用チェッカーにおいて、11年前から残存していた不整合を示すコード例が報告された。該当するコードの断片が公開されている。",
+      "impact": "Rustのメモリ安全性に対する信頼性に影響を与える可能性があるため、当該不具合の修正と影響範囲の特定が急がれると考えられる。",
+      "content_at": "2026-10-13T21:30:43.348012+09:00"
+    },
+    {
+      "image": "https://eg2.haku.sh/speed-table.png",
+      "url": "https://eg2.haku.sh/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-13T21:30:43.348012+09:00",
+      "title": "MacBook Airで1時間の音声を約13秒で文字起こし",
+      "summary": "埋め込みモデルを音声認識モデルに転換することで、MacBook Airの端末上で1時間の音声を約13秒で文字起こしすることに成功した。",
+      "impact": "オンデバイスでの音声処理が高速化されることで、プライバシー保護と効率性を両立したツール開発が促進される可能性がある。",
+      "content_at": "2026-10-13T21:30:43.348012+09:00"
+    },
+    {
+      "image": "https://pdftomp3.com/og-pdf-to-mp3.png",
+      "url": "https://pdftomp3.com/connect-ai/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-13T21:30:43.348012+09:00",
+      "title": "OpenAIのサブスクリプションを利用したオーディオブック作成ツール",
+      "summary": "CodexやClaudeなどのAIモデルと音声APIキーを接続し、文書をPDFからMP3形式に変換するツールが公開された。",
+      "impact": "個人の文書作成フローにAIが組み込まれることで、ドキュメントの音声化や読み上げによる情報摂取が容易になる可能性がある。",
+      "content_at": "2026-10-13T21:30:43.348012+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.thehistoryblog.com/archives/77107",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-13T21:30:43.348012+09:00",
+      "title": "トルコでヒッタイト王室のアーカイブを発見",
+      "summary": "トルコにおいてヒッタイト王室のアーカイブが発見された。",
+      "impact": "古代ヒッタイト帝国の歴史や政治体制に関する新たな知見が解明される可能性がある。",
+      "content_at": "2026-10-13T21:30:43.348012+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.bloomberg.com/news/features/2026-10-13/cftc-staff-told-to-retract-analysis-of-suspicious-oil-trades-on-iran",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-13T21:30:43.348012+09:00",
+      "title": "米商品先物取引委員会（CFTC）のスタッフ、不審な石油取引に関する分析の撤回を指示される",
+      "summary": "米商品先物取引委員会（CFTC）のスタッフが、不審な石油取引に関する分析を撤回するよう指示を受けた。この事実が明らかになった。",
+      "impact": "規制当局内での分析の独立性や透明性が問われる可能性がある。市場監視の公正性に対する市場参加者の信頼に影響を与えるおそれがある。",
+      "content_at": "2026-10-13T21:30:43.348012+09:00"
     }
   ],
-  "updated_at": "2026-10-13T13:30:42.151343+09:00"
+  "updated_at": "2026-10-13T21:30:43.348012+09:00"
 }
