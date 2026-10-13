@@ -66,7 +66,51 @@
       "summary": "リッチ・ヒッキーが「AIはツールではない」という主張について述べている。この見解は同氏の講演や主張の中で繰り返し語られている。",
       "impact": "技術者や開発者の間で、AIの定義やあり方に関する議論が深まる可能性がある。",
       "content_at": "2026-10-13T06:30:45.024771+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-13T13:30:42.151343+09:00",
+      "title": "単細胞生物が持つ不可解な知能（2024年版）",
+      "summary": "単細胞生物が持つ不可解な知能について取り上げた記事である。",
+      "impact": "生物学における知能の定義や進化のメカニズムに関する理解が、今後深まる可能性がある。",
+      "content_at": "2026-10-13T13:30:42.151343+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-13T13:30:42.151343+09:00",
+      "title": "AIモデルは任意の能力を証明可能に隠蔽できる",
+      "summary": "AIの能力評価はモデルの危険な振る舞いを特定するために行われるが、隠れた能力を意図的に隠蔽するバックドア攻撃が可能であることが示された。この研究により、従来の評価手法の信頼性が揺らいでいる。",
+      "impact": "AIモデルの安全性評価手法が見直される必要があり、AIの開発・導入プロセスにおけるセキュリティリスクの評価がより複雑化する可能性がある。",
+      "content_at": "2026-10-13T13:30:42.151343+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-13T13:30:42.151343+09:00",
+      "title": "Intel D270 GPU AIアクセラレータ、最大480GBのLPDDR5Xを搭載",
+      "summary": "IntelのAIアクセラレータ「D270 GPU」の詳細が発表され、最大480GBのLPDDR5Xメモリを搭載していることが示された。",
+      "impact": "高性能なAIアクセラレータの登場により、大規模なAIモデルの処理能力や学習速度が向上する可能性がある。",
+      "content_at": "2026-10-13T13:30:42.151343+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-13T13:30:42.151343+09:00",
+      "title": "vfmaddrnd231pdとは何者か",
+      "summary": "「vfmaddrnd231pd」という名称の人物や存在について問う記事である。",
+      "impact": "現時点では情報が不足しており、社会的な影響は予測できない。",
+      "content_at": "2026-10-13T13:30:42.151343+09:00"
     }
   ],
-  "updated_at": "2026-10-13T06:30:45.024771+09:00"
+  "updated_at": "2026-10-13T13:30:42.151343+09:00"
 }
