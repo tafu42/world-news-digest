@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-15",
+  "articles": [
+    {
+      "image": "https://jjmaxwell4.com/open-graph/things-to-know-when-you-get-cancer.png",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-15T06:30:51.874442+09:00",
+      "title": "がん診断時に知っておくべきこと：2026年版",
+      "summary": "個人ウェブサイトおよびポートフォリオに関する情報。",
+      "impact": "がん患者が個人の情報発信や管理を行う際に役立つ知識が共有される可能性がある。",
+      "content_at": "2026-10-15T06:30:51.874442+09:00"
+    },
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M4Y140VQ20JV2JNAC18Y1A2G.png",
+      "url": "https://blog.cloudflare.com/yandex-outage/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-15T06:30:51.874442+09:00",
+      "title": "Yandexの障害：悪意あるボットは停止せず他ネットワークへ移行",
+      "summary": "Yandexのデータセンターが攻撃を受けた際、悪意あるボットは活動を停止せず、他のネットワークへ移動したことがCloudflareのデータで判明した。",
+      "impact": "サイバー攻撃を受けたインフラにおいても、悪意ある活動は別の経路で継続する可能性があるため、組織はより広範な監視が必要になると考えられる。",
+      "content_at": "2026-10-15T06:30:51.874442+09:00"
+    },
+    {
+      "image": "https://sunshowers.io/images/og-image.png",
+      "url": "https://sunshowers.io/posts/anthropic-mononoke/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-15T06:30:51.874442+09:00",
+      "title": "Anthropicの「Scion」は「もののけ姫」に強く影響を受けている",
+      "summary": "AnthropicのScionは「もののけ姫」から多大なインスピレーションを得て開発された。出典を明らかにすることは重要である。",
+      "impact": "AI開発において、インスピレーションを受けた作品を適切にクレジットすることで、クリエイターの権利保護に対する議論が深まる可能性がある。",
+      "content_at": "2026-10-15T06:30:51.874442+09:00"
+    },
+    {
+      "image": "https://framerusercontent.com/images/KBTvCTXoQaZeABcI7te5PTQw7Q.png?width=1574&amp;height=996",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-15T06:30:51.874442+09:00",
+      "title": "TypeSafe AIが「Jev 1.14.0」をリリース、夢想家のための実験的機能も",
+      "summary": "TypeSafe AIは、ソフトウェア内で意思決定を行う機械ネイティブなインテリジェンス基盤「Jev」のバージョン1.14.0をリリースした。早期アクセスを通じて初のシステム・ワン・モデルを試すことができる。",
+      "impact": "ソフトウェアの自動化に向けた意思決定技術が実用化されることで、業務の効率化や自動化が進展する可能性がある。",
+      "content_at": "2026-10-15T06:30:51.874442+09:00"
+    },
+    {
+      "image": "https://anoma.ly/notes/og/opencode-2-0.png",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-15T06:30:51.874442+09:00",
+      "title": "OpenCode 2.0について",
+      "summary": "OpenCode 2.0に関する記事である。",
+      "impact": "本件に関する詳細が不明なため、現時点で社会への具体的な影響を予測することはできない。",
+      "content_at": "2026-10-15T06:30:51.874442+09:00"
+    },
+    {
+      "image": "https://www.csoonline.com/wp-content/uploads/2026/10/4234854-0-28632700-1792004597-shutterstock_2472843149.jpg?quality=50&amp;strip=all&amp;w=1024",
+      "url": "https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-15T06:30:51.874442+09:00",
+      "title": "AIのハッキング報告は封じ込めと監視の不備が原因と専門家が指摘",
+      "summary": "サイバー専門家は、近年のAIによるハッキング報告の原因はAIの自律的な思考ではなく、AIラボ側の封じ込めや監視の不備にあると指摘した。また、CISOに対してAIベンダーの精査とセキュリティの基本強化を推奨している。",
+      "impact": "企業がAI利用時のセキュリティ対策を再評価するきっかけとなる可能性がある。また、AI開発企業に対して、より厳格な監視体制の構築が求められるようになると考えられる。",
+      "content_at": "2026-10-15T06:30:51.874442+09:00"
+    }
+  ],
+  "updated_at": "2026-10-15T06:30:51.874442+09:00"
+}
