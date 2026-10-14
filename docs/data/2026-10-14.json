@@ -88,7 +88,73 @@
       "summary": "1692年に出版された色彩ガイド『Traité des couleurs servant à la peinture à l’eau』が、高解像度のスキャンデータとして紹介されている。この書籍は、現代のパントン・カラーガイドに先駆けるような内容となっている。",
       "impact": "芸術家や歴史研究者にとって、色彩の歴史的知見を得るための貴重な資料として活用されると考えられる。",
       "content_at": "2026-10-14T13:30:44.871875+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://typeof.net/Iosevka/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-14T21:30:45.909515+09:00",
+      "title": "オープンソースの等幅フォント「Iosevka」",
+      "summary": "Iosevkaはオープンソースのサンセリフ体およびスラブセリフ体を持つ等幅フォントである。",
+      "impact": "開発者や文書作成者が利用するフォントの選択肢として活用されると考えられる。",
+      "content_at": "2026-10-14T21:30:45.909515+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/460e8a5499c3d5c89b9a0898182b77a412bfcd3b9392de036a6a51d73af71e0f/timescale/pg_vectorsearch",
+      "url": "https://github.com/timescale/pg_vectorsearch",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-14T21:30:45.909515+09:00",
+      "title": "PostgreSQL用高速ベクトル検索エンジン「pg_vectorsearch」",
+      "summary": "pg_vectorsearchはPostgreSQL向けの高性能なベクトル検索用インデックスである。GitHub上で開発が公開されている。",
+      "impact": "PostgreSQLにおけるベクトル検索の処理速度が向上し、AI関連アプリケーションの構築効率が高まる可能性がある。",
+      "content_at": "2026-10-14T21:30:45.909515+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/77/50/77508a24-24ec-49e5-99f8-d3dadb30a5ac/content/images/size/w1200/2026/10/Screenshot-2026-10-12-at-6.01.49---PM.png",
+      "url": "https://www.zetter-zeroday.com/who-is-planting-backdoors-in-ledger-crypto-wallets/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-14T21:30:45.909515+09:00",
+      "title": "Ledger製暗号資産ウォレットへのバックドア設置と盗難事件",
+      "summary": "Ledger社の暗号資産ウォレットに仕込まれたバックドアを悪用し、約1億ドル相当の暗号資産が盗まれた。アジアおよびヨーロッパの正規代理店経由で販売された製品が標的となった。",
+      "impact": "サプライチェーンを通じたセキュリティリスクが改めて浮き彫りになっており、ハードウェアウォレットの信頼性低下や流通経路の安全性強化が求められる可能性がある。",
+      "content_at": "2026-10-14T21:30:45.909515+09:00"
+    },
+    {
+      "image": "https://blog.lorenzano.eu/content/images/size/w1200/2026/09/Screenshot-From-2026-09-07-21-24-06.png",
+      "url": "https://blog.lorenzano.eu/pulsar-at-esug-2026/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-14T21:30:45.909515+09:00",
+      "title": "Pharo向け新IDE「Pulsar」の発表",
+      "summary": "ESUG 2026にて、Pharo向けのコーディング重視型IDE「Pulsar」が発表された。生成AI全盛の時代におけるコードに密接した開発の重要性が論じられている。",
+      "impact": "SmalltalkやPharoの開発環境において、開発効率やプログラミング手法に変化をもたらす可能性がある。",
+      "content_at": "2026-10-14T21:30:45.909515+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/f0/60/f060ef3f-d4e0-4af4-9255-1373fbf0a44f/content/images/size/w1200/2026/10/featured_02.png",
+      "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-14T21:30:45.909515+09:00",
+      "title": "Amazonがインターネット上の価格を引き上げ",
+      "summary": "Amazon以外のサイトで買い物をする場合でも、Amazonの高い価格設定の影響を受ける可能性がある。Amazonの価格戦略がネット全体の価格に影響を及ぼしている。",
+      "impact": "消費者はAmazonを利用しない場合でも、間接的に価格上昇の影響を受ける可能性がある。",
+      "content_at": "2026-10-14T21:30:45.909515+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://smallcultfollowing.com/babysteps/blog/2026/10/14/agentic-dev-and-rust/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-14T21:30:45.909515+09:00",
+      "title": "エージェントがRustにもたらす意味と相互関係",
+      "summary": "エージェント技術がプログラミング言語Rustにどのような意味を持つか、またその逆の関係性について論じている。",
+      "impact": "Rustを用いたエージェント開発の手法やエコシステムの発展に影響を与える可能性がある。",
+      "content_at": "2026-10-14T21:30:45.909515+09:00"
     }
   ],
-  "updated_at": "2026-10-14T13:30:44.871875+09:00"
+  "updated_at": "2026-10-14T21:30:45.909515+09:00"
 }
