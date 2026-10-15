@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-16",
+  "articles": [
+    {
+      "image": "https://research.meta.ai/articles/muse-spark-open/social/muse-spark-1-2-open-weights-social-v2.webp",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-16T06:30:48.132846+09:00",
+      "title": "オープンウェイトモデル「Muse Spark Open」発表",
+      "summary": "Muse Spark Openは、米国で開発された高性能なオープンウェイトモデルである。Apple M5 Ultra Mac Studio上でエージェント機能を実行できる。",
+      "impact": "デスクトップ環境で高度なAIエージェントの利用が可能になり、個人の作業効率が向上する可能性がある。",
+      "content_at": "2026-10-16T06:30:48.132846+09:00"
+    },
+    {
+      "image": "https://already-clean.goodfire.com/assets/social/city-and-knot-20261015.png",
+      "url": "https://already-clean.goodfire.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-16T06:30:48.132846+09:00",
+      "title": "ニューラルネットワークのクリーンさに関する仮説",
+      "summary": "ニューロン、汎化性能、回路の生態系に関する作業仮説が提示された。",
+      "impact": "ニューラルネットワークの内部メカニズムの解明が進み、AIの設計や最適化技術に新たな知見を与える可能性がある。",
+      "content_at": "2026-10-16T06:30:48.132846+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://support.withings.com/hc/en-us/community/posts/51887047154577-Unacceptable-Apple-Health-Sync-is-now-behind-a-99-year-paywall-for-new-accounts",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-16T06:30:48.132846+09:00",
+      "title": "Withingsの新規ユーザーにApple Health連携の有料化が導入",
+      "summary": "Withingsの新規ユーザーに対し、Apple Healthとのデータ同期機能を利用するために年間99ドルの料金が課されることになった。",
+      "impact": "サービス利用コストの増加により、ユーザーの製品選択やサービス継続利用に影響を与える可能性がある。",
+      "content_at": "2026-10-16T06:30:48.132846+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-16T06:30:48.132846+09:00",
+      "title": "個人でホストしているサービスについて",
+      "summary": "著者自身がセルフホストしているサービスについての紹介である。",
+      "impact": "個人のIT環境構築やデータ管理手法としてのセルフホストに関心が高まる可能性がある。",
+      "content_at": "2026-10-16T06:30:48.132846+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.eink.com/news/detail/EInk-Launches-Latest-Version-of-Color-ePaper-Platform-E-Ink-Kaleido-4",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-16T06:30:48.132846+09:00",
+      "title": "E Ink Kaleido 4について",
+      "summary": "E Ink Kaleido 4に関する情報である。",
+      "impact": "電子ペーパー技術の進化により、電子書籍リーダーなどの表示性能が向上する可能性がある。",
+      "content_at": "2026-10-16T06:30:48.132846+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/47e0aeca8420e049c43b6ad09c959f8eb43a2b33e99f122c5448c94ca53e72d1/fyzugx/DEsk",
+      "url": "https://github.com/fyzugx/DEsk",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-16T06:30:48.132846+09:00",
+      "title": "スキューモーフィックデザインを採用したLinux向けWaylandデスクトップ",
+      "summary": "fyzugx/DEskの開発プロジェクトに関する案内である。GitHubアカウントを作成することで貢献が可能である。",
+      "impact": "デスクトップ環境のデザインの多様性が広がることが考えられる。",
+      "content_at": "2026-10-16T06:30:48.132846+09:00"
+    }
+  ],
+  "updated_at": "2026-10-16T06:30:48.132846+09:00"
+}
