@@ -66,7 +66,51 @@
       "summary": "fyzugx/DEskの開発プロジェクトに関する案内である。GitHubアカウントを作成することで貢献が可能である。",
       "impact": "デスクトップ環境のデザインの多様性が広がることが考えられる。",
       "content_at": "2026-10-16T06:30:48.132846+09:00"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1381093165/b456f715-a301-4b82-a109-a5c6dfe34815",
+      "url": "https://github.com/Saffsanity/sill",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-16T13:30:49.342442+09:00",
+      "title": "MacのウィンドウをiPhoneやiPadで操作可能にするツール",
+      "summary": "MacのウィンドウをiPhoneやiPad上に表示し、タッチ操作やApple Pencil、トラックパッドなどで制御できるツールが公開された。サーバーを介さないオープンソースのソフトウェアである。",
+      "impact": "PCの操作性をモバイルデバイスに拡張できるため、作業環境の柔軟性が向上する可能性がある。",
+      "content_at": "2026-10-16T13:30:49.342442+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/b1/57/b157bf7f-0fe2-447f-a945-12d7951755b3/content/images/2026/10/ipinfo-rpki-social-share-2400x1256-1.png",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-16T13:30:49.342442+09:00",
+      "title": "インターネット経路の70%がRPKIで保護される",
+      "summary": "インターネットの経路情報を保護する技術であるRPKIの普及率が70%に達した。2026年に急増した要因や、不正な経路の遮断性能、残存する課題が示されている。",
+      "impact": "インターネットの通信経路におけるセキュリティが強化され、不正な経路誘導のリスクが低減するとみられる。",
+      "content_at": "2026-10-16T13:30:49.342442+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-16T13:30:49.342442+09:00",
+      "title": "Meta、10月30日よりビジネスアカウントのWebサイトスクレイピングに同意取得へ",
+      "summary": "10月30日より、MetaによるビジネスアカウントのWebサイトのスクレイピングが同意制となる。",
+      "impact": "企業側が自社サイトのデータをMetaに利用されるかどうかを管理できるようになり、プライバシー保護の方針が変更される可能性がある。",
+      "content_at": "2026-10-16T13:30:49.342442+09:00"
+    },
+    {
+      "image": "https://i.pcmag.com/imagery/articles/05CFtM0xshDMMISMadtyPt5-1.fit_lim.size_1200x630.v1791903125.jpg",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-16T13:30:49.342442+09:00",
+      "title": "iPhone Duoが黒鉛パイプで発熱を制御する仕組み",
+      "summary": "iPhone Duoのヒンジ部分に配置された黒鉛パイプが、A20 Proチップから発生する熱を効率的に拡散させる役割を果たしている。Appleのエンジニアチームがその設計の詳細を明らかにした。",
+      "impact": "高度な放熱設計により、スマートフォンにおけるチップの性能向上と安定稼働の両立が進むと考えられる。",
+      "content_at": "2026-10-16T13:30:49.342442+09:00"
     }
   ],
-  "updated_at": "2026-10-16T06:30:48.132846+09:00"
+  "updated_at": "2026-10-16T13:30:49.342442+09:00"
 }
