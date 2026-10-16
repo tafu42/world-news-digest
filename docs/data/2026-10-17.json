@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-17",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://www.tesla.com/roadster",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-17T06:30:45.145173+09:00",
+      "title": "テスラ・ロードスター",
+      "summary": "テスラ・ロードスターに関する情報。",
+      "impact": "製品の動向次第では、電気自動車市場における性能基準に変化を与える可能性がある。",
+      "content_at": "2026-10-17T06:30:45.145173+09:00"
+    },
+    {
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/dac862860da089b5a053e6ad2105b422d01fefe1-1200x630.jpg",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-17T06:30:45.145173+09:00",
+      "title": "ClaudeがECDSA曲線の起源を解明",
+      "summary": "最も人気のある暗号標準の一つであるECDSA曲線の起源に関する、数十年来の謎が解明された。AIのClaudeによって情報が明らかにされた。",
+      "impact": "暗号学の歴史的背景が整理されることで、今後のセキュリティ標準の理解や技術発展に寄与する可能性がある。",
+      "content_at": "2026-10-17T06:30:45.145173+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/beeb7380a83d2006dbd7cb5c30025eda7f0ff5321bd1a90397993cfd694cd6bd/cobanov/PS5LM",
+      "url": "https://github.com/cobanov/PS5LM",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-17T06:30:45.145173+09:00",
+      "title": "脱獄したPS5でLlama.cppを実行",
+      "summary": "脱獄済みのPlayStation 5において、GGUF形式のモデルをネイティブで実行する手法が公開された。Qwen 3.8モデルの動作が示されている。",
+      "impact": "家庭用ゲーム機のハードウェアをAI推論に転用する試みが広がり、コンソール機の活用用途が拡大する可能性がある。",
+      "content_at": "2026-10-17T06:30:45.145173+09:00"
+    },
+    {
+      "image": "https://bfl.ai/api/og/blog/flux-3-image-klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-17T06:30:45.145173+09:00",
+      "title": "画像生成モデル「Flux 3 Image Klein」公開",
+      "summary": "オープンウェイトで56億パラメータを持つ画像生成モデル「Flux 3 Image Klein」が発表された。テキストからの画像生成や編集、マルチリファレンス生成に対応している。",
+      "impact": "高速でカスタマイズ可能なオープンソースモデルの選択肢が増えることで、クリエイティブ分野における画像生成技術の利用がさらに加速するとみられる。",
+      "content_at": "2026-10-17T06:30:45.145173+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/9977c9b9ba61ac411f0c19dc08b23b5e3b04db4e846964b8f8dc42142f1e1f70/home-assistant/home-assistant.io/issues/49314",
+      "url": "https://github.com/home-assistant/home-assistant.io/issues/49314",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-17T06:30:45.145173+09:00",
+      "title": "シークレット情報をスキャンする統合機能に関するプライバシーへの懸念",
+      "summary": "ユーザーが許可していないにもかかわらず、自身のシークレット情報をスキャンする統合機能が有効になっているとの指摘がなされた。この問題は、コンテンツの不備やリンクの破損などを含むカテゴリーで報告されている。",
+      "impact": "同様のシステムを利用する他のユーザーの間で、プライバシー保護のあり方に対する懸念が高まる可能性がある。",
+      "content_at": "2026-10-17T06:30:45.145173+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-17T06:30:45.145173+09:00",
+      "title": "トロントにおけるWaymoの展開",
+      "summary": "トロントにおけるWaymoに関する情報である。",
+      "impact": "今後、トロント市内でWaymoの自動運転技術が活用される計画や試験運用に関する詳細が明らかになるとみられる。",
+      "content_at": "2026-10-17T06:30:45.145173+09:00"
+    }
+  ],
+  "updated_at": "2026-10-17T06:30:45.145173+09:00"
+}
