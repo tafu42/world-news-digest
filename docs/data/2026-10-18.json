@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-18",
+  "articles": [
+    {
+      "image": "https://media.nature.com/lw1200/magazine-assets/d41586-026-03266-x/d41586-026-03266-x_53851622.jpg",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-18T06:30:45.275478+09:00",
+      "title": "白化したサンゴは健康な個体との接触で数日内に回復する",
+      "summary": "サンゴの断片は瀕死のサンゴと組織の橋を形成し、不可欠な微細藻類を供給できることが分かった。これにより白化したサンゴは短期間で回復する。",
+      "impact": "サンゴ礁の保全活動において、健康なサンゴを用いた修復手法の有効性が高まる可能性がある。",
+      "content_at": "2026-10-18T06:30:45.275478+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://doctor-seo.net/en/blog/news/chrome-edge-removing-xslt/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-18T06:30:45.275478+09:00",
+      "title": "ChromeおよびEdgeブラウザがXSLTのサポートを終了へ",
+      "summary": "Google ChromeとMicrosoft Edgeの両ブラウザが、XSLTのサポートを削除する。何が影響を受け、何が影響を受けないかが注目されている。",
+      "impact": "XSLTに依存するウェブサイトやアプリケーションにおいて、表示や機能の不具合が発生する可能性がある。",
+      "content_at": "2026-10-18T06:30:45.275478+09:00"
+    },
+    {
+      "image": "https://th-thumbnailer.cdn-si-edu.com/b3oqmRf3D8nwqLYWEldX1tDx0JE=/fit-in/1600x0/filters:focal(1200x800:1201x801)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/16/00/1600753a-4935-46f8-b80a-87852b71eb12/header-little-dams.jpg",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-18T06:30:45.275478+09:00",
+      "title": "米国北東部でダム撤去により魚類が回帰",
+      "summary": "米国北東部の河川から不要となったダムが撤去されている。その結果、ニシンなどの魚類が再び戻ってきている。",
+      "impact": "河川の生態系が回復し、地域の水産資源や環境の質が向上することが期待される。",
+      "content_at": "2026-10-18T06:30:45.275478+09:00"
+    },
+    {
+      "image": "https://furifont.antfu.me/og.png",
+      "url": "https://furifont.antfu.me/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-18T06:30:45.275478+09:00",
+      "title": "ふりがなを表示する日本語フォント「Furifont」",
+      "summary": "ふりがなを自動的に表示することができる日本語フォントである。",
+      "impact": "日本語の学習者や読解支援が必要な人々にとって、文字の読み取りが容易になる利便性の向上が見込まれる。",
+      "content_at": "2026-10-18T06:30:45.275478+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/d68213052d3b93684854a488608e2185a17c7f81e86bec9b966b66126d9e4e07/antirez/c64-hw-simulator",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-18T06:30:45.275478+09:00",
+      "title": "Commodore 64ハードウェアシミュレーターがGitHubで公開",
+      "summary": "Commodore 64のハードウェアシミュレーターがGitHub上で公開された。ユーザーはアカウントを作成することで開発に貢献できる。",
+      "impact": "レトロコンピューティングに関心を持つ層にとって、ハードウェアの動作を検証する有用なツールとなる可能性がある。",
+      "content_at": "2026-10-18T06:30:45.275478+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-18T06:30:45.275478+09:00",
+      "title": "ドリトスの粉を使って鶏肉を透明にする試み",
+      "summary": "ドリトスの粉を使用して鶏肉を透明にするという試みが行われた。",
+      "impact": "この実験が科学的あるいは料理的な手法として成立するかどうかは不明だが、特定の物質の物理的変化に関する実験として関心を集める可能性がある。",
+      "content_at": "2026-10-18T06:30:45.275478+09:00"
+    }
+  ],
+  "updated_at": "2026-10-18T06:30:45.275478+09:00"
+}
