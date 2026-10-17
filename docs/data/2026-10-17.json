@@ -77,7 +77,51 @@
       "summary": "Ultramarine 1 Flashは、金融や法務、コンサルティングなどの専門業務向けに開発されたオープンモデルである。顧客に提示する資料やモデル、メモなどの作成コストを、フロンティアモデルより抑えることができる。",
       "impact": "専門業務の効率化やコスト削減に寄与する可能性がある。",
       "content_at": "2026-10-17T13:30:41.949732+09:00"
+    },
+    {
+      "image": "https://openrouter.ai/en-US/deepseek/deepseek-v4.1-flash-1017/opengraph-image-vc0va0?1e77ea1e963ce414",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-17T21:30:40.561356+09:00",
+      "title": "DeepSeek V4.1 Flash 1017が公開",
+      "summary": "DeepSeek V4.1 Flash 1017がAPIモデル「deepseek-flash」として提供された。これは2026年10月17日時点のモデルスナップショットである。",
+      "impact": "開発者がAPIを通じて特定の時期のモデルバージョンを選択的に利用できるようになる可能性がある。",
+      "content_at": "2026-10-17T21:30:40.561356+09:00"
+    },
+    {
+      "image": "https://llmspeed.dev/og.png",
+      "url": "https://llmspeed.dev/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-17T21:30:40.561356+09:00",
+      "title": "ローカルLLMの動作速度を体験できるツール「Llmspeed」",
+      "summary": "Llmspeedは、ハードウェアを購入する前に、ローカルLLMの動作速度を体験できるサービスである。検証済みのベンチマークに基づき、GPUやMacなどの環境でトークン生成速度などをシミュレーションする。",
+      "impact": "ユーザーが自身の用途に適したハードウェアを判断しやすくなることで、無駄な機材購入を抑えられる可能性がある。",
+      "content_at": "2026-10-17T21:30:40.561356+09:00"
+    },
+    {
+      "image": "https://cdn-thumbnails.huggingface.co/social-thumbnails/models/deepseek-ai/DeepSeek-V4.1-Flash-1017.png",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-17T21:30:40.561356+09:00",
+      "title": "DeepSeek-v4.1-Flash-1017の開発背景",
+      "summary": "DeepSeek-v4.1-Flash-1017の開発チームは、オープンソースとオープンサイエンスを通じて人工知能の発展と民主化を目指している。",
+      "impact": "オープンソースAIの推進により、今後技術開発の透明性が高まる可能性がある。",
+      "content_at": "2026-10-17T21:30:40.561356+09:00"
+    },
+    {
+      "image": "https://www.lf-lang.org/img/lf-social-card.png",
+      "url": "https://www.lf-lang.org/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-17T21:30:40.561356+09:00",
+      "title": "直感的な並行プログラミングツールの提供",
+      "summary": "時間的制約のある並行分散システムを容易に構築するためのプログラミングツールが提供されている。",
+      "impact": "複雑な分散システム開発の効率が向上する可能性がある。",
+      "content_at": "2026-10-17T21:30:40.561356+09:00"
     }
   ],
-  "updated_at": "2026-10-17T13:30:41.949732+09:00"
+  "updated_at": "2026-10-17T21:30:40.561356+09:00"
 }
