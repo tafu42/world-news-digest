@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-19",
+  "articles": [
+    {
+      "image": "https://karrisaarinen.com/static/linear-assets/081de7ffce667bb13cb63d8b2a1d312e19d747ea1d3818af2c5cc1e5a9445e21.webp",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-19T06:30:48.564723+09:00",
+      "title": "優れた製品と作り手の関係性",
+      "summary": "優れた製品には、作り手の経験や価値観、設計思想が反映される。作り手の考え方が製品のあり方に影響を与えているという見解である。",
+      "impact": "製品開発において、作り手の意図や個性が重要な要素として再認識される可能性がある。",
+      "content_at": "2026-10-19T06:30:48.564723+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-19T06:30:48.564723+09:00",
+      "title": "Free Pascalコンパイラが動的パッケージに対応",
+      "summary": "Free Pascalコンパイラが新たに動的パッケージをサポートした。",
+      "impact": "開発者がより柔軟なプログラム構成を行えるようになり、システム開発の効率が向上する可能性がある。",
+      "content_at": "2026-10-19T06:30:48.564723+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/07d7a6b424cf487322acd522fc29456729d28adfd5fa63158a009b68b6b8ed91/VikOlliver/RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-19T06:30:48.564723+09:00",
+      "title": "ミクロン単位の3Dプリンタープロジェクト「μRepRap」",
+      "summary": "「μRepRap」は、ミクロン単位の精度で動作するように設計された3Dプリンタープロジェクトである。",
+      "impact": "超精密な造形技術の普及により、マイクロマシンや微細部品の開発が加速する可能性がある。",
+      "content_at": "2026-10-19T06:30:48.564723+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-19T06:30:48.564723+09:00",
+      "title": "ハイブリッド推論エージェントによる効率向上",
+      "summary": "既存のLLMエージェントが言語を通じて推論を行うのに対し、本プロジェクトは言語外の潜在的な推論手法を取り入れ、ツール利用や透明性を維持しつつ効率化を図る。トークン消費を35〜55%削減し、推論速度を最大2.6倍に向上させている。",
+      "impact": "AIエージェントの推論効率が飛躍的に高まることで、より高度な自動化やリアルタイム処理が実用化されるとみられる。",
+      "content_at": "2026-10-19T06:30:48.564723+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/c05a6919e4610195dacc9e1b499e6d50e5aaba9153e912bcc6c605d1a35cfc19/ardiri/palmos-lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-19T06:30:48.564723+09:00",
+      "title": "PalmOS版LemmingsのソースコードがGitHubで公開",
+      "summary": "PalmOS向けに開発されたゲーム「Lemmings」のクローンプロジェクトがGitHub上で公開された。開発者はこのプロジェクトへの貢献を呼びかけている。",
+      "impact": "レトロゲームの移植や保存に関心を持つ開発者コミュニティの間で、PalmOS向けのソフトウェア開発が再評価される可能性がある。",
+      "content_at": "2026-10-19T06:30:48.564723+09:00"
+    },
+    {
+      "image": "https://www.sciencealert.com/images/2026/10/GettyImages-597067015-2560x1440-1.jpg",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-19T06:30:48.564723+09:00",
+      "title": "犬も人間と同様に「ブーバ」「キキ」という音に特定の形状を連想する可能性",
+      "summary": "「ブーバ」という名前の図形について、犬も人間と同様の認識を持っていることを示唆する内容である。",
+      "impact": "この研究結果は、動物が言語や抽象的な概念をどのように理解しているかを解明する手がかりになると考えられる。",
+      "content_at": "2026-10-19T06:30:48.564723+09:00"
+    }
+  ],
+  "updated_at": "2026-10-19T06:30:48.564723+09:00"
+}
