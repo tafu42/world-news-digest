@@ -88,7 +88,62 @@
       "summary": "PeleはMermaid図をCSS変数でテーマ設定可能なSVGとして描画する軽量なオープンソースライブラリである。",
       "impact": "Webサイトのデザインに合わせた図の作成が容易になり、技術ドキュメントの視覚的なカスタマイズ性が向上すると考えられる。",
       "content_at": "2026-10-18T13:30:40.155165+09:00"
+    },
+    {
+      "image": "https://api-docs.deepseek.com/img/deepseek-social-card.jpeg",
+      "url": "https://api-docs.deepseek.com/guides/search/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-18T21:30:41.934416+09:00",
+      "title": "DeepSeekの検索・取得APIの提供開始",
+      "summary": "DeepSeekは、エージェントやRAGアプリケーションがライブWebコンテンツにアクセスするためのSearch APIとFetch APIを提供している。利用料金は1000件の成功リクエストあたり0.75ドルである。",
+      "impact": "AIエージェントやRAGによる最新情報の活用が低コスト化し、情報検索を伴うAIツールの普及が進む可能性がある。",
+      "content_at": "2026-10-18T21:30:41.934416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://t3.at/blog/2026-10-17-parser-combinators/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-18T21:30:41.934416+09:00",
+      "title": "パーサーコンビネータの有用性",
+      "summary": "パーサーコンビネータは正規表現よりも優れていると示唆されている。",
+      "impact": "複雑なテキスト処理や構文解析が必要な開発現場において、開発者が正規表現の代替手段として検討する可能性がある。",
+      "content_at": "2026-10-18T21:30:41.934416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.niemanlab.org/2026/10/legal-experts-warn-metas-new-terms-still-grant-broad-scraping-permissions-despite-language-changes/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-18T21:30:41.934416+09:00",
+      "title": "Metaの新利用規約におけるスクレイピング権限への懸念",
+      "summary": "法的な専門家らは、Metaの新しい利用規約が広範なスクレイピングを依然として許可していると警告している。",
+      "impact": "ユーザーのデータ保護やプライバシーに対する懸念が強まり、プラットフォームの信頼性や法的な議論に影響を与える可能性がある。",
+      "content_at": "2026-10-18T21:30:41.934416+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!3ARQ!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F060f86f0-a951-4a8e-8e6c-e92a3165e240_1920x1080.jpeg",
+      "url": "https://www.readtheprofile.com/p/elizabeth-holmes-documentary-you-can-see-everything",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-18T21:30:41.934416+09:00",
+      "title": "ドキュメンタリー「You Can See Everything」における欺瞞の指摘",
+      "summary": "エリザベス・ホームズに関するドキュメンタリー映画「You Can See Everything」が、視聴者を操作しているのではないかと指摘されている。",
+      "impact": "視聴者がドキュメンタリー作品の客観性や制作手法に対してより批判的な視点を持つようになる可能性がある。",
+      "content_at": "2026-10-18T21:30:41.934416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://sphinx-six-theta.vercel.app/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-18T21:30:41.934416+09:00",
+      "title": "AIのコードをデプロイ前に確認するツール「Sphinx」",
+      "summary": "Sphinxは、AIが生成したコードをデプロイする前にクイズ形式で確認できるフック機能である。開発者がAIの記述内容を精査するために提供されている。",
+      "impact": "開発プロセスにおいてAIコードの検証が強化されることで、ソフトウェアの品質や安全性が向上する可能性がある。",
+      "content_at": "2026-10-18T21:30:41.934416+09:00"
     }
   ],
-  "updated_at": "2026-10-18T13:30:40.155165+09:00"
+  "updated_at": "2026-10-18T21:30:41.934416+09:00"
 }
