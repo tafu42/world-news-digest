@@ -110,7 +110,73 @@
       "summary": "6502 CPUを搭載したラップトップについての話題である。",
       "impact": "レトロコンピューティングやハードウェア愛好家のコミュニティにおいて、自作PCの新たな取り組みとして注目される可能性がある。",
       "content_at": "2026-10-19T13:30:43.324530+09:00"
+    },
+    {
+      "image": "https://kubrick.htvapps.com/htv-prod/images/59afd81a-246a-4dd8-be64-a0263cee209e.png?crop=1.00xw%3A1.00xh%3B0%2C0&amp;resize=1200%3A*",
+      "url": "https://www.wjcl.com/article/savannah-police-officer-ice-agent-flock-access/74135816",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-19T21:30:45.371030+09:00",
+      "title": "サバンナの警察官がFlockのログイン情報を夫のICE捜査官に共有",
+      "summary": "サバンナの警察官が自身のFlock認証情報をICE捜査官である夫に共有したことが文書で明らかになった。夫はそれを利用し、複数の州にまたがって数百回もの検索を行っていた。",
+      "impact": "警察システムのセキュリティ管理に対する懸念が高まる可能性がある。捜査データの不適切な共有により、個人のプライバシーや捜査の公平性に影響を及ぼす可能性がある。",
+      "content_at": "2026-10-19T21:30:45.371030+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/Articles/1101143/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-19T21:30:45.371030+09:00",
+      "title": "Linuxカーネル7.3がリリース",
+      "summary": "リーナス・トーバルズによってLinuxカーネル7.3が予定通りリリースされた。",
+      "impact": "Linuxを利用するシステム全体で安定性や機能の向上が見込まれる。開発者や企業は最新カーネルへのアップデートを順次進めることになると考えられる。",
+      "content_at": "2026-10-19T21:30:45.371030+09:00"
+    },
+    {
+      "image": "https://mistral.ai/cms-media/api/media/file/og-timestral.webp",
+      "url": "https://mistral.ai/news/timestral/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-19T21:30:45.371030+09:00",
+      "title": "Mistralが時系列予測のための基盤モデル「Timestral」を発表",
+      "summary": "Mistralは、500万から2億900万のパラメータを持つ4つのサイズの時系列予測モデル「Timestral」を発表した。CPU効率が高く、ゼロショット学習にも対応している。",
+      "impact": "時系列データを用いた予測分析の精度や効率が向上する可能性がある。より軽量なモデルにより、計算資源が限られた環境でも高度な予測が可能になるとみられる。",
+      "content_at": "2026-10-19T21:30:45.371030+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/cb1f9f0d2f18885675b8ac8405e0dfde7dba44b5ad78a346809249a3e261447d/IsuruMaduranga/harness-engineering-101",
+      "url": "https://github.com/IsuruMaduranga/harness-engineering-101",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-19T21:30:45.371030+09:00",
+      "title": "AIエージェント構築ガイド「Harness Engineering 101」が公開",
+      "summary": "AIエージェント構築の基礎として、LLMを脳、ハーネスを身体と見立てる設計手法「Harness Engineering 101」が公開された。",
+      "impact": "AIエージェント開発における設計思想の標準化が進む可能性がある。開発者がエージェントの身体性や物理的制御の仕組みを理解しやすくなることで、より実用的なAI開発が促進されるとみられる。",
+      "content_at": "2026-10-19T21:30:45.371030+09:00"
+    },
+    {
+      "image": "https://global.discourse-cdn.com/letsencrypt/original/3X/4/c/4c5760509a18adfc3bc657ba8bd49b301faaa66b.png",
+      "url": "https://community.letsencrypt.org/t/lets-encrypt-is-adding-two-additional-remote-perspectives-for-domain-validation/252166",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-19T21:30:45.371030+09:00",
+      "title": "Let's Encryptがドメイン検証に新たなリモート拠点2箇所を追加",
+      "summary": "Let's Encryptは、ドメイン検証のセキュリティ向上とベースライン要件への準拠を目的として、リモート検証拠点を2箇所追加した。この変更により検証対象の範囲と信頼性が高められる。",
+      "impact": "SSL/TLS証明書発行の安全性が強化され、インターネット上の通信セキュリティ向上が期待される。今後、証明書管理のプロセスにおいてネットワーク構成の変更が必要となる可能性がある。",
+      "content_at": "2026-10-19T21:30:45.371030+09:00"
+    },
+    {
+      "image": "https://engelsbergideas.com/wp-content/uploads/2026/10/Gdynia.jpg",
+      "url": "https://engelsbergideas.com/notebook/gdynia-and-the-dream-of-a-maritime-poland/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-19T21:30:45.371030+09:00",
+      "title": "グディニャと海洋国家ポーランドの夢",
+      "summary": "かつてのバルト海の漁村であったグディニャは、戦間期ポーランドの近代化を象徴する港町として発展を遂げた。しかし、その急速な発展は国家の安全を十分に保証するものではなかった。",
+      "impact": "都市の歴史的変遷を通じて、近代化と地政学的リスクの関連性が再考される可能性がある。また、当時の都市計画や国家戦略が現在の地域経済に与えた歴史的意義が改めて注目されるとみられる。",
+      "content_at": "2026-10-19T21:30:45.371030+09:00"
     }
   ],
-  "updated_at": "2026-10-19T13:30:43.324530+09:00"
+  "updated_at": "2026-10-19T21:30:45.371030+09:00"
 }
