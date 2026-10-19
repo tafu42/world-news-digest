@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-20",
+  "articles": [
+    {
+      "image": "https://filecdn.minimax.chat/public/m31-flash-zh-1-1792403273121.png?x-oss-process=image/format,webp",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-20T06:30:44.413806+09:00",
+      "title": "MiniMaxが次世代モデル「M3.1 Flash」を発表",
+      "summary": "MiniMaxは、エージェントタスクやコーディング、セキュリティ性能を向上させた「M3.1 Flash」を公開した。オンライン推論速度が約3倍に向上し、利用コストは70%削減された。",
+      "impact": "推論速度の高速化とコスト低減により、AIを活用した開発環境やエージェント技術の導入が加速する可能性がある。",
+      "content_at": "2026-10-20T06:30:44.413806+09:00"
+    },
+    {
+      "image": "https://josie.lol/screenshot.png?v=20261019",
+      "url": "https://josie.lol/blog/linux-rtx-spark",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-20T06:30:44.413806+09:00",
+      "title": "RTX搭載ノートPCでMicrosoftアカウント不要のArch Linux環境を構築",
+      "summary": "ASUS ProArt P16上でArch Linux ARMを動かす環境が構築され、インストールツールやWindowsとの比較、ローカルでのQwen推論環境が公開された。",
+      "impact": "Microsoftアカウントを必要としないOS環境を求めるユーザーにとって、特定のハードウェアにおける代替的な利用選択肢となる可能性がある。",
+      "content_at": "2026-10-20T06:30:44.413806+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-20T06:30:44.413806+09:00",
+      "title": "モーター1つだけで飛行するドローンの製作",
+      "summary": "モーターを1つのみ使用して飛行するドローンが製作された。",
+      "impact": "特殊な構造のドローン開発に関する技術的な知見を提供する可能性がある。",
+      "content_at": "2026-10-20T06:30:44.413806+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-20T06:30:44.413806+09:00",
+      "title": "WineがOpenBSDへ移植",
+      "summary": "Windowsアプリケーションを実行するための互換レイヤーであるWineが、OpenBSDに移植された。",
+      "impact": "OpenBSDユーザーがWindows用ソフトウェアを利用できるようになり、OSの利便性が向上する可能性がある。",
+      "content_at": "2026-10-20T06:30:44.413806+09:00"
+    },
+    {
+      "image": "",
+      "url": "http://peter.eisentraut.org/blog/2026/10/09/the-reverts-will-continue-until-morale-improves",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-20T06:30:44.413806+09:00",
+      "title": "PostgreSQL 19でベータ版開始後に異例の機能撤回が相次ぐ",
+      "summary": "PostgreSQL 19のベータ期間開始後、通常よりも多くの機能が撤回されている。1サイクルあたり1件程度の撤回は一般的だが、今回は8から10件程度の重要な機能が対象となっている。",
+      "impact": "開発サイクルの見直しやリリースの遅延が発生する可能性がある。また、データベースの安定性を重視するユーザーにとっては、将来的な機能導入への慎重な判断が必要となるとみられる。",
+      "content_at": "2026-10-20T06:30:44.413806+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/45a2a9f5796ff6edb8458c1d566b3bd73555572f0f9026f20a46f1c9a1f28d6a/kksimp/Mac.apk",
+      "url": "https://github.com/kksimp/Mac.apk",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-20T06:30:44.413806+09:00",
+      "title": "Appleシリコン搭載MacでAndroidアプリをネイティブ実行する「Mac.apk」",
+      "summary": "「Mac.apk」は、Appleシリコン搭載のMac上でAndroidアプリをネイティブに実行するためのプロジェクトである。",
+      "impact": "Mac環境でのアプリ利用の選択肢が広がる可能性がある。ただし、既存の仮想化やエミュレーション技術と比較してどの程度の互換性が確保できるかが今後の普及の鍵となると考えられる。",
+      "content_at": "2026-10-20T06:30:44.413806+09:00"
+    }
+  ],
+  "updated_at": "2026-10-20T06:30:44.413806+09:00"
+}
