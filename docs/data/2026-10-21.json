@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-21",
+  "articles": [
+    {
+      "image": "https://permit.petercai.com/marketing/og.jpg",
+      "url": "https://permit.petercai.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-21T06:30:45.895907+09:00",
+      "title": "許可申請が必要な都市開発シミュレーションゲーム",
+      "summary": "理想の都市を建設する無料の都市開発シミュレーションゲームである。ゾーニング、公聴会、訴訟、再選がゲームの要素に含まれる。",
+      "impact": "都市運営の事務的で現実的な側面を強調することで、シミュレーションゲームの題材が多様化する可能性がある。",
+      "content_at": "2026-10-21T06:30:45.895907+09:00"
+    },
+    {
+      "image": "https://mistral.ai/cms-media/api/media/file/hero-blog-voxtral.png",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-21T06:30:45.895907+09:00",
+      "title": "Voxtral 3の概要",
+      "summary": "Voxtral 3がMistralであると紹介されている。",
+      "impact": "この名称や関連性に関する詳細な情報が不足しているため、現時点で社会への影響を予測することは困難である。",
+      "content_at": "2026-10-21T06:30:45.895907+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/cd86c84e93f7b104a4d7723deb52a1b58d9418986b422db17cdc92ee64b72b49/google-pytorch/torch_tpu",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-21T06:30:45.895907+09:00",
+      "title": "GoogleがPyTorch向けTPUバックエンド「TorchTPU」をオープンソース化",
+      "summary": "GoogleがTPU向けのネイティブPyTorchバックエンドであるTorchTPUをオープンソースで公開した。GitHubを通じて開発への貢献が求められている。",
+      "impact": "機械学習の開発環境が拡充されることで、TPUを活用したPyTorchのモデル開発や計算効率が向上する可能性がある。",
+      "content_at": "2026-10-21T06:30:45.895907+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://stevekrouse.com/ends",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-21T06:30:45.895907+09:00",
+      "title": "息子に何を教えるべきか",
+      "summary": "息子に対して何を教えるべきかという問いかけである。",
+      "impact": "個人の教育方針や価値観に関わる問いであり、読者の子育てや人生哲学に対する内省を促す可能性がある。",
+      "content_at": "2026-10-21T06:30:45.895907+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/2f4cb963e608ebae8a54361e3462e8eb5614135201a3174faf7f19e83e20d56d/humanlayer/advanced-context-engineering-for-coding-agents",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-21T06:30:45.895907+09:00",
+      "title": "SlopCodeBench 10/2026の概要と開発への貢献",
+      "summary": "GitHub上でSlopCodeBench 10/2026に関する開発プロジェクトが進行している。ユーザーはアカウントを作成することで開発に貢献できる。",
+      "impact": "このプロジェクトへの貢献者が増えることで、コーディングエージェント向けの高度なコンテキストエンジニアリング技術が発展する可能性がある。",
+      "content_at": "2026-10-21T06:30:45.895907+09:00"
+    }
+  ],
+  "updated_at": "2026-10-21T06:30:45.895907+09:00"
+}
