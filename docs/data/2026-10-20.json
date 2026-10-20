@@ -68,44 +68,82 @@
       "content_at": "2026-10-20T06:30:44.413806+09:00"
     },
     {
-      "en_title": "OpenBSD 8.0",
-      "en_text": "OpenBSD 8.0",
       "image": "",
       "url": "https://www.openbsd.org/80.html",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-10-20T13:30:43.293252+09:00",
-      "title": "OpenBSD 8.0",
-      "summary": "OpenBSD 8.0",
-      "content_at": "2026-10-20T13:30:43.293252+09:00",
-      "pending": true
+      "title": "OpenBSD 8.0がリリース",
+      "summary": "OpenBSD 8.0が公開された。",
+      "content_at": "2026-10-20T21:30:49.773118+09:00",
+      "impact": "OSのアップデートにより、システム利用者や開発者に対して最新の機能やセキュリティ修正が提供されると考えられる。"
     },
     {
-      "en_title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "en_text": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came up. We quote both notes.",
       "image": "https://redact.dev/blog-images/2026/10/whatsapp-hidden-ai-notes-robot-puppeteer.jpg",
       "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-10-20T13:30:43.293252+09:00",
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "summary": "WhatsApp removed hidden notes telling AI not to recommend a regulator, and not to cite GDPR or CCPA once a lawyer came u",
-      "content_at": "2026-10-20T13:30:43.293252+09:00",
-      "pending": true
+      "title": "WhatsApp、LLM向けの指示をヘルプページから削除",
+      "summary": "WhatsAppは、規制当局を推奨しないことやGDPR・CCPAを引用しないことといった、AI向けの隠れた指示をヘルプページから削除した。これら二つのメモの内容が引用されている。",
+      "content_at": "2026-10-20T21:30:49.773118+09:00",
+      "impact": "AIモデルの出力制限に関する透明性が議論される可能性がある。"
     },
     {
-      "en_title": "Weball: Play Katamari on Websites",
-      "en_text": "roll, grow, win the internet",
       "image": "https://funwithcomputervision.com/assets/weball.png",
       "url": "https://www.funwithcomputervision.com/weball/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-10-20T13:30:43.293252+09:00",
-      "title": "Weball: Play Katamari on Websites",
-      "summary": "roll, grow, win the internet",
-      "content_at": "2026-10-20T13:30:43.293252+09:00",
-      "pending": true
+      "title": "Webサイトで塊魂を遊べる「Weball」",
+      "summary": "「Weball」は、ウェブサイト上で塊魂のように物を巻き込んで大きくするゲームである。",
+      "content_at": "2026-10-20T21:30:49.773118+09:00",
+      "impact": "ウェブブラウザを用いたエンターテインメントの新たな遊び方として注目される可能性がある。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/f1ad69302c8edffe47a44a2422a4f34c48219da0c05b5e7dc97eb0bd7d589f0a/deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-20T21:30:49.773118+09:00",
+      "title": "DeepSeekが推論エンジン「DeepInfer」をオープンソース化",
+      "summary": "DeepSeekモデル向けの大規模かつ高性能な推論フレームワーク「DeepInfer」が公開された。GitHub上でソースコードが提供されている。",
+      "impact": "DeepSeekモデルを利用する開発者や企業にとって、推論処理の効率化やシステムの最適化が進む可能性がある。",
+      "content_at": "2026-10-20T21:30:49.773118+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6e3364c5735c7725e0b1207fdd4c09c55eb6bf8e71c2a326afe61155de5ed9e1/tywr/Nordwand-Mono",
+      "url": "https://github.com/tywr/Nordwand-Mono",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-20T21:30:49.773118+09:00",
+      "title": "開発者向けの等幅フォント「Nordwand Mono」が公開",
+      "summary": "開発者向けに設計された、コンパクトなネオ・グロテスク体の等幅フォント「Nordwand Mono」が公開された。",
+      "impact": "プログラミング環境における視認性の向上や、フォント選択の新たな選択肢として活用される可能性がある。",
+      "content_at": "2026-10-20T21:30:49.773118+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/8dcef472bf975db3f17c1ba71131b9f5e59320c5734aa559998cb2f0ba030bb5/microg/GmsCore",
+      "url": "https://github.com/microg/GmsCore/wiki",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-20T21:30:49.773118+09:00",
+      "title": "Google Play開発者サービスのオープンソース実装「MicroG」",
+      "summary": "Googleの独自Androidユーザー空間を再実装したオープンソースプロジェクト「MicroG」のGmsCore開発プロジェクトが紹介されている。",
+      "impact": "Googleのプロプライエタリなサービスに依存しないAndroid環境の構築が容易になり、プライバシー保護に関心を持つユーザー層に影響を与える可能性がある。",
+      "content_at": "2026-10-20T21:30:49.773118+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-20T21:30:49.773118+09:00",
+      "title": "米国土安全保障省の命令によりDeepSeekが米連邦機関で利用禁止に",
+      "summary": "米国土安全保障省の新たな命令により、米連邦の文民機関においてDeepSeekの利用が禁止された。",
+      "impact": "連邦機関内での業務効率化や技術導入のプロセスにおいて、特定のAIツール使用が制限されることで影響が出る可能性がある。",
+      "content_at": "2026-10-20T21:30:49.773118+09:00"
     }
   ],
-  "updated_at": "2026-10-20T13:30:43.293252+09:00"
+  "updated_at": "2026-10-20T21:30:49.773118+09:00"
 }
