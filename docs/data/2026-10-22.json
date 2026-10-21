@@ -1,0 +1,80 @@
+{
+  "date": "2026-10-22",
+  "articles": [
+    {
+      "en_title": "Mistral Large 4",
+      "en_text": "Mistral Large 4 is a state-of-the-art, open-weight, general-purpose multimodal model with a granular Mixture-of-Experts architecture. It features 52B active parameters and 1.05T total parameters, and a 1.6B vision encoder.",
+      "image": "http://localhost:3000/api/og?title=Mistral+Large+4&amp;description=Mistral+Large+4+is+a+state-of-the-art%2C+open-weight%2C+general-purpose+multimodal+model+with+a+granular+Mixture-of-Experts+architecture.+It+features+52B+active+parameters+and+1.05T+total+parameters%2C+and+a+1.6B+vision+encoder.&amp;eyebraw=v26.10&amp;image=&amp;type=model&amp;v=dev&amp;modelIcon=mistral-large-4",
+      "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-22T06:30:45.179346+09:00",
+      "title": "Mistral Large 4",
+      "summary": "Mistral Large 4 is a state-of-the-art, open-weight, general-purpose multimodal model with a granular Mixture-of-Experts ",
+      "content_at": "2026-10-22T06:30:45.179346+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "en_text": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "image": "",
+      "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-22T06:30:45.179346+09:00",
+      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "summary": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
+      "content_at": "2026-10-22T06:30:45.179346+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Today's PHP security release, and how we're strengthening security",
+      "en_text": "Describing the story behind how critical security vulnerabilities were found and fixed.",
+      "image": "https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png",
+      "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-22T06:30:45.179346+09:00",
+      "title": "Today's PHP security release, and how we're strengthening security",
+      "summary": "Describing the story behind how critical security vulnerabilities were found and fixed.",
+      "content_at": "2026-10-22T06:30:45.179346+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "GitLab Remote Code Execution - Integer Overflow issue",
+      "en_text": "GitLab Remote Code Execution - Integer Overflow issue",
+      "image": "",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-22T06:30:45.179346+09:00",
+      "title": "GitLab Remote Code Execution - Integer Overflow issue",
+      "summary": "GitLab Remote Code Execution - Integer Overflow issue",
+      "content_at": "2026-10-22T06:30:45.179346+09:00",
+      "pending": true
+    },
+    {
+      "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-22T06:30:45.179346+09:00",
+      "title": "Pythonパッケージ「LiteLLM」のバージョン1.107.0に認証情報を盗むバックドアが混入",
+      "summary": "PyPIで公開されていたLiteLLM 1.107.0に、Pythonの起動時に実行される認証情報窃取用ファイルとバックドアが含まれていた。本件は侵入経路や盗まれた情報、侵害の兆候に関する技術的な報告である。",
+      "impact": "該当バージョンを利用した開発環境やサーバーにおいて、認証情報が流出する可能性がある。開発者は直ちにアップデートや当該バージョンの削除などの対策を講じる必要があると考えられる。",
+      "content_at": "2026-10-22T06:30:45.179346+09:00"
+    },
+    {
+      "image": "https://www.windowslatest.com/wp-content/uploads/2026/10/How-Windows-95-code-survives-inside-Windows-11.jpg",
+      "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-22T06:30:45.179346+09:00",
+      "title": "Windows 11にWindows 95時代のメモリ管理機能が搭載され続けている理由",
+      "summary": "Windows 11には、古いアプリケーションとの互換性を維持するために再コンパイルされたWindows 95のヒープ管理機能「EmulateHeap」が今なお搭載されている。開発者のレイモンド・チェン氏がその詳細と確認方法を解説した。",
+      "impact": "レガシーアプリケーションの継続利用を可能にする一方で、OS内部の複雑性が維持されることによる長期的なメンテナンスコストへの影響が考えられる。",
+      "content_at": "2026-10-22T06:30:45.179346+09:00"
+    }
+  ],
+  "updated_at": "2026-10-22T06:30:45.179346+09:00"
+}
