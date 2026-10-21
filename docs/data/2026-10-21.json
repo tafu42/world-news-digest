@@ -55,7 +55,51 @@
       "summary": "GitHub上でSlopCodeBench 10/2026に関する開発プロジェクトが進行している。ユーザーはアカウントを作成することで開発に貢献できる。",
       "impact": "このプロジェクトへの貢献者が増えることで、コーディングエージェント向けの高度なコンテキストエンジニアリング技術が発展する可能性がある。",
       "content_at": "2026-10-21T06:30:45.895907+09:00"
+    },
+    {
+      "image": "https://www.joshwcomeau.com/images/og-interop-2027.png",
+      "url": "https://www.joshwcomeau.com/css/interop-2027/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-21T13:30:42.630327+09:00",
+      "title": "CSSの未来：Interopプロジェクトが目指す新機能",
+      "summary": "ブラウザベンダーはInteropプロジェクトを通じて、新しいHTML/CSS/JS機能の同期に取り組んでいる。本記事では、今後実装される可能性のあるCSSの未来的な機能について解説する。",
+      "impact": "主要ブラウザ間での機能実装が同期されることで、Web開発の効率化が進み、将来的にブラウザごとの表示差異が軽減されると考えられる。",
+      "content_at": "2026-10-21T13:30:42.630327+09:00"
+    },
+    {
+      "image": "https://www.quantamagazine.org/wp-content/uploads/2026/08/HilbertSpace-cr-Tommy-Parket-Social.jpg",
+      "url": "https://www.quantamagazine.org/in-hilbert-space-all-things-are-quantumly-possible-20260826/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-21T13:30:42.630327+09:00",
+      "title": "ヒルベルト空間における量子現象の探求",
+      "summary": "量子現象を探求するために、我々は馴染みのある世界を離れ、ヒルベルト空間という抽象的な領域へと足を踏み入れる必要がある。",
+      "impact": "物理学における量子力学の理論的理解が深まることで、将来的な量子コンピューティングや高度な物理研究の発展に寄与する可能性がある。",
+      "content_at": "2026-10-21T13:30:42.630327+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-21T13:30:42.630327+09:00",
+      "title": "身代金交渉人が「ShinyHunters」の恐喝サイトを運営か",
+      "summary": "連邦当局は、身代金の交渉人が恐喝サイト「ShinyHunters」を運営していた疑いがあるとして捜査している。",
+      "impact": "サイバー犯罪グループの内部構造が明らかになることで、同様の恐喝事件に対する捜査や取り締まりが強化される可能性がある。",
+      "content_at": "2026-10-21T13:30:42.630327+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-21T13:30:42.630327+09:00",
+      "title": "もう一つの流行病：ベンゾジアゼピンからの離脱",
+      "summary": "ベンゾジアゼピン系の薬物からの離脱が困難であるという問題が、もう一つの流行病として取り上げられている。",
+      "impact": "依存症治療の重要性が再認識され、医療現場におけるベンゾジアゼピンの処方ガイドラインや患者の支援体制が見直される可能性がある。",
+      "content_at": "2026-10-21T13:30:42.630327+09:00"
     }
   ],
-  "updated_at": "2026-10-21T06:30:45.895907+09:00"
+  "updated_at": "2026-10-21T13:30:42.630327+09:00"
 }
