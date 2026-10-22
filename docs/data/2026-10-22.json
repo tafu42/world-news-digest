@@ -2,56 +2,48 @@
   "date": "2026-10-22",
   "articles": [
     {
-      "en_title": "Mistral Large 4",
-      "en_text": "Mistral Large 4 is a state-of-the-art, open-weight, general-purpose multimodal model with a granular Mixture-of-Experts architecture. It features 52B active parameters and 1.05T total parameters, and a 1.6B vision encoder.",
       "image": "http://localhost:3000/api/og?title=Mistral+Large+4&amp;description=Mistral+Large+4+is+a+state-of-the-art%2C+open-weight%2C+general-purpose+multimodal+model+with+a+granular+Mixture-of-Experts+architecture.+It+features+52B+active+parameters+and+1.05T+total+parameters%2C+and+a+1.6B+vision+encoder.&amp;eyebraw=v26.10&amp;image=&amp;type=model&amp;v=dev&amp;modelIcon=mistral-large-4",
       "url": "https://docs.mistral.ai/models/mistral-large-4-0",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-10-22T06:30:45.179346+09:00",
-      "title": "Mistral Large 4",
-      "summary": "Mistral Large 4 is a state-of-the-art, open-weight, general-purpose multimodal model with a granular Mixture-of-Experts ",
-      "content_at": "2026-10-22T06:30:45.179346+09:00",
-      "pending": true
+      "title": "マルチモーダルAIモデル「Mistral Large 4」が発表",
+      "summary": "Mistral Large 4は、粒度の細かいMixture-of-Expertsアーキテクチャを採用した汎用マルチモーダルモデルである。52Bのアクティブパラメータと1.05Tの総パラメータ、および1.6Bのビジョンエンコーダを備えている。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00",
+      "impact": "高性能なオープンウェイトモデルの選択肢が増えることで、AI開発や研究の加速に貢献する可能性がある。"
     },
     {
-      "en_title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "en_text": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
       "image": "",
       "url": "https://nmdoj.gov/press-release/the-new-mexico-department-of-justice-secures-another-landmark-victory-against-big-tech-with-historic-25-billion-penalty-against-facebook/",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-10-22T06:30:45.179346+09:00",
-      "title": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "summary": "Meta hit with $25B penalty for deceiving users about privacy on Facebook",
-      "content_at": "2026-10-22T06:30:45.179346+09:00",
-      "pending": true
+      "title": "Meta社、Facebookのプライバシーに関する虚偽報告で250億ドルの制裁金",
+      "summary": "Meta社は、Facebookにおけるユーザーのプライバシー保護について利用者を欺いたとして、250億ドルの制裁金を科された。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00",
+      "impact": "巨大IT企業に対する規制が強化される動きが強まるとみられる。企業には、データ取り扱いにおける透明性の向上がより一層強く求められる可能性がある。"
     },
     {
-      "en_title": "Today's PHP security release, and how we're strengthening security",
-      "en_text": "Describing the story behind how critical security vulnerabilities were found and fixed.",
       "image": "https://thephp.foundation/assets/share/2026-10-21-todays-php-security-release-and-how-were-strengthening-php-security.png",
       "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-10-22T06:30:45.179346+09:00",
-      "title": "Today's PHP security release, and how we're strengthening security",
-      "summary": "Describing the story behind how critical security vulnerabilities were found and fixed.",
-      "content_at": "2026-10-22T06:30:45.179346+09:00",
-      "pending": true
+      "title": "PHPのセキュリティアップデートと脆弱性対応の経緯",
+      "summary": "PHPの深刻なセキュリティ脆弱性が発見され、それらが修正された経緯と、今後のセキュリティ強化策について公開された。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00",
+      "impact": "開発者が適切にアップデートを行うことで、Webサイトの安全性が確保される。PHPを利用するシステムにおいて脆弱性対策の重要性が再認識されると考えられる。"
     },
     {
-      "en_title": "GitLab Remote Code Execution - Integer Overflow issue",
-      "en_text": "GitLab Remote Code Execution - Integer Overflow issue",
       "image": "",
       "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-10-22T06:30:45.179346+09:00",
-      "title": "GitLab Remote Code Execution - Integer Overflow issue",
-      "summary": "GitLab Remote Code Execution - Integer Overflow issue",
-      "content_at": "2026-10-22T06:30:45.179346+09:00",
-      "pending": true
+      "title": "GitLabで整数オーバーフローによるリモートコード実行の脆弱性が判明",
+      "summary": "GitLabにおいて、整数オーバーフローに起因するリモートコード実行の脆弱性が確認された。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00",
+      "impact": "該当するGitLab環境が攻撃の対象となる可能性があるため、迅速なパッチ適用や対策が強く推奨される。"
     },
     {
       "image": "https://safedep.io/images/litellm-pypi-compromise-credential-stealer-backdoor-banner.jpg",
@@ -74,7 +66,62 @@
       "summary": "Windows 11には、古いアプリケーションとの互換性を維持するために再コンパイルされたWindows 95のヒープ管理機能「EmulateHeap」が今なお搭載されている。開発者のレイモンド・チェン氏がその詳細と確認方法を解説した。",
       "impact": "レガシーアプリケーションの継続利用を可能にする一方で、OS内部の複雑性が維持されることによる長期的なメンテナンスコストへの影響が考えられる。",
       "content_at": "2026-10-22T06:30:45.179346+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-22T13:30:43.582772+09:00",
+      "title": "Epic Games対Apple訴訟",
+      "summary": "Epic GamesとAppleの間の訴訟である。",
+      "impact": "大手IT企業間のプラットフォーム規約や手数料体系に関する判断が下される可能性がある。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://web.maths.unsw.edu.au/~davidharvey/research/subnlogn.pdf",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-22T13:30:43.582772+09:00",
+      "title": "提案されたo(n log n)整数乗算アルゴリズム",
+      "summary": "最近提案されたo(n log n)の計算量を持つ整数乗算アルゴリズムに関する内容である。",
+      "impact": "計算機科学における演算処理の効率化に寄与する可能性がある。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://eliastaylor.com/noexploit/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-22T13:30:43.582772+09:00",
+      "title": "PHPの脆弱性に関する見解",
+      "summary": "このPHPの脆弱性について、容易に悪用できるものではないとしている。",
+      "impact": "誇大に懸念する必要はないと考えられるが、セキュリティ上の警戒は継続される必要があるとみられる。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00"
+    },
+    {
+      "image": "https://cms.railway.com/media/cf05de70-b435-4fe9-8d52-540e0b585874-blog-security-disclosure-wednesday-october-21st.png?w=1200&amp;q=90",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-22T13:30:43.582772+09:00",
+      "title": "鉄道システムにおけるセキュリティ開示",
+      "summary": "顧客の環境変数を保持するシステムで異常なアクティビティが検知された。鉄道会社は直ちに対応するよう推奨している。",
+      "impact": "顧客情報の漏洩やシステムへの不正アクセスの可能性があるため、迅速な調査とセキュリティ対策の強化が必要になるとみられる。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-22T13:30:43.582772+09:00",
+      "title": "Google発オープンソースプロジェクト向けのRustスタイルガイド",
+      "summary": "Googleが開始したオープンソースプロジェクトのためのRustスタイルガイドである。",
+      "impact": "このガイドが参照されることで、Google関連のRustプロジェクトにおいてコードの記述形式が統一され、開発効率や可読性が向上する可能性がある。",
+      "content_at": "2026-10-22T13:30:43.582772+09:00"
     }
   ],
-  "updated_at": "2026-10-22T06:30:45.179346+09:00"
+  "updated_at": "2026-10-22T13:30:43.582772+09:00"
 }
