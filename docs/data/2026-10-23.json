@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-23",
+  "articles": [
+    {
+      "image": "/images/cover_c2f081e020.png",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-23T06:30:45.153044+09:00",
+      "title": "DNSリゾルバー「Quad9」がフランスから撤退",
+      "summary": "セキュリティとプライバシー保護を目的とした公共の無料DNSサービスであるQuad9が、フランス市場から撤退する。",
+      "impact": "フランス国内の利用者は別のDNSリゾルバーへの切り替えが必要になる可能性がある。",
+      "content_at": "2026-10-23T06:30:45.153044+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/60394dfd64b33418349cd0639c990c7b5e9fd6baa2101d470a49ffeecb5aa495/NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-23T06:30:45.153044+09:00",
+      "title": "自律型AIエージェント向け実行環境「OpenShell」",
+      "summary": "OpenShellは、自律型AIエージェントのフリート（群）を運用するための安全でプライベートな実行環境である。",
+      "impact": "AIエージェントの運用においてセキュリティとプライバシーが強化され、安全な自律型システムの普及が促進される可能性がある。",
+      "content_at": "2026-10-23T06:30:45.153044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://resources.arc.net/hc/en-us/articles/20498285812375-Release-Notes",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-23T06:30:45.153044+09:00",
+      "title": "2026年12月22日に「Arc」がサービス終了",
+      "summary": "Arcが2026年12月22日をもってサービスを終了する。",
+      "impact": "利用者はサービス終了日までにデータの移行や代替ツールへの切り替えを検討する必要がある。",
+      "content_at": "2026-10-23T06:30:45.153044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-23T06:30:45.153044+09:00",
+      "title": "ドイツにおける「GNU Taler」運用に向けた準備",
+      "summary": "ドイツにおいてGNU Talerを運用するための準備が進められている。",
+      "impact": "ドイツ国内でデジタル決済システムの選択肢が増え、プライバシーに配慮した決済手段が提供される可能性がある。",
+      "content_at": "2026-10-23T06:30:45.153044+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/b097a5e60e483a3e4c4f02adc342f5d1fc11d4e100a9d5ebbd1790053b4befb3/oosexgang/hackios-xnu-kernel",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-23T06:30:45.153044+09:00",
+      "title": "Android端末でiOS 16.5のファームウェアを動作させるプロジェクト",
+      "summary": "GitHub上で公開された、Android端末でiOS 16.5のカーネルを動作させるための開発プロジェクトである。ユーザーはアカウントを作成することで開発に貢献できる。",
+      "impact": "iOSのクローズドなエコシステムがAndroid上で再現されることで、プラットフォーム間の境界が曖昧になる可能性がある。",
+      "content_at": "2026-10-23T06:30:45.153044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-23T06:30:45.153044+09:00",
+      "title": "身に覚えのないCash App口座を理由に女性が禁錮6年の求刑を受ける",
+      "summary": "自身が開設した覚えのないCash Appのアカウントに関連して、女性が禁錮6年の求刑を受けている。詳細は不明だが法的なトラブルに巻き込まれている。",
+      "impact": "本人確認の不備やなりすましによる金融犯罪の被害者が、責任を問われるリスクがあることを示唆しているとみられる。",
+      "content_at": "2026-10-23T06:30:45.153044+09:00"
+    }
+  ],
+  "updated_at": "2026-10-23T06:30:45.153044+09:00"
+}
