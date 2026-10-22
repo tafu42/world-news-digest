@@ -121,7 +121,62 @@
       "summary": "Googleが開始したオープンソースプロジェクトのためのRustスタイルガイドである。",
       "impact": "このガイドが参照されることで、Google関連のRustプロジェクトにおいてコードの記述形式が統一され、開発効率や可読性が向上する可能性がある。",
       "content_at": "2026-10-22T13:30:43.582772+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nvd.nist.gov/vuln/detail/cve-2026-111943",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-22T21:30:59.651943+09:00",
+      "title": "中間認証局の侵害（CVE-2026-111943）",
+      "summary": "CVE-2026-111943として、中間認証局が侵害されたことが報告された。",
+      "impact": "中間認証局の信頼性が失われるため、関連する証明書による通信の安全性に懸念が生じる可能性がある。",
+      "content_at": "2026-10-22T21:30:59.651943+09:00"
+    },
+    {
+      "image": "https://globus.software/img/social-card.webp",
+      "url": "https://globus.software/blog/2026/10/16/cutting-map-polygons/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-22T21:30:59.651943+09:00",
+      "title": "370万の地図ポリゴンを489ミリ秒で処理する高速三角測量ライブラリ「earstrip」",
+      "summary": "地図エンジン向け三角測量ライブラリ「earstrip」が公開された。370万の地図データを用いた検証で、高速な処理を実現した。",
+      "impact": "このライブラリにより、地図アプリケーションのレンダリングやデータ処理の効率が向上する可能性がある。",
+      "content_at": "2026-10-22T21:30:59.651943+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pepsipu.com/blog/2026-10-switch2-jailbreak-ns2jb/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-22T21:30:59.651943+09:00",
+      "title": "Switch 2の脱獄",
+      "summary": "「Switch 2」の脱獄に関する報告がなされた。",
+      "impact": "任天堂の次世代機におけるセキュリティ対策の突破が示唆されており、今後のハードウェア改変や不正利用の影響が懸念される可能性がある。",
+      "content_at": "2026-10-22T21:30:59.651943+09:00"
+    },
+    {
+      "image": "https://simedw.com/2026/10/21/world-model-terminal/images/worldtui-cowsay.jpg",
+      "url": "https://simedw.com/2026/10/21/world-model-terminal/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-22T21:30:59.651943+09:00",
+      "title": "ターミナルを模倣する3億6000万パラメータのAIモデル「WorldTUI」",
+      "summary": "ターミナルの操作を模倣し、過去の行動を記憶できる360Mモデル「WorldTUI」が公開された。",
+      "impact": "コマンドライン操作の自動化やAIによるインタラクティブな開発環境の構築が進む可能性がある。",
+      "content_at": "2026-10-22T21:30:59.651943+09:00"
+    },
+    {
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/xcloud3-1152x648.jpg",
+      "url": "https://arstechnica.com/gaming/2026/10/xbox-wants-you-to-pay-24-to-40-cents-per-hour-to-stream-games-you-already-bought/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-22T21:30:59.651943+09:00",
+      "title": "Xboxが購入済みゲームのストリーミングに時間制の追加料金を導入へ",
+      "summary": "Xboxが購入済みのゲームをストリーミングで遊ぶ際、時間単位での料金徴収を検討している。この料金はゲーム本体の購入価格に加えて発生する。",
+      "impact": "ゲームを購入済みであっても別途利用料が必要になることで、ユーザーの負担感が増す可能性がある。また、将来的にクラウドゲーミングの収益モデルに変化をもたらすと考えられる。",
+      "content_at": "2026-10-22T21:30:59.651943+09:00"
     }
   ],
-  "updated_at": "2026-10-22T13:30:43.582772+09:00"
+  "updated_at": "2026-10-22T21:30:59.651943+09:00"
 }
