@@ -1,0 +1,61 @@
+{
+  "date": "2026-10-24",
+  "articles": [
+    {
+      "image": "https://kimi-img.kimi.ai/pub/slides/kimi-fs/managed-assets/9558f8d5-08fc-42de-8e4e-339076e03895.webp",
+      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-24T06:30:42.754106+09:00",
+      "title": "高性能AIモデル「Kimi K3.1 Pro」が登場",
+      "summary": "100万トークンのコンテキストを処理可能な3Tクラスのオープンウェイトモデル「Kimi K3.1 Pro」が発表された。コーディング、3Dモデリング、金融リサーチの分野で大きな進歩を遂げている。",
+      "impact": "高度な情報処理が必要な専門業務の効率化が進む可能性がある。",
+      "content_at": "2026-10-24T06:30:42.754106+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://music.apple.com/this-url-doesnt-exist",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-24T06:30:42.754106+09:00",
+      "title": "Apple Musicで404エラーが発生",
+      "summary": "Apple Musicのページで404 Not Foundエラーが確認されている。",
+      "impact": "一時的にサービスへのアクセスが制限され、ユーザーが音楽を再生できない可能性がある。",
+      "content_at": "2026-10-24T06:30:42.754106+09:00"
+    },
+    {
+      "image": "https://block.xyz/dessa/_media/6865f35ec6013672f8f8/assets/marketing/variants/v3.jpg",
+      "url": "https://block.xyz/dessa",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-24T06:30:42.754106+09:00",
+      "title": "Dessa：極めて自然なフルデュプレックス音声モデルを発表",
+      "summary": "Dessaが、これまでで最も本物に近いフルデュプレックス（全二重通信）音声モデルを構築した。",
+      "impact": "人間とAIの間でより円滑で自然な音声対話が実現される可能性がある。",
+      "content_at": "2026-10-24T06:30:42.754106+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/youtube/w_728,c_limit/_GJVKVNMczM",
+      "url": "https://blog.calif.io/p/iphone",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-24T06:30:42.754106+09:00",
+      "title": "iPhoneのハッキングに成功との報告",
+      "summary": "iPhoneのハッキングを実施し、目標を達成したと報告された。",
+      "impact": "iPhoneのセキュリティ上の脆弱性が明らかになったことで、Appleが緊急の修正プログラムを配布する可能性がある。",
+      "content_at": "2026-10-24T06:30:42.754106+09:00"
+    },
+    {
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/thanksforthatjim/colossus-surveillance.webp",
+      "url": "https://thanksforthatjim.bearblog.dev/we-are-all-living-inside-of-an-obscure-sci-fi-film-from-1970/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-24T06:30:42.754106+09:00",
+      "title": "56年前のSF映画『地球爆破作戦』が現代社会を予言していた",
+      "summary": "1970年製作のSF映画『地球爆破作戦（Colossus: The Forbin Project）』が、現代の世界を予言していたという。",
+      "impact": "当時のSF作品が現代の技術環境をどのように捉えていたかを再評価する動きにつながる可能性がある。",
+      "content_at": "2026-10-24T06:30:42.754106+09:00"
+    }
+  ],
+  "updated_at": "2026-10-24T06:30:42.754106+09:00"
+}
