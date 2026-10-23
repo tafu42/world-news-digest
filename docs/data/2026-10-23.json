@@ -66,7 +66,51 @@
       "summary": "自身が開設した覚えのないCash Appのアカウントに関連して、女性が禁錮6年の求刑を受けている。詳細は不明だが法的なトラブルに巻き込まれている。",
       "impact": "本人確認の不備やなりすましによる金融犯罪の被害者が、責任を問われるリスクがあることを示唆しているとみられる。",
       "content_at": "2026-10-23T06:30:45.153044+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-23T13:30:42.658786+09:00",
+      "title": "Dockerについて",
+      "summary": "Dockerは奇妙な性質を持つものである。",
+      "impact": "Dockerの特異な性質が開発現場の認識に影響を与える可能性がある。",
+      "content_at": "2026-10-23T13:30:42.658786+09:00"
+    },
+    {
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/80cf520cb540989c3643907f004b2514ec4d01f1-1200x630.jpg",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-23T13:30:42.658786+09:00",
+      "title": "大規模言語モデルによるソフトウェア検証の可能性",
+      "summary": "Claudeが123件のオープンソースライブラリのコンパイル済みコードにおいて、セキュリティ特性を形式的に証明した。検証の過程で、長年未発見だったバグが特定された。",
+      "impact": "ソフトウェアの信頼性向上に寄与すると考えられる。今後はより広範なコードの脆弱性発見が効率化される可能性がある。",
+      "content_at": "2026-10-23T13:30:42.658786+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!i_7m!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F99878b41-a047-45fc-8a3a-54cdc25e50f0_2000x1334.jpeg",
+      "url": "https://blog.coredump.cx/p/the-secret-life-of-circuits-is-now",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-23T13:30:42.658786+09:00",
+      "title": "書籍『The Secret Life of Circuits』の販売状況",
+      "summary": "書籍『The Secret Life of Circuits』が各地で販売開始された。これまでは出版社から直接購入する必要があった。",
+      "impact": "読者が同書を入手しやすくなる。",
+      "content_at": "2026-10-23T13:30:42.658786+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2855472",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-23T13:30:42.658786+09:00",
+      "title": "注意欠如・多動症（ADHD）と死亡率の関係",
+      "summary": "注意欠如・多動症（ADHD）を持つ人々の死亡率に関する研究である。",
+      "impact": "この研究結果は、ADHD患者の健康管理や支援体制の見直しに向けた検討材料となる可能性がある。",
+      "content_at": "2026-10-23T13:30:42.658786+09:00"
     }
   ],
-  "updated_at": "2026-10-23T06:30:45.153044+09:00"
+  "updated_at": "2026-10-23T13:30:42.658786+09:00"
 }
