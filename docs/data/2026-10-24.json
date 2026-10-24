@@ -88,7 +88,62 @@
       "summary": "公式のCVEリストに基づき、日々更新される公開CVEレコードのライブカウントが提供されている。",
       "impact": "セキュリティ専門家や開発者が最新の脆弱性情報を迅速に把握しやすくなるため、組織のセキュリティ対策の迅速化に寄与するとみられる。",
       "content_at": "2026-10-24T13:30:42.778416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.southampton.ac.uk/~doug/quantum_physics/index.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-24T21:30:43.449155+09:00",
+      "title": "I Don't Understand Quantum Physics（2018年作品）",
+      "summary": "「I Don't Understand Quantum Physics」という2018年の作品に関する記事である。",
+      "impact": "特定の作品に関する情報であり、社会全体への影響は限定的であると考えられる。",
+      "content_at": "2026-10-24T21:30:43.449155+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/82c6e9a0e4255bc7370dd6125ccb078791f7b4a2f6b9c5e4b0198d0e7df1ff10/obsproject/obs-studio/releases/tag/33.0.0",
+      "url": "https://github.com/obsproject/obs-studio/releases/tag/33.0.0",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-24T21:30:43.449155+09:00",
+      "title": "OBS Studio 33のリリース",
+      "summary": "OBS Studio 33において、ブラウザソースやドックの基盤フレームワークであるCEFが更新された。今回のアップデートは、2024年7月リリース版から大幅な変更を含んでいる。",
+      "impact": "OBS Studioを利用する配信者や開発者において、機能や安定性が向上する可能性がある。",
+      "content_at": "2026-10-24T21:30:43.449155+09:00"
+    },
+    {
+      "image": "https://static.scientificamerican.com/dam/asset/c8ce3ae2-d702-4225-a7d6-2c48e4cc1575/Particle-light-flare.jpg?m=1792593357.873&w=1200",
+      "url": "https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-24T21:30:43.449155+09:00",
+      "title": "物理学者が単一の反物質粒子を1か月間捕捉することに成功",
+      "summary": "科学者が初めて陽電子に対して量子測定を行うことに成功した。この研究において、単一の反物質粒子を1か月間捕捉することが可能となった。",
+      "impact": "反物質の性質解明が進むことで、物理学の基礎理論や将来的なエネルギー研究に寄与する可能性がある。",
+      "content_at": "2026-10-24T21:30:43.449155+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://grapheneos.social/@GrapheneOS/117492375462459244",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-24T21:30:43.449155+09:00",
+      "title": "GrapheneOSを明示的に許可する銀行アプリが増加",
+      "summary": "およそ12の銀行アプリが、セキュリティOSであるGrapheneOSの利用を明示的に許可し始めた。",
+      "impact": "GrapheneOSユーザーの利便性が向上し、同OSを採用するセキュリティ意識の高いユーザーの裾野が広がる可能性がある。",
+      "content_at": "2026-10-24T21:30:43.449155+09:00"
+    },
+    {
+      "image": "https://lexontech.org/img/og/188.png?1792494507",
+      "url": "https://lexontech.org/i-cant-believe-were-still-arguing-over-whether-x-is-for-jerks",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-24T21:30:43.449155+09:00",
+      "title": "X（旧Twitter）が「嫌な奴らの場所」かという議論について",
+      "summary": "バラク・オバマ氏がXに投稿しているという事実は、その場所が優れたプラットフォームであることを意味しない。同氏はX上で会話を行っていない。",
+      "impact": "著名人の利用の有無がプラットフォームの価値評価に直結しないという見方が広がり、SNSに対する世論や利用者の判断に影響を与える可能性がある。",
+      "content_at": "2026-10-24T21:30:43.449155+09:00"
     }
   ],
-  "updated_at": "2026-10-24T13:30:42.778416+09:00"
+  "updated_at": "2026-10-24T21:30:43.449155+09:00"
 }
