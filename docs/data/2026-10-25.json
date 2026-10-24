@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-25",
+  "articles": [
+    {
+      "image": "https://www.apollo.com/content/dam/apolloaem/apollo-default-page-share-image/apollo-og-image.png",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-25T06:30:47.782910+09:00",
+      "title": "テック企業以外でのAI投資による収益化の兆しは見られず",
+      "summary": "AIへの巨額投資や普及に向けた期待が高まっているものの、テック分野を除いた米国企業において金銭的な利益は出ていない。現時点でAI技術による実質的な収益効果は確認されていない。",
+      "impact": "今後、企業はAIへの投資対効果をより厳しく精査する可能性がある。テック以外の産業では、AI導入の是非について慎重な姿勢が強まるとみられる。",
+      "content_at": "2026-10-25T06:30:47.782910+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://stealmybitcoin.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-25T06:30:47.782910+09:00",
+      "title": "ビットコインを盗ませるという試み",
+      "summary": "「Steal My Bitcoin（私のビットコインを盗め）」というタイトルの記事である。これ以上の詳細は記載されていない。",
+      "impact": "情報が不足しているため、社会への影響については判断できない。",
+      "content_at": "2026-10-25T06:30:47.782910+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://aardappel.github.io/goose/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-25T06:30:47.782910+09:00",
+      "title": "プログラミング言語「Goose」",
+      "summary": "プログラミング言語「Goose」についての記事である。これ以上の詳細は記載されていない。",
+      "impact": "情報が不足しているため、社会への影響については判断できない。",
+      "content_at": "2026-10-25T06:30:47.782910+09:00"
+    },
+    {
+      "image": "https://missileer.watch/assets/og/home.png?v=1",
+      "url": "https://missileer.watch",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-25T06:30:47.782910+09:00",
+      "title": "11175kHzで受信された米国核戦力の緊急行動メッセージ",
+      "summary": "HFグローバル通信システムを通じて、米国の緊急行動メッセージが空中で受信された。当該メッセージの内容について記述されている。",
+      "impact": "軍事通信の傍受に関するものであり、国家間の緊張関係や安全保障上の懸念を喚起する可能性がある。",
+      "content_at": "2026-10-25T06:30:47.782910+09:00"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1560764938083352577/B1X3m4NN_400x400.jpg",
+      "url": "https://twitter.com/ID_AA_Carmack/status/2113704269274636568",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-25T06:30:47.782910+09:00",
+      "title": "ジョン・カーマック氏が「Goose」言語について評価",
+      "summary": "ジョン・カーマック氏が、複数のデータスタックや相対参照、バイナリ構造検証を備えた「Goose」言語について、自動解析により効率的な開発が可能になると評した。",
+      "impact": "プログラミング言語の新たな設計手法やツールが提示されたことで、ソフトウェア開発の効率化が進む可能性がある。",
+      "content_at": "2026-10-25T06:30:47.782910+09:00"
+    },
+    {
+      "image": "https://www.roku.com/assets/roku-logo-purple.png",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-25T06:30:47.782910+09:00",
+      "title": "Rokuが開発用リポジトリをGitHubからGitLabへ移行",
+      "summary": "ストリーミングデバイスを提供するRokuが、開発用リポジトリをGitHubからGitLabへ移行した。",
+      "impact": "利用しているプラットフォームの変更に伴い、Rokuの開発環境や外部の貢献者が参照するワークフローに影響が及ぶ可能性がある。",
+      "content_at": "2026-10-25T06:30:47.782910+09:00"
+    }
+  ],
+  "updated_at": "2026-10-25T06:30:47.782910+09:00"
+}
