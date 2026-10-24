@@ -55,7 +55,40 @@
       "summary": "1970年製作のSF映画『地球爆破作戦（Colossus: The Forbin Project）』が、現代の世界を予言していたという。",
       "impact": "当時のSF作品が現代の技術環境をどのように捉えていたかを再評価する動きにつながる可能性がある。",
       "content_at": "2026-10-24T06:30:42.754106+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-24T13:30:42.778416+09:00",
+      "title": "分散型SQLiteの12年",
+      "summary": "分散型SQLiteの12年間の歩みについて示されている。",
+      "impact": "分散型システムにおけるデータベース技術の長期的な発展と、その信頼性の評価が改めて注目される可能性がある。",
+      "content_at": "2026-10-24T13:30:42.778416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://funcarena.com/articles/the-quake-fan-who-built-the-map-editor-everybody-uses",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-24T13:30:42.778416+09:00",
+      "title": "『Quake』ファンが作った標準的なマップエディタ",
+      "summary": "広く利用されているマップエディタを開発した『Quake』ファンの功績について触れている。",
+      "impact": "ゲーム開発コミュニティにおけるツール開発者の貢献が再評価され、オープンソースのマップ制作ツールの普及を促進する可能性がある。",
+      "content_at": "2026-10-24T13:30:42.778416+09:00"
+    },
+    {
+      "image": "https://cve.0xosprey.com/og.png",
+      "url": "https://cve.0xosprey.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-24T13:30:42.778416+09:00",
+      "title": "CVEトラッカー：脆弱性情報の公開状況",
+      "summary": "公式のCVEリストに基づき、日々更新される公開CVEレコードのライブカウントが提供されている。",
+      "impact": "セキュリティ専門家や開発者が最新の脆弱性情報を迅速に把握しやすくなるため、組織のセキュリティ対策の迅速化に寄与するとみられる。",
+      "content_at": "2026-10-24T13:30:42.778416+09:00"
     }
   ],
-  "updated_at": "2026-10-24T06:30:42.754106+09:00"
+  "updated_at": "2026-10-24T13:30:42.778416+09:00"
 }
