@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-26",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://imaginationlibrary.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-26T06:30:47.909693+09:00",
+      "title": "ドリー・パートンのイマジネーション・ライブラリー",
+      "summary": "ドリー・パートンが運営するイマジネーション・ライブラリーに関する情報である。",
+      "impact": "子どもの読書習慣の向上に寄与する可能性がある。",
+      "content_at": "2026-10-26T06:30:47.909693+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-26T06:30:47.909693+09:00",
+      "title": "私がプログラマーである理由",
+      "summary": "プログラマーという職業を選んだ理由についての内容である。",
+      "impact": "技術職のキャリア形成における個人の動機づけに関する洞察が提供される可能性がある。",
+      "content_at": "2026-10-26T06:30:47.909693+09:00"
+    },
+    {
+      "image": "https://cdn.disneyanimation.com/uploads/pages/filmmaking-process-zootopia-2/zoot2processshare.jpg",
+      "url": "https://www.disneyanimation.com/process/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-26T06:30:47.909693+09:00",
+      "title": "アニメ映画制作の舞台裏",
+      "summary": "アニメーション映画がどのように制作されているかについての解説である。",
+      "impact": "観客がアニメ制作の過程を深く理解する一助となる可能性がある。",
+      "content_at": "2026-10-26T06:30:47.909693+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-26T06:30:47.909693+09:00",
+      "title": "嵐「ユーニス」の接近",
+      "summary": "嵐である「ユーニス」が接近していることを伝えている。",
+      "impact": "暴風雨などの悪天候により、交通網の乱れや日常生活への支障が出る可能性がある。",
+      "content_at": "2026-10-26T06:30:47.909693+09:00"
+    },
+    {
+      "image": "https://www.datocms-assets.com/75231/1792949423-threat-update-mini-worm_custom-1.jpeg?fm=webp",
+      "url": "https://www.wiz.io/blog/gheist-attempted-scaled-abuse-of-stolen-github-tokens-stumbles",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-26T06:30:47.909693+09:00",
+      "title": "GitHubトークンを悪用した自動化された機密情報流出キャンペーンが発生",
+      "summary": "盗まれたGitHubトークンを悪用し、アクセス可能なすべてのリポジトリに機密情報をダンプするワークフローを植え付ける自動化されたキャンペーンが確認された。この攻撃はC2サーバーを使用せず進化を続けているが、GitHubのセキュリティ強化により大きな影響を受けている。",
+      "impact": "開発者や企業はGitHubトークンの管理を強化する必要がある。今後、類似の自動化攻撃による機密情報の漏洩リスクが継続する可能性がある。",
+      "content_at": "2026-10-26T06:30:47.909693+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-26T06:30:47.909693+09:00",
+      "title": "10年前のCNNモデルが最新のLLMよりも皮膚がん診断で高精度と判明",
+      "summary": "皮膚科医がGPT-6 AstraおよびClaude Fable 5.1の皮膚がん診断能力を検証した結果、期待よりも精度が低いことが判明した。さらに比較対象とした10年前のCNN（畳み込みニューラルネットワーク）の方が高い診断能力を持つことがわかった。",
+      "impact": "医療診断におけるAI活用において、最新の大規模言語モデルが必ずしも専門特化した従来モデルより優れているとは限らないことが示唆された。今後、医療分野へのAI導入時には適切なアルゴリズムの選定がより重視されるようになるとみられる。",
+      "content_at": "2026-10-26T06:30:47.909693+09:00"
+    }
+  ],
+  "updated_at": "2026-10-26T06:30:47.909693+09:00"
+}
