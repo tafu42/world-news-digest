@@ -66,7 +66,62 @@
       "summary": "ストリーミングデバイスを提供するRokuが、開発用リポジトリをGitHubからGitLabへ移行した。",
       "impact": "利用しているプラットフォームの変更に伴い、Rokuの開発環境や外部の貢献者が参照するワークフローに影響が及ぶ可能性がある。",
       "content_at": "2026-10-25T06:30:47.782910+09:00"
+    },
+    {
+      "image": "https://cdndark.darkhorizons.com/wp-content/uploads/2026/05/more-halo-remakes-are-on-the-way.jpg",
+      "url": "https://www.darkhorizons.com/xbox-turns-down-netflix-500-million-offer/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-25T13:30:42.543235+09:00",
+      "title": "NetflixとMicrosoft、Xbox関連のコンテンツ制作を巡る交渉が決裂",
+      "summary": "NetflixはXboxキャラクターの映像化権を巡り、7年間で5億ドルの契約をMicrosoftに提案した。しかし、Microsoft側が8億ドルを要求したことで交渉は決裂したと報じられている。",
+      "impact": "人気ゲームキャラクターの映像化プロジェクトが見送られたことで、Netflixの今後のコンテンツ戦略やファンの期待に影響を与える可能性がある。",
+      "content_at": "2026-10-25T13:30:42.543235+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/531d2b8a8a2d9995d0b3b28347fa56be1c540649a16d8c455106572cd4437598/slee-persis/GVS5H",
+      "url": "https://github.com/slee-persis/GVS5H",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-25T13:30:42.543235+09:00",
+      "title": "Qwen3.8-27BモデルがFable 5と同等のコーディング性能を達成",
+      "summary": "GVS5Hベンチマークにおいて、5種類のQwen3.8-27BモデルがLiveCodeBenchのハード問題でClaude Fable 5と同等の性能を示した。Fable 5の5分の1のコスト、または単一のGPUで実行可能である。",
+      "impact": "より安価かつ効率的なハードウェアで高度なコーディングが実現できるため、開発者のリソース配分やAI開発のコスト構造に変化をもたらすとみられる。",
+      "content_at": "2026-10-25T13:30:42.543235+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://danluu.com/ambitious/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-25T13:30:42.543235+09:00",
+      "title": "ソフトウェア構築においてより野心的な姿勢を",
+      "summary": "ソフトウェア開発において、現在よりも高い野心を持って取り組むべきであるという主張。",
+      "impact": "開発者のマインドセットが変化することで、より革新的なソフトウェア技術やサービスが創出されるきっかけになる可能性がある。",
+      "content_at": "2026-10-25T13:30:42.543235+09:00"
+    },
+    {
+      "image": "https://cdn.sanity.io/images/e4qjo92p/production/1796e3cccda1454e97d262833fb0bb0d6015032f-2786x1567.png?rect=0,53,2786,1463&amp;w=1200&amp;h=630&amp;fit=max&amp;auto=format",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-25T13:30:42.543235+09:00",
+      "title": "Cerebras、1兆パラメータ規模のAIモデルをデプロイ",
+      "summary": "Cerebrasは、WSE-3Tウェハー上で1兆パラメータのフロンティアモデルをマッピングし、毎秒1,000から2,000トークン以上の推論速度を実現した。",
+      "impact": "大規模言語モデルの推論速度が飛躍的に向上するため、高度なAIアプリケーションの実用化や効率的な運用が加速すると考えられる。",
+      "content_at": "2026-10-25T13:30:42.543235+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!oz9x!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F999e3450-1df3-457d-8715-5e2e46d5121c_2886x1843.png",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-25T13:30:42.543235+09:00",
+      "title": "米国のメディア・芸術業界で20万人の雇用が喪失、AIの影響はどの程度か",
+      "summary": "米国のメディア、映画、芸術分野において数十万人規模の雇用が失われている。その要因としてAIがどの程度影響しているのかが問われている。",
+      "impact": "今後、AI導入がクリエイティブ産業の雇用や労働環境にどのような構造的変化をもたらすのか、その関連性が議論される可能性がある。",
+      "content_at": "2026-10-25T13:30:42.543235+09:00"
     }
   ],
-  "updated_at": "2026-10-25T06:30:47.782910+09:00"
+  "updated_at": "2026-10-25T13:30:42.543235+09:00"
 }
