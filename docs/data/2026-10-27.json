@@ -1,0 +1,76 @@
+{
+  "date": "2026-10-27",
+  "articles": [
+    {
+      "image": "https://opengraph.githubassets.com/788365db11f79054b2d8f8927728cc980b37caa9513f76c36185186260050b94/microsoft/pylance-release",
+      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-27T06:30:49.977385+09:00",
+      "title": "Pylanceのドキュメントとリポジトリ",
+      "summary": "Pylanceに関するドキュメントと課題管理のリポジトリについて紹介されている。GitHubのアカウントを作成することで開発への貢献が可能である。",
+      "impact": "開発者がPylanceの開発に参加しやすくなり、ツールの改善が促進される可能性がある。",
+      "content_at": "2026-10-27T06:30:49.977385+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!1SoS!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F519db120-1320-411b-adec-a88865345f2c_4083x2916.jpeg",
+      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-27T06:30:49.977385+09:00",
+      "title": "Sebastian Raschkaによる推論モデル構築動画コース",
+      "summary": "Sebastian Raschkaによる、推論モデルの構築を学ぶ11時間以上の動画コースが公開された。PythonとPyTorchを使用し、評価や推論時のスケーリング、強化学習などを扱う。",
+      "impact": "AIモデルの構築や学習手法に関心のある開発者のスキル向上が期待される。",
+      "content_at": "2026-10-27T06:30:49.977385+09:00"
+    },
+    {
+      "image": "https://css-tricks.com/wp-content/uploads/2019/12/css-tricks-logo-gradient-outline.png",
+      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-27T06:30:49.977385+09:00",
+      "title": "CSS-Tricksの新オーナー就任",
+      "summary": "CSS-Tricksの運営主体が変更された。12年間サイト運営に携わってきた人物が新しく責任者となった。",
+      "impact": "運営体制の変化により、サイトの今後のコンテンツ方針や運営方針に変更が生じる可能性がある。",
+      "content_at": "2026-10-27T06:30:49.977385+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-27T06:30:49.977385+09:00",
+      "title": "Windows 11で動作する最古のGUIアプリケーション",
+      "summary": "Windows 11環境で依然として動作する最も古いGUIアプリケーションを調査したブログ記事である。",
+      "impact": "古いソフトウェアの互換性やWindowsの歴史的進化に関する技術的な知見が得られるとみられる。",
+      "content_at": "2026-10-27T06:30:49.977385+09:00"
+    },
+    {
+      "en_title": "Nietzschian Debugger",
+      "en_text": "The anti-AI debugger. What doesn&#39;t kill your code makes it stronger. Confrontational questioning for developers. - DilawarShafiq/nietzschian-debugger",
+      "image": "https://opengraph.githubassets.com/1bba0d9f5c52c051ad87153753f5a0736905dc9441d99934324b4df61e22e14e/DilawarShafiq/nietzschian-debugger",
+      "url": "https://github.com/DilawarShafiq/nietzschian-debugger",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-27T06:30:49.977385+09:00",
+      "title": "Nietzschian Debugger",
+      "summary": "The anti-AI debugger. What doesn&#39;t kill your code makes it stronger. Confrontational questioning for developers. - D",
+      "content_at": "2026-10-27T06:30:49.977385+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "GPT-6.1 Terra",
+      "en_text": "GPT-6.1 Terra",
+      "image": "",
+      "url": "https://openai.com/index/introducing-gpt-6-1-terra/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-27T06:30:49.977385+09:00",
+      "title": "GPT-6.1 Terra",
+      "summary": "GPT-6.1 Terra",
+      "content_at": "2026-10-27T06:30:49.977385+09:00",
+      "pending": true
+    }
+  ],
+  "updated_at": "2026-10-27T06:30:49.977385+09:00"
+}
