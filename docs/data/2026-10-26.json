@@ -66,7 +66,62 @@
       "summary": "皮膚科医がGPT-6 AstraおよびClaude Fable 5.1の皮膚がん診断能力を検証した結果、期待よりも精度が低いことが判明した。さらに比較対象とした10年前のCNN（畳み込みニューラルネットワーク）の方が高い診断能力を持つことがわかった。",
       "impact": "医療診断におけるAI活用において、最新の大規模言語モデルが必ずしも専門特化した従来モデルより優れているとは限らないことが示唆された。今後、医療分野へのAI導入時には適切なアルゴリズムの選定がより重視されるようになるとみられる。",
       "content_at": "2026-10-26T06:30:47.909693+09:00"
+    },
+    {
+      "image": "https://titleart.dvy.io/social-preview.png",
+      "url": "https://titleart.dvy.io/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-26T13:30:44.651554+09:00",
+      "title": "ブラウザで1997年風のWordArtを作成できるツール「TitleArt」",
+      "summary": "1997年当時のWordArtのスタイルや形状、3Dエフェクトをブラウザ上で再現できるツール。レトロなデザインを簡単に作成することが可能である。",
+      "impact": "レトロなデザインを好む層や、当時のデザインを懐かしむユーザーの間で話題になる可能性がある。",
+      "content_at": "2026-10-26T13:30:44.651554+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/ccc61d942cf030e7905079bea57a83b4edbf0e406be3517dbd2a5f1123295524/KrushnaVardhanReddy/PaperPilot",
+      "url": "https://github.com/KrushnaVardhanReddy/PaperPilot",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-26T13:30:44.651554+09:00",
+      "title": "Rust製のPDFエンジン「PaperPilot」",
+      "summary": "WASMとMCPに対応した、クラウドを利用しない純粋なRust製のPDFエンジン。ローカルで動作するドキュメント用AIコパイロットとして開発されている。",
+      "impact": "クラウド環境にデータを送信したくないユーザーにとって、プライバシーを重視した文書管理の選択肢となる可能性がある。",
+      "content_at": "2026-10-26T13:30:44.651554+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6f67fb52ee8d30a45ab8412add04f20664fd036809bddf52c98a185576a7473d/notaroomba/keybytes",
+      "url": "https://github.com/notaroomba/keybytes",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-26T13:30:44.651554+09:00",
+      "title": "モジュール式キーボード「keybytes」",
+      "summary": "GitHubで公開されている、真のモジュール性を謳うキーボードプロジェクト。ユーザーはアカウントを作成することで開発に貢献できる。",
+      "impact": "キーボードのカスタマイズや自作に興味を持つコミュニティにおいて、部品交換や拡張の自由度が高い選択肢として注目される可能性がある。",
+      "content_at": "2026-10-26T13:30:44.651554+09:00"
+    },
+    {
+      "image": "https://res.cloudinary.com/devdevcharlie/image/upload/v1792518914/overgrown-thumbnail_q5tzrs.png",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-26T13:30:44.651554+09:00",
+      "title": "放置されたタブを植物が覆う「Overgrown」",
+      "summary": "「Overgrowth（繁茂）」という言葉をテーマにしたクリエイティブなプロジェクト。ブラウザで放置されたタブを植物が覆っていく様子を表現している。",
+      "impact": "タブを多く開く習慣があるユーザーに対し、デジタルデトックスやブラウザの整理を促す遊び心のある体験を提供する可能性がある。",
+      "content_at": "2026-10-26T13:30:44.651554+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://exhibits.stanford.edu/menuez/browse/next-computer-inc?per_page=96&sort=pub_year_isi+asc%2C+title_sort+asc&view=masonry",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-26T13:30:44.651554+09:00",
+      "title": "NeXT Computerオフィス内の舞台裏",
+      "summary": "NeXT Computerのオフィス内の様子を紹介する。この内容は同社の舞台裏に迫るものである。",
+      "impact": "当時のコンピュータ業界の歴史や、同社の開発環境を知るための資料として関心が持たれる可能性がある。",
+      "content_at": "2026-10-26T13:30:44.651554+09:00"
     }
   ],
-  "updated_at": "2026-10-26T06:30:47.909693+09:00"
+  "updated_at": "2026-10-26T13:30:44.651554+09:00"
 }
