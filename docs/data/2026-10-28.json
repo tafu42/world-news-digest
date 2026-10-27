@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-28",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-28T06:30:46.690031+09:00",
+      "title": "Genie 4について",
+      "summary": "Genie 4に関する情報である。",
+      "impact": "提供された情報のみでは具体的な影響を予測することはできない。",
+      "content_at": "2026-10-28T06:30:46.690031+09:00"
+    },
+    {
+      "image": "https://ghostty.org/social-share-card.jpg",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-28T06:30:46.690031+09:00",
+      "title": "Ghostty 1.4.0 リリース",
+      "summary": "2026年10月27日にGhostty 1.4.0がリリースされた。本件はそのリリースノートである。",
+      "impact": "利用者は新しいリリースノートの内容を確認することで、アップデート内容を把握できる可能性がある。",
+      "content_at": "2026-10-28T06:30:46.690031+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-28T06:30:46.690031+09:00",
+      "title": "Tailscale SSHの調査および修復状況",
+      "summary": "Tailscale SSHにおけるセキュリティ調査の進捗と修復状況についての報告である。顧客が現在とるべき対応についても記載されている。",
+      "impact": "顧客が提供された情報に基づき適切なセキュリティ対策を講じることで、リスクを軽減できる可能性がある。",
+      "content_at": "2026-10-28T06:30:46.690031+09:00"
+    },
+    {
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/6a50f5ba4c0931f8d2c411f26d860955c1efeae7-1200x630.jpg",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-28T06:30:46.690031+09:00",
+      "title": "Claudeを用いた創薬開発の進捗報告",
+      "summary": "過去数ヶ月間で6つの組織と提携し、病気の治療加速に取り組んでいる。また、希少な小児筋ジストロフィー治療を含む独自の創薬研究を開始した。",
+      "impact": "創薬プロセスが効率化されることで、難病に対する治療法の発見が早まる可能性がある。",
+      "content_at": "2026-10-28T06:30:46.690031+09:00"
+    },
+    {
+      "image": "https://www.brangus.io/survival-llm/social-card.png",
+      "url": "https://www.brangus.io/survival-llm",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-28T06:30:46.690031+09:00",
+      "title": "インターネット不要のAIアシスタント「Survival LLM」",
+      "summary": "インターネット接続なしで動作する無料のAIアシスタントおよびオフラインの資料ライブラリ。MacとWindowsに対応しており、回答の根拠となるソースを表示する。",
+      "impact": "災害時などの通信手段が遮断された環境下において、重要な情報収集や知識の補完に役立つ可能性がある。",
+      "content_at": "2026-10-28T06:30:46.690031+09:00"
+    },
+    {
+      "image": "https://www.apple.com/newsroom/images/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/tile/Apple-MacBook-Pro-14-in-with-M6-hero-261027-lp.jpg.og.jpg?202610271357",
+      "url": "https://www.apple.com/in/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-28T06:30:46.690031+09:00",
+      "title": "M6チップ搭載の新型14インチMacBook Proが発表",
+      "summary": "AppleはM6チップを搭載した新しい14インチMacBook Proを発表した。パフォーマンスの向上に加え、デバイス上で処理可能なAI機能や高速な接続性を備えている。",
+      "impact": "オンデバイスAIの処理能力が高まることで、PC上でのAI活用がより迅速かつプライバシーに配慮した形で普及していくとみられる。",
+      "content_at": "2026-10-28T06:30:46.690031+09:00"
+    }
+  ],
+  "updated_at": "2026-10-28T06:30:46.690031+09:00"
+}
