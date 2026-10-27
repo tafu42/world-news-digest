@@ -114,7 +114,62 @@
       "summary": "Advanced Photonics Coalition（先進フォトニクス連合）が、フォトニクス製造を高速化するための新しい基準を承認した。",
       "impact": "標準化が進むことでフォトニクス関連の製造効率が向上し、関連産業の発展が加速する可能性がある。",
       "content_at": "2026-10-27T13:30:44.608095+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-27T21:30:48.415279+09:00",
+      "title": "ソフトウェア品質の現状とコード生産性",
+      "summary": "ソフトウェアのコード生産量が増加してもエラー率が同程度に低減しなければ、アプリケーションの不具合は増える。著者はソフトウェアの品質低下について指摘している。",
+      "impact": "開発効率を優先するあまり品質管理がおろそかになると、バグが増加しユーザー体験が損なわれる可能性がある。",
+      "content_at": "2026-10-27T21:30:48.415279+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-27T21:30:48.415279+09:00",
+      "title": "Pythonの実験的なJIT機能が削除へ",
+      "summary": "Pythonにおける実験的なJITコンパイラ機能が削除される予定である。",
+      "impact": "特定のパフォーマンス最適化を検討していた開発環境に影響が出る可能性がある。",
+      "content_at": "2026-10-27T21:30:48.415279+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-27T21:30:48.415279+09:00",
+      "title": "Robloxが許諾なしにAI学習用データを大量ダウンロード",
+      "summary": "2026年10月、RobloxのクローラーがOpen3DLabやSmutBaseなどのプロジェクトから、アダルトコンテンツを含む計145.5GBのファイルをダウンロードした。これらはAI学習用と推測されている。",
+      "impact": "クリエイターの著作権侵害や無断利用に対する懸念が強まり、AI開発とコンテンツ権利保護に関する法的議論が加速する可能性がある。",
+      "content_at": "2026-10-27T21:30:48.415279+09:00"
+    },
+    {
+      "image": "https://spectrum.ieee.org/media-library/surreal-collage-of-a-womans-face-with-geometric-shapes-pencil-and-wikipedia-globe.png?id=68486571&width=1200&height=600&coordinates=0%2C167%2C0%2C168",
+      "url": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-27T21:30:48.415279+09:00",
+      "title": "ウィキペディアにおけるAI生成コンテンツの対策",
+      "summary": "AI生成された文章は判別が困難になっているが、ウィキペディア側はそれに対抗してコンテンツの整理を行っている。",
+      "impact": "情報の正確性を維持するため、AI生成コンテンツを管理・除去するための監視体制が強化されるとみられる。",
+      "content_at": "2026-10-27T21:30:48.415279+09:00"
+    },
+    {
+      "image": "https://j11g.com/content/images/cern-resized.jpg",
+      "url": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-27T21:30:48.415279+09:00",
+      "title": "AI時代におけるブルックスの法則の更新",
+      "summary": "AI時代を踏まえたブルックスの法則のアップデートに関する議論である。",
+      "impact": "AI技術の進化が、ソフトウェア開発における人員配置や生産性に与える影響を再定義する可能性がある。",
+      "content_at": "2026-10-27T21:30:48.415279+09:00"
     }
   ],
-  "updated_at": "2026-10-27T13:30:44.608095+09:00"
+  "updated_at": "2026-10-27T21:30:48.415279+09:00"
 }
