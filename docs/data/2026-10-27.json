@@ -70,7 +70,51 @@
       "summary": "GPT-6.1 Terra",
       "content_at": "2026-10-27T06:30:49.977385+09:00",
       "pending": true
+    },
+    {
+      "image": "",
+      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-27T13:30:44.608095+09:00",
+      "title": "数学、コンピュータ科学、物理学における3つの新発見",
+      "summary": "数学、コンピュータ科学、物理学の分野で3つの新しい発見があった。",
+      "impact": "各科学分野の研究が進展し、新たな技術開発や理論の構築につながる可能性がある。",
+      "content_at": "2026-10-27T13:30:44.608095+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/c9d7a7da7e6dd3c9e2d4f85a7af21e1d12d8550b817f1887304ad8a8ff03c0a4/openai/math",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-27T13:30:44.608095+09:00",
+      "title": "指数時間仮説は偽である",
+      "summary": "GitHub上でOpenAIの数学開発に貢献するプロジェクトに関連する情報である。",
+      "impact": "この主張が検証されれば、計算複雑性理論における既存の仮説やアルゴリズムの評価に影響を与える可能性がある。",
+      "content_at": "2026-10-27T13:30:44.608095+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/a1ca0665338cdf7aa6377c7fc092096b8783842d9a889d0e6e24e3cc2ec666ee/otya128/winevdm",
+      "url": "https://github.com/otya128/winevdm",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-27T13:30:44.608095+09:00",
+      "title": "64ビットWindows上で16ビットWindowsを動作させる試み",
+      "summary": "64ビットWindows環境でWindows 1.xから3.1までの16ビットWindowsを動かすためのプロジェクト「winevdm」に関する情報である。",
+      "impact": "レガシーなソフトウェアを現代の環境で利用可能にすることで、過去の資産の活用が容易になる可能性がある。",
+      "content_at": "2026-10-27T13:30:44.608095+09:00"
+    },
+    {
+      "image": "https://image.nextplatform.com/5304953.jpg?imageId=5304953&x=0&y=0&cropw=100&croph=100&panox=0&panoy=0&panow=100&panoh=100&width=1200&height=683",
+      "url": "https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-27T13:30:44.608095+09:00",
+      "title": "フォトニクス製造を加速させる新基準",
+      "summary": "Advanced Photonics Coalition（先進フォトニクス連合）が、フォトニクス製造を高速化するための新しい基準を承認した。",
+      "impact": "標準化が進むことでフォトニクス関連の製造効率が向上し、関連産業の発展が加速する可能性がある。",
+      "content_at": "2026-10-27T13:30:44.608095+09:00"
     }
   ],
-  "updated_at": "2026-10-27T06:30:49.977385+09:00"
+  "updated_at": "2026-10-27T13:30:44.608095+09:00"
 }
