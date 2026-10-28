@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-29",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-29T06:30:43.911236+09:00",
+      "title": "指紋認証スクリプトが生物兵器を生成する理由",
+      "summary": "指紋認証スクリプトが生物兵器を生成しているという疑問について取り上げている。現状ではそのメカニズムや背景に関する詳細は明らかではない。",
+      "impact": "情報セキュリティやバイオテクノロジーの安全性に対する懸念が高まる可能性がある。",
+      "content_at": "2026-10-29T06:30:43.911236+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini_carbon_102726_social_share.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-29T06:30:43.911236+09:00",
+      "title": "Gemini 4 Carbonの登場",
+      "summary": "Gemini 4 Carbonは、高度なサイバーセキュリティと長期的な推論能力を備えた強力なモデルである。同モデルは同シリーズの中でも最高性能を誇る。",
+      "impact": "AI技術の安全性と複雑なタスクへの対応能力が向上し、企業活動や開発の効率化が進むとみられる。",
+      "content_at": "2026-10-29T06:30:43.911236+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-29T06:30:43.911236+09:00",
+      "title": "CNC石材彫刻",
+      "summary": "CNC技術を用いた石材彫刻についての内容である。",
+      "impact": "製造業や工芸分野において、自動化による精緻な彫刻製作が促進される可能性がある。",
+      "content_at": "2026-10-29T06:30:43.911236+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://surgehq.ai/blog/dayjob-tax",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-29T06:30:43.911236+09:00",
+      "title": "Dayjob: Tax – AIエージェントによる税務課題の評価",
+      "summary": "AIエージェントの能力を評価するため、50の専門的な税務課題を用いた試験を実施した。",
+      "impact": "AIによる税務処理の自動化が進むことで、専門職の業務効率や意思決定支援のあり方が変化する可能性がある。",
+      "content_at": "2026-10-29T06:30:43.911236+09:00"
+    },
+    {
+      "image": "https://www.apple.com/v/macbook-pro/proled-xdr-display/a/images/meta/mbp_proled_xdr__f7755bx607yq_og.png?202610271513",
+      "url": "https://www.apple.com/macbook-pro/proled-xdr-display/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-29T06:30:43.911236+09:00",
+      "title": "PROLED XDRディスプレイ搭載のMacBook Proが登場",
+      "summary": "PROLED XDRディスプレイを搭載したMacBook Proが発表された。M5 ProまたはM5 Maxチップを搭載し、AI向けの強力なプラットフォームとなっている。",
+      "impact": "世界最高のノートPC向けディスプレイと高性能チップの搭載により、クリエイターやAI開発者の作業効率が向上する可能性がある。",
+      "content_at": "2026-10-29T06:30:43.911236+09:00"
+    },
+    {
+      "image": "https://media.wired.com/photos/6ae126cfb5fdd6fa181bb24f/191:100/w_1280,c_limit/Security_Massive%20Leak%20Exposes%2041,000%20DHS%20Employees_v1.jpg",
+      "url": "https://www.wired.com/story/massive-leak-exposes-41000-homeland-security-workers-including-undercover-ice-agents/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-29T06:30:43.911236+09:00",
+      "title": "国土安全保障省職員4万1000人の個人情報が流出",
+      "summary": "ICEの潜入捜査官を含む国土安全保障省の職員4万1000人の情報が流出した。流出した記録には、関連施設の場所や職員の携帯電話番号、 wiretapプログラムやソフトウェアに関連するグループのメンバー情報が含まれている。",
+      "impact": "捜査官の身元特定や施設の機密情報漏洩により、国家安全保障や捜査活動に重大な支障をきたす可能性がある。",
+      "content_at": "2026-10-29T06:30:43.911236+09:00"
+    }
+  ],
+  "updated_at": "2026-10-29T06:30:43.911236+09:00"
+}
