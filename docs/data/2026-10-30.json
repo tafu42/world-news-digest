@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-30",
+  "articles": [
+    {
+      "image": "https://mistral.ai/cms-media/api/media/file/cover-mistral-sovereign%20copie.webp",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-30T06:30:45.578052+09:00",
+      "title": "Mistral AIが「Mistral Large 4」のモデルウェイトを公開",
+      "summary": "Mistral AIは、1兆パラメータを持つマルチモーダルモデル「Mistral Large 4」のウェイトを公開した。コーディング性能に優れたオープンウェイトモデルとして欧州で開発された。",
+      "impact": "オープンソースのAI開発において、高性能なコーディング支援AIの利用が加速する可能性がある。",
+      "content_at": "2026-10-30T06:30:45.578052+09:00"
+    },
+    {
+      "image": "https://nypost.com/wp-content/uploads/sites/2/2026/10/please-use-id-confirmed-146859021.jpg?quality=75&#038;strip=all&#038;w=1200",
+      "url": "https://nypost.com/2026/10/29/business/alleged-chinese-spy-had-close-relationship-with-nvidia-boss-jensen-huang-report/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-30T06:30:45.578052+09:00",
+      "title": "Nvidiaのジェンスン・フアンCEOと中国のスパイ容疑者の関係が浮上",
+      "summary": "中国のスパイ容疑者がNvidiaのジェンスン・フアンCEOと親密な関係を築いていたことが報じられた。この関係をめぐり、米国の情報機関が監視を行っていたとされる。",
+      "impact": "地政学的な緊張が高まる中、米国のテック企業幹部と他国勢力との関係が、国家安全保障上の懸念として注目される可能性がある。",
+      "content_at": "2026-10-30T06:30:45.578052+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-30T06:30:45.578052+09:00",
+      "title": "パトリック・スチュワート氏が死去",
+      "summary": "パトリック・スチュワート氏が死去した。",
+      "impact": "俳優の逝去により、映画界やファン層に多大な悲しみと影響を与えると考えられる。",
+      "content_at": "2026-10-30T06:30:45.578052+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6e7b3446f72ec4ac69dba7cc401750cedc2236b6227184287e16fedf444e33ed/SheepSeb/tinyworldformer",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-30T06:30:45.578052+09:00",
+      "title": "Raspberry Pi Pico 2 W上で動作する小型ワールドモデル",
+      "summary": "GitHubにて、「tinyworldformer」というプロジェクトが公開された。これはRaspberry Pi Pico 2 Wでゲームを動作させるための小型ワールドモデルである。",
+      "impact": "安価で小規模なハードウェア上でのAIモデルの実行例として、組み込みAI分野での研究や開発が促進される可能性がある。",
+      "content_at": "2026-10-30T06:30:45.578052+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/55/d9/55d91d94-f430-41c7-b2da-d3e4e9822c0b/content/images/size/w1200/2016/11/Artboard.jpg",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-30T06:30:45.578052+09:00",
+      "title": "H.264動画圧縮技術の概要",
+      "summary": "MPEGやAVC/H.264コーデックで用いられるビデオ圧縮技術の基本について解説している。",
+      "impact": "動画圧縮技術の仕組みが理解されることで、技術者や開発者が効率的なデータ転送やメディア処理を最適化する際の一助となる可能性がある。",
+      "content_at": "2026-10-30T06:30:45.578052+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/f4306889a4738297436db24e06c849b8497152a08189abae1a1ebb9b27719700/johncassil/dontallow",
+      "url": "https://github.com/johncassil/dontallow",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-30T06:30:45.578052+09:00",
+      "title": "macOSのローカルネットワーク権限確認を自動拒否するツール",
+      "summary": "macOS上でアプリが表示する「ローカルネットワーク上のデバイス検索」の許可を求めるプロンプトを自動的に拒否するツールである。CPU負荷ゼロで動作し、再起動後も有効である。",
+      "impact": "プライバシー設定の操作を自動化することで、ユーザーの手間が省かれるとともに、意図しないローカルネットワークへのアクセス許可を防ぐ効果が期待できる。",
+      "content_at": "2026-10-30T06:30:45.578052+09:00"
+    }
+  ],
+  "updated_at": "2026-10-30T06:30:45.578052+09:00"
+}
