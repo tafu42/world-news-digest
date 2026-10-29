@@ -66,7 +66,62 @@
       "summary": "ICEの潜入捜査官を含む国土安全保障省の職員4万1000人の情報が流出した。流出した記録には、関連施設の場所や職員の携帯電話番号、 wiretapプログラムやソフトウェアに関連するグループのメンバー情報が含まれている。",
       "impact": "捜査官の身元特定や施設の機密情報漏洩により、国家安全保障や捜査活動に重大な支障をきたす可能性がある。",
       "content_at": "2026-10-29T06:30:43.911236+09:00"
+    },
+    {
+      "image": "https://divagr.com/qwenputer/og.png",
+      "url": "https://divagr.com/blog/qwenputer",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-29T13:30:42.677750+09:00",
+      "title": "Qwen 3.5にRISC-V CPUを実装",
+      "summary": "Qwen 3.5 4Bの重みの中にRISC-V CPUをコンパイルし、Gated DeltaNet層をRAMとして利用する実装が行われた。これにより、順伝播の中でC言語やMicroPythonを実行し、正確な算術計算を行えるようになった。",
+      "impact": "大規模言語モデルが従来の推論能力を超えて、計算機アーキテクチャそのものとして機能する新しい可能性を示している。将来的に、AIモデルと計算資源の統合が進む可能性がある。",
+      "content_at": "2026-10-29T13:30:42.677750+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-29T13:30:42.677750+09:00",
+      "title": "GitLabのセキュリティインシデント：CVE-2026-97229の悪用試行",
+      "summary": "GitLabにおいて、CVE-2026-97229の脆弱性を悪用しようとする試みが確認された。",
+      "impact": "対象となるGitLab利用環境において、システムへの不正アクセスや情報漏洩のリスクが高まっている。システム管理者は早急な調査と対策が必要になるとみられる。",
+      "content_at": "2026-10-29T13:30:42.677750+09:00"
+    },
+    {
+      "image": "https://github.githubassets.com/assets/gist-og-image-54fd7dc0713e.png",
+      "url": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-29T13:30:42.677750+09:00",
+      "title": "Claude Codeのトークン消費問題",
+      "summary": "Claude Codeが3単語のステータスラインを表示するために、トークンの約15〜20%を消費している。Flamerix AIにより、この問題を解決するBun preloadが公開された。",
+      "impact": "Claude Codeを利用する開発者にとって、不要なトークン消費を抑えることでコスト削減や効率化につながると考えられる。",
+      "content_at": "2026-10-29T13:30:42.677750+09:00"
+    },
+    {
+      "image": "https://furbo.org/wp-content/themes/furbo/images/share.png",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-29T13:30:42.677750+09:00",
+      "title": "著者による健康状態の報告",
+      "summary": "入院中の著者が、化学療法を受けている現状について報告した。化学療法は過酷なものであるとしつつも、治療を受けている心境を綴っている。",
+      "impact": "個人の健康に関する報告であり、社会的な影響は特にない。",
+      "content_at": "2026-10-29T13:30:42.677750+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/b86c0b55df35c26b1e222647077b023759b142973b265664339dbdb2247970c9/e-n-f/if-then-else",
+      "url": "https://github.com/e-n-f/if-then-else/blob/master/if-then-else.md",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-29T13:30:42.677750+09:00",
+      "title": "「else」キーワードはドイツ語からの直訳であるという説",
+      "summary": "2019年のカンファレンス「!!Con West」で行われたトークの資料。GitHub上でif-then-elseの開発への貢献を求めている。",
+      "impact": "プログラミング言語の歴史や語源に関する理解が深まる可能性がある。",
+      "content_at": "2026-10-29T13:30:42.677750+09:00"
     }
   ],
-  "updated_at": "2026-10-29T06:30:43.911236+09:00"
+  "updated_at": "2026-10-29T13:30:42.677750+09:00"
 }
