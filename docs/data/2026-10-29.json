@@ -121,7 +121,51 @@
       "summary": "2019年のカンファレンス「!!Con West」で行われたトークの資料。GitHub上でif-then-elseの開発への貢献を求めている。",
       "impact": "プログラミング言語の歴史や語源に関する理解が深まる可能性がある。",
       "content_at": "2026-10-29T13:30:42.677750+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://iptrust.co/blog/if-ipv4-were-land",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-29T21:30:50.365259+09:00",
+      "title": "IPv4アドレスを土地に例えると",
+      "summary": "IPv4アドレスの現状を土地という概念に例えた記事である。",
+      "impact": "ネットワークアドレスのリソース不足という抽象的な問題を、より直感的に理解する助けになる可能性がある。",
+      "content_at": "2026-10-29T21:30:50.365259+09:00"
+    },
+    {
+      "image": "https://electrek.co/wp-content/uploads/sites/3/2026/06/Green-River-Energy-Center-Utah.jpg?quality=82&strip=all&resize=1200,628",
+      "url": "https://electrek.co/2026/08/31/the-us-added-a-record-20-2-gwh-of-battery-storage-in-just-3-months/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-29T21:30:50.365259+09:00",
+      "title": "米国の蓄電容量が過去最高の20.2GWhを記録",
+      "summary": "2026年第2四半期に米国の蓄電容量が20.2GWh増加し、四半期ベースの過去最高記録を更新した。アリゾナ州、テキサス州、カリフォルニア州での大規模プロジェクトが普及を牽引している。",
+      "impact": "再生可能エネルギーの導入拡大に伴い、米国内での電力供給の安定化がさらに進む可能性がある。",
+      "content_at": "2026-10-29T21:30:50.365259+09:00"
+    },
+    {
+      "image": "https://img1.wsimg.com/isteam/ip/93fe72a0-3f74-44e1-82b7-5cd9b2c3bce5/SS%20Logo%20White.png",
+      "url": "https://sonidoselva.com/perspectiva-kogui",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-29T21:30:50.365259+09:00",
+      "title": "コギ族による人工知能への緊急メッセージ",
+      "summary": "コギ族から人工知能に関する緊急メッセージが発信された。",
+      "impact": "技術の発展と環境や倫理観との調和について、先住民の視点から新たな対話がもたらされる可能性がある。",
+      "content_at": "2026-10-29T21:30:50.365259+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://inventor7777.github.io/blog/2026/10/22/debug-access-on-brother/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-29T21:30:50.365259+09:00",
+      "title": "Brother製プリンターのTelnet経由のデバッグアクセス",
+      "summary": "Brother製プリンターにおいて、Telnetを経由してデバッグアクセスを取得する手法に関する内容である。",
+      "impact": "対象となる機器におけるセキュリティ上の脆弱性が懸念され、悪用される可能性がある。",
+      "content_at": "2026-10-29T21:30:50.365259+09:00"
     }
   ],
-  "updated_at": "2026-10-29T13:30:42.677750+09:00"
+  "updated_at": "2026-10-29T21:30:50.365259+09:00"
 }
