@@ -1,0 +1,72 @@
+{
+  "date": "2026-10-31",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://virtuallyfun.com/2026/10/29/my-favourite-powermac-is-a-nintendo-wii/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-31T06:30:43.129268+09:00",
+      "title": "Nintendo WiiをPowerMacに見立てる試み",
+      "summary": "筆者がお気に入りのPowerMacとしてNintendo Wiiを挙げている。WiiをPowerMacとして扱った事例について述べられている。",
+      "impact": "個人の趣味や改造文化の一例であり、特定の技術分野や社会全体への大きな影響はないと考えられる。",
+      "content_at": "2026-10-31T06:30:43.129268+09:00"
+    },
+    {
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "url": "https://status.bunny.net/incidents/p6gf1by9kr7m",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-31T06:30:43.129268+09:00",
+      "title": "Bunny CDNでセキュリティインシデントが発生",
+      "summary": "Bunny CDNにおいてセキュリティに関するインシデントが発生した。詳細な状況については言及されていない。",
+      "impact": "CDNを利用している企業やユーザーに影響が及ぶ可能性がある。インシデントの全容次第では、データの保護に関して注意喚起が必要となる可能性がある。",
+      "content_at": "2026-10-31T06:30:43.129268+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lucaskostka.com/posts/ai-challenges-more-than-devs",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-31T06:30:43.129268+09:00",
+      "title": "プロダクトマネージャーも解雇の対象に",
+      "summary": "プロダクトマネージャーという職種も安全ではないという状況が示されている。雇用環境の変化に関する指摘である。",
+      "impact": "IT業界などでプロダクトマネージャーの雇用不安が高まる可能性がある。職種を問わず、雇用情勢の不安定化が懸念されるとみられる。",
+      "content_at": "2026-10-31T06:30:43.129268+09:00"
+    },
+    {
+      "image": "https://northflank.instatus.com/api/og",
+      "url": "https://status.northflank.com",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-31T06:30:43.129268+09:00",
+      "title": "Northflankでデータ侵害が発生",
+      "summary": "Northflankのステータス情報として、データ侵害が発生したことが示されている。",
+      "impact": "同社のプラットフォームを利用するユーザーのセキュリティリスクが高まる可能性がある。侵害内容に基づいた早急な対策や対応が必要になるとみられる。",
+      "content_at": "2026-10-31T06:30:43.129268+09:00"
+    },
+    {
+      "image": "https://phorion.io/images/default-social-card.png",
+      "url": "https://phorion.io/blog/offical-claude-code-vsx-compromise/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-31T06:30:43.129268+09:00",
+      "title": "Cursor Marketplaceの「Claude Code」拡張機能にバックドアが発見される",
+      "summary": "Phorionは、Cursor Marketplaceで公開されていた公式の「Claude Code」拡張機能にバックドアが含まれていることを確認した。このバックドアは、macOS、Linux、Windows上で永続的なSSH接続を可能にするものとなっている。",
+      "impact": "対象の拡張機能を利用した開発環境が外部から不正操作される可能性がある。ユーザーは直ちに当該拡張機能を削除し、認証情報やSSH鍵の再生成などのセキュリティ対策を行う必要があると考えられる。",
+      "content_at": "2026-10-31T06:30:43.129268+09:00"
+    },
+    {
+      "image": "https://blue-continuum.com/__l5e/assets-v1/4c93ed3c-ba50-4d5d-a01a-8490d86ffb63/verne-paris-hero.jpeg",
+      "url": "https://blue-continuum.com/verne-paris",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-10-31T06:30:43.129268+09:00",
+      "title": "ジュール・ヴェルヌの失われた小説",
+      "summary": "ジュール・ヴェルヌの失われた小説において、1960年代の機械の描写が正確に予見されていた。一方で、パリが詩人を残し続けることは想像していなかったとされている。",
+      "impact": "過去の文学作品における技術的な予測の正確性が改めて注目される可能性がある。当時の社会観と科学技術の対比を再評価するきっかけになるとみられる。",
+      "content_at": "2026-10-31T06:30:43.129268+09:00"
+    }
+  ],
+  "updated_at": "2026-10-31T06:30:43.129268+09:00"
+}
