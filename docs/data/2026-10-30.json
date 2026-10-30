@@ -121,7 +121,51 @@
       "summary": "ビリヤードが下手であることをきっかけに、双曲平面の世界へ入り込んでしまったという動画が公開された。",
       "impact": "この動画は数学的な概念を視覚的に解説するコンテンツとして、視聴者の興味を引く可能性がある。",
       "content_at": "2026-10-30T13:30:40.105636+09:00"
+    },
+    {
+      "image": "https://elect.horse/og-image.png",
+      "url": "https://elect.horse/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-30T21:30:47.661346+09:00",
+      "title": "選挙区割りパズルゲーム「elect.horse」",
+      "summary": "「elect.horse」は、選挙区の区割りを行うパズルゲームである。プレイヤーは特定の候補者が勝利するように区割りを行う。",
+      "impact": "ゲームを通じて選挙区操作（ゲリマンダリング）の仕組みを学べる可能性がある。",
+      "content_at": "2026-10-30T21:30:47.661346+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://cyberplace.social/@GossiTheDog/117528831681803563",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-30T21:30:47.661346+09:00",
+      "title": "公式Claude Code拡張機能におけるバックドアの存在",
+      "summary": "公式のClaude Code拡張機能内にバックドアが発見された。",
+      "impact": "開発環境のセキュリティに対する懸念が高まり、利用者は当該ツールの使用を控える必要があると考えられる。",
+      "content_at": "2026-10-30T21:30:47.661346+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.binarysecurity.no/posts/2026/10/one-root-case",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-30T21:30:47.661346+09:00",
+      "title": "AzureのAPI接続におけるクロステナント侵害のリスク",
+      "summary": "Azure Logic AppsのAPI接続機能に内在する脆弱なアーキテクチャについて報告された。この欠陥により、クロステナント侵害が発生する可能性がある。",
+      "impact": "クラウドサービスのセキュリティ設定やアーキテクチャの脆弱性が、組織間のデータ漏洩につながるリスクがあるとみられる。",
+      "content_at": "2026-10-30T21:30:47.661346+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://doublepulsar.com/anthropic-hacked-to-deliver-remote-access-trojan-to-claude-developer-laptops-worldwide-1148a92baae2",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-30T21:30:47.661346+09:00",
+      "title": "Anthropicがハッキング被害、遠隔操作トロイの木馬が配布",
+      "summary": "Anthropicがハッキングを受け、遠隔操作トロイの木馬が配布された。",
+      "impact": "企業の信頼性や開発環境の安全性が脅かされており、ユーザーや関係者に影響が及ぶ可能性がある。",
+      "content_at": "2026-10-30T21:30:47.661346+09:00"
     }
   ],
-  "updated_at": "2026-10-30T13:30:40.105636+09:00"
+  "updated_at": "2026-10-30T21:30:47.661346+09:00"
 }
