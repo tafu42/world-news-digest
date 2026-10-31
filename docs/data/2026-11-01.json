@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-01",
+  "articles": [
+    {
+      "image": "https://bearblog.dev/static/og-image.png",
+      "url": "https://karpathy.bearblog.dev/hacker-tube/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-01T06:30:39.743444+09:00",
+      "title": "HackerTube：Hacker Newsで推奨された動画のみで構成されたYouTube",
+      "summary": "Hacker Newsで推奨された動画のみを表示する「HackerTube」が公開された。YouTubeの代わりに利用することを提案している。",
+      "impact": "特定のコミュニティによる選別されたコンテンツを消費する新たな動画視聴スタイルの選択肢となる可能性がある。",
+      "content_at": "2026-11-01T06:30:39.743444+09:00"
+    },
+    {
+      "image": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf/opengraph-image",
+      "url": "https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-01T06:30:39.743444+09:00",
+      "title": "LinuxカーネルにおけるTCP Use-After-Freeの脆弱性（CVE-2026-98432）",
+      "summary": "LinuxのIPv4 TCPハンドシェイクにCVSS値9.8の深刻な脆弱性が発見され、10月15日に修正された。UbuntuやRHELでは現時点で修正済みカーネルの提供が開始されていない。",
+      "impact": "修正パッチが適用されるまでの間、システムがリモート攻撃に対して脆弱な状態に置かれる可能性がある。",
+      "content_at": "2026-11-01T06:30:39.743444+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pivotlake.io/blog/its-the-memory-latency-stupid/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-01T06:30:39.743444+09:00",
+      "title": "メモリレイテンシの重要性について",
+      "summary": "メモリレイテンシの重要性に関する議論が提示された。",
+      "impact": "計算処理のパフォーマンスにおいて、メモリレイテンシを最適化することの重要性が再認識される可能性がある。",
+      "content_at": "2026-11-01T06:30:39.743444+09:00"
+    },
+    {
+      "image": "https://learnfromx.com/static/images/og-word-coverage.png",
+      "url": "https://learnfromx.com/research/anime-word-coverage-vs-lines-understood",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-01T06:30:39.743444+09:00",
+      "title": "アニメの単語数と理解度の相関関係：全単語の86%を理解しても台詞の理解度は38%にとどまる可能性",
+      "summary": "8作品のアニメを分析した結果、頻出単語上位500語を理解しても全体の単語カバー率は約86%に達する一方で、全台詞の理解度は約38%にとどまることが判明した。",
+      "impact": "言語学習者がアニメのコンテンツを完全に理解するためには、頻出単語以外の語彙や文脈理解が重要であるという認識が広まる可能性がある。",
+      "content_at": "2026-11-01T06:30:39.743444+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.daemonology.net/blog/2026-10-31-The-Duty-of-a-Scholar.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-01T06:30:39.743444+09:00",
+      "title": "学者の義務",
+      "summary": "学者の義務について述べられている。",
+      "impact": "学者の役割や社会的責任に関する議論が深まる可能性がある。",
+      "content_at": "2026-11-01T06:30:39.743444+09:00"
+    }
+  ],
+  "updated_at": "2026-11-01T06:30:39.743444+09:00"
+}
