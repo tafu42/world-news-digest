@@ -66,7 +66,40 @@
       "summary": "ジュール・ヴェルヌの失われた小説において、1960年代の機械の描写が正確に予見されていた。一方で、パリが詩人を残し続けることは想像していなかったとされている。",
       "impact": "過去の文学作品における技術的な予測の正確性が改めて注目される可能性がある。当時の社会観と科学技術の対比を再評価するきっかけになるとみられる。",
       "content_at": "2026-10-31T06:30:43.129268+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://tng.episodle.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-31T13:30:42.982237+09:00",
+      "title": "パトリック・スチュワート氏を称えるスタートレックTNGのエピソード当てゲーム",
+      "summary": "パトリック・スチュワート氏に敬意を表し、スタートレックTNG（新スタートレック）のエピソードを当てるゲームが公開された。",
+      "impact": "ファンコミュニティでの交流が活発になる可能性がある。",
+      "content_at": "2026-10-31T13:30:42.982237+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/2480959ae4bac04af58435ad2b31f67eb303c0e52982c7fd1747db7b8cf9267f/chris124567/cfsolve",
+      "url": "https://github.com/chris124567/cfsolve",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-31T13:30:42.982237+09:00",
+      "title": "Cloudflare Turnstileを解決するRustライブラリが登場",
+      "summary": "ヘッドレスブラウザを必要とせず、リクエストベースでCloudflare Turnstileとチャレンジページを解決するRustライブラリが公開された。",
+      "impact": "自動化ツールやスクレイピングの開発において、認証回避の手法が進化する可能性がある。",
+      "content_at": "2026-10-31T13:30:42.982237+09:00"
+    },
+    {
+      "image": "https://media.wired.com/photos/6ae463bdc091c8b8d1ec019e/191:100/w_1280,c_limit/102026-Binance%20Hacked.jpg",
+      "url": "https://www.wired.com/story/the-dollar63-billion-binance-hack-was-pulled-off-in-just-20-minutes/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-10-31T13:30:42.982237+09:00",
+      "title": "63億ドル規模のBinanceハッキング事件、わずか20分で実行か",
+      "summary": "複数の暗号資産追跡企業によると、北朝鮮のハッカー集団「TraderTraitor」が歴史上最大のデジタル強盗に関与したとみられ、数十億ドル相当の暗号資産が失われた可能性がある。",
+      "impact": "暗号資産取引所のセキュリティ強化が急務となり、業界全体の信頼性に悪影響を及ぼす可能性がある。",
+      "content_at": "2026-10-31T13:30:42.982237+09:00"
     }
   ],
-  "updated_at": "2026-10-31T06:30:43.129268+09:00"
+  "updated_at": "2026-10-31T13:30:42.982237+09:00"
 }
