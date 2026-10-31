@@ -99,7 +99,73 @@
       "summary": "複数の暗号資産追跡企業によると、北朝鮮のハッカー集団「TraderTraitor」が歴史上最大のデジタル強盗に関与したとみられ、数十億ドル相当の暗号資産が失われた可能性がある。",
       "impact": "暗号資産取引所のセキュリティ強化が急務となり、業界全体の信頼性に悪影響を及ぼす可能性がある。",
       "content_at": "2026-10-31T13:30:42.982237+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-31T21:30:44.842348+09:00",
+      "title": "セルビアで「最も頭脳明晰な」国会が選出",
+      "summary": "セルビアで新しい議会が選出された。その議員構成は世界で最も頭脳明晰であるとされている。",
+      "impact": "同国の政策決定の質や国家運営の方向に変化が生じる可能性がある。",
+      "content_at": "2026-10-31T21:30:44.842348+09:00"
+    },
+    {
+      "image": "/static/images/piefed_logo_full_t_300x300.svg",
+      "url": "https://piefed.world/post/1503394",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-31T21:30:44.842348+09:00",
+      "title": "Signalのフォーク版「Molly」が脆弱な状態",
+      "summary": "Signalのフォーク版であるアプリ「Molly」が、3ヶ月間アップデートされておらず脆弱な状態にある。",
+      "impact": "利用者はセキュリティリスクにさらされており、速やかなアップデートや代替アプリへの移行が推奨される可能性がある。",
+      "content_at": "2026-10-31T21:30:44.842348+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://xoranth.net/gcc-switch/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-31T21:30:44.842348+09:00",
+      "title": "GCCにおけるSwitch文の低レベル化",
+      "summary": "GCC（GNU Compiler Collection）におけるSwitch文の低レベル化についての話題である。",
+      "impact": "コンパイラの最適化プロセスやプログラムの実行効率に影響を与える可能性がある。",
+      "content_at": "2026-10-31T21:30:44.842348+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.parameter.ai/labs/we-found-a-gap-at-openai",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-31T21:30:44.842348+09:00",
+      "title": "ChatGPTアカウントの乗っ取り手法が判明",
+      "summary": "研究チームがChatGPTのサンドボックスとコンテンツセキュリティポリシーを回避し、リンクを送るだけでアカウントを乗っ取ることに成功した。",
+      "impact": "AIサービスのセキュリティ対策が急務となり、ユーザーの個人情報保護に向けたシステムの改善が図られる可能性がある。",
+      "content_at": "2026-10-31T21:30:44.842348+09:00"
+    },
+    {
+      "image": "https://zebra.rodeo/assets/images/marelleo/og.jpg",
+      "url": "https://zebra.rodeo/en/blog/marelleo/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-31T21:30:44.842348+09:00",
+      "title": "子供向けオープンソースのストーリーボックス「Marelleo」",
+      "summary": "電子工作の知識がない開発者が、自身の3人の子供のためにESP32を用いてストーリーボックスを製作した。フィギュアを上に置くと物語が再生される仕組みで、試行錯誤を経て完成した。",
+      "impact": "電子工作未経験者でもアイデア次第で子供向けのツールを作れる事例として、オープンソースを活用したパーソナルなものづくりがさらに促進される可能性がある。",
+      "content_at": "2026-10-31T21:30:44.842348+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-10-31T21:30:44.842348+09:00",
+      "title": "デジタルミニマリズム",
+      "summary": "デジタル機器やサービスとの関わり方を最適化する概念であるデジタルミニマリズムについて述べられている。",
+      "impact": "デジタル機器への依存を減らすことで、個人の集中力や精神的な健康が向上すると考えられる。",
+      "content_at": "2026-10-31T21:30:44.842348+09:00"
     }
   ],
-  "updated_at": "2026-10-31T13:30:42.982237+09:00"
+  "updated_at": "2026-10-31T21:30:44.842348+09:00"
 }
