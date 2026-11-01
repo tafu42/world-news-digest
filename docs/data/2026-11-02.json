@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-02",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://hackerbooks.org",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-02T06:30:39.745117+09:00",
+      "title": "Hacker Newsで話題になった書籍をまとめる「HackerBooks」",
+      "summary": "2007年から2026年までにHacker Newsで頻繁に言及された書籍を一覧化するサービス。ユーザーが注目した本を検索・参照しやすくなる。",
+      "impact": "技術コミュニティで評価の高い文献へのアクセスが容易になり、開発者間の学習や知識の共有が活性化する可能性がある。",
+      "content_at": "2026-11-02T06:30:39.745117+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/de21b916e9a3489187a976603d5786d1d1e9d5b560d92f443b674616a1e59e2c/raphlinus/nibnib",
+      "url": "https://github.com/raphlinus/nibnib",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-02T06:30:39.745117+09:00",
+      "title": "爆速の画像解凍を実現する圧縮技術「Nibnib」",
+      "summary": "4bpp（ビット毎ピクセル）という低ビットレートで画像を圧縮し、極めて高速な解凍速度を実現する技術。GitHubで公開されている。",
+      "impact": "Webサイトの読み込み高速化や、帯域制限のある環境での効率的な画像表示に貢献する可能性がある。",
+      "content_at": "2026-11-02T06:30:39.745117+09:00"
+    },
+    {
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1793568482",
+      "url": "https://terrytao.wordpress.com/2026/11/01/mathematics-has-changed-lets-act-like-it/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-02T06:30:39.745117+09:00",
+      "title": "変化する数学の現状に対する考察",
+      "summary": "OpenAIによる技術公開などを踏まえ、数学界の現状と今後どう向き合うべきかを論じる寄稿記事。AIによるファイル変換を経てブログに掲載された。",
+      "impact": "AI技術が数学の研究や教育のあり方にどのような変化をもたらすかについて、専門家による議論が深まるきっかけになるとみられる。",
+      "content_at": "2026-11-02T06:30:39.745117+09:00"
+    },
+    {
+      "image": "https://images.doctorwhonews.net/image.php?pid=30320",
+      "url": "https://www.doctorwhonews.net/2026/11/john_leeson_1943_2026.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-02T06:30:39.745117+09:00",
+      "title": "『ドクター・フー』のK-9役ジョン・リーソン氏が死去",
+      "summary": "SFドラマ『ドクター・フー』でロボット犬K-9の声を担当した俳優のジョン・リーソン氏が83歳で死去した。同作の54エピソードで声を演じた。",
+      "impact": "長年親しまれたキャラクターの声優の訃報に対し、多くのファンや関係者から追悼の意が示されると考えられる。",
+      "content_at": "2026-11-02T06:30:39.745117+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://tibleiz.net/copper/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-02T06:30:39.745117+09:00",
+      "title": "オブジェクト指向とジェネリクスを備えた低レイヤー言語「Copper」",
+      "summary": "Copperは、オブジェクト指向とジェネリクス機能を備えた最小限の低レイヤープログラミング言語である。",
+      "impact": "低レイヤー開発において、モダンな言語機能を取り入れた新しい選択肢として開発者に利用される可能性がある。",
+      "content_at": "2026-11-02T06:30:39.745117+09:00"
+    }
+  ],
+  "updated_at": "2026-11-02T06:30:39.745117+09:00"
+}
