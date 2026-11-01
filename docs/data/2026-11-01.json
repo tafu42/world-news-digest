@@ -55,7 +55,59 @@
       "summary": "学者の義務について述べられている。",
       "impact": "学者の役割や社会的責任に関する議論が深まる可能性がある。",
       "content_at": "2026-11-01T06:30:39.743444+09:00"
+    },
+    {
+      "en_title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "en_text": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems",
+      "image": "https://th-thumbnailer.cdn-si-edu.com/_-X8sWyx82CD0eX5ZxIF7dcS2X8=/fit-in/1600x0/filters:focal(1181x787:1182x788)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/95/3795362b-64a6-4d5f-b7df-67aa18192521/l2190910.jpg",
+      "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-01T13:30:47.754857+09:00",
+      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
+      "summary": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an anci",
+      "content_at": "2026-11-01T13:30:47.754857+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "en_text": "A lightweight coding and automation agent in one CLI binary. Run locally or over SSH, optimize token use, and automate CI and cron with durable workflows. - guregodevo/memdoor",
+      "image": "https://opengraph.githubassets.com/08fc23963b6db836da67b633dbbd515896bbbbf5cf9f7d514d66866d2f0d2aa1/guregodevo/memdoor",
+      "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-01T13:30:47.754857+09:00",
+      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
+      "summary": "A lightweight coding and automation agent in one CLI binary. Run locally or over SSH, optimize token use, and automate C",
+      "content_at": "2026-11-01T13:30:47.754857+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "en_text": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court&#039;s AI caught it. The fine was $16,000.",
+      "image": "https://jetstream.security/wp-content/uploads/2026/07/ChatGPT-Image-Jul-1-2026-02_56_34-PM.png",
+      "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-01T13:30:47.754857+09:00",
+      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
+      "summary": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court&#0",
+      "content_at": "2026-11-01T13:30:47.754857+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Altoids Project",
+      "en_text": "My 12-year-old son and I spent about two months on, what we call, the Altoids project. Here is the final product (video):",
+      "image": "",
+      "url": "https://uvdn7.github.io/altoids-project/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-01T13:30:47.754857+09:00",
+      "title": "Altoids Project",
+      "summary": "My 12-year-old son and I spent about two months on, what we call, the Altoids project. Here is the final product (video)",
+      "content_at": "2026-11-01T13:30:47.754857+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-11-01T06:30:39.743444+09:00"
+  "updated_at": "2026-11-01T13:30:47.754857+09:00"
 }
