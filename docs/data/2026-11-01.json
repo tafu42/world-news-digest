@@ -57,57 +57,82 @@
       "content_at": "2026-11-01T06:30:39.743444+09:00"
     },
     {
-      "en_title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "en_text": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an ancient grain that proved to be an answer to some modern problems",
       "image": "https://th-thumbnailer.cdn-si-edu.com/_-X8sWyx82CD0eX5ZxIF7dcS2X8=/fit-in/1600x0/filters:focal(1181x787:1182x788)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/37/95/3795362b-64a6-4d5f-b7df-67aa18192521/l2190910.jpg",
       "url": "https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-01T13:30:47.754857+09:00",
-      "title": "An Italian farmer found some unknown seeds in his attic and planted them",
-      "summary": "When a seven-eared stem emerged from the ground, it seemed like a miracle. What Claudio Grossi had unearthed was an anci",
-      "content_at": "2026-11-01T13:30:47.754857+09:00",
-      "pending": true
+      "title": "イタリアの農家が屋根裏で見つけた古代の種子を発見",
+      "summary": "イタリアの農家であるクラウディオ・グロッシ氏が屋根裏で見つけた種を植えたところ、7つの穂を持つ茎が発芽した。この古代の穀物は、現代の問題に対する解決策となる可能性を秘めている。",
+      "content_at": "2026-11-01T21:30:43.680482+09:00",
+      "impact": "古代種の再発見により、食糧生産や農業の多様性において新たな知見が得られる可能性がある。"
     },
     {
-      "en_title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "en_text": "A lightweight coding and automation agent in one CLI binary. Run locally or over SSH, optimize token use, and automate CI and cron with durable workflows. - guregodevo/memdoor",
       "image": "https://opengraph.githubassets.com/08fc23963b6db836da67b633dbbd515896bbbbf5cf9f7d514d66866d2f0d2aa1/guregodevo/memdoor",
       "url": "https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-01T13:30:47.754857+09:00",
-      "title": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard",
-      "summary": "A lightweight coding and automation agent in one CLI binary. Run locally or over SSH, optimize token use, and automate C",
-      "content_at": "2026-11-01T13:30:47.754857+09:00",
-      "pending": true
+      "title": "Memdoor：CLIバイナリで動作する軽量コーディング自動化エージェント",
+      "summary": "Memdoorは、5つのQwen3.8-27Bモデルを組み合わせてLiveCodeBench HardでFable 5を上回ったコーディング・自動化エージェントである。ローカルまたはSSH経由で実行可能で、トークンの最適化やCI/cronの自動化に対応している。",
+      "content_at": "2026-11-01T21:30:43.680482+09:00",
+      "impact": "開発者がローカル環境で効率的にコーディングを自動化できるようになり、ソフトウェア開発の生産性が向上する可能性がある。"
     },
     {
-      "en_title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "en_text": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court&#039;s AI caught it. The fine was $16,000.",
       "image": "https://jetstream.security/wp-content/uploads/2026/07/ChatGPT-Image-Jul-1-2026-02_56_34-PM.png",
       "url": "https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-01T13:30:47.754857+09:00",
-      "title": "Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing",
-      "summary": "Two lawyers hid a white-on-white instruction inside a court filing telling the AI to go easy on their case. The court&#0",
-      "content_at": "2026-11-01T13:30:47.754857+09:00",
-      "pending": true
+      "title": "ブラジルの裁判所、AIへのプロンプトインジェクションを行った弁護士に制裁金",
+      "summary": "弁護士2名が、裁判所に提出する書類の中にAIの判断を有利にするための見えない指示を隠したが、裁判所のAIによって検知された。この行為に対し、16,000ドルの制裁金が科された。",
+      "content_at": "2026-11-01T21:30:43.680482+09:00",
+      "impact": "法的文書におけるAI利用に対する監視が強まり、生成AIを悪用した不正行為への抑止力が働くようになるとみられる。"
     },
     {
-      "en_title": "Altoids Project",
-      "en_text": "My 12-year-old son and I spent about two months on, what we call, the Altoids project. Here is the final product (video):",
       "image": "",
       "url": "https://uvdn7.github.io/altoids-project/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-01T13:30:47.754857+09:00",
-      "title": "Altoids Project",
-      "summary": "My 12-year-old son and I spent about two months on, what we call, the Altoids project. Here is the final product (video)",
-      "content_at": "2026-11-01T13:30:47.754857+09:00",
-      "pending": true
+      "title": "アルトイズ・プロジェクト",
+      "summary": "投稿者と12歳の息子が約2ヶ月かけて取り組んだ「アルトイズ・プロジェクト」の成果が動画で公開された。",
+      "content_at": "2026-11-01T21:30:43.680482+09:00",
+      "impact": "個人の趣味や子供の教育的なプロジェクトとして共有されており、特定の社会的な影響については言及されていない。"
+    },
+    {
+      "image": "",
+      "url": "https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-01T21:30:43.680482+09:00",
+      "title": "ノルウェーがトイレを刷新",
+      "summary": "ノルウェーがトイレ施設を改善した。",
+      "impact": "利用者の利便性や観光地としての快適性が向上する可能性がある。",
+      "content_at": "2026-11-01T21:30:43.680482+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.economist.com/asia/2026/10/29/a-tiny-pacific-country-rolls-out-universal-basic-income",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-01T21:30:43.680482+09:00",
+      "title": "太平洋の小さな島国がユニバーサル・ベーシックインカムを導入",
+      "summary": "太平洋にある小国がユニバーサル・ベーシックインカム制度を開始した。",
+      "impact": "住民の生活水準に変化をもたらす可能性があるほか、小規模国家における経済モデルの実験結果として注目されるとみられる。",
+      "content_at": "2026-11-01T21:30:43.680482+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://xn--69f31l4t57c0mag4b613h.xn--7uh4898msjaso/🆆🆃🅵/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-01T21:30:43.680482+09:00",
+      "title": "珍しいUnicode文字を用いたドメインハック（2018年）",
+      "summary": "2018年に特殊なUnicode文字を使用したドメインハックに関する話題が扱われている。",
+      "impact": "ドメイン登録における技術的関心や、ウェブ上の命名規則に対する理解を深めるものと考えられる。",
+      "content_at": "2026-11-01T21:30:43.680482+09:00"
     }
   ],
-  "updated_at": "2026-11-01T13:30:47.754857+09:00"
+  "updated_at": "2026-11-01T21:30:43.680482+09:00"
 }
