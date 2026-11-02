@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-03",
+  "articles": [
+    {
+      "image": "https://rikiyat.github.io/images/blog/weight-space-programming.png",
+      "url": "https://rikiyat.github.io/blog/weight-space-programming/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-03T06:30:45.009107+09:00",
+      "title": "AstraによるQwenの重み読み書き能力の向上",
+      "summary": "最先端LLMがニューラルネットワークの重みをネイティブに読み書きする能力は、人間や従来のアルゴリズムの予想を大きく上回ることが判明した。",
+      "impact": "LLMが自律的にAIモデルの重みを操作できるようになることで、モデルの自己改善や学習効率が飛躍的に高まる可能性がある。",
+      "content_at": "2026-11-03T06:30:45.009107+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://namedaisy.com/blog/boy-names-that-became-girl-names",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-03T06:30:45.009107+09:00",
+      "title": "米国における男女間で入れ替わった名前の変遷",
+      "summary": "米国において、かつては男性用だった名前が女性用へ、またはその逆へと変化した事例についての分析である。",
+      "impact": "言語や文化的慣習におけるジェンダーに対する認識の変化を理解する一助となるとみられる。",
+      "content_at": "2026-11-03T06:30:45.009107+09:00"
+    },
+    {
+      "image": "https://momentic.ai/images/og/home.png",
+      "url": "https://momentic.ai/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-03T06:30:45.009107+09:00",
+      "title": "Momentic: アプリのバグを自動検知するエージェント",
+      "summary": "Momenticは、ユーザーのアプリケーションを使用してバグを検知するエージェント機能を提供するツールである。",
+      "impact": "開発者が手動で行っていたテスト作業が自動化されることで、ソフトウェア開発の生産性が向上し、リリース前のバグ削減に貢献する可能性がある。",
+      "content_at": "2026-11-03T06:30:45.009107+09:00"
+    },
+    {
+      "image": "https://p.migdal.pl/warsaw-vibe-voxel/preview.jpg?v=5",
+      "url": "https://p.migdal.pl/warsaw-vibe-voxel/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-03T06:30:45.009107+09:00",
+      "title": "ワルシャワ市街を1mのボクセルで表現した3D地図",
+      "summary": "OpenStreetMapやLiDAR、都市データをもとに、ワルシャワ中心部を1メートルのボクセルで作成したインタラクティブな3D地図である。",
+      "impact": "都市計画の視覚化や、地理空間データの新しい活用方法を示す事例として役立つと考えられる。",
+      "content_at": "2026-11-03T06:30:45.009107+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-03T06:30:45.009107+09:00",
+      "title": "愛着のあるウェブサイトをバックアップしておくべき理由",
+      "summary": "著者は定期的に閲覧していた古いウェブサイトが消失した経験をきっかけに、ウェブページのバックアップの重要性を説いている。",
+      "impact": "個人のデジタルアーカイブの喪失に対する意識が高まる可能性がある。",
+      "content_at": "2026-11-03T06:30:45.009107+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/1e30d3e048e0c44270439385c50769e4164350ba5f074656000f6b94bd0c6794/soml-lang/soml",
+      "url": "https://github.com/soml-lang/soml",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-03T06:30:45.009107+09:00",
+      "title": "人間にとって扱いやすい設定フォーマット「SOML」",
+      "summary": "SOMLは人間にとって読み書きしやすい設定フォーマットを目指して開発されており、GitHub上で公開されている。",
+      "impact": "開発者が設定ファイルの記述や管理を行う際、より直感的で効率的な選択肢として採用される可能性がある。",
+      "content_at": "2026-11-03T06:30:45.009107+09:00"
+    }
+  ],
+  "updated_at": "2026-11-03T06:30:45.009107+09:00"
+}
