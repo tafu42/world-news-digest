@@ -55,7 +55,40 @@
       "summary": "Copperは、オブジェクト指向とジェネリクス機能を備えた最小限の低レイヤープログラミング言語である。",
       "impact": "低レイヤー開発において、モダンな言語機能を取り入れた新しい選択肢として開発者に利用される可能性がある。",
       "content_at": "2026-11-02T06:30:39.745117+09:00"
+    },
+    {
+      "image": "https://fosscomics.com/posts/13. BSD Unix Part 3 - The Beginning of BSD Unix/images/feature.png",
+      "url": "https://fosscomics.com/posts/13.%20BSD%20Unix%20Part%203%20-%20The%20Beginning%20of%20BSD%20Unix/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-02T13:30:46.827170+09:00",
+      "title": "F/OSSコミックス#13：BSD Unixの始まり",
+      "summary": "ビル・ジョイがBSDの配布とデバッグを担当し、その後オザルプ・ババオールと共にUnixへの仮想メモリ実装に取り組んだ。",
+      "impact": "Unixオペレーティングシステムの歴史的発展過程を理解する上で重要な情報源となる。",
+      "content_at": "2026-11-02T13:30:46.827170+09:00"
+    },
+    {
+      "image": "",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-02T13:30:46.827170+09:00",
+      "title": "Postgres 19のリリース遅延：バグ発見数の増加が要因",
+      "summary": "Postgres 19のリリースが予定より遅れている。その理由は、現在発見されているバグの数が非常に多いためである。",
+      "impact": "データベースの安定性向上に伴い、リリース時期の先送りがユーザーや開発プロジェクトに影響を及ぼす可能性がある。",
+      "content_at": "2026-11-02T13:30:46.827170+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.fz-juelich.de/en/news/archive/press-release/2026/mystery-of-60-second-fluctuations-in-power-grids-solved",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-02T13:30:46.827170+09:00",
+      "title": "電力網における60秒周期の変動の謎が解明",
+      "summary": "電力網で観測されていた60秒周期の変動に関する原因が解明された。",
+      "impact": "電力網の安定性維持や効率的な運用に向けた知見が深まることが期待される。",
+      "content_at": "2026-11-02T13:30:46.827170+09:00"
     }
   ],
-  "updated_at": "2026-11-02T06:30:39.745117+09:00"
+  "updated_at": "2026-11-02T13:30:46.827170+09:00"
 }
