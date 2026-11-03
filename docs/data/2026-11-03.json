@@ -118,7 +118,46 @@
       "summary": "Scaling Git at OpenAI",
       "content_at": "2026-11-03T13:30:43.403804+09:00",
       "pending": true
+    },
+    {
+      "en_title": "Nvidia – open-source auto-ontology",
+      "en_text": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for L...",
+      "image": "https://opengraph.githubassets.com/4355665963b5f92e7ddf16b93c1419ab901a18d09a75d32f987825762c08b256/NVIDIA/auto-ontology",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-03T21:30:44.651340+09:00",
+      "title": "Nvidia – open-source auto-ontology",
+      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables determinis",
+      "content_at": "2026-11-03T21:30:44.651340+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Toit v2.0.0",
+      "en_text": "Celebrating Toit v2.0.0 after more than four years of alpha development.",
+      "image": "",
+      "url": "https://toit.io/blog/toit-v2-0-0/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-03T21:30:44.651340+09:00",
+      "title": "Toit v2.0.0",
+      "summary": "Celebrating Toit v2.0.0 after more than four years of alpha development.",
+      "content_at": "2026-11-03T21:30:44.651340+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Katamari Damacy but it's The Met collection",
+      "en_text": "Katamari Damacy but it's The Met collection",
+      "image": "",
+      "url": "https://katamari.vaguespac.es/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-03T21:30:44.651340+09:00",
+      "title": "Katamari Damacy but it's The Met collection",
+      "summary": "Katamari Damacy but it's The Met collection",
+      "content_at": "2026-11-03T21:30:44.651340+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-11-03T13:30:43.403804+09:00"
+  "updated_at": "2026-11-03T21:30:44.651340+09:00"
 }
