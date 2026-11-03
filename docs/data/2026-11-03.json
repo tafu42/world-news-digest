@@ -68,96 +68,82 @@
       "content_at": "2026-11-03T06:30:45.009107+09:00"
     },
     {
-      "en_title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
-      "en_text": "The median net worth for people aged 30–33 in the U.S. is $68,000; the top 10% starts at $440,000. Type yours and see your percentile — no account needed. Full p10–p90 ladder by age and city.",
       "image": "https://www.keepingup.com/benchmarks/opengraph-image",
       "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-03T13:30:43.403804+09:00",
-      "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
-      "summary": "The median net worth for people aged 30–33 in the U.S. is $68,000; the top 10% starts at $440,000. Type yours and see yo",
-      "content_at": "2026-11-03T13:30:43.403804+09:00",
-      "pending": true
+      "title": "米国35歳未満の世帯純資産が2022年から2025年にかけて23%減少",
+      "summary": "米国の30歳から33歳の世帯純資産の中央値は6万8000ドルであり、上位10%の基準は44万ドルである。本記事では年齢や都市別の純資産分布が紹介されている。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00",
+      "impact": "若年層の資産形成状況が可視化されることで、経済格差に関する議論や個人の資産管理に対する関心が高まる可能性がある。"
     },
     {
-      "en_title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "en_text": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
       "image": "",
       "url": "https://hackertimes.ca/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-03T13:30:43.403804+09:00",
-      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "summary": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
-      "content_at": "2026-11-03T13:30:43.403804+09:00",
-      "pending": true
+      "title": "Hacker Newsをニューヨーク・タイムズ風にアレンジした「Hacker Times」",
+      "summary": "Hacker Newsのコンテンツをニューヨーク・タイムズのデザイン風に表示する「Hacker Times」が公開された。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00",
+      "impact": "既存サービスの情報を新しい視覚的アプローチで楽しむユーザー層が増える可能性がある。"
     },
     {
-      "en_title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "en_text": "Contribute to JiaFeiMiao-K-Cat/DiscImageStudio development by creating an account on GitHub.",
       "image": "https://opengraph.githubassets.com/83cf9948ad69a64a32eefa1070dd7da97068c0c3de30f2b5085c15b6717556ed/JiaFeiMiao-K-Cat/DiscImageStudio",
       "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-03T13:30:43.403804+09:00",
-      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
-      "summary": "Contribute to JiaFeiMiao-K-Cat/DiscImageStudio development by creating an account on GitHub.",
-      "content_at": "2026-11-03T13:30:43.403804+09:00",
-      "pending": true
+      "title": "CD・DVD・Blu-rayに可視画像を焼き付ける「DiscImageStudio」",
+      "summary": "DiscImageStudioは、CDやDVD、Blu-rayディスクに目視可能なアートワークを焼き付けるためのツールである。開発プロジェクトはGitHubで進行している。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00",
+      "impact": "物理メディアをカスタマイズしたいニッチなユーザー層において利用される可能性がある。"
     },
     {
-      "en_title": "Scaling Git at OpenAI",
-      "en_text": "Scaling Git at OpenAI",
       "image": "",
       "url": "https://openai.com/index/scaling-git-at-openai/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-03T13:30:43.403804+09:00",
-      "title": "Scaling Git at OpenAI",
-      "summary": "Scaling Git at OpenAI",
-      "content_at": "2026-11-03T13:30:43.403804+09:00",
-      "pending": true
+      "title": "OpenAIにおけるGitのスケーリング",
+      "summary": "OpenAI社内でのGit環境のスケーリングに関する取り組みが取り上げられている。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00",
+      "impact": "大規模な開発基盤を運用する他企業にとって、技術的な知見や運用方針の参考となる可能性がある。"
     },
     {
-      "en_title": "Nvidia – open-source auto-ontology",
-      "en_text": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for L...",
       "image": "https://opengraph.githubassets.com/4355665963b5f92e7ddf16b93c1419ab901a18d09a75d32f987825762c08b256/NVIDIA/auto-ontology",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-11-03T21:30:44.651340+09:00",
-      "title": "Nvidia – open-source auto-ontology",
-      "summary": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables determinis",
-      "content_at": "2026-11-03T21:30:44.651340+09:00",
-      "pending": true
+      "title": "Nvidiaが提供するオープンソースの「Auto Ontology」",
+      "summary": "Auto Ontologyは、データ上に意味論的かつグラフベースの推論レイヤーを構築するためのPythonフレームワークである。決定論的なクエリ生成やコンテキスト検索の改善、AIの解釈性の向上を実現する。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00",
+      "impact": "開発者がAIの推論プロセスをより透明化できるようになり、AIシステムへの信頼性が向上する可能性がある。"
     },
     {
-      "en_title": "Toit v2.0.0",
-      "en_text": "Celebrating Toit v2.0.0 after more than four years of alpha development.",
       "image": "",
       "url": "https://toit.io/blog/toit-v2-0-0/",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-11-03T21:30:44.651340+09:00",
-      "title": "Toit v2.0.0",
-      "summary": "Celebrating Toit v2.0.0 after more than four years of alpha development.",
-      "content_at": "2026-11-03T21:30:44.651340+09:00",
-      "pending": true
+      "title": "Toit v2.0.0が公開",
+      "summary": "4年以上にわたるアルファ開発を経て、Toitのバージョン2.0.0がリリースされた。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00",
+      "impact": "既存のユーザーにとって開発環境の安定性が向上したと考えられ、IoT分野での利用がさらに進む可能性がある。"
     },
     {
-      "en_title": "Katamari Damacy but it's The Met collection",
-      "en_text": "Katamari Damacy but it's The Met collection",
       "image": "",
       "url": "https://katamari.vaguespac.es/",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-11-03T21:30:44.651340+09:00",
-      "title": "Katamari Damacy but it's The Met collection",
-      "summary": "Katamari Damacy but it's The Met collection",
-      "content_at": "2026-11-03T21:30:44.651340+09:00",
-      "pending": true
+      "title": "メトロポリタン美術館の収蔵品で再現された「塊魂」",
+      "summary": "ビデオゲーム「塊魂」のコンセプトをメトロポリタン美術館のコレクションを用いて再現したコンテンツである。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00",
+      "impact": "アートとゲームという異なる文化の融合により、美術館の収蔵品に対する一般の関心が従来とは異なる層へ広がる可能性がある。"
     }
   ],
-  "updated_at": "2026-11-03T21:30:44.651340+09:00"
+  "updated_at": "2026-11-04T06:30:50.456500+09:00"
 }

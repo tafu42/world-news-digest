@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-04",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://blog.nns.ee/2026/11/02/renault-hack/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-04T06:30:50.456500+09:00",
+      "title": "車のナビシステムを脱獄して時計を合わせる",
+      "summary": "車のナビゲーションシステムの制限を解除する「脱獄」を行い、時計設定を変更する試みについて述べている。",
+      "impact": "車両の制御システムを改変する行為は、メーカーの保証やセキュリティに影響を及ぼす可能性がある。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://neufangled.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-04T06:30:50.456500+09:00",
+      "title": "800ドルのオープンソース・ルームスケール・グリッパーロボット「Stringman」",
+      "summary": "800ドルで構築可能なオープンソースのルームスケール・グリッパーロボットである「Stringman」を紹介している。",
+      "impact": "低コストのロボット技術が公開されることで、個人や小規模な開発者による自動化技術の活用が進む可能性がある。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://simonwillison.net/2026/Nov/3/qwen-can-interpret-model-weights/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-04T06:30:50.456500+09:00",
+      "title": "ラップトップで動作するQwen 3.8 27Bがモデルの重みを解釈可能に",
+      "summary": "Rikiya Takehiらによる論文で、大規模言語モデルがニューラルネットワークの重みを直接読み書きできる可能性が示された。この技術はラップトップ環境でも実行可能である。",
+      "impact": "AIモデル自体が重みを操作できるようになれば、自己改善やモデルの最適化プロセスの自動化が加速する可能性がある。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/9c975b46a738390ff5242d715cb750b81b4bc712e318d2a941418ea86cb87095/postmanlabs/postman-app-support/issues/14370",
+      "url": "https://github.com/postmanlabs/postman-app-support/issues/14370",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-04T06:30:50.456500+09:00",
+      "title": "Postmanが同意なくAIプラグインを導入しAPIデータを共有しようとする事象",
+      "summary": "Mac版のPostmanにおいて、ユーザーの意図しないAIプラグインの自動インストールと、APIデータの共有が試みられているという問題が報告された。",
+      "impact": "機密性の高いAPI情報が意図せず外部に流出するリスクがあり、開発現場におけるツール選定やセキュリティ設定の見直しが必要になる可能性がある。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00"
+    },
+    {
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2202649793-2560x1440.jpg",
+      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-04T06:30:50.456500+09:00",
+      "title": "富士フイルムが磁気テープ生産を5倍に増強、AI普及に伴うアーカイブ需要に対応",
+      "summary": "AIの普及に伴い、アーカイブ需要が増加している。磁気テープは低コストでオフラインのセキュリティ性が高いため、依然として活用されている。",
+      "impact": "データ管理における磁気テープの重要性が再認識される可能性がある。AI時代の膨大なデータ保管手法として、効率的なストレージ戦略の選択肢が広まるとみられる。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://ats-lang.sourceforge.net/DOCUMENT/INT2PROGINATS/HTML/book1.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-04T06:30:50.456500+09:00",
+      "title": "ATSによるプログラミング入門",
+      "summary": "ATSを用いたプログラミングの入門書である。",
+      "impact": "特定のプログラミング言語であるATSを学習する層にとっての基礎知識となる可能性がある。",
+      "content_at": "2026-11-04T06:30:50.456500+09:00"
+    }
+  ],
+  "updated_at": "2026-11-04T06:30:50.456500+09:00"
+}
