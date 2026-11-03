@@ -66,7 +66,59 @@
       "summary": "SOMLは人間にとって読み書きしやすい設定フォーマットを目指して開発されており、GitHub上で公開されている。",
       "impact": "開発者が設定ファイルの記述や管理を行う際、より直感的で効率的な選択肢として採用される可能性がある。",
       "content_at": "2026-11-03T06:30:45.009107+09:00"
+    },
+    {
+      "en_title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+      "en_text": "The median net worth for people aged 30–33 in the U.S. is $68,000; the top 10% starts at $440,000. Type yours and see your percentile — no account needed. Full p10–p90 ladder by age and city.",
+      "image": "https://www.keepingup.com/benchmarks/opengraph-image",
+      "url": "https://www.keepingup.com/benchmarks/net-worth/age-30-33",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-03T13:30:43.403804+09:00",
+      "title": "Median net worth of U.S. households under 35 fell 23% from 2022 to 2025 (real)",
+      "summary": "The median net worth for people aged 30–33 in the U.S. is $68,000; the top 10% starts at $440,000. Type yours and see yo",
+      "content_at": "2026-11-03T13:30:43.403804+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "en_text": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "image": "",
+      "url": "https://hackertimes.ca/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-03T13:30:43.403804+09:00",
+      "title": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "summary": "Show HN: Hacker Times, a New York Times-inspired version of Hacker News",
+      "content_at": "2026-11-03T13:30:43.403804+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "en_text": "Contribute to JiaFeiMiao-K-Cat/DiscImageStudio development by creating an account on GitHub.",
+      "image": "https://opengraph.githubassets.com/83cf9948ad69a64a32eefa1070dd7da97068c0c3de30f2b5085c15b6717556ed/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "url": "https://github.com/JiaFeiMiao-K-Cat/DiscImageStudio",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-03T13:30:43.403804+09:00",
+      "title": "DiscImageStudio: burn visible artwork onto CDs, DVDs and Blu-ray discs",
+      "summary": "Contribute to JiaFeiMiao-K-Cat/DiscImageStudio development by creating an account on GitHub.",
+      "content_at": "2026-11-03T13:30:43.403804+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Scaling Git at OpenAI",
+      "en_text": "Scaling Git at OpenAI",
+      "image": "",
+      "url": "https://openai.com/index/scaling-git-at-openai/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-03T13:30:43.403804+09:00",
+      "title": "Scaling Git at OpenAI",
+      "summary": "Scaling Git at OpenAI",
+      "content_at": "2026-11-03T13:30:43.403804+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-11-03T06:30:45.009107+09:00"
+  "updated_at": "2026-11-03T13:30:43.403804+09:00"
 }
