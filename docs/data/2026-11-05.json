@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-05",
+  "articles": [
+    {
+      "image": "https://layer3intel.com/eop_proxy_activity.png",
+      "url": "https://layer3intel.com/blog/residential-proxies-white-house-network",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-05T06:30:41.492783+09:00",
+      "title": "ホワイトハウスのネットワークから住宅用プロキシ通信を検知",
+      "summary": "住宅用プロキシ観測システムにより、ホワイトハウスのネットワークから30日間で236回、28のパブリックプロキシサービスを経由した通信が確認された。このトラフィックは住宅用プロキシとして検知されている。",
+      "impact": "政府機関のセキュリティ対策において、プロキシを通じたネットワーク利用への警戒が強まると考えられる。",
+      "content_at": "2026-11-05T06:30:41.492783+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.davidralphlewis.co.uk/posts/everything-is-an-ai-scam-now/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-05T06:30:41.492783+09:00",
+      "title": "あらゆるものがAI詐欺の標的に",
+      "summary": "現在、あらゆる事象がAI詐欺の対象となっている。",
+      "impact": "AI技術の悪用により、消費者がオンライン上の情報やサービスに対してより慎重になる可能性がある。",
+      "content_at": "2026-11-05T06:30:41.492783+09:00"
+    },
+    {
+      "image": "https://framerusercontent.com/images/u4OXzV0utwAtaPgcVxQtTXmkg.png",
+      "url": "https://www.ricursive.com/ripple",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-05T06:30:41.492783+09:00",
+      "title": "AIを用いたチップ開発手法「Ripple-65B」のプレビュー",
+      "summary": "チップ開発の再発明を目指すフロンティアAI手法「Ripple-65B」が開発された。AIとハードウェア開発のループを閉じることで、設計期間の短縮とカスタムシリコンの普及を目指す。",
+      "impact": "半導体業界において、開発プロセスの効率化が飛躍的に進む可能性がある。",
+      "content_at": "2026-11-05T06:30:41.492783+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.birdsoutsidemywindow.org/2026/11/03/insects-dont-swarm-at-led-lights/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-05T06:30:41.492783+09:00",
+      "title": "昆虫はLEDライトに群がらない",
+      "summary": "昆虫がLEDライトには群がらないことが示された。",
+      "impact": "照明の選定において、防虫対策としてLEDがより広く活用される可能性がある。",
+      "content_at": "2026-11-05T06:30:41.492783+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://go.dev/blog/jsonv2",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-05T06:30:41.492783+09:00",
+      "title": "Go言語向けの新しいJSON API",
+      "summary": "Go言語において、JSONを扱うための新しいAPIが公開された。",
+      "impact": "Go言語を利用する開発者にとって、JSON処理の実装方法や効率が改善される可能性がある。",
+      "content_at": "2026-11-05T06:30:41.492783+09:00"
+    }
+  ],
+  "updated_at": "2026-11-05T06:30:41.492783+09:00"
+}
