@@ -110,7 +110,73 @@
       "summary": "火星に存在する巨大な峡谷において、現在も地殻活動が続いていることが示された。",
       "impact": "火星の地質学的歴史の解明や、惑星の進化に関する新たな理解が進むとみられる。",
       "content_at": "2026-11-04T13:30:40.752879+09:00"
+    },
+    {
+      "image": "https://spectrum.ieee.org/media-library/image.jpg?id=68544156&width=1200&height=600&coordinates=0%2C312%2C0%2C313",
+      "url": "https://spectrum.ieee.org/ai-in-cybersecurity-php2shell-vulnerability",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-04T21:30:42.847530+09:00",
+      "title": "AIの普及が40年分の技術的負債の解消を迫っている",
+      "summary": "AIの台頭により、過去40年間に蓄積された技術的負債の解消が強制されている。AI技術の活用が、負債の清算を加速させる要因となっている。",
+      "content_at": "2026-11-04T21:30:42.847530+09:00",
+      "impact": "企業は古いITシステムの刷新を余儀なくされる可能性があり、開発現場ではレガシーシステムのリプレイスやコードの修正が急務になるとみられる。"
+    },
+    {
+      "image": "https://i.mscdn.ai/o/iZl0kkZU2R9KXyy7/a/3V2ICO3oSq2QZPii/_published/generated-images/0d8c9668-cbfe-4ecf-bb31-1a7fff7102be.png?fm=auto&amp;w=1200&amp;h=630&amp;fit=crop",
+      "url": "https://www.mindstudio.ai/blog/linux-nvidia-rtx-spark-laptop",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-04T21:30:42.847530+09:00",
+      "title": "Nvidia RTX Spark搭載ノートPCにおけるLinux環境のパフォーマンス低下",
+      "summary": "Nvidia RTX Sparkを搭載したノートPCでLinuxをデュアルブートした際、暗号化ファームウェアにより推論速度が35%に低下する問題が確認された。GPUクロックのスロットリングに関するバグも報告されている。",
+      "content_at": "2026-11-04T21:30:42.847530+09:00",
+      "impact": "Linuxユーザーの作業効率が低下する可能性があるほか、WSL環境の方がパフォーマンス面で優位であるとの認識が広まる可能性がある。"
+    },
+    {
+      "image": "https://dka575ofm4ao0.cloudfront.net/pages-twitter_logos/original/36420/GitHub-Mark-120px-plus.png",
+      "url": "https://www.githubstatus.com/incidents/smtdswd1h2w4",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-04T21:30:42.847530+09:00",
+      "title": "プルリクエスト、Git操作、およびIssueに関連するインシデント",
+      "summary": "プルリクエスト、Git操作、およびIssueに関するシステム障害が発生した。",
+      "content_at": "2026-11-04T21:30:42.847530+09:00",
+      "impact": "開発者のワークフローが一時的に停滞し、コードの管理やプロジェクトの進捗に支障をきたした可能性がある。"
+    },
+    {
+      "image": "https://sw.kovidgoyal.net/kitty/_images/social_previews/summary_changelog_3a0c7623.png",
+      "url": "https://sw.kovidgoyal.net/kitty/changelog/#",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-04T21:30:42.847530+09:00",
+      "title": "GPUベースのターミナル「kitty」がバージョン0.50へアップデート",
+      "summary": "クロスプラットフォーム対応の高速なGPUベースターミナル「kitty」がバージョン0.50にアップデートされた。主な新機能として、ウィンドウをドッキングする機能が追加された。",
+      "content_at": "2026-11-04T21:30:42.847530+09:00",
+      "impact": "既存のユーザーにとって作業画面の整理がより容易になり、生産性が向上する可能性がある。"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!qC0Q!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c5afe03-d75e-4108-b58a-63be2d3ba4b7_2048x1413.png",
+      "url": "https://blog.cosmos-institute.org/p/verification-is-not-knowledge",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-04T21:30:42.847530+09:00",
+      "title": "検証は知識ではない：科学には答え以上のものが必要",
+      "summary": "科学には単なる答え以上の要素が必要であるという主張。検証を行うだけでは知識を得たことにはならないという指摘である。",
+      "impact": "科学的探究におけるプロセスの重要性が再評価される可能性がある。研究手法の在り方について、新たな議論を呼ぶと考えられる。",
+      "content_at": "2026-11-04T21:30:42.847530+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://mrdoob.github.io/codevember-2026/01/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-04T21:30:42.847530+09:00",
+      "title": "ゼリーシート",
+      "summary": "ゼリーシートに関する言及。",
+      "impact": "素材や製品の性質に関する情報が不足しているため、現時点では社会への影響を予測することは困難である。",
+      "content_at": "2026-11-04T21:30:42.847530+09:00"
     }
   ],
-  "updated_at": "2026-11-04T13:30:40.752879+09:00"
+  "updated_at": "2026-11-04T21:30:42.847530+09:00"
 }
