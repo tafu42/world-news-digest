@@ -99,7 +99,51 @@
       "summary": "2.8兆パラメータを持つ画像・テキスト入力対応モデル「Kimi K3.1 Pro」の重みデータが公開された。Hugging Faceでダウンロードや試用が可能である。",
       "content_at": "2026-11-05T13:30:43.121185+09:00",
       "impact": "AI開発者や研究者が高性能なモデルを自前環境で利用できるようになり、関連技術の研究開発が加速する可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://ernie.baidu.com/release/ernie-5-5-flash-base/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-05T21:30:43.061882+09:00",
+      "title": "BaiduがERNIE 5.5 Flash Baseをリリース",
+      "summary": "Baiduが新しいAIモデルであるERNIE 5.5 Flash Baseを公開した。",
+      "impact": "軽量モデルの提供により、特定のシステムやアプリにおけるAI利用が促進される可能性がある。",
+      "content_at": "2026-11-05T21:30:43.061882+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://sshhole.com",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-05T21:30:43.061882+09:00",
+      "title": "Ssholeについて",
+      "summary": "Ssholeという名称のプロジェクトが示されている。",
+      "impact": "提供された情報が名称のみであるため、社会への影響を予測することはできない。",
+      "content_at": "2026-11-05T21:30:43.061882+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://erikgahner.github.io/posts/2026/awesome-repositories-are-no-longer-awesome/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-05T21:30:43.061882+09:00",
+      "title": "Awesomeリポジトリの現状",
+      "summary": "Awesomeリポジトリが以前ほど優れていないという見解が示されている。",
+      "impact": "開発者コミュニティにおいて、情報の整理手法やリポジトリの選別基準が再考されるきっかけとなる可能性がある。",
+      "content_at": "2026-11-05T21:30:43.061882+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://markblah.github.io/lemmings/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-05T21:30:43.061882+09:00",
+      "title": "レミングスのCSSアニメーション",
+      "summary": "レミングスを題材としたCSSアニメーションが公開された。",
+      "impact": "Webデザインの技術的デモンストレーションとして、フロントエンド開発者に影響を与える可能性がある。",
+      "content_at": "2026-11-05T21:30:43.061882+09:00"
     }
   ],
-  "updated_at": "2026-11-05T13:30:43.121185+09:00"
+  "updated_at": "2026-11-05T21:30:43.061882+09:00"
 }
