@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-06",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://kagi.com/changelog",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-06T06:30:42.599278+09:00",
+      "title": "Kagi Searchが一般公開",
+      "summary": "検索エンジン「Kagi Search」が誰でも利用可能になった。",
+      "impact": "既存の検索エンジンとは異なる検索体験が提供されることで、ユーザーの検索習慣や広告ベースのビジネスモデルに変化をもたらす可能性がある。",
+      "content_at": "2026-11-06T06:30:42.599278+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://alpinelinux.org/posts/2026-11-05-openssh-password-authentication-bypass/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-06T06:30:42.599278+09:00",
+      "title": "Alpine LinuxにおけるOpenSSHサーバーの脆弱性について",
+      "summary": "Alpine Linuxにおいて、OpenSSHサーバーのパスワード認証がバイパスされる脆弱性が報告された。",
+      "impact": "サーバーの不正アクセスを許す可能性があるため、システム管理者はパッチの適用や設定の確認といった早急なセキュリティ対策を講じる必要がある。",
+      "content_at": "2026-11-06T06:30:42.599278+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-06T06:30:42.599278+09:00",
+      "title": "Hackintoshの再来",
+      "summary": "かつてmacOSを非Apple製ハードウェアで動作させる手法である「Hackintosh」のガイドが過去に公開されていた。",
+      "impact": "Apple製ハードウェア以外の環境でmacOSを動作させる試みは、古いハードウェアの再利用や特定の開発環境を求めるユーザーにとって、選択肢を広げる可能性がある。",
+      "content_at": "2026-11-06T06:30:42.599278+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-06T06:30:42.599278+09:00",
+      "title": "MS Paintにおけるリモートコード実行の脆弱性",
+      "summary": "MS Paint（Microsoftペイント）にリモートコード実行が可能な脆弱性が見つかった。",
+      "impact": "攻撃者が細工したファイルなどを通じてPCを遠隔操作される恐れがあるため、該当アプリケーションの更新や注意が必要であるとみられる。",
+      "content_at": "2026-11-06T06:30:42.599278+09:00"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1370747786/3a594398-957d-455e-a8cd-65e13e23e4b4",
+      "url": "https://github.com/saragordic/window-sweaters",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-06T06:30:42.599278+09:00",
+      "title": "macOSメニューバーアプリ「Window Sweaters」",
+      "summary": "Window Sweatersは、macOSのウィンドウの縁にニット風の装飾を追加するメニューバーアプリである。",
+      "impact": "デスクトップ環境のカスタマイズを通じて、ユーザーの視覚的な体験やPC作業の雰囲気に変化を与える可能性がある。",
+      "content_at": "2026-11-06T06:30:42.599278+09:00"
+    }
+  ],
+  "updated_at": "2026-11-06T06:30:42.599278+09:00"
+}
