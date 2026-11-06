@@ -99,7 +99,51 @@
       "summary": "Pwn.collegeは、ハッキング技術を学習するためのプラットフォームである。",
       "impact": "サイバーセキュリティ技術を学ぶ学生や技術者のスキル向上に寄与すると考えられる。実践的な教育環境の提供により、将来的なセキュリティ人材の育成につながる可能性がある。",
       "content_at": "2026-11-06T13:30:40.817850+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/7bab6507c1b737422d0b311ba3fbb032d20d5b1c7dab100599f96d4231ace407/ppmpreetham/BUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-06T21:30:42.824064+09:00",
+      "title": "Blenderの新しいUIおよびランタイム：GPUIを上回るパフォーマンス",
+      "summary": "BlenderのGPU加速UIが元のコードベースから分離され、RustやPythonなど複数の言語に対応した。GPUIと比較して2倍の性能を実現している。",
+      "impact": "開発者やユーザーにとって、BlenderのUIのカスタマイズ性が向上し、より高速な描画環境が提供される可能性がある。",
+      "content_at": "2026-11-06T21:30:42.824064+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/2af11e0d859cfb0fd11d73827c8dca67bd0920b0f5e8c33ca2e00ab4c873be86/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-06T21:30:42.824064+09:00",
+      "title": "オランダのASN銀行がGrapheneOSなどの非Google製Androidをブロック",
+      "summary": "オランダのASN銀行のモバイルアプリが、GrapheneOSを含む非Google製Android環境で利用できなくなっているという報告がなされた。",
+      "impact": "セキュリティやプライバシーを重視するユーザーが、特定の銀行サービスを利用できなくなるなどの影響が生じるとみられる。",
+      "content_at": "2026-11-06T21:30:42.824064+09:00"
+    },
+    {
+      "image": "https://jhr.pensoft.net/showimg/d200x_100890.jpg",
+      "url": "https://jhr.pensoft.net/articles.php?id=9096",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-06T21:30:42.824064+09:00",
+      "title": "核兵器貯蔵用バンカーに取り残されたアカヤマアリのコロニー",
+      "summary": "核兵器貯蔵用の古いバンカー内に、外の巣から落下したアカヤマアリの労働アリが大量に蓄積している様子が報告された。",
+      "impact": "閉鎖環境における昆虫の生態や生存能力に関する研究に寄与する可能性がある。",
+      "content_at": "2026-11-06T21:30:42.824064+09:00"
+    },
+    {
+      "image": "https://apps.metaebene.me/media/8bbe20e7cd5817792e865718e36f743e659171e01dcf60f21dc32cdbff595c55/og.jpg",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-06T21:30:42.824064+09:00",
+      "title": "Kugelblitz：Mac向けのGoogle Earth代替ソフトウェア",
+      "summary": "Kugelblitzは、3D地球儀や地図、オープンジオデータを利用できるMacネイティブの地理情報ソフトウェアである。",
+      "impact": "Macユーザーにとって、Google Earthに代わる地理情報閲覧の選択肢が増えると考えられる。",
+      "content_at": "2026-11-06T21:30:42.824064+09:00"
     }
   ],
-  "updated_at": "2026-11-06T13:30:40.817850+09:00"
+  "updated_at": "2026-11-06T21:30:42.824064+09:00"
 }
