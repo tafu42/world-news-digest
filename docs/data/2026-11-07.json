@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-07",
+  "articles": [
+    {
+      "image": "https://cdn.sanity.io/images/pwmfmi47/production/9a5d7191d614c824c822ec90672adaf424699d3d-2400x1256.png?w=1200",
+      "url": "https://hightouch.com/blog/llm-judges-identity-resolution",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-07T06:30:41.165167+09:00",
+      "title": "JevとClaude Opusのハイブリッド運用でコストを大幅削減",
+      "summary": "ID照合の評価ツールとしてJevとGPT-6 Lunaを検証した結果、JevとClaude Opusを組み合わせることで、従来の最高水準の精度を4分の1以下のコストで実現した。",
+      "impact": "低コストで高精度なAIモデルの運用が可能になることで、企業におけるAI活用が促進される可能性がある。",
+      "content_at": "2026-11-07T06:30:41.165167+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!u_X_!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdd74ff70-df26-4e1a-be31-4fc3543bada8_2048x1072.png",
+      "url": "https://www.planned-obsolescence.org/p/ai-is-dramatically-accelerating-ai",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-07T06:30:41.165167+09:00",
+      "title": "AI研究の加速がもたらす超知能への到達予測",
+      "summary": "AI研究が急速に加速しており、この進歩が継続的に複合していく場合、単純な予測では1年以内に超知能へ到達する可能性が示唆されている。",
+      "impact": "AI技術の発展速度が予測を超えて加速することで、技術的特異点（シンギュラリティ）に達する時期が大幅に早まる可能性があるとみられる。",
+      "content_at": "2026-11-07T06:30:41.165167+09:00"
+    },
+    {
+      "image": "https://api.pwn.ai/api/blog/images/photo-2026-11-04-22-55-56-b01dcd719e0c.jpeg",
+      "url": "https://pwn.ai/blog/firecracker-escape",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-07T06:30:41.165167+09:00",
+      "title": "Firecracker VMにおけるゲストからホストへのコード実行の脆弱性が判明",
+      "summary": "悪意のあるゲストがFirecrackerのマイクロVMの境界を越え、ホスト上のルート権限で実行されるプロセスを制御することに成功した。Linuxのネットワーク上の欠陥が、ゲストからホストへのコード実行を可能にした。",
+      "impact": "クラウド基盤や仮想化環境のセキュリティにおいて、隔離技術の信頼性が再考される可能性がある。",
+      "content_at": "2026-11-07T06:30:41.165167+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.reuters.com/world/us/us-faa-says-it-will-phase-out-floppy-disks-air-traffic-control-by-2028-2026-11-05/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-07T06:30:41.165167+09:00",
+      "title": "米国FAA、航空管制システムにおけるフロッピーディスクの使用を2028年までに廃止へ",
+      "summary": "米国連邦航空局（FAA）は、航空管制システムで現在使用されているフロッピーディスクを2028年までに廃止する計画を公表した。",
+      "impact": "航空管制システムのレガシーシステムが刷新されることで、システムの保守性が向上し、セキュリティリスクが低減されると考えられる。",
+      "content_at": "2026-11-07T06:30:41.165167+09:00"
+    },
+    {
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2025-02/250213-Cybertruck-aa-1045-dd55f3.jpg",
+      "url": "https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-07T06:30:41.165167+09:00",
+      "title": "テスラがサイバートラックの生産を縮小へ",
+      "summary": "イーロン・マスク氏は、新たに発売したサイバーキャブの生産台数を増やすため、サイバートラックの生産を縮小するとXに投稿した。この措置により、テスラはモデルの生産リソースをシフトさせる。",
+      "impact": "サイバートラックの供給量が減ることで、市場価格や予約待ちの状況に影響が出る可能性がある。また、テスラが自動運転タクシー分野へ注力する姿勢が強まったといえる。",
+      "content_at": "2026-11-07T06:30:41.165167+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://quirksmode.org/quirksblog/2026/1106-valley-bubble.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-07T06:30:41.165167+09:00",
+      "title": "シリコンバレーの「バブル」崩壊の兆し",
+      "summary": "シリコンバレーが独自の現実の中に存在していたバブルが崩壊しつつある。この変化により、シリコンバレーの地位は永久的に損なわれ、技術分野の重心が失われる可能性がある。",
+      "impact": "一般市民からの評価や信頼の低下が、シリコンバレー発のテック企業のビジネスモデルや雇用に影響を及ぼす可能性がある。今後の技術産業の在り方が大きく転換する契機となるとみられる。",
+      "content_at": "2026-11-07T06:30:41.165167+09:00"
+    }
+  ],
+  "updated_at": "2026-11-07T06:30:41.165167+09:00"
+}
