@@ -68,57 +68,82 @@
       "content_at": "2026-11-07T06:30:41.165167+09:00"
     },
     {
-      "en_title": "Libghostty 1.0",
-      "en_text": "Libghostty 1.0",
       "image": "",
       "url": "https://mitchellh.com/writing/libghostty-1-0",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-07T13:30:44.017116+09:00",
-      "title": "Libghostty 1.0",
-      "summary": "Libghostty 1.0",
-      "content_at": "2026-11-07T13:30:44.017116+09:00",
-      "pending": true
+      "title": "Libghostty 1.0のリリース",
+      "summary": "Libghostty 1.0が公開された。",
+      "content_at": "2026-11-07T21:30:40.775254+09:00",
+      "impact": "開発者や利用者の間で本ソフトウェアの導入が進む可能性がある。"
     },
     {
-      "en_title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "en_text": "Everyone thinks China&#x27;s robot factories are automated. They aren&#x27;t. The robots are Chinese; the robots that make robots will be Western.",
       "image": "https://josef.cn/blog/unitree/social.png",
       "url": "https://josef.cn/blog/unitree",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-07T13:30:44.017116+09:00",
-      "title": "I Toured Unitree's Factory. I'm More Bullish on the West",
-      "summary": "Everyone thinks China&#x27;s robot factories are automated. They aren&#x27;t. The robots are Chinese; the robots that ma",
-      "content_at": "2026-11-07T13:30:44.017116+09:00",
-      "pending": true
+      "title": "Unitreeの工場訪問記：西側諸国のロボット製造への展望",
+      "summary": "中国のロボット工場は自動化されていると思われがちだが、実際はそうではない。中国製のロボットに対し、その製造を担うロボットは西側諸国が主導する可能性がある。",
+      "content_at": "2026-11-07T21:30:40.775254+09:00",
+      "impact": "今後のロボット製造業の主導権が西側諸国へ移行し、国際的な製造競争に変化が生じる可能性がある。"
     },
     {
-      "en_title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "en_text": "A federal court approved the settlement agreement, but it is &ldquo;not the final word necessarily&rdquo; in algorithmic pricing litigation, per one legal expert.",
       "image": "https://imgproxy.divecdn.com/-Uqkdu8mq6LIwH10BvB5qTP-cL2wSTidvoKpcnIFcZw/g:ce/rs:fit:770:435/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDExNjMwNzYzX0ZRNnZ3UGMuanBn.webp",
       "url": "https://www.multifamilydive.com/news/realpage-rent-pricing-case-360m-renters/873553/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-07T13:30:44.017116+09:00",
-      "title": "RealPage rent-pricing case wraps with nearly $360M to renters",
-      "summary": "A federal court approved the settlement agreement, but it is &ldquo;not the final word necessarily&rdquo; in algorithmic",
-      "content_at": "2026-11-07T13:30:44.017116+09:00",
-      "pending": true
+      "title": "RealPageの家賃価格設定訴訟、約3億6000万ドルの和解へ",
+      "summary": "連邦裁判所がRealPageの家賃価格設定に関する和解案を承認した。専門家は、これがアルゴリズムによる価格設定を巡る訴訟の最終的な決着ではない可能性を指摘している。",
+      "content_at": "2026-11-07T21:30:40.775254+09:00",
+      "impact": "今後、同様のアルゴリズムを用いたビジネスモデルに対する法的監視が強化される可能性がある。"
     },
     {
-      "en_title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-      "en_text": "The Thera volcano, on modern-day Santorini, buried Akrotiri in ash in the 17th or 16th century B.C.E. The eruption was one of the largest in recorded history",
       "image": "https://th-thumbnailer.cdn-si-edu.com/71ZU-AF0_4cQBfvE0ZFILkteMYM=/fit-in/1600x0/filters:focal(750x500:751x501)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/a0/f0/a0f097c9-8b61-4750-b992-4af6a4fada8e/akrotiri-ruins.png",
       "url": "https://www.smithsonianmag.com/history/greece-has-its-own-pompeii-and-the-ruins-tell-a-captivating-story-of-a-sophisticated-seafaring-bronze-age-society-180989747/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-07T13:30:44.017116+09:00",
-      "title": "Greece has its own Pompeii: Thera buried Akrotiri in ash 17th-16th century BCE",
-      "summary": "The Thera volcano, on modern-day Santorini, buried Akrotiri in ash in the 17th or 16th century B.C.E. The eruption was o",
-      "content_at": "2026-11-07T13:30:44.017116+09:00",
-      "pending": true
+      "title": "ギリシャのポンペイ：紀元前17〜16世紀のテラ噴火とアクロティリの埋没",
+      "summary": "紀元前17世紀から16世紀にかけて、現在のサントリーニ島にあったテラ火山が噴火し、アクロティリの集落が灰に埋もれた。これは記録に残る史上最大規模の噴火の一つである。",
+      "content_at": "2026-11-07T21:30:40.775254+09:00",
+      "impact": "古代の壊滅的な災害に関する考古学的理解がさらに深まると考えられる。"
+    },
+    {
+      "image": "",
+      "url": "https://uploadyourram.org",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-07T21:30:40.775254+09:00",
+      "title": "RAMのアップロード",
+      "summary": "RAMをアップロードするという概念についての言及である。",
+      "impact": "この技術の詳細や目的が不明なため、現時点で社会への影響を評価することはできない。",
+      "content_at": "2026-11-07T21:30:40.775254+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nfsu2.xyz/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-07T21:30:40.775254+09:00",
+      "title": "ブラウザで遊べるNeed for Speed Underground 2",
+      "summary": "Need for Speed Underground 2がブラウザ上でプレイ可能であることを示している。",
+      "impact": "過去のゲームタイトルにブラウザから手軽にアクセスできるようになり、レトロゲームへの関心が高まる可能性がある。",
+      "content_at": "2026-11-07T21:30:40.775254+09:00"
+    },
+    {
+      "image": "https://8rank.ai/og-apple-intelligence-personal-knowledge-graph.png",
+      "url": "https://8rank.ai/game/apple-intelligence-personal-knowledge-graph",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-07T21:30:40.775254+09:00",
+      "title": "Macに搭載された非公開の人間関係分析機能",
+      "summary": "2022年のmacOS 13以降、Macにはユーザーの人間関係や行動を分析しグラフ化するデーモンが搭載されている。本稿ではその仕組みについての調査結果が示されている。",
+      "impact": "ユーザーのプライバシー収集に関する懸念が高まる可能性があるほか、データの透明性について議論されるとみられる。",
+      "content_at": "2026-11-07T21:30:40.775254+09:00"
     }
   ],
-  "updated_at": "2026-11-07T13:30:44.017116+09:00"
+  "updated_at": "2026-11-07T21:30:40.775254+09:00"
 }
