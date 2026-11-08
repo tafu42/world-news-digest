@@ -110,7 +110,73 @@
       "summary": "アムステルダム派についての情報。",
       "impact": "この名称や概念が建築や芸術の文脈でどのように理解され、活用されるかに関わる可能性がある。",
       "content_at": "2026-11-08T13:30:40.665979+09:00"
+    },
+    {
+      "image": "https://bear-images.sfo2.cdn.digitaloceanspaces.com/krthr/474167074_9348806235164701_1627609488563106497_n.webp",
+      "url": "https://krthr.co/person-of-interest/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-08T21:30:45.282589+09:00",
+      "title": "ドラマ『パーソン・オブ・インタレスト』の魅力",
+      "summary": "執筆者はドラマ『パーソン・オブ・インタレスト』を見始め、その内容に夢中になっている。この作品が現代において、より関連性が高まっていると感じている。",
+      "impact": "このドラマの再評価や、監視社会をテーマにした作品への関心が高まる可能性がある。",
+      "content_at": "2026-11-08T21:30:45.282589+09:00"
+    },
+    {
+      "image": "/img/social-2026.png",
+      "url": "https://aworkinglibrary.com/writing/petered",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-08T21:30:45.282589+09:00",
+      "title": "ピーターの法則の先にあるもの",
+      "summary": "組織内における無能な人材について、従来の「ピーターの法則」とは異なる視点から検討している。",
+      "impact": "組織内の人材配置や評価基準の見直しについて、新たな議論を呼ぶ可能性がある。",
+      "content_at": "2026-11-08T21:30:45.282589+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://caleb.software/posts/claude-to-pi.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-08T21:30:45.282589+09:00",
+      "title": "ClaudeからPiへの移行",
+      "summary": "AIモデルのClaudeからPiへ移行したことについて述べている。",
+      "impact": "個人のAI利用において、特定のモデルから別のモデルへ乗り換えるユーザーの選択肢や移行事例の一つとして示唆を与える可能性がある。",
+      "content_at": "2026-11-08T21:30:45.282589+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/80f1263d9dd5d974611ef62383a7d24233ced94e6d7fc7334a105ae17dd67070/synchopate/llama-modchip",
+      "url": "https://github.com/synchopate/llama-modchip",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-08T21:30:45.282589+09:00",
+      "title": "GPU不要でDeepSeekモデルを実行する技術",
+      "summary": "GPUを使用せず、64GBのCPUメモリ環境で284BのDeepSeek-V4-Flashモデルなどを動作させる技術について解説している。",
+      "impact": "高価なGPUを必要としないAIの実行環境が普及することで、AI開発や利用のコストが下がり、普及が加速する可能性がある。",
+      "content_at": "2026-11-08T21:30:45.282589+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://clj.rs/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-08T21:30:45.282589+09:00",
+      "title": "Rustで実装されたClojureの方言「Clj.rs」",
+      "summary": "Clj.rsは、Rustを用いて実装されたClojureの方言である。",
+      "impact": "ClojureユーザーがRustの利点を活用した環境で開発を行えるようになり、言語の選択肢やパフォーマンス向上の手段として注目される可能性がある。",
+      "content_at": "2026-11-08T21:30:45.282589+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://linebender.org/blog/jit-bitmap-text/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-08T21:30:45.282589+09:00",
+      "title": "マイクロコントローラ向けのJITビットマップテキストレンダリング",
+      "summary": "マイクロコントローラにおけるJIT（Just-In-Time）を用いたビットマップテキストレンダリングの手法である。",
+      "impact": "リソースが限られた組み込み環境において、動的なテキスト表示の効率や描画性能が改善される可能性がある。",
+      "content_at": "2026-11-08T21:30:45.282589+09:00"
     }
   ],
-  "updated_at": "2026-11-08T13:30:40.665979+09:00"
+  "updated_at": "2026-11-08T21:30:45.282589+09:00"
 }
