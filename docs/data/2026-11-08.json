@@ -55,7 +55,62 @@
       "summary": "MaxxBenchがエンジニアリングタスクにおいて、なじみのある課題に異なる条件を加えた際のコーディングモデルの反応を検証している。モデルが既存の知識に基づきどのように回答を変化させるかに焦点を当てている。",
       "impact": "エンジニアリングモデルの信頼性を評価する新たな指標として活用される可能性がある。AIが単純な模倣ではなく、状況に応じた論理的な判断ができているかを判断する基準になるものと考えられる。",
       "content_at": "2026-11-08T06:30:43.936418+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-08T13:30:40.665979+09:00",
+      "title": "Claude Codeの機能によりGitHub上の1,122ファイルでパスワードが流出",
+      "summary": "Claude Codeの「Don't Ask Again」機能により、1,122件の公開GitHubファイルでパスワードが露出した。この問題は公開リポジトリにおける情報の取り扱いに起因する。",
+      "impact": "該当するリポジトリを使用しているユーザーは、パスワードの変更や認証情報の再設定が必要となる可能性がある。",
+      "content_at": "2026-11-08T13:30:40.665979+09:00"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/1350713137/51d132b5-ac5f-4382-ad0a-2720c41f2a60",
+      "url": "https://github.com/crmne/zapfast",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-08T13:30:40.665979+09:00",
+      "title": "Rustとeguiで開発された高速なWhatsAppクライアント「ZapFast」",
+      "summary": "ZapFastはRust言語とeguiを用いて開発された、高速なネイティブWhatsAppクライアントである。",
+      "impact": "軽量で高速なクライアントとして、デスクトップ環境におけるWhatsAppの操作性が向上する可能性がある。",
+      "content_at": "2026-11-08T13:30:40.665979+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://eli.thegreenplace.net/2025/making-any-integer-with-four-2s/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-08T13:30:40.665979+09:00",
+      "title": "4つの「2」を使って任意の整数を作る（2025年版）",
+      "summary": "4つの数字「2」を用いて任意の整数を作成する数学的な試みについて述べられている。",
+      "impact": "パズルや数学教育における知的好奇心を刺激する可能性がある。",
+      "content_at": "2026-11-08T13:30:40.665979+09:00"
+    },
+    {
+      "image": "https://github.blog/wp-content/themes/github-2021-child/dist/img/social-v3-new-releases.jpg",
+      "url": "https://github.blog/changelog/2026-11-05-new-pull-request-overview-page-in-public-preview/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-08T13:30:40.665979+09:00",
+      "title": "GitHubがプルリクエストの新しい概要ページをパブリックプレビューで公開",
+      "summary": "GitHubはプルリクエストの概要ページを刷新し、パブリックプレビューを開始した。長いプルリクエストで発生していた、確認のために大量のコメントやタイムラインをスクロールする必要があるという課題に対処している。",
+      "impact": "開発者がプルリクエストの状況をより迅速に把握できるようになり、コードレビューの効率が改善されると考えられる。",
+      "content_at": "2026-11-08T13:30:40.665979+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://architecture-history.org/schools/AMSTERDAM%20SCHOOL.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-08T13:30:40.665979+09:00",
+      "title": "アムステルダム派",
+      "summary": "アムステルダム派についての情報。",
+      "impact": "この名称や概念が建築や芸術の文脈でどのように理解され、活用されるかに関わる可能性がある。",
+      "content_at": "2026-11-08T13:30:40.665979+09:00"
     }
   ],
-  "updated_at": "2026-11-08T06:30:43.936418+09:00"
+  "updated_at": "2026-11-08T13:30:40.665979+09:00"
 }
