@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-09",
+  "articles": [
+    {
+      "image": "https://www.thestateofai.com/media/uploads/33f913ce812c4074d207c01b6df1858a692e6bc3229dadbfcd4f56b61722a538.png",
+      "url": "https://www.thestateofai.com/news/goldman-sachs-claude-code-traders-bankers",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-09T06:30:44.109606+09:00",
+      "title": "ゴールドマン・サックスが銀行員やトレーダーからClaude Codeを撤去",
+      "summary": "ゴールドマン・サックスが、自社の銀行員やトレーダーに対して提供していたClaude Codeの利用を停止した。この動きは7月に発生した。",
+      "impact": "金融機関におけるAIコーディングツールの利用制限が強まる可能性がある。セキュリティやデータ管理の方針が業界内で再検討されるかもしれない。",
+      "content_at": "2026-11-09T06:30:44.109606+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://sergeykuhne.com/blog/fighting-ai-brain-fry",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-09T06:30:44.109606+09:00",
+      "title": "AIによる作業の疲れに対処する方法",
+      "summary": "Claude CodeやCodexをターミナルで利用する際特有の疲労感について解説されている。",
+      "impact": "AIツールを利用する開発者の作業効率や健康管理に関する議論が深まる可能性がある。",
+      "content_at": "2026-11-09T06:30:44.109606+09:00"
+    },
+    {
+      "image": "https://duxlabs.dev/preview-images/8695bf88f0423ca0736bf25344b0082cffedcca7.png",
+      "url": "https://duxlabs.dev/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-09T06:30:44.109606+09:00",
+      "title": "オープンソースのWaylandデスクトップシェル「Dux」",
+      "summary": "Duxは、niri、Hyprlandなどの環境向けに最適化された、ウィジェットとモニタリング機能を備えるLinuxデスクトップスイートである。ファイル管理やテーマ設定機能も搭載されている。",
+      "impact": "Linuxデスクトップ環境におけるUIのカスタマイズ性やユーザビリティが向上するとみられる。",
+      "content_at": "2026-11-09T06:30:44.109606+09:00"
+    },
+    {
+      "image": "https://respawnfirst.com/wp-content/uploads/2026/11/ram-altman-github.webp",
+      "url": "https://respawnfirst.com/linux-script-emails-sam-altman-unused-ram-ram-altman/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-09T06:30:44.109606+09:00",
+      "title": "PCの空きメモリ量をサム・アルトマン氏へ毎日メールするLinuxスクリプト",
+      "summary": "開発者が「Ram-Altman」というLinuxスクリプトを作成した。このスクリプトは、PCのアイドル時のメモリ使用状況をOpenAIのサム・アルトマンCEOへ毎日自動送信する。",
+      "impact": "AI開発者に対するユニークな試みであり、コミュニティ内での話題や注目を集める可能性がある。",
+      "content_at": "2026-11-09T06:30:44.109606+09:00"
+    },
+    {
+      "image": "https://declarative-dragging.github.io/link-preview.png",
+      "url": "https://declarative-dragging.github.io/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-09T06:30:44.109606+09:00",
+      "title": "宣言的ドラッグアンドドロップの実装「Declarative Dragging」",
+      "summary": "Horowitz氏らによる「Declarative Dragging」がUIST 2026のベストペーパーを受賞した。ドラッグアンドドロップ操作をより直感的に扱うための手法を提案している。",
+      "impact": "デジタル操作におけるユーザー体験が向上する可能性がある。今後、UI設計において標準的な手法として普及する可能性がある。",
+      "content_at": "2026-11-09T06:30:44.109606+09:00"
+    },
+    {
+      "image": "https://mailroute.net/og-default.png",
+      "url": "https://mailroute.net/blog/outlook-rejecting-email-without-dmarc",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-09T06:30:44.109606+09:00",
+      "title": "Outlook.com、DMARC設定のないドメインからのメール受信を拒否",
+      "summary": "11月5日より、Outlook.comとHotmailはDMARCレコードが存在しないドメインからのメールを拒否している。この措置は小規模な送信者にも適用される。",
+      "impact": "メール送信を行う全ドメインにおいてDMARC設定が必須となり、電子メールのセキュリティと到達性が向上するとみられる。設定を行っていない送信者はメールが不達になる可能性がある。",
+      "content_at": "2026-11-09T06:30:44.109606+09:00"
+    }
+  ],
+  "updated_at": "2026-11-09T06:30:44.109606+09:00"
+}
