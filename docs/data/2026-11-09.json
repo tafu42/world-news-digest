@@ -66,7 +66,62 @@
       "summary": "11月5日より、Outlook.comとHotmailはDMARCレコードが存在しないドメインからのメールを拒否している。この措置は小規模な送信者にも適用される。",
       "impact": "メール送信を行う全ドメインにおいてDMARC設定が必須となり、電子メールのセキュリティと到達性が向上するとみられる。設定を行っていない送信者はメールが不達になる可能性がある。",
       "content_at": "2026-11-09T06:30:44.109606+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://aphyr.com/posts/427-rip-harvest",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-09T13:30:45.625711+09:00",
+      "title": "Harvestが終了",
+      "summary": "Harvestというサービスが終了した。",
+      "impact": "当該サービスを利用していたユーザーは、別の代替手段を探す必要がある。",
+      "content_at": "2026-11-09T13:30:45.625711+09:00"
+    },
+    {
+      "image": "https://ketchup3d.github.io/app/assets/screenshots/ketchup.jpg?v=0.6.5-r2",
+      "url": "https://ketchup3d.github.io/app/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-09T13:30:45.625711+09:00",
+      "title": "RustとWebGPUで構築されたSketchUpのオープンソース代替ソフト「KetchUp」",
+      "summary": "「KetchUp」は、木工や家具デザイン向けの無料のオープンソース3Dモデリングソフトウェアである。Windows、macOS、Linux、またはブラウザ上で棚やテーブル、キャビネットの正確な寸法を設計できる。",
+      "impact": "高価な3Dソフトの代替として設計者や愛好家の選択肢が広がり、個人レベルの設計作業が効率化される可能性がある。",
+      "content_at": "2026-11-09T13:30:45.625711+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://shubs.io/unlocking-any-car-from-x-brand-in-most-of-the-world/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-09T13:30:45.625711+09:00",
+      "title": "Xブランドの自動車を解錠する手法について",
+      "summary": "筆者は特定の自動車ブランドに愛着があり、2023年に同社のSUVを購入した。これは初めての経験であったという内容で記事は止まっている。",
+      "impact": "記述が途中で中断されているため具体的な影響は不明だが、自動車のセキュリティに関する懸念が生じる可能性がある。",
+      "content_at": "2026-11-09T13:30:45.625711+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://chimera-vocal-synth.vercel.app/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-09T13:30:45.625711+09:00",
+      "title": "ボーカルシンセサイザー「Chimera」",
+      "summary": "Chimeraという名称のボーカルシンセサイザー。",
+      "impact": "音楽制作ツールとしての詳細が不明なため、現時点での社会への影響は予測できない。",
+      "content_at": "2026-11-09T13:30:45.625711+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.zortax.de/posts/a-critique-of-gpui",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-09T13:30:45.625711+09:00",
+      "title": "GPUIに関する批評",
+      "summary": "GPUIについての批評記事である。",
+      "impact": "この記事の内容が、今後のソフトウェア開発やユーザーインターフェース設計に関する議論に影響を与える可能性がある。",
+      "content_at": "2026-11-09T13:30:45.625711+09:00"
     }
   ],
-  "updated_at": "2026-11-09T06:30:44.109606+09:00"
+  "updated_at": "2026-11-09T13:30:45.625711+09:00"
 }
