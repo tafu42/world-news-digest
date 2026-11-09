@@ -121,7 +121,62 @@
       "summary": "GPUIについての批評記事である。",
       "impact": "この記事の内容が、今後のソフトウェア開発やユーザーインターフェース設計に関する議論に影響を与える可能性がある。",
       "content_at": "2026-11-09T13:30:45.625711+09:00"
+    },
+    {
+      "image": "https://static.wixstatic.com/media/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg/v1/fit/w_2500,h_1330,al_c/0641fb_4ff6a49def494e379b4f3b585c4ac4a8%7Emv2_d_2482_1412_s_2.jpg",
+      "url": "https://www.foldableflight.com",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-09T21:30:43.701165+09:00",
+      "title": "紙飛行機の折り方",
+      "summary": "世界で楽しめる紙飛行機の折り方についての記事。",
+      "impact": "紙飛行機作りという遊びを通じて、子供から大人までが工作や航空力学に関心を持つきっかけになる可能性がある。",
+      "content_at": "2026-11-09T21:30:43.701165+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://rbanffy.github.io/fun-with-big-computers/fun-with-vm370/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-09T21:30:43.701165+09:00",
+      "title": "VM/370 CEマシンの楽しみ方",
+      "summary": "大型コンピュータであるVM/370 CEマシンを使用した楽しみ方を紹介している。",
+      "impact": "レトロコンピューティングへの関心を高め、古いコンピュータシステムの維持や研究を促進する可能性がある。",
+      "content_at": "2026-11-09T21:30:43.701165+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2610.14162",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-09T21:30:43.701165+09:00",
+      "title": "次世代モデル：高速並列な粗から密へのテキスト生成",
+      "summary": "拡散言語モデル（DLM）は自己回帰モデルよりも高速な並列サンプリングが可能だが、サンプリングステップを減らすと精度が低下するという課題がある。",
+      "impact": "この手法が実用化されれば、AIの推論処理における計算コストや時間を大幅に削減できる可能性がある。",
+      "content_at": "2026-11-09T21:30:43.701165+09:00"
+    },
+    {
+      "image": "https://datahyena.com/og/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds.png",
+      "url": "https://datahyena.com/research/a-chipmaker-was-in-one-of-every-eleven-100m-rounds/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-09T21:30:43.701165+09:00",
+      "title": "Nvidiaの1億ドル以上のスタートアップ投資状況",
+      "summary": "2025年10月から2026年9月までの間に、Nvidiaとその投資部門は1億ドル以上のベンチャー投資ラウンドの約11分の1に参加した。これはSequoiaやAndreessen Horowitzを上回る件数である。",
+      "impact": "AI半導体メーカーであるNvidiaが、スタートアップエコシステム全体で戦略的な影響力を強めていることがうかがえる。今後、同社の技術やプラットフォームを採用する企業が増加する可能性がある。",
+      "content_at": "2026-11-09T21:30:43.701165+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nchagnet.eu/blog/you-should-try-gleam",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-09T21:30:43.701165+09:00",
+      "title": "Rust開発者がGleamに親しみを感じる理由とBEAM環境の違い",
+      "summary": "Rust開発者がGleamになじみやすい理由と、BEAM環境特有の性質について解説している。両者の共通点や環境の違いに焦点を当てた内容である。",
+      "impact": "Rust開発者が新しいプログラミング言語を選択する際の参考情報となる可能性がある。BEAM環境への理解が深まることで、特定の技術スタックにおける開発の選択肢が広がるかもしれない。",
+      "content_at": "2026-11-09T21:30:43.701165+09:00"
     }
   ],
-  "updated_at": "2026-11-09T13:30:45.625711+09:00"
+  "updated_at": "2026-11-09T21:30:43.701165+09:00"
 }
