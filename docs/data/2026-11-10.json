@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-10",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://postalpro.usps.com/zcb",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-10T06:30:47.331532+09:00",
+      "title": "USPSが公式の郵便番号境界ポリゴンデータを提供開始",
+      "summary": "米国郵便公社（USPS）が、公式の郵便番号境界を示すポリゴンデータの提供を開始した。",
+      "impact": "地理空間データを利用する物流やマーケティング関連の業務において、より正確なエリア分析が可能になるとみられる。",
+      "content_at": "2026-11-10T06:30:47.331532+09:00"
+    },
+    {
+      "image": "https://www.payments.ca/sites/default/files/2026-11/CanadaLightsUp.png",
+      "url": "https://www.payments.ca/canada-launches-real-time-rail-bringing-247-payment-infrastructure-national-economy",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-10T06:30:47.331532+09:00",
+      "title": "カナダ決済システム「Real-Time Rail（RTR）」の運用開始",
+      "summary": "Payments Canadaは、参加する金融サービス提供者がリアルタイムで決済を処理できる新たなシステム「Real-Time Rail（RTR）」の立ち上げを発表した。カナダ国内向けのプラットフォームとして、将来的な革新と経済的繁栄を目指す。",
+      "impact": "カナダ国内における金融取引の迅速化が進み、事業者や消費者の利便性が大幅に向上する可能性がある。",
+      "content_at": "2026-11-10T06:30:47.331532+09:00"
+    },
+    {
+      "image": "https://e-means.github.io/assets/emeans_vs_lloyd_readme_v9.png",
+      "url": "https://e-means.github.io/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-10T06:30:47.331532+09:00",
+      "title": "k-meansクラスタリングを10倍高速化する「E-means」",
+      "summary": "k-meansクラスタリングにおける最適化手法とスケーリング則を研究した論文「E-means」が公開された。同手法は、損失を同等に保ちつつ従来の10倍の速度を実現する。",
+      "impact": "大規模データの解析において計算リソースの節約や処理時間の短縮が期待される。",
+      "content_at": "2026-11-10T06:30:47.331532+09:00"
+    },
+    {
+      "image": "https://artificialanalysis.ai/en/models/claude-fable-5-2/opengraph-image?65781a17af1a7936",
+      "url": "https://artificialanalysis.ai/models/claude-fable-5-2",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-10T06:30:47.331532+09:00",
+      "title": "Anthropicの「Claude Fable 5.2」がArtificial Analysisで最高スコアを獲得",
+      "summary": "AIモデルの品質や価格、性能などを比較する「Artificial Analysis」において、AnthropicのClaude Fable 5.2が65点を記録し、これまでの最高値を更新した。本分析では、処理速度やコンテキストウィンドウなど複数の指標で他モデルとの比較が行われた。",
+      "impact": "AI開発における性能競争が加速し、企業や開発者がモデルを選択する際の重要な指標となる可能性がある。",
+      "content_at": "2026-11-10T06:30:47.331532+09:00"
+    },
+    {
+      "image": "https://www-cdn.anthropic.com/images/4zrzovbb/website/b2dab182c77b4ccfd36423470106915b20f676ae-1200x630.jpg",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-2",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-10T06:30:47.331532+09:00",
+      "title": "新モデル「Claude Fable 5.2」および「Mythos 5.2」を発表",
+      "summary": "技術的な課題に対応する新しいモデルとして「Claude Fable 5.2」と「Mythos 5.2」が発表された。Fable 5.2はコーディング、金融、科学分野において新たな基準を打ち立てるとしている。",
+      "impact": "これらのモデルにより、専門的な技術領域におけるAIの分析や計算の精度が向上する可能性がある。",
+      "content_at": "2026-11-10T06:30:47.331532+09:00"
+    },
+    {
+      "image": "https://research.meta.ai/articles/muse-glint/hero/blog-header-light-v1.webp",
+      "url": "https://research.meta.ai/blog/muse-ember",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-10T06:30:47.331532+09:00",
+      "title": "最小かつ効率的な新モデル「Muse Ember」を発表",
+      "summary": "複雑な推論の実行や反復的なエージェント作業に特化した、最小かつ最も効率的なモデル「Muse Ember」が発表された。",
+      "impact": "効率性の高いAIの提供により、日常的なエージェント業務の処理速度や運用コストの改善に寄与するとみられる。",
+      "content_at": "2026-11-10T06:30:47.331532+09:00"
+    }
+  ],
+  "updated_at": "2026-11-10T06:30:47.331532+09:00"
+}
