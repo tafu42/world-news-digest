@@ -68,18 +68,60 @@
       "content_at": "2026-11-10T06:30:47.331532+09:00"
     },
     {
-      "en_title": "Horible public key tricks",
-      "en_text": "Horible public key tricks",
       "image": "",
       "url": "https://maurycyz.com/projects/badcert/",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-10T13:30:44.522098+09:00",
-      "title": "Horible public key tricks",
-      "summary": "Horible public key tricks",
-      "content_at": "2026-11-10T13:30:44.522098+09:00",
-      "pending": true
+      "title": "恐ろしい公開鍵のトリック",
+      "summary": "公開鍵に関する手法についての内容。",
+      "content_at": "2026-11-10T21:30:46.502105+09:00",
+      "impact": "暗号技術やセキュリティ分野において、既存の仕組みの安全性や運用方法が見直される可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://deepmind.google/blog/introducing-alphaproof-code/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-10T21:30:46.502105+09:00",
+      "title": "AlphaProofコード",
+      "summary": "AlphaProofのコードに関する内容。",
+      "content_at": "2026-11-10T21:30:46.502105+09:00",
+      "impact": "関連する技術開発や研究において、コードの利用や分析が進む可能性がある。"
+    },
+    {
+      "image": "https://strandsagents.com/blog/og/amazon-saves-millions-replacing-sonnet-with-strands-decider.png",
+      "url": "https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-10T21:30:46.502105+09:00",
+      "title": "AmazonがSonnet 4.6からStrands Deciderへ移行しコスト削減",
+      "summary": "Amazonのエンジニアが、Claude Sonnet 4.6を意思決定モデルへと置き換えた。これにより数百万ドルのコスト削減を実現した。",
+      "content_at": "2026-11-10T21:30:46.502105+09:00",
+      "impact": "企業においてAIモデルの適材適所な運用が進むことで、コスト効率の向上が図られるとみられる。"
+    },
+    {
+      "image": "https://news.exeter.ac.uk/wp-content/uploads/2026/11/solar-pic.jpg",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/fossil-co2-emissions-decrease-in-2026/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-10T21:30:46.502105+09:00",
+      "title": "2026年の化石燃料由来のCO2排出量が0.4%減少",
+      "summary": "太陽光および風力発電の拡大とイランの紛争により、2026年の化石燃料による世界的な炭素排出量が0.4%減少すると予測されている。",
+      "content_at": "2026-11-10T21:30:46.502105+09:00",
+      "impact": "気候変動対策としての再生可能エネルギーの有効性が示されたほか、地政学的リスクが環境負荷に影響を及ぼす可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://maurycyz.com/projects/fading/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-10T21:30:46.502105+09:00",
+      "title": "テレビが壁を透過して見ることができるようになる可能性",
+      "summary": "テレビが壁越しに物を見る機能を持つことが示された。この機能に関する詳細な技術や用途については言及されていない。",
+      "content_at": "2026-11-10T21:30:46.502105+09:00",
+      "impact": "今後、家庭用デバイスのプライバシーやセキュリティに関する議論が活発化する可能性がある。"
     }
   ],
-  "updated_at": "2026-11-10T13:30:44.522098+09:00"
+  "updated_at": "2026-11-10T21:30:46.502105+09:00"
 }
