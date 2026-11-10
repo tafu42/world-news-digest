@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://neil.fraser.name/news/2026/11/10/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-11T06:30:44.344140+09:00",
+      "title": ".nameドメインの継続利用について",
+      "summary": ".nameドメインの継続利用（Grandfathered）に関する情報である。",
+      "content_at": "2026-11-11T06:30:44.344140+09:00",
+      "impact": "対象となるドメイン所有者の管理継続に影響する可能性がある。"
+    },
+    {
+      "image": "https://docodethatmatters.com/images/home-automation/t1-07.webp",
+      "url": "https://docodethatmatters.com/home-automation-overnight-success/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-11T06:30:44.344140+09:00",
+      "title": "スマートホームデバイスのオフライン動作の提言",
+      "summary": "自宅内のデバイスがベンダーのシステムに依存せず動作すべきという主張である。",
+      "content_at": "2026-11-11T06:30:44.344140+09:00",
+      "impact": "スマートホーム製品の仕様や設計のあり方に関する議論に影響を与える可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://lwn.net/SubscriberLink/1102549/acbc92e00cee3a3f/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-11T06:30:44.344140+09:00",
+      "title": "DisplayLinkドライバーの動作停止を招くSynapticsの特許主張",
+      "summary": "DisplayLinkチップセットを搭載したドッキングステーションで、Synapticsの特許主張によりドライバーの動作が停止している。",
+      "content_at": "2026-11-11T06:30:44.344140+09:00",
+      "impact": "当該製品のユーザーの利便性が損なわれ、ハードウェアの利用に支障が出る可能性がある。"
+    },
+    {
+      "image": "https://www.archives.gov/sites/all/themes/nara/images/naralogo-og.png",
+      "url": "https://www.archives.gov/milestone-documents/sherman-anti-trust-act",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-11T06:30:44.344140+09:00",
+      "title": "1890年シャーマン反トラスト法",
+      "summary": "1890年7月2日に制定されたシャーマン反トラスト法に関する公文書の記録である。",
+      "content_at": "2026-11-11T06:30:44.344140+09:00",
+      "impact": "歴史的な独占禁止法の制定経緯を確認する資料として機能し、法規制の根拠を理解する一助となるとみられる。"
+    },
+    {
+      "image": "",
+      "url": "https://teorth.github.io/tao-web/six-math-essentials.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-11T06:30:44.344140+09:00",
+      "title": "テレンス・タオによる数学の必須要素6選",
+      "summary": "数学者テレンス・タオが数学の必須要素6つについて述べている。タイトルおよびリード文以上の詳細は示されていない。",
+      "impact": "数学を学ぶ層にとって、世界的に著名な数学者の知見として参照される可能性がある。",
+      "content_at": "2026-11-11T06:30:44.344140+09:00"
+    },
+    {
+      "image": "https://valdottown--01a1c636170f75bd955ad39917dccd9e.web.val.run/images/winding-down-bird-24619313141.jpg",
+      "url": "https://blog.val.town/winding-down",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-11T06:30:44.344140+09:00",
+      "title": "Val Townがサービス終了へ",
+      "summary": "Val Townがサービスの終了を告知し、ユーザーへの感謝を伝えている。",
+      "impact": "既存のユーザーや開発者は、利用中の機能やプロジェクトの移行先を検討する必要が生じる可能性がある。",
+      "content_at": "2026-11-11T06:30:44.344140+09:00"
+    }
+  ],
+  "updated_at": "2026-11-11T06:30:44.344140+09:00"
+}
