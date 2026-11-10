@@ -66,7 +66,20 @@
       "summary": "複雑な推論の実行や反復的なエージェント作業に特化した、最小かつ最も効率的なモデル「Muse Ember」が発表された。",
       "impact": "効率性の高いAIの提供により、日常的なエージェント業務の処理速度や運用コストの改善に寄与するとみられる。",
       "content_at": "2026-11-10T06:30:47.331532+09:00"
+    },
+    {
+      "en_title": "Horible public key tricks",
+      "en_text": "Horible public key tricks",
+      "image": "",
+      "url": "https://maurycyz.com/projects/badcert/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-10T13:30:44.522098+09:00",
+      "title": "Horible public key tricks",
+      "summary": "Horible public key tricks",
+      "content_at": "2026-11-10T13:30:44.522098+09:00",
+      "pending": true
     }
   ],
-  "updated_at": "2026-11-10T06:30:47.331532+09:00"
+  "updated_at": "2026-11-10T13:30:44.522098+09:00"
 }
