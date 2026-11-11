@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-12",
+  "articles": [
+    {
+      "image": "https://opengraph.githubassets.com/afee5e040a7795021cd73a37cca10e62b8f2c820c8bbb3c5d4e945a0bac0f307/aws/aws-emulator",
+      "url": "https://github.com/aws/aws-emulator",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-12T06:30:52.703268+09:00",
+      "title": "AWSが独自のローカルエミュレーターを公開",
+      "summary": "AWS APIの動作をローカル環境で再現する「AWS Emulator」がGitHubで公開された。開発者はアカウントを作成することでプロジェクトに貢献できる。",
+      "impact": "AWS環境のローカル開発・テストが容易になるため、開発者の作業効率が向上する可能性がある。",
+      "content_at": "2026-11-12T06:30:52.703268+09:00"
+    },
+    {
+      "image": "https://us1.discourse-cdn.com/flex002/uploads/python1/original/1X/f93ff97c4f381b5e8add5a0c163b4ded29f20ed7.png",
+      "url": "https://discuss.python.org/t/in-memoriam-tim-peters-1952-2026/110028",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-12T06:30:52.703268+09:00",
+      "title": "Python界の重鎮ティム・ピーターズ氏が死去",
+      "summary": "PythonのZen of Python（PEP 20）の著者として知られるティム・ピーターズ氏が、今年7月15日に死去した。同氏は言語の共同設計者であり、多くのエンジニアに影響を与えた。",
+      "impact": "Pythonコミュニティにおいて大きな損失と受け止められており、同氏の言語設計への貢献が改めて再評価されると考えられる。",
+      "content_at": "2026-11-12T06:30:52.703268+09:00"
+    },
+    {
+      "image": "https://michael.bacarella.com/assets/mbacface.jpg",
+      "url": "https://michael.bacarella.com/2026/11/10/false-smoke-alarm-jane-street-datacenter/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-12T06:30:52.703268+09:00",
+      "title": "Jane Streetのデータセンターで誤作動による危機が発生",
+      "summary": "Jane Streetのシステムチームが、誤作動した火災報知器により冷却機能が失われたデータセンターでの対応を振り返った。スプリンクラーの作動を阻止するため、全電源ケーブルを緊急切断する事態となった。",
+      "impact": "データセンターにおける火災検知システムの誤作動が重大なインシデントにつながるリスクを示唆しており、運用の信頼性向上が重要視される可能性がある。",
+      "content_at": "2026-11-12T06:30:52.703268+09:00"
+    },
+    {
+      "image": "https://www.allthingsdistributed.com/images/aws-emulator-header.jpg",
+      "url": "https://www.allthingsdistributed.com/2026/11/aws-emulator-and-the-engineers-job-when-agents-write-the-code.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-12T06:30:52.703268+09:00",
+      "title": "AIエージェントが開発したAWSエミュレーターが登場",
+      "summary": "AIエージェントによって完全に作成・テストされた「AWS Emulator」がリリースされた。200以上のAWSサービスをローカル環境でシミュレーション可能である。",
+      "impact": "AIエージェントによるソフトウェア開発の活用事例として注目され、今後のエンジニアの業務のあり方に影響を与える可能性がある。",
+      "content_at": "2026-11-12T06:30:52.703268+09:00"
+    },
+    {
+      "image": "https://termsheetplease.com/assets/social-preview.png?v=title-only-20261110",
+      "url": "https://termsheetplease.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-12T06:30:52.703268+09:00",
+      "title": "YCスタートアップの資金調達を審査する『Papers, Please』風のゲームが登場",
+      "summary": "YCのスタートアップが資金調達を行う設定のゲームが公開された。プレイヤーは財務状況の確認や記録の質問を行い、誰に資金を提供するかを決定する。",
+      "impact": "開発者やスタートアップ関係者の間で話題となり、投資判断の難しさやプロセスをゲームを通じて再確認する機会となる可能性がある。",
+      "content_at": "2026-11-12T06:30:52.703268+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini__decisions__blog-header_2784x1566.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-12T06:30:52.703268+09:00",
+      "title": "GoogleがGemini Decisions APIを発表",
+      "summary": "マルチモーダルな意思決定を支援するモデル「Gemini Decision」を活用したGemini Decisions APIが発表された。迅速かつ調整された意思決定を目的としている。",
+      "impact": "複雑なデータを用いた判断が必要なシステムにおいて、自動化や効率化が進む可能性がある。",
+      "content_at": "2026-11-12T06:30:52.703268+09:00"
+    }
+  ],
+  "updated_at": "2026-11-12T06:30:52.703268+09:00"
+}
