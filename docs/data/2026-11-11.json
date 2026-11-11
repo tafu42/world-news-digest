@@ -66,7 +66,51 @@
       "summary": "Val Townがサービスの終了を告知し、ユーザーへの感謝を伝えている。",
       "impact": "既存のユーザーや開発者は、利用中の機能やプロジェクトの移行先を検討する必要が生じる可能性がある。",
       "content_at": "2026-11-11T06:30:44.344140+09:00"
+    },
+    {
+      "image": "https://www.vulncheck.com/_og/s/o_6eba28d38c5a4083.png",
+      "url": "https://www.vulncheck.com/blog/anthropic-glasswing-november-update",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-11T13:30:41.629132+09:00",
+      "title": "プロジェクト「Glasswing」の7ヶ月間の調査結果と課題",
+      "summary": "VulnCheckはプロジェクト開始から7ヶ月間でAnthropicに関連する442件のCVEを追跡した。報告された37,966件の調査結果のうち、公開されたのは全体の約19.4%にとどまる。",
+      "impact": "公開情報の少なさが脆弱性管理の透明性に影響を与える可能性がある。",
+      "content_at": "2026-11-11T13:30:41.629132+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.moertel.com/posts/2013-12-14-great-old-timey-game-programming-hack.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-11T13:30:41.629132+09:00",
+      "title": "2013年のレトロなゲームプログラミング手法",
+      "summary": "2013年に公開された、古いゲームプログラミングのテクニックに関する記事である。",
+      "impact": "当時のプログラミング手法を学ぶための歴史的資料として活用される可能性がある。",
+      "content_at": "2026-11-11T13:30:41.629132+09:00"
+    },
+    {
+      "image": "https://images-stag.jazelc.com/uploads/theautopian-m2en/20261110110448/ScionByToyota_Family_TS3.jpg",
+      "url": "https://www.theautopian.com/scion-is-back-and-its-going-to-sell-a-freaking-kei-truck-in-america/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-11T13:30:41.629132+09:00",
+      "title": "Scionブランドの復活と米国での軽トラック販売計画",
+      "summary": "トヨタのブランド「Scion」が復活し、米国で軽トラックや自転車、ハイブリッド車を販売する計画を発表した。",
+      "impact": "米国の自動車市場において、ユニークな車両カテゴリーの需要が喚起される可能性がある。",
+      "content_at": "2026-11-11T13:30:41.629132+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/article/deter-bioterrorism-u-s-imposes-new-rules-ordering-synthetic-dna",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-11T13:30:41.629132+09:00",
+      "title": "バイオテロ防止に向けた合成DNA注文の規制強化",
+      "summary": "米国政府はバイオテロを抑止するため、合成DNAの注文プロセスに関する新たなルールを導入した。",
+      "impact": "バイオテクノロジー分野のセキュリティが向上する一方、関連企業や研究機関には手続きの適正化が求められるとみられる。",
+      "content_at": "2026-11-11T13:30:41.629132+09:00"
     }
   ],
-  "updated_at": "2026-11-11T06:30:44.344140+09:00"
+  "updated_at": "2026-11-11T13:30:41.629132+09:00"
 }
