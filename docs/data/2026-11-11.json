@@ -110,7 +110,40 @@
       "summary": "米国政府はバイオテロを抑止するため、合成DNAの注文プロセスに関する新たなルールを導入した。",
       "impact": "バイオテクノロジー分野のセキュリティが向上する一方、関連企業や研究機関には手続きの適正化が求められるとみられる。",
       "content_at": "2026-11-11T13:30:41.629132+09:00"
+    },
+    {
+      "image": "https://gatezh.com/brand/share.381cc582d58a3410686473b92c1d944fbc83dc59a7e926952aeb6c5c0d8a6ef0.png",
+      "url": "https://gatezh.com/posts/macos-secure-enclave-ssh-keys/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-11T21:30:43.960262+09:00",
+      "title": "macOSのSecure EnclaveでSSH鍵を保護する方法",
+      "summary": "サードパーティ製アプリを使用せず、Touch IDを活用してmacOSのSecure Enclave内にSSH鍵を保持する手法について解説している。",
+      "impact": "macOSユーザーのSSH認証におけるセキュリティレベルが向上する可能性がある。",
+      "content_at": "2026-11-11T21:30:43.960262+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/c4a07f09bbe3cd981667e9ea072a57f8b44a63d19cfeaceacb1018ff8fd00358/gmkurtzer/ginux",
+      "url": "https://github.com/gmkurtzer/ginux",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-11T21:30:43.960262+09:00",
+      "title": "Greg Kurtzer氏の「Ginux」がユーザー空間カーネルに移行",
+      "summary": "Greg Kurtzer氏が開発する「Ginux」がユーザー空間カーネルとなった。GitHubを通じて開発へのコントリビューションが可能である。",
+      "impact": "OS開発に関心を持つ開発者コミュニティの間で、プロジェクトの利便性や関心が高まる可能性がある。",
+      "content_at": "2026-11-11T21:30:43.960262+09:00"
+    },
+    {
+      "image": "https://9to5mac.com/wp-content/uploads/sites/6/2026/10/Mac-mini.jpg?quality=82&strip=all&resize=1200,628",
+      "url": "https://9to5mac.com/2026/11/10/apple-has-new-mac-app-coming-to-make-running-local-ai-models-easy/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-11T21:30:43.960262+09:00",
+      "title": "AppleがローカルAIモデルを実行する新しいMacアプリを開発中",
+      "summary": "Appleがローカル環境でAIモデルを容易に実行するための新しいMacアプリを開発している証拠が発見された。リーカーのAaron Perris氏が報告している。",
+      "impact": "実現すればMacユーザーがプライバシーを保ちつつ手軽にAIモデルを利用できるようになり、ローカルAIの普及が促進される可能性がある。",
+      "content_at": "2026-11-11T21:30:43.960262+09:00"
     }
   ],
-  "updated_at": "2026-11-11T13:30:41.629132+09:00"
+  "updated_at": "2026-11-11T21:30:43.960262+09:00"
 }
