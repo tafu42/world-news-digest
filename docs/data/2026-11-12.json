@@ -110,7 +110,51 @@
       "summary": "GitHub Actionsをロックするようにという警告がなされている。",
       "impact": "GitHub Actionsのセキュリティ設定が適切に行われていない場合、開発環境や機密データが攻撃者に悪用されるリスクがあると考えられる。",
       "content_at": "2026-11-12T13:30:41.536192+09:00"
+    },
+    {
+      "image": "https://www.gravatar.com/avatar/c69557151e2f8331f6b1865469b694dd?s=200",
+      "url": "https://pron.github.io/posts/correctness-and-complexity",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-12T21:30:46.996790+09:00",
+      "title": "なぜソフトウェアの正確な記述は困難なのか",
+      "summary": "プログラムと正確性の関係性を考察し、なぜ正確なプログラムの記述が困難なのかを解説する。計算可能性理論や計算複雑性理論の結果を通じて、プログラムの完全な理解と正確性の関連性を紐解く。",
+      "content_at": "2026-11-12T21:30:46.996790+09:00",
+      "impact": "ソフトウェア開発における正確性の限界について理論的な知見が深まり、開発手法や品質管理のあり方に影響を与える可能性がある。"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/9ca637746260100081b514f6333045290d996e1b8d26a10808e4e435aa6a7424/janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-12T21:30:46.996790+09:00",
+      "title": "Jane StreetのSocratic Tutor",
+      "summary": "Jane Streetによるプロジェクト「agent_skills」についての案内である。GitHub上で開発に参加できる旨が記載されている。",
+      "content_at": "2026-11-12T21:30:46.996790+09:00",
+      "impact": "オープンソースプロジェクトへの貢献が促されることで、エージェント技術の発展に寄与する可能性がある。"
+    },
+    {
+      "image": "https://ipo.anthropic.com/assets/share-image-eAr8nJRP.jpg",
+      "url": "https://ipo.anthropic.com/us/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-12T21:30:46.996790+09:00",
+      "title": "AnthropicがIPO（新規株式公開）へ",
+      "summary": "Anthropicが上場企業になるための申請を行った。創業者の手紙などの関連情報が公開されている。",
+      "content_at": "2026-11-12T21:30:46.996790+09:00",
+      "impact": "AI企業の株式公開により、AI業界の市場環境や投資動向が変化する可能性がある。"
+    },
+    {
+      "image": "https://codeberg.org/wvhulle/bootvine/-/summary-card",
+      "url": "https://codeberg.org/wvhulle/bootvine",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-12T21:30:46.996790+09:00",
+      "title": "ブートコンソールにおけるsystemdジョブのライブツリー表示",
+      "summary": "システムの起動過程を示すsystemdのステージを、木構造としてブートコンソールにアニメーションで表示するものである。",
+      "content_at": "2026-11-12T21:30:46.996790+09:00",
+      "impact": "起動プロセスの可視化により、システムの診断やトラブルシューティングの効率が向上する可能性がある。"
     }
   ],
-  "updated_at": "2026-11-12T13:30:41.536192+09:00"
+  "updated_at": "2026-11-12T21:30:46.996790+09:00"
 }
