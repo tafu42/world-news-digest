@@ -66,7 +66,51 @@
       "summary": "マルチモーダルな意思決定を支援するモデル「Gemini Decision」を活用したGemini Decisions APIが発表された。迅速かつ調整された意思決定を目的としている。",
       "impact": "複雑なデータを用いた判断が必要なシステムにおいて、自動化や効率化が進む可能性がある。",
       "content_at": "2026-11-12T06:30:52.703268+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.mcmillen.dev/sigbovik/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-12T13:30:41.536192+09:00",
+      "title": "ペンキの飛沫の93%が有効なPerlプログラムであるという指摘",
+      "summary": "2019年に発表された内容によると、ペンキの飛沫のうち93%は有効なPerlプログラムとして成立するという。",
+      "impact": "プログラミング言語の構造に関する風変わりな知見として、技術コミュニティで話題になる可能性がある。",
+      "content_at": "2026-11-12T13:30:41.536192+09:00"
+    },
+    {
+      "image": "https://www.datocms-assets.com/75231/1794425853-threat-update-kics-alert_custom.jpeg?fm=webp",
+      "url": "https://www.wiz.io/blog/cve-2026-119618-rce-apache-http-server-vulnerability",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-12T13:30:41.536192+09:00",
+      "title": "Apache HTTP Serverにおける深刻なRCE脆弱性の検出と対策",
+      "summary": "Apache HTTP Serverにリモートコード実行（RCE）を許す深刻な脆弱性「CVE-2026-119618」が報告された。クラウド環境の64%が影響を受けるとされ、迅速なパッチ適用が推奨されている。",
+      "impact": "対策を怠るとシステムが外部から乗っ取られる危険性があるため、世界中の多くの企業で早急なセキュリティアップデートが必要になるとみられる。",
+      "content_at": "2026-11-12T13:30:41.536192+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.wsj.com/business/nvidia-is-preparing-to-oust-nvidia-ceo-jensen-huang-30f421ad",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-12T13:30:41.536192+09:00",
+      "title": "Nvidiaがジェンスン・フアン氏の解任を準備しているとの主張",
+      "summary": "Nvidiaがジェンスン・フアン氏を解任する準備を進めていると報じられている。",
+      "impact": "この情報が事実であれば、Nvidiaの経営体制や今後の事業戦略に大きな転換点をもたらす可能性がある。",
+      "content_at": "2026-11-12T13:30:41.536192+09:00"
+    },
+    {
+      "image": "https://hugovk.dev/blog/2026/lock-github-actions/feature.jpg",
+      "url": "https://hugovk.dev/blog/2026/lock-github-actions/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-12T13:30:41.536192+09:00",
+      "title": "GitHub Actionsのセキュリティ対策を促す呼びかけ",
+      "summary": "GitHub Actionsをロックするようにという警告がなされている。",
+      "impact": "GitHub Actionsのセキュリティ設定が適切に行われていない場合、開発環境や機密データが攻撃者に悪用されるリスクがあると考えられる。",
+      "content_at": "2026-11-12T13:30:41.536192+09:00"
     }
   ],
-  "updated_at": "2026-11-12T06:30:52.703268+09:00"
+  "updated_at": "2026-11-12T13:30:41.536192+09:00"
 }
