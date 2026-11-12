@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-13",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-13T06:30:44.536917+09:00",
+      "title": "ジェンスン・ファン氏が辞任",
+      "summary": "ジェンスン・ファン氏が辞任した。",
+      "impact": "同氏が経営に関わる企業の経営体制や今後の戦略に大きな変更が生じる可能性がある。",
+      "content_at": "2026-11-13T06:30:44.536917+09:00"
+    },
+    {
+      "image": "https://antigravity.google/assets/image/blog/4-Hydrogen---Wide.png",
+      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-13T06:30:44.536917+09:00",
+      "title": "Gemini 4の水素とオーケストレーターについて",
+      "summary": "Gemini 4に関連する水素およびオーケストレーターに関する情報が公開された。",
+      "impact": "関連する技術開発やプラットフォームの運用効率に変化をもたらす可能性がある。",
+      "content_at": "2026-11-13T06:30:44.536917+09:00"
+    },
+    {
+      "image": "https://www.rust-lang.org/static/images/rust-social-wide.jpg",
+      "url": "https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-13T06:30:44.536917+09:00",
+      "title": "Rust 1.100がリリース",
+      "summary": "Rust言語のバージョン1.100が発表された。誰もが信頼性の高い効率的なソフトウェアを構築できるようにすることを目的としている。",
+      "impact": "ソフトウェア開発におけるパフォーマンスや安全性の基準がさらに向上し、採用が加速する可能性がある。",
+      "content_at": "2026-11-13T06:30:44.536917+09:00"
+    },
+    {
+      "image": "https://th-thumbnailer.cdn-si-edu.com/4eu4Cs6lY_bS29DXaQHZWCxQBrs=/fit-in/1600x0/filters:focal(1024x770:1025x771)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/ab/21/ab21fe86-4d88-46f9-bcc2-d385adaa2ceb/noirlab2626c.jpg",
+      "url": "https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-13T06:30:44.536917+09:00",
+      "title": "公転周期約280年の準惑星候補が発見される",
+      "summary": "ED138と呼ばれる準惑星候補が望遠鏡画像で確認された。この天体は約280年かけて太陽を公転している。",
+      "impact": "天文学者がサイズを特定することで、太陽系の形成史や天体の分類に関する新たな知見が得られる可能性がある。",
+      "content_at": "2026-11-13T06:30:44.536917+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/d7f2183eedb9c52dbcf6598ee88d22343fcf5b5c17503505777f79008f1681bc/simpsoka/zigzag",
+      "url": "https://github.com/simpsoka/zigzag",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-13T06:30:44.536917+09:00",
+      "title": "刺繍ミシン用の無料オープンソースソフト「zigzag」",
+      "summary": "SVG形式のアートワークを刺繍データに変換できる、MacおよびWindows対応のオープンソースソフトウェアである。AIエージェントを用いたデザイン作成や視覚的なステッチ編集が可能となっている。",
+      "impact": "既存の刺繍ミシンが抱えるサブスクリプション制の制約を回避できる選択肢として、個人クリエイターの創作活動を促進する可能性がある。",
+      "content_at": "2026-11-13T06:30:44.536917+09:00"
+    },
+    {
+      "image": "https://mehmetince.net/wp-content/uploads/2026/11/postgresql-composite-type-confusion-primitive-rce-cve-2026-6460.png",
+      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-13T06:30:44.536917+09:00",
+      "title": "PostgreSQLの22年前から存在する脆弱性を発見",
+      "summary": "PostgreSQLのコア部分に、22年前から放置されていたゼロデイ脆弱性が発見された。この脆弱性はリモートコード実行（RCE）を可能にするものである。",
+      "impact": "PostgreSQLを利用するシステムにおいて、セキュリティアップデートが適用されるまで攻撃のリスクにさらされる可能性がある。管理されたデータベースサービスを利用する環境を含め、早急な対策が必要とみられる。",
+      "content_at": "2026-11-13T06:30:44.536917+09:00"
+    }
+  ],
+  "updated_at": "2026-11-13T06:30:44.536917+09:00"
+}
