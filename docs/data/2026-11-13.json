@@ -92,7 +92,55 @@
       "summary": "Meet Edge0-145B, an open-source 145B model for local coding, reasoning, and agent tasks, with no cloud-model token fees ",
       "content_at": "2026-11-13T13:30:42.995766+09:00",
       "pending": true
+    },
+    {
+      "en_title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "en_text": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
+      "url": "https://status.claude.com/incidents/nn11wk485zfn",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-13T21:30:44.634933+09:00",
+      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "summary": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
+      "content_at": "2026-11-13T21:30:44.634933+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "IceWM",
+      "en_text": "Window Manager",
+      "image": "",
+      "url": "https://ice-wm.org/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-13T21:30:44.634933+09:00",
+      "title": "IceWM",
+      "summary": "Window Manager",
+      "content_at": "2026-11-13T21:30:44.634933+09:00",
+      "pending": true
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/doi/10.1126/science.132.3436.1291",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-13T21:30:44.634933+09:00",
+      "title": "「審判の日」1960年当時の予測",
+      "summary": "1960年に執筆された「審判の日：2026年11月13日金曜日」というタイトルの記事。",
+      "content_at": "2026-11-13T21:30:44.634933+09:00",
+      "impact": "過去の未来予測の記録として、当時の社会観や終末論的な議論を考察する資料となる可能性がある。"
+    },
+    {
+      "image": "https://brave.com/blog/search-api-agentic-payments/images/featured.jpg",
+      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-13T21:30:44.634933+09:00",
+      "title": "Brave Search APIがx402プロトコルによるエージェント決済に対応",
+      "summary": "開発者やAIエージェントが、オープンなx402プロトコルを用いてUSDCでBrave Search APIの利用料金をリアルタイムに支払えるようになった。アカウントやAPIキーなしでクエリごとの決済が可能である。",
+      "content_at": "2026-11-13T21:30:44.634933+09:00",
+      "impact": "AIエージェントによる自律的なサービス利用が促進され、API利用の簡素化が進むとみられる。"
     }
   ],
-  "updated_at": "2026-11-13T13:30:42.995766+09:00"
+  "updated_at": "2026-11-13T21:30:44.634933+09:00"
 }
