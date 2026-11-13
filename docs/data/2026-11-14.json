@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-14",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&advn=111",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-14T06:30:43.928883+09:00",
+      "title": "米連邦航空局（FAA）が全米規模の運航停止を発令",
+      "summary": "米連邦航空局（FAA）が全米規模での運航停止措置を発令した。",
+      "impact": "航空機の離着陸に大幅な遅延やキャンセルが発生し、広範囲な物流や移動に影響が出る可能性がある。",
+      "content_at": "2026-11-14T06:30:43.928883+09:00"
+    },
+    {
+      "image": "https://og.pagecord.com/og?accentColor=%23ffff00&amp;avatar=https%3A%2F%2Fpagecord.com%2Frails%2Factive_storage%2Frepresentations%2Fredirect%2FeyJfcmFpbHMiOnsiZGF0YSI6NDY4NywicHVyIjoiYmxvYl9pZCJ9fQ%3D%3D--ca5722ecc6a810cbc306fb1554b7f6c6abfcc3c0%2FeyJfcmFpbHMiOnsiZGF0YSI6eyJmb3JtYXQiOiJwbmciLCJyZXNpemVfdG9fbGltaXQiOls5Niw5Nl0sInNhdmVyIjp7InN0cmlwIjp0cnVlfX0sInB1ciI6InZhcmlhdGlvbiJ9fQ%3D%3D--9c874a7debc456f77104ad83e6871574a296adc9%2FJamesSweeting_profile%2520-%2520Copy%2520%282%29.jpg&amp;bgColor=%230a4b82&amp;blogTitle=What%27s+up+with+James%3F&amp;signature=89e002691775709530ce133e02551583b6c55db03a5de8262b892b76db2d301d&amp;textColor=%23ffffff&amp;title=Big+tech+is+here+to+let+us+down",
+      "url": "https://blog.jsweeting.me/big-tech-is-here-to-let-us-down",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-14T06:30:43.928883+09:00",
+      "title": "大手テック企業への失望",
+      "summary": "著者はNvidiaとそのリーダーに関するドラマを執筆しようとしていたが、方針を変更した。",
+      "impact": "大手テック企業に対する世間の見方や、業界の倫理的姿勢をめぐる議論が喚起される可能性がある。",
+      "content_at": "2026-11-14T06:30:43.928883+09:00"
+    },
+    {
+      "image": "https://www.freightwaves.com/wp-content/uploads/2026/11/09/NVIDIA-Endeavor-1200x628-1.jpg",
+      "url": "https://www.freightwaves.com/news/11-4-million-in-nvidia-hardware-vanishes-during-shipment-from-california-to-texas",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-14T06:30:43.928883+09:00",
+      "title": "カリフォルニア州からテキサス州への輸送中に1,140万ドル相当のNvidiaハードウェアが消失",
+      "summary": "オークランド警察は、1,140万ドル相当の貨物が関与する窃盗事件の捜査を確認した。現時点で運送業者の身元や消失の詳細は不明である。",
+      "impact": "Nvidia製品の供給網に影響を与える可能性があるほか、高額貨物の輸送セキュリティに関する懸念が高まる可能性がある。",
+      "content_at": "2026-11-14T06:30:43.928883+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://open.m-vave.com/fm1-workbench",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-14T06:30:43.928883+09:00",
+      "title": "FM-1ワークベンチ",
+      "summary": "FM-1ワークベンチについての言及。",
+      "impact": "対象のツールやシステムの認知度や利用状況に影響を与える可能性がある。",
+      "content_at": "2026-11-14T06:30:43.928883+09:00"
+    },
+    {
+      "image": "https://haddyalchaer.com/images/stories/jepa-thumbs/planning.png",
+      "url": "https://haddyalchaer.com/jepa",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-14T06:30:43.928883+09:00",
+      "title": "JEPA世界モデルに関する600回の実験結果",
+      "summary": "JEPA世界モデルについて600回の実験を行い、その知見をまとめた。",
+      "impact": "この実験結果は、AIによる世界モデルの構築やその理解を深めるための貴重なデータとなり、今後のAI開発の指針になる可能性がある。",
+      "content_at": "2026-11-14T06:30:43.928883+09:00"
+    },
+    {
+      "image": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/coway-airmega-icons-cover.jpg",
+      "url": "https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-14T06:30:43.928883+09:00",
+      "title": "Coway製空気清浄機のクラウド機能排除に向けたリバースエンジニアリング",
+      "summary": "2017年の山火事多発時に購入したCoway製の空気清浄機を対象に、クラウド依存からの脱却を目指してリバースエンジニアリングを行う。",
+      "impact": "デバイスをオフラインで制御できるようにすることで、メーカーのサポート終了後も機器を使い続けられるようになる可能性がある。",
+      "content_at": "2026-11-14T06:30:43.928883+09:00"
+    }
+  ],
+  "updated_at": "2026-11-14T06:30:43.928883+09:00"
+}
