@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-15",
+  "articles": [
+    {
+      "image": "https://www.crissyfield.de/images/research-lovable-opengraph.jpg",
+      "url": "https://www.crissyfield.de/research/lovable-en/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-15T06:30:43.116937+09:00",
+      "title": "Lovableアプリにおける個人情報の流出リスク",
+      "summary": "159,041件のLovableプロジェクトを分析した結果、ログインなしで機密データにアクセスできる事例が多数発見された。流出した情報にはパスポート詳細や20万件以上のプライベートメッセージが含まれる。",
+      "impact": "アプリ利用者のプライバシーが侵害される可能性がある。今後は開発プラットフォームにおけるセキュリティ設定の厳格化が求められると考えられる。",
+      "content_at": "2026-11-15T06:30:43.116937+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://x.com/i/broadcasts/2brajgZlOKRMka",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-15T06:30:43.116937+09:00",
+      "title": "SpaceXのStarship、フライト15で機体を回収",
+      "summary": "SpaceXがStarshipのフライト15を終了させるために機体を回収した。",
+      "impact": "再利用技術が向上することで、宇宙輸送コストの大幅な削減につながる可能性がある。",
+      "content_at": "2026-11-15T06:30:43.116937+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-15T06:30:43.116937+09:00",
+      "title": "ソフトウェア職種の家系図",
+      "summary": "ソフトウェア職種の分類に関する家系図が公開された。",
+      "impact": "技術職のキャリアパスや役割の多様性を理解するための指標として活用される可能性がある。",
+      "content_at": "2026-11-15T06:30:43.116937+09:00"
+    },
+    {
+      "image": "https://blog.pypi.org/assets/images/social/posts/2026-11-06-ui-updates-complete.png",
+      "url": "https://blog.pypi.org/posts/2026-11-06-ui-updates-complete/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-15T06:30:43.116937+09:00",
+      "title": "PyPIがプロジェクトページを刷新、セキュリティ情報を明確化",
+      "summary": "PyPIのプロジェクトページが再設計され、セキュリティタブの追加やリリースファイルのタブの再構築が行われた。リリースファイルの出所をより簡単に確認できるようになった。",
+      "impact": "開発者がソフトウェアの安全性を検証しやすくなるため、サプライチェーン攻撃のリスク低減に寄与するとみられる。",
+      "content_at": "2026-11-15T06:30:43.116937+09:00"
+    },
+    {
+      "image": "https://tube.kockatoo.org/lazy-static/thumbnails/02935b80-28d9-4fd7-bc33-9d0cb76f2e80.webp",
+      "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-15T06:30:43.116937+09:00",
+      "title": "KDEのドキュメンタリー映像が公開",
+      "summary": "KDEドキュメンタリーは、Windowsのような独占的なデスクトップ環境に代わるオープンソースコミュニティの歴史を扱っている。物語は1996年から始まっている。",
+      "impact": "オープンソースソフトウェアの普及の歴史を振り返ることで、フリーソフトウェアの重要性が改めて再認識される可能性がある。",
+      "content_at": "2026-11-15T06:30:43.116937+09:00"
+    },
+    {
+      "image": "https://cdn.arstechnica.net/wp-content/uploads/2015/09/harddrive3-1000x648.jpg",
+      "url": "https://arstechnica.com/gadgets/2026/11/seagate-resurrects-the-ssd-hdd-hybrid-drive/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-15T06:30:43.116937+09:00",
+      "title": "Seagateの新型ハイブリッドドライブに再び浮上する疑問",
+      "summary": "SeagateのFireCuda Forgeは、過去のアイデアを再考させる製品であり、いくつかの馴染み深い疑問を提起している。",
+      "impact": "従来のストレージ技術に対する疑問が再燃することで、ハイブリッドドライブ市場における信頼性や技術的価値が改めて議論される可能性がある。",
+      "content_at": "2026-11-15T06:30:43.116937+09:00"
+    }
+  ],
+  "updated_at": "2026-11-15T06:30:43.116937+09:00"
+}
