@@ -68,56 +68,48 @@
       "content_at": "2026-11-13T06:30:44.536917+09:00"
     },
     {
-      "en_title": "Switcher (2004)",
-      "en_text": "Switcher (2004)",
       "image": "",
       "url": "https://folklore.org/Switcher.html",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-13T13:30:42.995766+09:00",
-      "title": "Switcher (2004)",
-      "summary": "Switcher (2004)",
-      "content_at": "2026-11-13T13:30:42.995766+09:00",
-      "pending": true
+      "title": "映画「Switcher (2004)」",
+      "summary": "2004年に制作された「Switcher」という作品である。",
+      "content_at": "2026-11-14T21:30:46.016835+09:00",
+      "impact": "特定の情報が提供されていないため、社会への影響については判断できない。"
     },
     {
-      "en_title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "en_text": "Meet Edge0-145B, an open-source 145B model for local coding, reasoning, and agent tasks, with no cloud-model token fees for local inference.",
       "image": "https://cdn.hashnode.com/uploads/covers/6aea03219fa4aa99923b5acf/de5ebdea-3436-4b9a-b3f2-e9910f3a0abc.png",
       "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "category": "海外IT",
       "time": "13:30",
       "collected_at": "2026-11-13T13:30:42.995766+09:00",
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "summary": "Meet Edge0-145B, an open-source 145B model for local coding, reasoning, and agent tasks, with no cloud-model token fees ",
-      "content_at": "2026-11-13T13:30:42.995766+09:00",
-      "pending": true
+      "title": "ローカル環境向けAIモデル「Edge0-145B」の登場",
+      "summary": "コーディング、推論、エージェントタスクを目的としたオープンソースの145Bパラメータモデルである。ローカル環境で推論が可能であり、クラウドモデルのようなトークン料金が発生しない。",
+      "content_at": "2026-11-14T21:30:46.016835+09:00",
+      "impact": "クラウドに依存しないAI活用が進むことで、開発コストの削減やプライバシー保護の向上が期待される可能性がある。"
     },
     {
-      "en_title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "en_text": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
       "image": "https://dka575ofm4ao0.cloudfront.net/assets/logos/favicon-2b86ed00cfa6258307d4a3d0c482fd733c7973f82de213143b24fc062c540367.png",
       "url": "https://status.claude.com/incidents/nn11wk485zfn",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-11-13T21:30:44.634933+09:00",
-      "title": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "summary": "Elevated errors on claude.ai, Claude Code, and platform.claude.com",
-      "content_at": "2026-11-13T21:30:44.634933+09:00",
-      "pending": true
+      "title": "Claude関連サービスの障害発生",
+      "summary": "claude.ai、Claude Code、およびplatform.claude.comにおいてエラー率が上昇している。",
+      "content_at": "2026-11-14T21:30:46.016835+09:00",
+      "impact": "各サービスを利用するユーザーの業務や開発活動に一時的な遅延や中断が生じる可能性がある。"
     },
     {
-      "en_title": "IceWM",
-      "en_text": "Window Manager",
       "image": "",
       "url": "https://ice-wm.org/",
       "category": "海外IT",
       "time": "21:30",
       "collected_at": "2026-11-13T21:30:44.634933+09:00",
-      "title": "IceWM",
-      "summary": "Window Manager",
-      "content_at": "2026-11-13T21:30:44.634933+09:00",
-      "pending": true
+      "title": "IceWMについて",
+      "summary": "IceWMはウィンドウマネージャーである。",
+      "content_at": "2026-11-14T21:30:46.016835+09:00",
+      "impact": "特定の情報が提供されていないため、社会への影響については判断できない。"
     },
     {
       "image": "",
@@ -142,5 +134,5 @@
       "impact": "AIエージェントによる自律的なサービス利用が促進され、API利用の簡素化が進むとみられる。"
     }
   ],
-  "updated_at": "2026-11-13T21:30:44.634933+09:00"
+  "updated_at": "2026-11-14T21:30:46.016835+09:00"
 }

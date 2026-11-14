@@ -132,7 +132,40 @@
       "summary": "KORSの全周波数において航空無線がライブで配信されている。また、カナダのビクトリア空港では航空機の離着陸が停止された。",
       "impact": "空港業務の停止により、地域の航空便の運行に遅延や欠航が発生する可能性がある。",
       "content_at": "2026-11-14T13:30:44.740378+09:00"
+    },
+    {
+      "image": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/redmi-leds-1200.webp",
+      "url": "https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-14T21:30:46.016835+09:00",
+      "title": "Raspberry Piの代わりに古いスマホを活用する方法",
+      "summary": "高価なRaspberry Piの代わりに、ルート化されたRedmiをカメラや照明のコントローラーとして構築する手法である。",
+      "impact": "高コストな専用機器を使わず、手持ちの古い端末を再利用することで、電子工作におけるコスト削減とリサイクルが促進される可能性がある。",
+      "content_at": "2026-11-14T21:30:46.016835+09:00"
+    },
+    {
+      "image": "https://monkeyisland.pages.dev/og-image.jpg",
+      "url": "https://monkeyisland.pages.dev/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-14T21:30:46.016835+09:00",
+      "title": "『Monkey Island』全13バージョンの比較",
+      "summary": "1990年発売のゲーム『The Secret of Monkey Island』における、8つのエディションと13の表示モードを並べて比較したものである。",
+      "impact": "ゲームの歴史的変遷や技術的進化を視覚的に理解する資料として、ファンやゲーム史の研究者にとって価値があると考えられる。",
+      "content_at": "2026-11-14T21:30:46.016835+09:00"
+    },
+    {
+      "image": "https://unsloth.ai/docs/~gitbook/image?url=https%3A%2F%2F2815821428-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Forganizations%252FHpyELzcNe0topgVLGCZY%252Fsites%252Fsite_mXXTe%252Fsocialpreview%252FOeFDVbzp4cgwaId7PbvL%252Funsloth%2520docs%2520pic.png%3Falt%3Dmedia%26token%3Df34a6bcc-db15-449a-bc2d-e0e8f52fe953&amp;width=1200&amp;height=630&amp;sign=9a9d6aae5e35625d4a32adaf8cf74290&amp;sv=3",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-14T21:30:46.016835+09:00",
+      "title": "Unsloth Qwen3.8-27B量子化の動的v3.1アップデート",
+      "summary": "ローカル環境でQwen3.8シリーズ（Qwen3.8-27Bを含む）の量子化モデルを実行するためのガイドである。",
+      "impact": "ローカル環境での大規模言語モデル実行の難易度が下がることで、一般ユーザーが高性能なAIをより身近なPCで活用できるようになる可能性がある。",
+      "content_at": "2026-11-14T21:30:46.016835+09:00"
     }
   ],
-  "updated_at": "2026-11-14T13:30:44.740378+09:00"
+  "updated_at": "2026-11-14T21:30:46.016835+09:00"
 }
