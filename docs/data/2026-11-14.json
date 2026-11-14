@@ -66,7 +66,73 @@
       "summary": "2017年の山火事多発時に購入したCoway製の空気清浄機を対象に、クラウド依存からの脱却を目指してリバースエンジニアリングを行う。",
       "impact": "デバイスをオフラインで制御できるようにすることで、メーカーのサポート終了後も機器を使い続けられるようになる可能性がある。",
       "content_at": "2026-11-14T06:30:43.928883+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/398ed72e9316d12d32e3371787d19fb096c1afc67fd25fc61f9c70d69c03087c/ggml-org/ggml/releases/tag/v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-14T13:30:44.740378+09:00",
+      "title": "機械学習ライブラリ「ggml」がバージョン1.0.0をリリース",
+      "summary": "ggml 1.0.0が公開された。非推奨となったパブリックAPIやレガシーな演算子の削除に加え、YaRNの切り捨て設定やFP8サポートが追加されている。",
+      "impact": "各バックエンドのパフォーマンスが改善されたことで、AI推論やモデル実行の効率が向上する可能性がある。",
+      "content_at": "2026-11-14T13:30:44.740378+09:00"
+    },
+    {
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-11/261113-Nationwide-Ground-Stop-vsb-1730-0993ea.jpg",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-14T13:30:44.740378+09:00",
+      "title": "米航空当局が全国的な離陸停止措置を実施、4.5時間後に解除",
+      "summary": "米運輸長官は、離陸停止の原因を航空交通管制システムのデータ過負荷によるものだと説明した。措置は4.5時間後に解除された。",
+      "impact": "老朽化したインフラの刷新が急務となっており、今後はシステム投資の必要性が高まるとみられる。",
+      "content_at": "2026-11-14T13:30:44.740378+09:00"
+    },
+    {
+      "image": "https://www.joshka.net/cell-borders/og.png",
+      "url": "https://www.joshka.net/cell-borders/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-14T13:30:44.740378+09:00",
+      "title": "ターミナル用の境界線描画プロトコル",
+      "summary": "セル境界に薄い線を描画するためのターミナルプロトコルが紹介された。境界線や角丸、グリッド線などが対象となっている。",
+      "impact": "ターミナル環境における視覚的な表現力が向上し、CLIツールのユーザーインターフェースが改善される可能性がある。",
+      "content_at": "2026-11-14T13:30:44.740378+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-14T13:30:44.740378+09:00",
+      "title": "NvidiaがAIスタートアップに資金提供しGPU購入を促した疑惑",
+      "summary": "NvidiaがAIスタートアップに対して自社のGPUを購入させるための資金提供を行い、市場の希少性を意図的に作り出したという疑いが報じられた。",
+      "impact": "事実であれば市場競争への影響や独占禁止法に関する議論を呼び、規制当局による調査が行われる可能性がある。",
+      "content_at": "2026-11-14T13:30:44.740378+09:00"
+    },
+    {
+      "image": "https://i0.wp.com/dfarq.homeip.net/wp-content/uploads/2022/03/what-happened-to-3com-social.jpg?fit=887%2C499&ssl=1",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-14T13:30:44.740378+09:00",
+      "title": "3Comはなぜ失速したのか",
+      "summary": "一連の失策により、同社はシスコシステムズやインテルに対して脆弱な状況に陥った。市場における競争力を失った過程が示されている。",
+      "impact": "かつてのIT大手の凋落を分析することで、技術革新が激しい業界における経営判断の重要性が再認識されると考えられる。",
+      "content_at": "2026-11-14T13:30:44.740378+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://orcasairband.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-14T13:30:44.740378+09:00",
+      "title": "KORSの全周波数で航空無線がライブ配信、ビクトリア空港では離着陸停止",
+      "summary": "KORSの全周波数において航空無線がライブで配信されている。また、カナダのビクトリア空港では航空機の離着陸が停止された。",
+      "impact": "空港業務の停止により、地域の航空便の運行に遅延や欠航が発生する可能性がある。",
+      "content_at": "2026-11-14T13:30:44.740378+09:00"
     }
   ],
-  "updated_at": "2026-11-14T06:30:43.928883+09:00"
+  "updated_at": "2026-11-14T13:30:44.740378+09:00"
 }
