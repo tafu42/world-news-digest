@@ -66,7 +66,51 @@
       "summary": "SeagateのFireCuda Forgeは、過去のアイデアを再考させる製品であり、いくつかの馴染み深い疑問を提起している。",
       "impact": "従来のストレージ技術に対する疑問が再燃することで、ハイブリッドドライブ市場における信頼性や技術的価値が改めて議論される可能性がある。",
       "content_at": "2026-11-15T06:30:43.116937+09:00"
+    },
+    {
+      "image": "https://www.spacex.com/assets/images/share.jpg",
+      "url": "https://www.spacex.com/launches/starship-flight-15",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-15T13:30:44.458706+09:00",
+      "title": "SpaceX、スターシップの飛行15を終了し機体を回収",
+      "summary": "SpaceXは高度なロケットと宇宙船の設計、製造、打ち上げを行っている。同社はスターシップの飛行15において、機体の回収に成功した。",
+      "impact": "宇宙開発における再利用技術がさらに進展し、打ち上げコストの低減や宇宙探査の加速につながる可能性がある。",
+      "content_at": "2026-11-15T13:30:44.458706+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://retrocomputing.stackexchange.com/questions/17957",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-15T13:30:44.458706+09:00",
+      "title": "ウォズニアックはコンピューターを組み立てる前にApple 1 BASICをどう書いたのか",
+      "summary": "スティーブ・ウォズニアックがコンピューター本体を構築する前に、いかにしてApple 1 BASICを記述したかという手法についての疑問。",
+      "impact": "初期のコンピューター開発におけるプログラミングの歴史的経緯や、当時の開発手法の理解を深める一助になると考えられる。",
+      "content_at": "2026-11-15T13:30:44.458706+09:00"
+    },
+    {
+      "image": "https://www.eff.org/files/banner_library/siren_v._san_jose.png",
+      "url": "https://www.eff.org/deeplinks/2026/11/were-asking-appeals-court-require-warrant-alpr-searches",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-15T13:30:44.458706+09:00",
+      "title": "自動ナンバープレート認識システムの捜査利用に令状を求める控訴",
+      "summary": "自動ナンバープレート認識装置（ALPR）は通過する車のプレートを目視することとは異なり、法執行機関に過去の行動を追跡する手段を提供している。このため、ALPR検索の実施に令状を求めるよう控訴裁判所に要請している。",
+      "impact": "プライバシー保護の観点から法執行機関によるデータ収集手法のあり方が議論され、市民の監視体制に対する法的制限が強化される可能性がある。",
+      "content_at": "2026-11-15T13:30:44.458706+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.techspot.com/news/114558-nvidia-deliberately-kept-gpu-prices-high-through-circular.html",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-15T13:30:44.458706+09:00",
+      "title": "NvidiaによるGPU価格高騰と循環取引の疑惑",
+      "summary": "Nvidiaが循環取引を通じて、意図的にGPUの価格を高く維持していたとする疑惑。",
+      "impact": "この疑惑が事実であれば、市場の公正な競争が損なわれていたとみなされ、規制当局による調査や企業の信頼性低下を招く可能性がある。",
+      "content_at": "2026-11-15T13:30:44.458706+09:00"
     }
   ],
-  "updated_at": "2026-11-15T06:30:43.116937+09:00"
+  "updated_at": "2026-11-15T13:30:44.458706+09:00"
 }
