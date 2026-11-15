@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-16",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://arkanumdata.com/research/house-trades",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-16T06:30:41.617100+09:00",
+      "title": "下院議員の株式取引は市場平均を上回るのか",
+      "summary": "8,900件の取引データを対象に、下院議員による株式投資の運用成績が市場平均を上回るかを検証する。",
+      "impact": "政治家による株式取引の透明性や利益相反に対する議論が、今後活発化する可能性がある。",
+      "content_at": "2026-11-16T06:30:41.617100+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=7_JF3etiAv8",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-16T06:30:41.617100+09:00",
+      "title": "エルニーニョ現象の仕組みを解説する動画",
+      "summary": "エルニーニョ現象がどのように発生するのかを解説する動画である。",
+      "impact": "気候変動への理解が深まることで、異常気象に対する社会的な意識向上が期待される。",
+      "content_at": "2026-11-16T06:30:41.617100+09:00"
+    },
+    {
+      "image": "https://static01.nyt.com/images/2026/11/05/multimedia/00SCI-TB-CROWS-01-tlwk/00SCI-TB-CROWS-01-tlwk-facebookJumbo.jpg",
+      "url": "https://www.nytimes.com/2026/11/15/science/birdbrain-crows-birds-research-decision.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-16T06:30:41.617100+09:00",
+      "title": "カラスは人間よりも速く意思決定を行う",
+      "summary": "実験の結果、カラスは視覚的な合図に対して人間やサルと比較して2倍の速さで情報を処理し反応することがわかった。",
+      "impact": "鳥類の知能や認知能力に対する従来の認識が改められ、動物の神経生物学に関する研究が進展する可能性がある。",
+      "content_at": "2026-11-16T06:30:41.617100+09:00"
+    },
+    {
+      "image": "https://macanorak.com/content/images/2026/11/PROLED-Display-XDR-1.png",
+      "url": "https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-16T06:30:41.617100+09:00",
+      "title": "MacBook ProのOLEDディスプレイにおけるPWM問題",
+      "summary": "AppleのMacBook Proのディスプレイは高性能であるが、快適さの面で問題を指摘する声がある。",
+      "impact": "画面のチラつきに敏感なユーザーからの反響により、今後の製品設計や品質改善に影響を与える可能性がある。",
+      "content_at": "2026-11-16T06:30:41.617100+09:00"
+    },
+    {
+      "image": "https://repository-images.githubusercontent.com/53614190/b11dd480-90b3-11eb-903d-8c48f62e3172",
+      "url": "https://github.com/eclipse-mosquitto/mosquitto",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-16T06:30:41.617100+09:00",
+      "title": "オープンソースのMQTTブローカー「Eclipse Mosquitto」",
+      "summary": "Eclipse MosquittoはオープンソースのMQTTブローカーである。GitHubで開発プロジェクトが公開されている。",
+      "impact": "IoT開発において、低コストで軽量な通信インフラの利用が促進される可能性がある。",
+      "content_at": "2026-11-16T06:30:41.617100+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.youtube.com/watch?v=WPj3aQ-xxpI",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-16T06:30:41.617100+09:00",
+      "title": "Claude CodeとCodexで1994年型ジープのECUをリバースエンジニアリング",
+      "summary": "Claude CodeとCodexを活用し、3ドルのArduinoを用いて1994年型ジープのECUをリバースエンジニアリングした動画が公開された。",
+      "impact": "AIツールを用いることで、旧式の車載システム解析の難易度が低下する可能性がある。",
+      "content_at": "2026-11-16T06:30:41.617100+09:00"
+    }
+  ],
+  "updated_at": "2026-11-16T06:30:41.617100+09:00"
+}
