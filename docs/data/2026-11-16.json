@@ -66,7 +66,73 @@
       "summary": "Claude CodeとCodexを活用し、3ドルのArduinoを用いて1994年型ジープのECUをリバースエンジニアリングした動画が公開された。",
       "impact": "AIツールを用いることで、旧式の車載システム解析の難易度が低下する可能性がある。",
       "content_at": "2026-11-16T06:30:41.617100+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://iter.ca/post/ubo-uxss/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-16T13:30:47.925330+09:00",
+      "title": "uBlock Originの要素選択機能におけるユニバーサルXSSの脆弱性",
+      "summary": "uBlock Originのウェブサイト主導型要素選択機能において、ユニバーサルXSS（クロスサイトスクリプティング）の脆弱性が確認された。",
+      "impact": "悪用された場合、ユーザーが閲覧するウェブサイトのスクリプトを意図せず実行させられる可能性がある。",
+      "content_at": "2026-11-16T13:30:47.925330+09:00"
+    },
+    {
+      "image": "https://img.alicdn.com/imgextra/i4/O1CN01OXv3EM1FN8t9W4P79_!!6000000000474-2-tps-80-80.png",
+      "url": "https://qwen.ai/blog?id=qwen4-max",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-16T13:30:47.925330+09:00",
+      "title": "Qwen4-Maxの発表",
+      "summary": "Qwen4-Maxが発表された。",
+      "impact": "既存のAIモデルと比較して、特定の用途や業界において新たな性能基準となる可能性がある。",
+      "content_at": "2026-11-16T13:30:47.925330+09:00"
+    },
+    {
+      "image": "https://ransomnews.com/wp-content/uploads/2026/11/burger-king-tweet-bitly-link-hijack-2026-cover-1024x576.png",
+      "url": "https://ransomnews.com/burger-king-tweet-bitly-link-hijack-2026/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-16T13:30:47.925330+09:00",
+      "title": "古いBitlyリンクの乗っ取り問題",
+      "summary": "企業や個人の2011年のツイートに含まれる古いBitlyリンクが第三者に再登録され、乗っ取られている。バーガーキング、マクドナルド、トランプ氏のツイートなどが影響を受けている。",
+      "impact": "古い投稿のリンクをクリックしたユーザーが不正なサイトへ誘導されるリスクがあり、企業のブランドイメージや個人のセキュリティに悪影響を及ぼす可能性がある。",
+      "content_at": "2026-11-16T13:30:47.925330+09:00"
+    },
+    {
+      "image": "https://steveblank.com/wp-content/uploads/2026/11/nvidia-reinventions-1024x677.jpg",
+      "url": "https://steveblank.com/2026/11/15/whats-next-for-nvidia/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-16T13:30:47.925330+09:00",
+      "title": "Nvidiaのジェンスン・フアンCEOが退任",
+      "summary": "Nvidiaの取締役会は、共同創業者であるジェンスン・フアン氏が創業から33年を経て辞任したことを発表した。",
+      "impact": "ビジョナリーなリーダーの不在により、同社の今後のイノベーション能力や事業戦略に大きな不透明感が生じる可能性がある。",
+      "content_at": "2026-11-16T13:30:47.925330+09:00"
+    },
+    {
+      "image": "https://blog.archive.org/wp-content/uploads/2026/11/Salon-Logos-Background-2-2048x1071-1.png",
+      "url": "https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-16T13:30:47.925330+09:00",
+      "title": "創業30年を迎えたオンラインメディア「Salon」の歩み",
+      "summary": "1995年に創刊されたSalonは、インターネット黎明期においてデジタルジャーナリズムの新しい形を定義した初期の主要メディアである。政治、文化、批評を融合させ、オンライン読者に向けて情報を発信してきた。",
+      "impact": "長年の歴史を持つデジタルメディアがアーカイブを維持することは、インターネットの歴史を記録する上で重要な役割を果たすと考えられる。",
+      "content_at": "2026-11-16T13:30:47.925330+09:00"
+    },
+    {
+      "image": "https://forum.torproject.org/uploads/default/original/2X/d/d3424bed34f4ec18b2e99178c2801ba6dfb655d6.png",
+      "url": "https://forum.torproject.org/t/security-release-0-4-9-17/22454",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-16T13:30:47.925330+09:00",
+      "title": "Tor Projectが持続的なDDoS攻撃に対応するための修正パッチを公開",
+      "summary": "Tor Projectは、継続的なDDoS攻撃に対処するため、セキュリティ修正を含むバージョン0.4.9.17をリリースした。本アップデートには、攻撃への耐性を強化するための重要な修正が含まれている。",
+      "impact": "今回の修正により、Torネットワークの匿名通信サービスの安定性が向上する可能性がある。ユーザーは最新版へのアップデートを行うことで、攻撃による接続障害の影響を軽減できるとみられる。",
+      "content_at": "2026-11-16T13:30:47.925330+09:00"
     }
   ],
-  "updated_at": "2026-11-16T06:30:41.617100+09:00"
+  "updated_at": "2026-11-16T13:30:47.925330+09:00"
 }
