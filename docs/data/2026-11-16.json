@@ -132,7 +132,62 @@
       "summary": "Tor Projectは、継続的なDDoS攻撃に対処するため、セキュリティ修正を含むバージョン0.4.9.17をリリースした。本アップデートには、攻撃への耐性を強化するための重要な修正が含まれている。",
       "impact": "今回の修正により、Torネットワークの匿名通信サービスの安定性が向上する可能性がある。ユーザーは最新版へのアップデートを行うことで、攻撃による接続障害の影響を軽減できるとみられる。",
       "content_at": "2026-11-16T13:30:47.925330+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.monirbounadi.com/Bounadi_JMP.pdf",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-16T21:30:48.076679+09:00",
+      "title": "コーヒーハウスと科学の隆盛",
+      "summary": "コーヒーハウスと科学の発展に関する資料。",
+      "impact": "科学史における社交場の役割について、歴史的な観点から理解が深まると考えられる。",
+      "content_at": "2026-11-16T21:30:48.076679+09:00"
+    },
+    {
+      "image": "https://petervandijck.com/og-image/00a9b51a2f41c7a2f0e4ce6d2743cc9c.jpeg",
+      "url": "https://petervandijck.com/post/pbrgs-ev0bc",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-16T21:30:48.076679+09:00",
+      "title": "「Show HN」投稿後に殺到する自動営業メール",
+      "summary": "AirdashをShow HNに投稿したところ、4日間で17件の営業メールが届いた。そのほとんどが自動化されたものだった。",
+      "impact": "開発者向けコミュニティへの投稿が、意図しない自動営業メールの標的となるリスクがあることを示唆している。",
+      "content_at": "2026-11-16T21:30:48.076679+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://pub.cba.mit.edu/863.26/site/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-16T21:30:48.076679+09:00",
+      "title": "ほぼあらゆるものを作る方法",
+      "summary": "「ほぼあらゆるものを作る方法」についての記述。",
+      "impact": "ものづくり技術や製造手法に関する知見が共有される可能性がある。",
+      "content_at": "2026-11-16T21:30:48.076679+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-16T21:30:48.076679+09:00",
+      "title": "ThinkPadの電源ボタンを使った故障復旧の裏技（2007年）",
+      "summary": "筆者はLenovo ThinkPad z61tを入手し、その使用感を報告している。以前使用していたt61と比較して小型で軽量な点を評価している。",
+      "impact": "過去の機種における電源トラブルの解消法が、特定のユーザーの間で再注目される可能性がある。",
+      "content_at": "2026-11-16T21:30:48.076679+09:00"
+    },
+    {
+      "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1111_echomotion_0744.jpg?itok=Sru51mwu",
+      "url": "https://news.cornell.edu/stories/2026/11/researchers-track-whole-body-movement-just-smartwatch",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-16T21:30:48.076679+09:00",
+      "title": "スマートウォッチのみで全身の動きを追跡する技術が開発される",
+      "summary": "コーネル大学の研究チームは、市販のスマートウォッチと軽量なAIモデルを用い、超音波で全身の動きを追跡する技術を開発した。この技術はプライバシーを保護しつつ効率的に動作する。",
+      "impact": "ウェアラブルデバイスの活用範囲が広がり、医療やフィットネスなどの分野で手軽な動作解析が可能になる可能性がある。",
+      "content_at": "2026-11-16T21:30:48.076679+09:00"
     }
   ],
-  "updated_at": "2026-11-16T13:30:47.925330+09:00"
+  "updated_at": "2026-11-16T21:30:48.076679+09:00"
 }
