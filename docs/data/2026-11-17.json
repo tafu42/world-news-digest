@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-17",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-17T06:30:57.756365+09:00",
+      "title": "米大手銀行とZelleでシステム障害が発生",
+      "summary": "バンク・オブ・アメリカ、チェース、U.S.バンク、ウェルズ・ファーゴ、およびZelleでシステム障害が報告された。これらの金融機関やサービスで接続トラブルが発生している。",
+      "impact": "利用者の送金や口座確認が一時的に困難になる可能性がある。広範囲な障害であるため、多くの利用者の日常生活に影響を及ぼす可能性がある。",
+      "content_at": "2026-11-17T06:30:57.756365+09:00"
+    },
+    {
+      "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-10/2026_1407_aer_009-n.jpg?itok=01dhmnjw",
+      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-17T06:30:57.756365+09:00",
+      "title": "太陽光発電所における羊の放牧、研究が進行",
+      "summary": "太陽光発電パネルが設置された敷地内での羊の放牧に関する研究が進んでいる。この研究は、羊農家の収益性向上や、放牧が有益な昆虫に与える影響を明らかにしている。",
+      "impact": "持続可能な農業と再生可能エネルギーの共生モデルとして、他地域への普及が期待される可能性がある。",
+      "content_at": "2026-11-17T06:30:57.756365+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://burntsushi.net/jiff/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-17T06:30:57.756365+09:00",
+      "title": "Rust言語向けの日時ライブラリ「Jiff 1.0」が公開",
+      "summary": "プログラミング言語Rust向けの日時処理ライブラリである「Jiff」のバージョン1.0がリリースされた。",
+      "impact": "Rustを使用する開発者にとって、日時操作の実装がより効率的かつ安全に行えるようになる可能性がある。",
+      "content_at": "2026-11-17T06:30:57.756365+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://blog.startifact.com/posts/how-rust-changed-me/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-17T06:30:57.756365+09:00",
+      "title": "開発者としての考え方を変えたRust言語",
+      "summary": "プログラミング言語Rustが開発者としての思考プロセスにどのような影響を与えたかについて語られている。",
+      "impact": "プログラミング言語の特性が開発者の設計思想や問題解決のアプローチに変化をもたらす一例として、技術コミュニティに知見を提供する可能性がある。",
+      "content_at": "2026-11-17T06:30:57.756365+09:00"
+    },
+    {
+      "image": "https://trmnl-public.s3.us-east-2.amazonaws.com/zzswly4kqlbg9cqf982toa8anyeg",
+      "url": "https://trmnl.com/blog/introducing-frame",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-17T06:30:57.756365+09:00",
+      "title": "31.5インチのフルカラー電子ペーパーディスプレイ「Frame」",
+      "summary": "ハンドメイドの木製フレームを採用した、31.5インチのフルカラー電子ペーパーディスプレイである。",
+      "impact": "インテリアに馴染む電子ディスプレイとして、アートや情報表示の新しい選択肢になる可能性がある。",
+      "content_at": "2026-11-17T06:30:57.756365+09:00"
+    },
+    {
+      "image": "https://ben3d.ca/api/images?slug=building-the-aaa-lighting-pipeline-in-threejs&amp;imageName=frame-pipeline.svg&amp;hash=700e6835587f35f543069acee0d3a86b93f8ca69f2670e4c61efb8a5cd6628a6",
+      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-17T06:30:57.756365+09:00",
+      "title": "Three.jsの品質をAAAゲームエンジンに近づける試み",
+      "summary": "G-bufferやテンポラルアップスケーリングなど、ゲーム開発に必要な技術要件とThree.jsの現状を比較し、実装に向けた課題を検証している。",
+      "impact": "この取り組みが進むことで、Webブラウザ上で動作するグラフィックスの品質が向上し、より高度なゲーム体験がWeb上で実現できる可能性がある。",
+      "content_at": "2026-11-17T06:30:57.756365+09:00"
+    }
+  ],
+  "updated_at": "2026-11-17T06:30:57.756365+09:00"
+}
