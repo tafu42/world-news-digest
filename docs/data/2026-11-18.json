@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-18",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-18T06:30:54.866416+09:00",
+      "title": "GPT-6.2 AstraとSolの発表",
+      "summary": "GPT-6.2 AstraおよびSolが発表された。",
+      "impact": "最新のAIモデルの登場により、関連する技術開発や応用分野における新たな可能性が広がる可能性がある。",
+      "content_at": "2026-11-18T06:30:54.866416+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/e1636eaccf68c0b4fdb380e5343d3db51b33422fa6d711aae3c13466bb7be3b3/jquery/jquery/releases/tag/4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-18T06:30:54.866416+09:00",
+      "title": "jQuery 4.1.0のリリース",
+      "summary": "jQuery 4.1.0がリリースされた。本バージョンではjqXHRへのresponseURLフィールドの追加や、新しいcompleteCallback APIへの対応が行われた。",
+      "impact": "Web開発において、既存プロジェクトの保守や新しい実装の利便性が向上すると考えられる。",
+      "content_at": "2026-11-18T06:30:54.866416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-18T06:30:54.866416+09:00",
+      "title": "MAI Code 2とCode 2 Flashの発表",
+      "summary": "MAI Code 2およびCode 2 Flashが発表された。",
+      "impact": "プログラミング支援能力の向上により、開発者の生産性向上やAIを活用したコーディングの効率化が進む可能性がある。",
+      "content_at": "2026-11-18T06:30:54.866416+09:00"
+    },
+    {
+      "image": "https://image.sciencenorway.no/2734539.jpg?imageId=2734539&x=0&y=12.76&cropw=100&croph=38.28&panox=0&panoy=12.76&panow=100&panoh=38.28&width=1200&height=683",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-18T06:30:54.866416+09:00",
+      "title": "光の速度が有限であることを証明したオーレ・レーマー",
+      "summary": "オーレ・レーマーは、光が伝播するのに時間がかかることを初めて実証した人物である。",
+      "impact": "光速の有限性の発見は、物理学における時空の理解を深め、現代科学の発展に大きな影響を与えた歴史的出来事である。",
+      "content_at": "2026-11-18T06:30:54.866416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://browser.engineering/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-18T06:30:54.866416+09:00",
+      "title": "Web Browser Engineering (2021)について",
+      "summary": "2021年に公開された「Web Browser Engineering」という資料または書籍である。",
+      "impact": "Webブラウザの技術的な仕組みに関する知識が共有されることで、開発者や関連技術者の理解が深まる可能性がある。",
+      "content_at": "2026-11-18T06:30:54.866416+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.ft.com/content/dbde7a30-548c-4f9d-a4be-7898a0c24dcf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-18T06:30:54.866416+09:00",
+      "title": "Nvidiaがシンガポールでの売上開示を停止、売上高は1040億ドルに到達",
+      "summary": "Nvidiaがシンガポールでの売上高の開示を停止した。同社の売上高は1040億ドルに達している。",
+      "impact": "特定の地域における売上データの透明性が低下することで、投資家やアナリストの同社に対する分析に影響を与える可能性がある。",
+      "content_at": "2026-11-18T06:30:54.866416+09:00"
+    }
+  ],
+  "updated_at": "2026-11-18T06:30:54.866416+09:00"
+}
