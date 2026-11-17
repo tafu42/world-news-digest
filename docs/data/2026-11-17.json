@@ -66,7 +66,73 @@
       "summary": "G-bufferやテンポラルアップスケーリングなど、ゲーム開発に必要な技術要件とThree.jsの現状を比較し、実装に向けた課題を検証している。",
       "impact": "この取り組みが進むことで、Webブラウザ上で動作するグラフィックスの品質が向上し、より高度なゲーム体験がWeb上で実現できる可能性がある。",
       "content_at": "2026-11-17T06:30:57.756365+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.cs.cmu.edu/learn/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-17T13:30:53.687458+09:00",
+      "title": "カーネギーメロン大学、コンピューターサイエンスの講義をYouTubeで無料公開へ",
+      "summary": "カーネギーメロン大学が、コンピューターサイエンスの講義をYouTubeで無料公開する。誰でもアクセス可能な形で教材が提供される。",
+      "impact": "より多くの学生や独学者が質の高い教育にアクセスできるようになり、IT人材の育成や技術スキルの底上げに寄与する可能性がある。",
+      "content_at": "2026-11-17T13:30:53.687458+09:00"
+    },
+    {
+      "image": "https://xusheng.dev/posts/windows-coding-agent-telemetry/agent-names.jpeg",
+      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-17T13:30:53.687458+09:00",
+      "title": "Windows 11が利用中のコーディングエージェントや開発ツール情報を収集",
+      "summary": "Windows 11の「MissionControlAggregator」をリバースエンジニアリングした結果、コーディングエージェントや開発ツールの使用状況が診断用ETWレポートに含まれていることが判明した。",
+      "impact": "ユーザーのプライバシー意識がさらに高まり、OS側のデータ収集に対する透明性や制御機能の拡充が求められる可能性がある。",
+      "content_at": "2026-11-17T13:30:53.687458+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.bugmenot.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-17T13:30:53.687458+09:00",
+      "title": "BugMeNotがサービスを終了",
+      "summary": "アカウント共有サイトのBugMeNotが閉鎖された。",
+      "impact": "同サイトを利用していたユーザーは、今後は個別の正規登録や代替手段の検討が必要になるため、一時的に不便が生じる可能性がある。",
+      "content_at": "2026-11-17T13:30:53.687458+09:00"
+    },
+    {
+      "image": "https://storage.ghost.io/c/2d/aa/2daa4f7f-a71b-47d2-a54c-06b8c60222ef/content/images/size/w1200/2026/11/Cybersecurity-Alert_-Malicious-Code-Injection.png",
+      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-17T13:30:53.687458+09:00",
+      "title": "Optimizelyが侵害され、ZoomやGitLabなどのサイトでマルウェアが配布される",
+      "summary": "2026年11月16日、OptimizelyのWeb実験プラットフォームを通じて、ZoomやGitLabなど世界178組織のサイト訪問者に悪意のあるJavaScriptが配信された。被害にはBBCやCNNなども含まれる。",
+      "impact": "Webプラットフォームの脆弱性が大規模なサプライチェーン攻撃に利用されたことで、企業サイトのセキュリティ対策やサードパーティ製ツールの管理体制が見直されるきっかけになるとみられる。",
+      "content_at": "2026-11-17T13:30:53.687458+09:00"
+    },
+    {
+      "image": "https://prose.sh/card.png",
+      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-17T13:30:53.687458+09:00",
+      "title": "認証情報を渡さずにコーディングエージェントを実行する方法",
+      "summary": "認証情報を渡さずにコーディングエージェントを実行することについて解説している。",
+      "impact": "開発者がコーディングエージェントを利用する際、セキュリティリスクを低減できる可能性がある。",
+      "content_at": "2026-11-17T13:30:53.687458+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://support.apple.com/en-us/149699",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-17T13:30:53.687458+09:00",
+      "title": "macOS 15.3におけるフルディスクアクセス権限の制御機能",
+      "summary": "macOS 15.3から、アプリによるフルディスクアクセス等の要求に対し、保護対象のフォルダやアプリを個別に指定できるようになった。これにより、アプリがアクセスできるデータの範囲をユーザーが管理できる。",
+      "impact": "ユーザーのプライバシー保護が強化され、悪意のあるアプリや不要な権限付与によるデータ漏洩のリスクが低減すると考えられる。",
+      "content_at": "2026-11-17T13:30:53.687458+09:00"
     }
   ],
-  "updated_at": "2026-11-17T06:30:57.756365+09:00"
+  "updated_at": "2026-11-17T13:30:53.687458+09:00"
 }
