@@ -121,7 +121,29 @@
       "summary": "MicrosoftのONNX RuntimeがGitHub上で確認できない状態となっている。GitHubは世界中の開発者がソフトウェアの開発や公開を行うプラットフォームである。",
       "impact": "開発者や企業がONNX Runtimeのソースコードに直接アクセスできなくなることで、関連プロジェクトの開発やメンテナンスに影響が出る可能性がある。",
       "content_at": "2026-11-18T13:30:49.373763+09:00"
+    },
+    {
+      "image": "https://energy-based-reasoners.github.io/static/images/ebr_landscape_abc_v1.png",
+      "url": "https://energy-based-reasoners.github.io/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-18T21:30:52.172459+09:00",
+      "title": "エネルギーベース推論モデル：推論効率が385倍に向上",
+      "summary": "学習済みのエネルギーモデルが推論の精査や選択を行う手法により、Sudoku-Extremeで99%以上の精度を達成した。従来のEqRと比較して、推論時の浮動小数点演算数（FLOPs）を最大345分の1に削減しつつ同等の精度を維持している。",
+      "impact": "推論効率が飛躍的に高まることで、AIモデルの実行コストが低減し、より少ない計算リソースで高度な推論が可能になる可能性がある。",
+      "content_at": "2026-11-18T21:30:52.172459+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://social.anoxinon.de/@codebergstatus/117636437840688845",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-18T21:30:52.172459+09:00",
+      "title": "Codeberg.orgにアクセスできない障害が発生",
+      "summary": "Codeberg.orgのサイトにアクセスできない状況が発生している。",
+      "impact": "Codebergを利用する開発者の作業に支障が出る可能性がある。",
+      "content_at": "2026-11-18T21:30:52.172459+09:00"
     }
   ],
-  "updated_at": "2026-11-18T13:30:49.373763+09:00"
+  "updated_at": "2026-11-18T21:30:52.172459+09:00"
 }
