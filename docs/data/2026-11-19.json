@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-19",
+  "articles": [
+    {
+      "image": "https://www.datocms-assets.com/75231/1794936719-img_7875.png?fm=webp",
+      "url": "https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-19T06:30:49.696496+09:00",
+      "title": "Nginxで認証不要のリモートコード実行の脆弱性が判明",
+      "summary": "Nginxにおいて、攻撃者がサーバーを侵害できる2つの深刻なHTTP/2の脆弱性が発見された。これにより、WebサイトやAPI、取り扱う機密データが危険にさらされる可能性がある。",
+      "impact": "対象となるサーバーを運用する企業や組織に対し、早急なセキュリティパッチの適用や対策が求められるとみられる。",
+      "content_at": "2026-11-19T06:30:49.696496+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://microsoft.ai/news/microsoft-ignite-2026/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-19T06:30:49.696496+09:00",
+      "title": "スケーラブルな価格性能を実現する7つの新モデルが登場",
+      "summary": "スケーラブルな価格と性能を備えた、7つの新しいモデルが発表された。",
+      "impact": "ユーザーがニーズに合わせて選択肢を広げられるため、業務効率化やコスト最適化につながる可能性がある。",
+      "content_at": "2026-11-19T06:30:49.696496+09:00"
+    },
+    {
+      "image": "https://www.inside-db.com/content/images/size/w1200/2026/09/_DSF9639.jpg",
+      "url": "https://www.inside-db.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-19T06:30:49.696496+09:00",
+      "title": "ドイツ銀行の内情を追う大規模な世界的調査",
+      "summary": "金融大手であるドイツ銀行の内情を明らかにする、大規模な世界的調査が行われた。",
+      "impact": "調査の内容次第では、同社の信頼性や今後の経営方針に影響を与える可能性がある。",
+      "content_at": "2026-11-19T06:30:49.696496+09:00"
+    },
+    {
+      "image": "https://europeanbusinessmagazine.com/wp-content/uploads/2026/06/ai5555-1024x678.jpg",
+      "url": "https://europeanbusinessmagazine.com/ai-agents-better-questions-kpmg/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-19T06:30:49.696496+09:00",
+      "title": "監査業務においてAIエージェントがKPMGの会計士より優れた質問を行う",
+      "summary": "KPMGが実施した監査の試行において、AIエージェントが専門的な質問を行う能力で会計士を上回る成果を見せた。これはプロフェッショナルサービス分野におけるAI導入の大きな進展といえる。",
+      "impact": "今後の監査業務のプロセスが大きく変わり、AIの活用が標準化される可能性がある。",
+      "content_at": "2026-11-19T06:30:49.696496+09:00"
+    },
+    {
+      "image": "https://techstackups.com/img/articles/quad9-leaves-france/cover.jpg",
+      "url": "https://techstackups.com/articles/quad9-leaves-france-dns-blocking/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-19T06:30:49.696496+09:00",
+      "title": "DNSリゾルバによる海賊版サイト遮断の是非",
+      "summary": "非営利DNSリゾルバのQuad9は、beIN Sportsからの遮断命令に従うことを拒否し、2026年11月24日をもってフランスでのサービス提供を停止した。本件は、フランスの法律に基づき公開DNSリゾルバへドメイン遮断を強制することの是非を問うものとなっている。",
+      "impact": "公共のDNSリゾルバに対する法的な遮断要請が、インターネットの健全な運用に悪影響を及ぼす可能性があるとして、今後の法整備や規制のあり方に議論を呼ぶと考えられる。",
+      "content_at": "2026-11-19T06:30:49.696496+09:00"
+    },
+    {
+      "image": "https://www.radixark.com/images/daisyrose-27b/hero.png",
+      "url": "https://www.radixark.com/blog/daisyrose-27b",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-19T06:30:49.696496+09:00",
+      "title": "新モデル「DaisyRose-27B」の発表とRLの成果",
+      "summary": "RadixArk社が開発した初のモデル「DaisyRose-27B」が発表された。本モデルは144基のH200 GPUを用い、18日間かけて1,200のタスクで強化学習（RL）が行われ、Terminal-Bench 4.1のスコアを5.6%から12%へ向上させた。",
+      "impact": "効率的な強化学習プロセスが実証されたことで、同様の手法が他のAIモデル開発における性能改善に広く応用される可能性がある。",
+      "content_at": "2026-11-19T06:30:49.696496+09:00"
+    }
+  ],
+  "updated_at": "2026-11-19T06:30:49.696496+09:00"
+}
