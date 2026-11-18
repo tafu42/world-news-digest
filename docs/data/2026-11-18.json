@@ -66,7 +66,62 @@
       "summary": "Nvidiaがシンガポールでの売上高の開示を停止した。同社の売上高は1040億ドルに達している。",
       "impact": "特定の地域における売上データの透明性が低下することで、投資家やアナリストの同社に対する分析に影響を与える可能性がある。",
       "content_at": "2026-11-18T06:30:54.866416+09:00"
+    },
+    {
+      "image": "https://calif.io/java4shell/poster.jpg",
+      "url": "https://calif.io/java4shell/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-18T13:30:49.373763+09:00",
+      "title": "OpenJDKにおけるメモリ破壊の脆弱性「Java4Shell」",
+      "summary": "OpenJDKにおいて、Base64処理に関連するメモリ破壊の脆弱性が確認された。この脆弱性はリモートコード実行（RCE）につながる可能性がある。",
+      "impact": "Javaを利用する多くのシステムで悪用される危険性があり、開発者は該当バージョンのアップデートなどの対応を迫られると考えられる。",
+      "content_at": "2026-11-18T13:30:49.373763+09:00"
+    },
+    {
+      "image": "https://consumerrights.wiki/images/logo/new_fixed_logo.png",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-18T13:30:49.373763+09:00",
+      "title": "IRSのログインシステムID.me利用規約の詳細",
+      "summary": "米国内国歳入庁（IRS）のID.meを通じたログインには、30日以内のオプトアウト手続きがない限り仲裁条項への同意が求められる。また、政府の確認データは原則として広告利用から除外される。",
+      "impact": "利用者のプライバシー保護に対する懸念や、法的な権利制限に対する議論が活発化する可能性がある。",
+      "content_at": "2026-11-18T13:30:49.373763+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-18T13:30:49.373763+09:00",
+      "title": "GoogleのAI回答機能による検索トラフィックの減少",
+      "summary": "Google検索において、AIによる回答機能の導入により外部サイトへの検索トラフィックが40%減少している。",
+      "impact": "ウェブサイト運営者の収益に悪影響を及ぼす可能性があり、検索エンジン最適化（SEO）戦略の抜本的な見直しが必要になるとみられる。",
+      "content_at": "2026-11-18T13:30:49.373763+09:00"
+    },
+    {
+      "image": "https://blog.cloudflare.com/_emdash/api/media/file/01M7NJA0M7FAQEQZBW0K0W5KKS.png",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-18T13:30:49.373763+09:00",
+      "title": "Quad9のフランス撤退が示すDNSブロッキングの危険性",
+      "summary": "DNSサービスを提供するQuad9が、フランスでの提供停止を余儀なくされた。この事態は、DNSレベルでのブロッキングを義務付けることの危険性を示唆している。",
+      "impact": "政府によるインターネット検閲や遮断の拡大が、インターネットの自由な利用を阻害する懸念が高まると考えられる。",
+      "content_at": "2026-11-18T13:30:49.373763+09:00"
+    },
+    {
+      "image": "https://github.githubassets.com/assets/github-logo-55c5b9a1fe52.png",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-18T13:30:49.373763+09:00",
+      "title": "MicrosoftのONNX RuntimeがGitHubから削除された",
+      "summary": "MicrosoftのONNX RuntimeがGitHub上で確認できない状態となっている。GitHubは世界中の開発者がソフトウェアの開発や公開を行うプラットフォームである。",
+      "impact": "開発者や企業がONNX Runtimeのソースコードに直接アクセスできなくなることで、関連プロジェクトの開発やメンテナンスに影響が出る可能性がある。",
+      "content_at": "2026-11-18T13:30:49.373763+09:00"
     }
   ],
-  "updated_at": "2026-11-18T06:30:54.866416+09:00"
+  "updated_at": "2026-11-18T13:30:49.373763+09:00"
 }
