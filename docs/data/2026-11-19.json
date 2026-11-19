@@ -110,7 +110,62 @@
       "summary": "Webブラウザ上でUnreal Tournament 2004を動かし、WebサーバーのマスターリストからWebRTCサーバーに参加することが可能となった。",
       "impact": "ブラウザベースのゲーム技術が向上し、レトロゲームのオンラインプレイ環境がより手軽になる可能性がある。",
       "content_at": "2026-11-19T13:30:49.610351+09:00"
+    },
+    {
+      "image": "https://element.io/blog/content/images/size/w1200/2026/11/euc-conf__blog.png",
+      "url": "https://element.io/blog/how-the-european-commission-rolled-out-matrix-to-more-than-40-000-staff/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-19T21:30:49.871282+09:00",
+      "title": "欧州委員会がMatrixベースの通信ツールを4万人の職員へ導入",
+      "summary": "欧州委員会はMatrixを基盤とした独自の通信ツールを開発し、2025年12月の概念実証から2026年9月までに全職員のラップトップへ展開した。現在、このツールは4万人以上のユーザーによって利用されている。",
+      "impact": "政府や公的機関における独自の主権を持つ通信インフラの構築事例となり、他の組織でもオープンソースのMatrixを活用した内製ツールの採用が進む可能性がある。",
+      "content_at": "2026-11-19T21:30:49.871282+09:00"
+    },
+    {
+      "image": "https://www.php.net/images/php8/php_8_6_released.png",
+      "url": "https://www.php.net/releases/8.6/en.php",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-19T21:30:49.871282+09:00",
+      "title": "PHP 8.6の主な新機能",
+      "summary": "PHP 8.6はPHP言語のメジャーアップデートである。主な新機能として、部分関数適用（Partial Function Application）、Durationクラス、ポーリングAPI、clamp()関数などが追加された。",
+      "impact": "既存のPHPアプリケーションにおいて、これらの新機能によりコードの記述効率や処理能力が向上する可能性がある。",
+      "content_at": "2026-11-19T21:30:49.871282+09:00"
+    },
+    {
+      "image": "https://verialabs.com/og/ruby2shell.png",
+      "url": "https://verialabs.com/ruby2shell/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-19T21:30:49.871282+09:00",
+      "title": "Rubyにおける脆弱性「Ruby2Shell」について",
+      "summary": "Ruby2Shell（GHSA-34m4-m9fh-gqp5）は、Rubyに存在する1バイトのヒープオーバーフローの脆弱性である。この脆弱性は、標準的なRails環境における認証前のリモートコード実行（RCE）を可能にするものである。",
+      "impact": "この脆弱性を突かれることで、攻撃者がシステムを乗っ取る危険性がある。対象となるRuby環境を使用しているシステムでは、早急な対策やパッチ適用が必要と考えられる。",
+      "content_at": "2026-11-19T21:30:49.871282+09:00"
+    },
+    {
+      "image": "https://zerodha.tech//static/images/blobasaur-og.png",
+      "url": "https://zerodha.tech/blog/high-performance-distributed-blob-storage/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-19T21:30:49.871282+09:00",
+      "title": "SQLiteを用いた分散型高性能BLOBストレージの構築",
+      "summary": "高スループットなBLOBの読み書きという課題を解決するため、シャード化された分散型の軽量BLOBストレージサーバー「Blobasaur」が開発された。本ツールはSQLiteを基盤としている。",
+      "impact": "データストレージの設計において、SQLiteを活用した軽量かつ効率的なスケーリング手法の選択肢が広がるとみられる。",
+      "content_at": "2026-11-19T21:30:49.871282+09:00"
+    },
+    {
+      "image": "https://harrison.page/harrison.jpg",
+      "url": "https://blog.harrison.page/garage-door-spam/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-19T21:30:49.871282+09:00",
+      "title": "ガレージドアの開閉通知に関するスパム問題",
+      "summary": "筆者のガレージドアオープナーは当初正常に動作し、開閉時に通知が届いていた。しかし、自宅を離れている間にドアが開くなどの挙動が発生した。",
+      "impact": "スマートホーム機器の誤作動や通知の不具合により、居住者のセキュリティに対する不安感が高まる可能性がある。",
+      "content_at": "2026-11-19T21:30:49.871282+09:00"
     }
   ],
-  "updated_at": "2026-11-19T13:30:49.610351+09:00"
+  "updated_at": "2026-11-19T21:30:49.871282+09:00"
 }
