@@ -66,7 +66,51 @@
       "summary": "RadixArk社が開発した初のモデル「DaisyRose-27B」が発表された。本モデルは144基のH200 GPUを用い、18日間かけて1,200のタスクで強化学習（RL）が行われ、Terminal-Bench 4.1のスコアを5.6%から12%へ向上させた。",
       "impact": "効率的な強化学習プロセスが実証されたことで、同様の手法が他のAIモデル開発における性能改善に広く応用される可能性がある。",
       "content_at": "2026-11-19T06:30:49.696496+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/gemini-4-neon__blog-header__sm.width-1300.png",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-19T13:30:49.610351+09:00",
+      "title": "Gemini 4 Neonの発表",
+      "summary": "Gemini 4 Neonが新たに発表された。",
+      "impact": "生成AIモデルの選択肢が増えることで、開発者やユーザーの利用環境が変化する可能性がある。",
+      "content_at": "2026-11-19T13:30:49.610351+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-19T13:30:49.610351+09:00",
+      "title": "Gemini 4 NeonとOpus 5.5の性能比較",
+      "summary": "Gemini 4 Neonの性能は、Gemini 4 Carbonを高速化したものと同等であり、Opus 5.5に匹敵すると予測されている。",
+      "impact": "高機能モデル間の競争が激化し、高性能なAIモデルの選定基準に影響を与える可能性がある。",
+      "content_at": "2026-11-19T13:30:49.610351+09:00"
+    },
+    {
+      "image": "https://www.ruby-lang.org/images/og-image.png",
+      "url": "https://www.ruby-lang.org/en/news/2026/11/18/multiple-vulnerabilities-in-regexp-and-string/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-19T13:30:49.610351+09:00",
+      "title": "Rubyの正規表現および文字列変換における脆弱性の発見",
+      "summary": "Rubyの正規表現エンジンと文字列のケース変換において、7つの脆弱性が発見された。実証コード（PoC）の存在も確認されている。",
+      "impact": "これらの脆弱性を悪用したセキュリティリスクが生じる可能性があるため、関連システムの修正やアップデートが必要になる見通しである。",
+      "content_at": "2026-11-19T13:30:49.610351+09:00"
+    },
+    {
+      "image": "https://assets.ut2004.dev/web/og.jpg",
+      "url": "https://ut2004.dev/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-19T13:30:49.610351+09:00",
+      "title": "ブラウザで動作するUnreal Tournament 2004",
+      "summary": "Webブラウザ上でUnreal Tournament 2004を動かし、WebサーバーのマスターリストからWebRTCサーバーに参加することが可能となった。",
+      "impact": "ブラウザベースのゲーム技術が向上し、レトロゲームのオンラインプレイ環境がより手軽になる可能性がある。",
+      "content_at": "2026-11-19T13:30:49.610351+09:00"
     }
   ],
-  "updated_at": "2026-11-19T06:30:49.696496+09:00"
+  "updated_at": "2026-11-19T13:30:49.610351+09:00"
 }
