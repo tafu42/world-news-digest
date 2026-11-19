@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-20",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-20T06:30:51.381481+09:00",
+      "title": "Anthropic社がナスダック市場に初上場、時価総額2兆ドルに到達",
+      "summary": "Anthropic社がナスダック市場にデビューし、時価総額が2兆ドルに達した。",
+      "impact": "同社の市場価値が非常に高い水準にあることを示しており、今後のAI業界における投資動向や技術開発の加速に影響を与える可能性がある。",
+      "content_at": "2026-11-20T06:30:51.381481+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.newscientist.com/article/2528235-pancreatic-cancer-halted-by-virus-injection-in-three-patients/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-20T06:30:51.381481+09:00",
+      "title": "ウイルス注射により膵臓がんの進行が停止、3名の患者で確認",
+      "summary": "ウイルスを注射することで、3名の患者の膵臓がんの進行が停止した。",
+      "impact": "ウイルス療法が膵臓がんの新たな治療の選択肢となる可能性が示された。今後は臨床試験を経て、実際の治療法として確立されることが期待される。",
+      "content_at": "2026-11-20T06:30:51.381481+09:00"
+    },
+    {
+      "image": "https://assets.claude.com/57a443b51d13727573b7c1290130d09c5f434b2c.jpg",
+      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-20T06:30:51.381481+09:00",
+      "title": "AI「Claude Fable 5.2」がブラックホールの物理学に関する未解決問題を解決",
+      "summary": "Claude Fable 5.2が、ブラックホールおよび量子重力理論の探索に関する2つの物理学の未解決問題を解決した。",
+      "impact": "科学研究においてAIの有用性が実証された。今後、物理学をはじめとする学術分野での難問解明が加速する可能性がある。",
+      "content_at": "2026-11-20T06:30:51.381481+09:00"
+    },
+    {
+      "image": "https://globalcommercegraph.com/og-image.png",
+      "url": "https://globalcommercegraph.com/writing/the-ninety-eight-percent-slot-machine",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-20T06:30:51.381481+09:00",
+      "title": "98%のスロットマシン：有料広告がどのように「抽出税」と化したか",
+      "summary": "広告オークションは、ユーザーが継続的に利用するように調整されている。オークションの勝者は、継続を促すために利益が還元される仕組みである。",
+      "impact": "広告システムがユーザーの心理を操作し、収益を最大化するように設計されている実態が示された。今後、広告運用の透明性や消費者の行動に対する規制が議論される可能性がある。",
+      "content_at": "2026-11-20T06:30:51.381481+09:00"
+    },
+    {
+      "image": "https://cornholenews.news/opengraph-image",
+      "url": "https://cornholenews.news",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-20T06:30:51.381481+09:00",
+      "title": "Cornhole News：中西部ニュースのためのHacker News風サイト",
+      "summary": "中西部に関するニュースやリンクをコミュニティの投票によって順位付けするサイト「Cornhole News」が公開された。Hacker Newsから着想を得ている。",
+      "impact": "中西部に特化した情報が集約されることで、同地域のコミュニティにおける情報共有が活性化する可能性がある。",
+      "content_at": "2026-11-20T06:30:51.381481+09:00"
+    }
+  ],
+  "updated_at": "2026-11-20T06:30:51.381481+09:00"
+}
