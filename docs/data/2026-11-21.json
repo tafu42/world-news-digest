@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-21",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-21T06:30:47.218969+09:00",
+      "title": "アレッサンドロ・マスーロ氏に関する緊急発表",
+      "summary": "アメリカ数学会での会議に出席中の投稿者が、アレッサンドロ・マスーロ氏に関する緊急の発表を行おうとしている。会議の合間を縫って速報を伝えようとしている。",
+      "impact": "発表内容次第では数学コミュニティに何らかの影響を及ぼす可能性がある。",
+      "content_at": "2026-11-21T06:30:47.218969+09:00"
+    },
+    {
+      "image": "https://thinkingmachines.ai/news/inkling-2-mini/images/cover-social.png",
+      "url": "https://thinkingmachines.ai/news/inkling-2-mini/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-21T06:30:47.218969+09:00",
+      "title": "オープンウェイトモデル「Inkling 2 Mini」の登場",
+      "summary": "「Inkling 2 Mini」はノートパソコンで動作する軽量なオープンウェイトモデルである。中間層をループさせる仕組みにより、少ないトークン数で推論を行う。",
+      "impact": "ローカル環境で高度なAI推論が利用可能になることで、AI技術の利便性やアクセシビリティが向上する可能性がある。",
+      "content_at": "2026-11-21T06:30:47.218969+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://alpo.ge/remark.pdf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-21T06:30:47.218969+09:00",
+      "title": "レヴェント・アルポゲ氏が一般化リーマン予想の証明を主張",
+      "summary": "数学者のレヴェント・アルポゲ氏が、一般化リーマン予想を証明したと主張している。詳細は公開されたPDF資料に記載されている。",
+      "impact": "数学界における最大の難問の一つであるため、証明が検証されれば学術的に極めて大きな影響を与える可能性がある。",
+      "content_at": "2026-11-21T06:30:47.218969+09:00"
+    },
+    {
+      "image": "https://near.tl/utils/resize/image?cdn=https://cdn.neartail.com/1FAIpQLScjbts-yMOruG0IK47bi0s9ciOCA6pyW7RlmwKwcFIRnw9HUQ/1795197373296/markdown/thumbnail.png&w=1200&h=630",
+      "url": "https://manidoraisamy.com/developer-to-architect.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-21T06:30:47.218969+09:00",
+      "title": "開発者をアーキテクトへ昇格させる方針について",
+      "summary": "AIが要求通りに動作し提案に異議を唱えない状況において、開発者ではなくアーキテクトとしての役割を担うべきであるという考え方。開発者に昇格を通知せずアーキテクトへ役割をシフトさせている。",
+      "impact": "開発現場の役割分担や働き方が変化し、エンジニアには技術開発だけでなく設計思想の強化が求められるようになると考えられる。",
+      "content_at": "2026-11-21T06:30:47.218969+09:00"
+    },
+    {
+      "image": "https://secure.gravatar.com/blavatar/bd4bda4207561b6998f10dec44b570f04ff4072b20f89162d525b186dfca3e49?s=200&#038;ts=1795210191",
+      "url": "https://terrytao.wordpress.com/2026/11/20/unforced-euler-singularity-unforced-navier-stokes-singularity-and-the-generalized-riemann-hypothesis/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-21T06:30:47.218969+09:00",
+      "title": "ナビエ・ストークス方程式の特異性と一般化リーマン予想に関する研究成果",
+      "summary": "ナビエ・ストークス方程式の特異性と一般化リーマン予想に関連する結果が報告された。Levent AlpögeやTristan Buckらの名前が関連人物として挙げられている。",
+      "impact": "数学界における難問の解明に向けた進展であり、今後の学術的な検証や評価が待たれる。",
+      "content_at": "2026-11-21T06:30:47.218969+09:00"
+    },
+    {
+      "image": "/static/browse/0.3.4/images/arxiv-logo-fb.png",
+      "url": "https://arxiv.org/abs/2611.21885",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-21T06:30:47.218969+09:00",
+      "title": "言語モデルが自身の重みを書き換える手法の開発",
+      "summary": "言語モデルが自身の推論を通じて、モデルの重みを直接書き換える手法が示された。これは事前のトレーニングや追加の推論時計算を必要としない第三の適応手法である。",
+      "impact": "AIモデルの更新効率が大幅に向上する可能性がある。この技術は、AIが動的に自己進化を行うための基礎となる可能性があるとみられる。",
+      "content_at": "2026-11-21T06:30:47.218969+09:00"
+    }
+  ],
+  "updated_at": "2026-11-21T06:30:47.218969+09:00"
+}
