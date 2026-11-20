@@ -99,7 +99,62 @@
       "summary": "ヴィント・サーフを最初のゲストに迎えた新しいポッドキャスト番組が開始された。番組内では、インターネットの構築に携わったサーフ氏がTCP/IPが特許化されなかった経緯について語る。",
       "impact": "インターネットの歴史的背景への理解が深まる機会になるとみられる。",
       "content_at": "2026-11-20T13:30:48.767683+09:00"
+    },
+    {
+      "image": "https://ecohustler.com/img/asset/bWFpbi9vbmUtY29ycG9yYXRpb24tdG8tcG9sbHV0ZS10aGVtLWFsbC5wbmc/one-corporation-to-pollute-them-all.png?p=og&s=6d596b09b5a7b3028cc8993239fa3d38",
+      "url": "https://ecohustler.com/article/one-corporation-to-pollute-them-all/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-20T21:30:48.146892+09:00",
+      "title": "カーニバル・コーポレーションの排出する硫黄酸化物、欧州全域の自動車より10倍多い",
+      "summary": "調査により、クルーズ大手のカーニバル・コーポレーションによる大気汚染物質の排出量が、欧州全域の自動車を合計した数値の10倍に達することが明らかになった。",
+      "impact": "クルーズ業界に対する環境規制が強化される可能性がある。また、旅行客の環境意識の高まりを受け、企業の持続可能性に対する監視が厳しくなるとみられる。",
+      "content_at": "2026-11-20T21:30:48.146892+09:00"
+    },
+    {
+      "image": "https://main--gleeful-begonia-6bb5f3.netlify.app/_next/static/media/frostbite-cover.3n9ytugnquhlr.jpg",
+      "url": "https://architectlabs.com/blog/frostbite",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-20T21:30:48.146892+09:00",
+      "title": "AIが設計・検証した新しいCPUアーキテクチャ「Frostbite」",
+      "summary": "AIシステムによって発見・設計・検証された汎用CPUアーキテクチャ「Frostbite」が発表された。現代的なスーパースカラCPUと比較して、ワットあたりの性能で4.59倍を達成した。",
+      "impact": "半導体設計の自動化が飛躍的に進む可能性がある。将来的には、よりエネルギー効率の高いプロセッサの開発が加速し、ハードウェア製造コストの削減に寄与するとみられる。",
+      "content_at": "2026-11-20T21:30:48.146892+09:00"
+    },
+    {
+      "image": "http://kottke.org/plus/misc/images/feynman-blackboard.jpg",
+      "url": "https://kottke.org/17/06/if-you-cant-explain-something-in-simple-terms-you-dont-understand-it",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-20T21:30:48.146892+09:00",
+      "title": "「単純に説明できなければ理解していない」という教訓",
+      "summary": "1960年代初頭、リチャード・ファインマンが学部生向けに行った物理学の講義は、後に書籍『ファインマン物理学』としてまとめられた。",
+      "impact": "専門的な知識を平易に解説するスキルの重要性が再認識されると考えられる。教育手法や知識の伝達方法に一定の影響を与える可能性がある。",
+      "content_at": "2026-11-20T21:30:48.146892+09:00"
+    },
+    {
+      "image": "https://imcayyueqknvmognvohc.supabase.co/storage/v1/object/public/media/1789648325786-1gmqsl.webp",
+      "url": "https://jeanmicheljarre.com/aaa/the-making-of-oxygene",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-20T21:30:48.146892+09:00",
+      "title": "アルバム『Oxygene』の制作秘話とDolby Atmosによる再構築",
+      "summary": "画期的なアルバム『Oxygene』の全貌と、同作をDolby Atmosで再構築した経緯について語られている。",
+      "impact": "過去の音楽作品を最新技術でリマスターする手法が、音楽制作業界において再評価される可能性がある。",
+      "content_at": "2026-11-20T21:30:48.146892+09:00"
+    },
+    {
+      "image": "https://trynotched.com/og-find.png",
+      "url": "https://trynotched.com/find",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-20T21:30:48.146892+09:00",
+      "title": "耳鳴りの周波数特定・ノッチフィルターツール「Show HN: Tinnitus frequency finder and audio notch tool」",
+      "summary": "登録不要かつブラウザ内で完結する、約4分間で耳鳴りの周波数を特定・調整できる無料のガイド付きツールが公開された。個人データが外部に送信されない設計となっている。",
+      "impact": "耳鳴りに悩むユーザーが自身の症状に合わせた音源を容易に作成できるため、症状の緩和に向けた自己ケアの手段として活用される可能性がある。",
+      "content_at": "2026-11-20T21:30:48.146892+09:00"
     }
   ],
-  "updated_at": "2026-11-20T13:30:48.767683+09:00"
+  "updated_at": "2026-11-20T21:30:48.146892+09:00"
 }
