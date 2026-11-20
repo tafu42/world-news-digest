@@ -55,7 +55,51 @@
       "summary": "中西部に関するニュースやリンクをコミュニティの投票によって順位付けするサイト「Cornhole News」が公開された。Hacker Newsから着想を得ている。",
       "impact": "中西部に特化した情報が集約されることで、同地域のコミュニティにおける情報共有が活性化する可能性がある。",
       "content_at": "2026-11-20T06:30:51.381481+09:00"
+    },
+    {
+      "image": "https://git-aarvin.github.io/mei/scatter/cost.png",
+      "url": "https://git-aarvin.github.io/mei/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-20T13:30:48.767683+09:00",
+      "title": "Gemini 4 NeonがModels Engineering Indexで1位を獲得",
+      "summary": "Meiが言語モデルの評価を行い、Gemini 4 NeonがModels Engineering Indexで首位となった。モデルの順位付けにおける新しい指標の結果である。",
+      "impact": "開発者や企業がモデル選定を行う際の判断基準に影響を与える可能性がある。",
+      "content_at": "2026-11-20T13:30:48.767683+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/d916370b558eb3cac8dc01b88d8ab926b071f58101c5310fdc4b4b5b880d0aa7/openssl/openssl/pull/33652",
+      "url": "https://github.com/openssl/openssl/pull/33652",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-20T13:30:48.767683+09:00",
+      "title": "OpenSSLのEVP_EncodeBlockにおけるバッファオーバーフローの脆弱性を修正",
+      "summary": "OpenSSLは、EVP_EncodeBlock()におけるバッファオーバーフローの脆弱性（CVE-2026-121481）を修正した。無効な入力に対して-1を返すようにすることで対処している。",
+      "impact": "該当する脆弱性はCVSSスコアが9.8と高く、システム管理者は早急なパッチ適用が求められると考えられる。",
+      "content_at": "2026-11-20T13:30:48.767683+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://institute.deepmind.com/essays/what-comes-after-agi/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-20T13:30:48.767683+09:00",
+      "title": "AGIのその先にあるもの",
+      "summary": "AGI（汎用人工知能）の後に何が来るのかという問いかけがなされている。",
+      "impact": "技術の発展方向性について議論を喚起し、将来的な研究の焦点に影響を与える可能性がある。",
+      "content_at": "2026-11-20T13:30:48.767683+09:00"
+    },
+    {
+      "image": "https://substackcdn.com/image/fetch/$s_!F4Pm!,w_1200,h_675,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3c9dc8fc-3b97-48bf-9594-781fe179ffe0_1920x1080.jpeg",
+      "url": "https://seremot.com/p/vint-cerf-on-why-tcpip-was-never",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-20T13:30:48.767683+09:00",
+      "title": "ヴィント・サーフが語るTCP/IPが特許化されなかった理由",
+      "summary": "ヴィント・サーフを最初のゲストに迎えた新しいポッドキャスト番組が開始された。番組内では、インターネットの構築に携わったサーフ氏がTCP/IPが特許化されなかった経緯について語る。",
+      "impact": "インターネットの歴史的背景への理解が深まる機会になるとみられる。",
+      "content_at": "2026-11-20T13:30:48.767683+09:00"
     }
   ],
-  "updated_at": "2026-11-20T06:30:51.381481+09:00"
+  "updated_at": "2026-11-20T13:30:48.767683+09:00"
 }
