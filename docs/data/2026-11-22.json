@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-22",
+  "articles": [
+    {
+      "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e108196e90ed29a731e8a7ec890173bf",
+      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-22T06:30:54.994471+09:00",
+      "title": "膵臓がん治療薬の新薬候補、数十年来の最大の進歩と評価",
+      "summary": "臨床試験において、12人に1人の患者でがんが検出不能となり、ほぼすべての参加者で腫瘍の増殖が停止した。試験薬ダラキソンラシブによる成果である。",
+      "impact": "膵臓がん治療における新たな選択肢として期待される。今後、標準的な治療法として確立されれば、患者の生存率向上に寄与する可能性がある。",
+      "content_at": "2026-11-22T06:30:54.994471+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/d1e4a8ab407ead3dbeb626da6152fc86b8491ac53da52df4215f7ac21ed3d9ee/ShinMegamiBoson/lookatmyquant",
+      "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-22T06:30:54.994471+09:00",
+      "title": "5.4GBメモリ環境に対応する量子化コンパイラ「Inkling-2-Mini」",
+      "summary": "Inkling-2-Miniは、同等のファイルサイズでQ4_K_Mと比較してKLダイバージェンスを12倍低減させる量子化コンパイラである。",
+      "impact": "限られたメモリ環境において、より高精度なAIモデルの運用が可能になると考えられる。計算リソースの制約があるデバイスでのAI活用が進む可能性がある。",
+      "content_at": "2026-11-22T06:30:54.994471+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://leanprover-community.github.io/blog/posts/riemann-hypothesis/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-22T06:30:54.994471+09:00",
+      "title": "リーマン予想のLean検証に関する共同声明",
+      "summary": "LeanおよびMathlibコミュニティは、リーマン予想の検証に関する共同声明を発表した。2026年11月20日、Levent Alpögeが関連する発表を行っている。",
+      "impact": "形式検証技術を用いて数学の難問を証明・検証する取り組みが進展している。数学的証明の信頼性確保や数学研究の効率化に貢献する可能性がある。",
+      "content_at": "2026-11-22T06:30:54.994471+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-22T06:30:54.994471+09:00",
+      "title": "アジ化鉛の起爆実験",
+      "summary": "アジ化鉛の山を起爆させる実験が行われた。",
+      "impact": "爆薬物質の取り扱いや反応に関する技術的な記録や検証事例となる可能性がある。特段の社会的な波及は見込まれない。",
+      "content_at": "2026-11-22T06:30:54.994471+09:00"
+    },
+    {
+      "image": "https://jespino.github.io/gopgext/img/social.png",
+      "url": "https://jespino.github.io/gopgext/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-22T06:30:54.994471+09:00",
+      "title": "Go言語を用いたPostgreSQL拡張機能の開発",
+      "summary": "TinyGoを利用し、GoのコードからPostgreSQLの拡張機能を構築できるようになった。特定のコメントを付与することで、Goの関数をSQL関数として利用できる。",
+      "impact": "Go言語の開発者がデータベースの拡張機能を容易に作成できるようになり、開発効率の向上やエコシステムの拡大につながる可能性がある。",
+      "content_at": "2026-11-22T06:30:54.994471+09:00"
+    }
+  ],
+  "updated_at": "2026-11-22T06:30:54.994471+09:00"
+}
