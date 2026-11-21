@@ -77,7 +77,40 @@
       "summary": "1988年から現在に至るまでのナイン・インチ・ネイルズのコンサート記録をまとめたファン運営のアーカイブサイトである。セットリストや録音データ、ポスター、写真などが公開されている。",
       "impact": "ファンコミュニティにおける過去のライブ情報の整理と共有が促進される可能性がある。",
       "content_at": "2026-11-21T13:30:44.728125+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-21T21:30:47.808640+09:00",
+      "title": "ブラジル税務当局が税額計算ツールをMITライセンスで公開",
+      "summary": "ブラジルの税務当局が、税額計算ツールのソースコードをGitHub上でMITライセンスのもと公開した。",
+      "impact": "税務処理における透明性が向上し、オープンソース開発者による検証や改善が進む可能性がある。",
+      "content_at": "2026-11-21T21:30:47.808640+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-21T21:30:47.808640+09:00",
+      "title": "GnuPGにおけるリモートコード実行の脆弱性",
+      "summary": "GnuPGにおいて、リモートコード実行（RCE）の脆弱性が確認された。",
+      "impact": "暗号化ツールとしての信頼性に影響を及ぼす可能性があり、利用者は速やかなアップデートによる対応を求められると考えられる。",
+      "content_at": "2026-11-21T21:30:47.808640+09:00"
+    },
+    {
+      "image": "",
+      "url": "http://ricapar.net/ClawDOS/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-21T21:30:47.808640+09:00",
+      "title": "DOS環境用AIコーディングエージェント「ClawDOS」",
+      "summary": "IBM PC 5160などのレトロPC環境（8088 CPU搭載）で動作する、DOS向けのAIチャットおよびコーディング支援ツール「ClawDOS」が公開された。",
+      "impact": "レトロコンピューティングにおいて、AIを活用したソフトウェア開発という新たな可能性が示されたとみられる。",
+      "content_at": "2026-11-21T21:30:47.808640+09:00"
     }
   ],
-  "updated_at": "2026-11-21T13:30:44.728125+09:00"
+  "updated_at": "2026-11-21T21:30:47.808640+09:00"
 }
