@@ -55,7 +55,40 @@
       "summary": "TinyGoを利用し、GoのコードからPostgreSQLの拡張機能を構築できるようになった。特定のコメントを付与することで、Goの関数をSQL関数として利用できる。",
       "impact": "Go言語の開発者がデータベースの拡張機能を容易に作成できるようになり、開発効率の向上やエコシステムの拡大につながる可能性がある。",
       "content_at": "2026-11-22T06:30:54.994471+09:00"
+    },
+    {
+      "image": "https://stulle.app/og.jpg",
+      "url": "https://stulle.app/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-22T13:30:44.098544+09:00",
+      "title": "サンドイッチ・シミュレーター",
+      "summary": "食パンに具材を載せて写真を撮ると、番号とリンクが発行されるウェブサービスである。",
+      "impact": "個人の楽しみとして利用されるほか、デジタル上の創作物を共有する新たな遊びの一つとして注目される可能性がある。",
+      "content_at": "2026-11-22T13:30:44.098544+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/182240b7aebbf36ef4665dd8b2d1f09d7b02ba565bd2cb2675e65a01a3d0e412/ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-22T13:30:44.098544+09:00",
+      "title": "GTA 6のXbox版をPC向けに再コンパイルするプロジェクト「Leonida」",
+      "summary": "「Leonida」は、Grand Theft Auto 6のXbox版をPCネイティブ向けに再コンパイルするプロジェクトである。",
+      "impact": "PCユーザーにとってゲームの選択肢が広がる可能性がある一方、開発元であるロックスター・ゲームス等の権利者との間で著作権や利用規約に関する議論が生じる可能性がある。",
+      "content_at": "2026-11-22T13:30:44.098544+09:00"
+    },
+    {
+      "image": "https://hips.hearstapps.com/hmg-prod/images/d8009593-6fd1-4860-b42e-c59e9945155a.jpeg?crop=1xw:0.75xh;0xw,0.184xh&amp;resize=1200:*",
+      "url": "https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-22T13:30:44.098544+09:00",
+      "title": "トヨタ・日産・ホンダが部品の標準化でコスト削減へ",
+      "summary": "日本の自動車メーカー3社は、生産コストの削減に向けて協力体制をとる。中国の自動車産業の台頭に対抗することが目的である。",
+      "impact": "部品の標準化により製造コストが抑制され、競争力の強化につながる可能性がある。また、この動きが日本国内の他の自動車関連企業にも影響を及ぼす可能性がある。",
+      "content_at": "2026-11-22T13:30:44.098544+09:00"
     }
   ],
-  "updated_at": "2026-11-22T06:30:54.994471+09:00"
+  "updated_at": "2026-11-22T13:30:44.098544+09:00"
 }
