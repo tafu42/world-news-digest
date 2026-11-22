@@ -2,17 +2,6 @@
   "date": "2026-11-22",
   "articles": [
     {
-      "image": "https://i.guim.co.uk/img/media/d7bac7cca6890657580a396f9255cf7d7b3d2874/1250_0_6250_5000/master/6250.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e108196e90ed29a731e8a7ec890173bf",
-      "url": "https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib",
-      "category": "海外IT",
-      "time": "06:30",
-      "collected_at": "2026-11-22T06:30:54.994471+09:00",
-      "title": "膵臓がん治療薬の新薬候補、数十年来の最大の進歩と評価",
-      "summary": "臨床試験において、12人に1人の患者でがんが検出不能となり、ほぼすべての参加者で腫瘍の増殖が停止した。試験薬ダラキソンラシブによる成果である。",
-      "impact": "膵臓がん治療における新たな選択肢として期待される。今後、標準的な治療法として確立されれば、患者の生存率向上に寄与する可能性がある。",
-      "content_at": "2026-11-22T06:30:54.994471+09:00"
-    },
-    {
       "image": "https://opengraph.githubassets.com/d1e4a8ab407ead3dbeb626da6152fc86b8491ac53da52df4215f7ac21ed3d9ee/ShinMegamiBoson/lookatmyquant",
       "url": "https://github.com/ShinMegamiBoson/lookatmyquant",
       "category": "海外IT",

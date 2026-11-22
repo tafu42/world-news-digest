@@ -1,0 +1,61 @@
+{
+  "date": "2026-11-23",
+  "articles": [
+    {
+      "image": "https://media.audubon.org/2026-11/gta-still.jpg?width=1200&amp;height=630&amp;auto=webp&amp;quality=90&amp;fit=crop&amp;enable=upscale",
+      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-23T06:30:48.007186+09:00",
+      "title": "GTA 6の鳥類：バイスシティとレオニダの野生生物ガイド",
+      "summary": "ゲーム「GTA 6」の舞台であるレオニダ地方の鳥類について、発見方法や観察メカニズムを解説している。開発元であるロックスターの描写の正確さについても触れている。",
+      "impact": "ゲーム内の詳細な環境描写が評価されることで、オープンワールドゲームにおけるリアリティへの関心が高まる可能性がある。",
+      "content_at": "2026-11-23T06:30:48.007186+09:00"
+    },
+    {
+      "image": "https://images.ctfassets.net/kftzwdyauwt9/6rIIhCRSKrhIfe385Onmcz/aca2d190553c62fd5d49efb5d5ce1eb6/perplexity-and-intelligence-social.png?w=1600&amp;h=900&amp;fit=fill",
+      "url": "https://openai.com/index/perplexity-and-intelligence/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-23T06:30:48.007186+09:00",
+      "title": "AIモデルにおけるパープレキシティ（困惑度）と知能",
+      "summary": "AIモデルの進化を評価する指標としての「パープレキシティ」の役割を解説している。開発者が新たなAI能力を評価するための共通の枠組み構築に役立つとしている。",
+      "impact": "AIモデルの性能評価手法が標準化されることで、AI開発の透明性と効率が向上する可能性がある。",
+      "content_at": "2026-11-23T06:30:48.007186+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://nyx.net/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-23T06:30:48.007186+09:00",
+      "title": "最古のインターネットサービスプロバイダー「Nyx」",
+      "summary": "インターネットサービスプロバイダーの中で最も歴史が古いとされるNyxについて紹介している。",
+      "impact": "インターネットの歴史的なサービス形態が再評価されるきっかけになる可能性がある。",
+      "content_at": "2026-11-23T06:30:48.007186+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-23T06:30:48.007186+09:00",
+      "title": "シリコンバレーに何が起きたのか",
+      "summary": "シリコンバレーの現状と、これまでに起きた変化について取り上げている。",
+      "impact": "技術産業の中心地であるシリコンバレーの変遷を辿ることで、現代のテクノロジー業界の方向性を理解する議論が進む可能性がある。",
+      "content_at": "2026-11-23T06:30:48.007186+09:00"
+    },
+    {
+      "image": "https://smallsf.com/share.gif?v=5",
+      "url": "https://smallsf.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-23T06:30:48.007186+09:00",
+      "title": "サンフランシスコの交通網をリアルタイム表示するインタラクティブな地図",
+      "summary": "サンフランシスコの街並みをアイソメトリック図法で描いた地図が公開された。ドラッグやズームが可能なこの地図上では、公共交通機関や航空機の位置、交通状況がリアルタイムで反映される。",
+      "impact": "都市の交通状況を視覚的に把握する新しいツールとして利用される可能性がある。将来的には、観光案内や都市計画のシミュレーション技術への応用が期待される。",
+      "content_at": "2026-11-23T06:30:48.007186+09:00"
+    }
+  ],
+  "updated_at": "2026-11-23T06:30:48.007186+09:00"
+}
