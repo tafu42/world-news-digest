@@ -55,7 +55,62 @@
       "summary": "サンフランシスコの街並みをアイソメトリック図法で描いた地図が公開された。ドラッグやズームが可能なこの地図上では、公共交通機関や航空機の位置、交通状況がリアルタイムで反映される。",
       "impact": "都市の交通状況を視覚的に把握する新しいツールとして利用される可能性がある。将来的には、観光案内や都市計画のシミュレーション技術への応用が期待される。",
       "content_at": "2026-11-23T06:30:48.007186+09:00"
+    },
+    {
+      "image": "https://spelunkr.tv/og-image.png",
+      "url": "https://spelunkr.tv",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-23T13:30:47.948720+09:00",
+      "title": "インターネットアーカイブの動画を用いた無料の代替テレビネットワーク",
+      "summary": "インターネットアーカイブに保存された忘れられた動画を24時間体制で同期・放送するチャンネルが公開された。ケーブルテレビに似た形式だが、より独特なコンテンツとなっている。",
+      "impact": "インターネット上のアーカイブ資産を再利用する新たな視聴体験として、デジタル文化の保存と活用の形に影響を与える可能性がある。",
+      "content_at": "2026-11-23T13:30:47.948720+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://johncarlosbaez.wordpress.com/2026/11/22/masullo-on-the-riemann-hypothesis/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-23T13:30:47.948720+09:00",
+      "title": "リーマン予想の証明を巡る動き",
+      "summary": "2026年11月20日、リーマン予想を証明する二つの試みが発表された。一つはLevent AlpögeらによるLeanコードを用いたもの、もう一つはAlessandro Masulloによるものである。",
+      "impact": "数学界における長年の難問であるリーマン予想の解決に向けた重要な進展となる可能性があり、今後の検証結果が注目される。",
+      "content_at": "2026-11-23T13:30:47.948720+09:00"
+    },
+    {
+      "image": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth/opengraph-image-17m7t5?6653c98c6cd84ba6",
+      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-23T13:30:47.948720+09:00",
+      "title": "Inkling、Qwen、Unslothを用いたローカルAI構築の初心者向けガイド",
+      "summary": "UnslothとInklingあるいはQwenを利用し、自分のPC上に無料かつプライベートなパーソナルAIを構築する方法が解説されている。家庭内で共有可能なAI環境の構築を目的としている。",
+      "impact": "個人のPCで動作するAI環境の普及により、プライバシーを保護しつつAIを活用する層が拡大すると考えられる。",
+      "content_at": "2026-11-23T13:30:47.948720+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://apnews.com/article/sudan-antiquities-nubia-cathedral-1b16f67da881ee5592de4481ee55c527",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-23T13:30:47.948720+09:00",
+      "title": "スーダンで大聖堂の床が発掘される",
+      "summary": "スーダンにて、中世の最大級の教会の一部である大聖堂の床が発掘された。",
+      "impact": "中世の宗教史や建築史に関する歴史的理解が深まる重要な発見となるとみられる。",
+      "content_at": "2026-11-23T13:30:47.948720+09:00"
+    },
+    {
+      "image": "https://www.gl-inet.com/cdn/shop/articles/20261121-145609_1200x675.jpg?v=1795244669",
+      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-23T13:30:47.948720+09:00",
+      "title": "GL.iNetのクラウド管理サービスにおける脆弱性について",
+      "summary": "GL.iNetは2026年11月20日、同社のクラウド遠隔管理サービスに脆弱性を確認した。第三者がこの脆弱性を悪用し、一部のルーターおよびKVMデバイスへ不正アクセスしてマルウェアをインストールした。",
+      "impact": "対象機器の利用者はマルウェア感染による情報漏洩や不正操作のリスクに直面している可能性がある。今後、メーカーから提供される修正パッチの適用やセキュリティ設定の見直しが推奨されるとみられる。",
+      "content_at": "2026-11-23T13:30:47.948720+09:00"
     }
   ],
-  "updated_at": "2026-11-23T06:30:48.007186+09:00"
+  "updated_at": "2026-11-23T13:30:47.948720+09:00"
 }
