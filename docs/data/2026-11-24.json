@@ -1,0 +1,69 @@
+{
+  "date": "2026-11-24",
+  "articles": [
+    {
+      "en_title": "Nvidia Reinstates Jensen Huang as CEO",
+      "en_text": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-24T06:30:49.912040+09:00",
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
+      "content_at": "2026-11-24T06:30:49.912040+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Ladybird is now in alpha",
+      "en_text": "Alpha builds of Ladybird are available today for macOS and Linux. They",
+      "image": "/assets/img/logo-new.webp",
+      "url": "https://ladybird.org/posts/alpha/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-24T06:30:49.912040+09:00",
+      "title": "Ladybird is now in alpha",
+      "summary": "Alpha builds of Ladybird are available today for macOS and Linux. They",
+      "content_at": "2026-11-24T06:30:49.912040+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "en_text": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "image": "",
+      "url": "https://arm.jonpalmisc.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-24T06:30:49.912040+09:00",
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "summary": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "content_at": "2026-11-24T06:30:49.912040+09:00",
+      "pending": true
+    },
+    {
+      "en_title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "en_text": "Dario&#x27;s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control.\nHe left OpenAI because he wasn&#x27;t going to have control.\nIt&#x27;s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of th…",
+      "image": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-24T06:30:49.912040+09:00",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "summary": "Dario&#x27;s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *h",
+      "content_at": "2026-11-24T06:30:49.912040+09:00",
+      "pending": true
+    },
+    {
+      "image": "https://images.aeonmedia.co/images/60bea515-b55f-48e9-9e81-4fe8bf8afde7/essay-uncavaliersurunepetiteeminencesurlagrandeplacedumarche_cadrageplusserre_a70091x.jpg?width=1200&amp;quality=75&amp;format=jpeg",
+      "url": "https://aeon.co/essays/the-origins-of-the-state-are-not-agrarian-but-pastoralist",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-24T06:30:49.912040+09:00",
+      "title": "文明の発展と馬の役割",
+      "summary": "文明の発展は穀物ではなく、馬による輸送手段とそれによって可能となった征服活動が基盤となっている。馬の活用が草原から海に至るまでの支配を支えた。",
+      "content_at": "2026-11-24T06:30:49.912040+09:00",
+      "impact": "歴史における文明形成の要因についての議論に影響を与える可能性がある。また、古代の社会構造や征服の歴史を理解する上での新たな視点を提供するものと考えられる。"
+    }
+  ],
+  "updated_at": "2026-11-24T06:30:49.912040+09:00"
+}
