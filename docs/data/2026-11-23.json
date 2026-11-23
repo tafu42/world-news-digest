@@ -110,7 +110,51 @@
       "summary": "GL.iNetは2026年11月20日、同社のクラウド遠隔管理サービスに脆弱性を確認した。第三者がこの脆弱性を悪用し、一部のルーターおよびKVMデバイスへ不正アクセスしてマルウェアをインストールした。",
       "impact": "対象機器の利用者はマルウェア感染による情報漏洩や不正操作のリスクに直面している可能性がある。今後、メーカーから提供される修正パッチの適用やセキュリティ設定の見直しが推奨されるとみられる。",
       "content_at": "2026-11-23T13:30:47.948720+09:00"
+    },
+    {
+      "image": "https://z-ai-bj.oss-cn-beijing.aliyuncs.com/prompts-rich-media-resources/5.4-blog/20261123-173242.jpeg?w=1280&amp;h=720&amp;fit=fill",
+      "url": "https://z.ai/blog/glm-5.4",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-23T21:30:44.784795+09:00",
+      "title": "GLM-5.4：初のループトランスフォーマーによる汎用コーディングの実現",
+      "summary": "GLM-5.4は、初のループトランスフォーマーを用いた汎用的なコーディングモデルである。本モデルによりコード生成の新たなアプローチが示された。",
+      "impact": "今後、ソフトウェア開発における自動コーディングの精度や汎用性が向上する可能性がある。",
+      "content_at": "2026-11-23T21:30:44.784795+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/6d9a245d0d81cd1b65c56c24094b042ce2e8c1f211e1a138efe74b4b436c500d/AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-23T21:30:44.784795+09:00",
+      "title": "XNU Linux：Linux上で動作するmacOS互換ユーザー空間環境",
+      "summary": "XNU Linuxは、Linuxのロード可能なカーネルモジュールとしてXNUを実装し、arm64 Linux上でmacOSのGUIユーザー空間を提供するプロジェクトである。",
+      "impact": "Linux環境においてmacOS向けソフトウェアの互換性が高まり、クロスプラットフォーム利用の選択肢が広がる可能性がある。",
+      "content_at": "2026-11-23T21:30:44.784795+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://micjm.com/blog/yes-17m-lines-of-lean-is-a-lot/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-23T21:30:44.784795+09:00",
+      "title": "リーマン予想の証明におけるLeanコード1700万行の意義",
+      "summary": "リーマン予想の証明に関連して、1700万行という膨大なLeanのコードが生成された。人間が理解可能な範囲を超える証明の規模とその妥当性が議論されている。",
+      "impact": "数学の証明における計算機支援の役割が拡大し、証明の正当性検証プロセスが根本から変容する可能性がある。",
+      "content_at": "2026-11-23T21:30:44.784795+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/dd4f047e60a5438f3260519b3c29a7d134b931664aba4e51d6d7451b89a2b0ff/elixir-hls/elixir-hls",
+      "url": "https://github.com/elixir-hls/elixir-hls",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-23T21:30:44.784795+09:00",
+      "title": "Elixir HLS：Elixir関数からFPGA回路を生成するツール",
+      "summary": "Elixir HLSは、Elixirで記述された関数からFPGA回路を生成するためのプロジェクトである。",
+      "impact": "ハードウェア記述言語に詳しくないソフトウェアエンジニアでも、FPGAを利用した回路設計が容易になる可能性がある。",
+      "content_at": "2026-11-23T21:30:44.784795+09:00"
     }
   ],
-  "updated_at": "2026-11-23T13:30:47.948720+09:00"
+  "updated_at": "2026-11-23T21:30:44.784795+09:00"
 }
