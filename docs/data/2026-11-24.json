@@ -2,56 +2,48 @@
   "date": "2026-11-24",
   "articles": [
     {
-      "en_title": "Nvidia Reinstates Jensen Huang as CEO",
-      "en_text": "The Nvidia board said it had input from senior levels of the U.S. government.",
       "image": "https://image.cnbcfm.com/api/v1/image/108353993-1787677585886-108353993-1787675816989-gettyimages-2266718431-NVIDIA_GTC.jpg?v=1795450778&amp;w=1920&amp;h=1080",
       "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-11-24T06:30:49.912040+09:00",
-      "title": "Nvidia Reinstates Jensen Huang as CEO",
-      "summary": "The Nvidia board said it had input from senior levels of the U.S. government.",
-      "content_at": "2026-11-24T06:30:49.912040+09:00",
-      "pending": true
+      "title": "NVIDIAのCEOにジェンスン・フアン氏が再任",
+      "summary": "NVIDIAの取締役会は、米国政府の上層部からの意見を受けたことを発表した。ジェンスン・フアン氏が再びCEOに就任する。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00",
+      "impact": "米政府の意向が企業経営に反映された形であり、今後のAI関連技術の輸出管理や政府との連携体制に影響を与える可能性がある。"
     },
     {
-      "en_title": "Ladybird is now in alpha",
-      "en_text": "Alpha builds of Ladybird are available today for macOS and Linux. They",
       "image": "/assets/img/logo-new.webp",
       "url": "https://ladybird.org/posts/alpha/",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-11-24T06:30:49.912040+09:00",
-      "title": "Ladybird is now in alpha",
-      "summary": "Alpha builds of Ladybird are available today for macOS and Linux. They",
-      "content_at": "2026-11-24T06:30:49.912040+09:00",
-      "pending": true
+      "title": "ブラウザ「Ladybird」のアルファ版が公開",
+      "summary": "macOSおよびLinux向けのLadybirdのアルファビルドが本日公開された。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00",
+      "impact": "新しいブラウザの選択肢が増えることで、Webレンダリングエンジンの多様化が期待される。"
     },
     {
-      "en_title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "en_text": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
       "image": "",
       "url": "https://arm.jonpalmisc.com/",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-11-24T06:30:49.912040+09:00",
-      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "summary": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
-      "content_at": "2026-11-24T06:30:49.912040+09:00",
-      "pending": true
+      "title": "Arm社の要請により2026年12月4日でサイト閉鎖へ",
+      "summary": "Arm社の要請に基づき、当サイトは2026年12月4日をもって閉鎖される。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00",
+      "impact": "このサイトで提供されていた情報やリソースにアクセスできなくなるため、利用者に何らかの代替手段が必要となる可能性がある。"
     },
     {
-      "en_title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-      "en_text": "Dario&#x27;s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *he* would stay in control.\nHe left OpenAI because he wasn&#x27;t going to have control.\nIt&#x27;s like the Ottoman Empire banning the printing press for Arabic so they would keep in control of th…",
       "image": "https://pbs.twimg.com/profile_images/1483577865056702469/rWA-3_T7_400x400.jpg",
       "url": "https://twitter.com/ylecun/status/2124550037912920090",
       "category": "海外IT",
       "time": "06:30",
       "collected_at": "2026-11-24T06:30:49.912040+09:00",
-      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
-      "summary": "Dario&#x27;s spiel since GPT-2 has always been about hyping the dangers so that open models would be made illegal and *h",
-      "content_at": "2026-11-24T06:30:49.912040+09:00",
-      "pending": true
+      "title": "ダリオ氏のAIリスク強調とOSS規制に関する指摘",
+      "summary": "ダリオ氏はGPT-2の開発以来、AIの危険性を強調することでオープンソースモデルの違法化を促し、自身が主導権を握ろうとしていると指摘されている。同氏は主導権を確保できないことを理由にOpenAIを退社した。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00",
+      "impact": "AI開発の規制を巡る議論において、開発者の意図やOSSの取り扱いに関する不信感が高まる可能性がある。"
     },
     {
       "image": "https://images.aeonmedia.co/images/60bea515-b55f-48e9-9e81-4fe8bf8afde7/essay-uncavaliersurunepetiteeminencesurlagrandeplacedumarche_cadrageplusserre_a70091x.jpg?width=1200&amp;quality=75&amp;format=jpeg",
@@ -63,7 +55,51 @@
       "summary": "文明の発展は穀物ではなく、馬による輸送手段とそれによって可能となった征服活動が基盤となっている。馬の活用が草原から海に至るまでの支配を支えた。",
       "content_at": "2026-11-24T06:30:49.912040+09:00",
       "impact": "歴史における文明形成の要因についての議論に影響を与える可能性がある。また、古代の社会構造や征服の歴史を理解する上での新たな視点を提供するものと考えられる。"
+    },
+    {
+      "image": "https://townsquare.media/site/81/files/2017/10/wgnafm-logo.png?w=300&q=75&format=natural",
+      "url": "https://wgna.com/car-bill-extra-fees/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-24T13:30:45.245058+09:00",
+      "title": "ニューヨーク州、自動車のサブスク料金や購入後手数料を禁止へ",
+      "summary": "ニューヨーク州で新たな法案が提出された。自動車に関連するサブスクリプション料金や購入後の手数料を制限し、消費者の負担を軽減することを目的としている。",
+      "impact": "法案が成立すれば、ニューヨーク州の自動車所有者の維持費が削減される可能性がある。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00"
+    },
+    {
+      "image": "https://stalw.art/og/blog/microsoft-exchange-replacement.png",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-24T13:30:45.245058+09:00",
+      "title": "StalwartがMicrosoft Exchangeの代替として利用可能に",
+      "summary": "Stalwart 1.2.0がMAPI over HTTPやExchange Web Services等に対応し、OutlookやApple Mailと互換性を持つようになった。今回のリリースではメールルールや予約機能なども追加されている。",
+      "impact": "企業がMicrosoft Exchangeからの移行先としてStalwartを選択肢に入れやすくなるとみられる。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://salvageyarddrone.wordpress.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-24T13:30:45.245058+09:00",
+      "title": "廃車置き場のドローンマッピング",
+      "summary": "廃車置き場のドローンによるマッピング技術に関する情報である。",
+      "impact": "廃車置き場の管理や在庫調査の効率化につながる可能性がある。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/2235899d6830659177ecadec67f4b7c44c594c8db63c230097270a983145f373/zed-industries/gpui",
+      "url": "https://github.com/zed-industries/gpui",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-24T13:30:45.245058+09:00",
+      "title": "Rust向けUIフレームワーク「GPUI」が独立したリポジトリへ",
+      "summary": "Rust言語向けのGPUアクセラレーション対応オープンソースUIフレームワーク「GPUI」が、独自のコードリポジトリに移行した。本フレームワークは即時モードと保持モードの両方を組み合わせた設計となっている。",
+      "impact": "独立したリポジトリで管理されることで、RustコミュニティにおけるGPUIの開発や利用がより活発になる可能性がある。",
+      "content_at": "2026-11-24T13:30:45.245058+09:00"
     }
   ],
-  "updated_at": "2026-11-24T06:30:49.912040+09:00"
+  "updated_at": "2026-11-24T13:30:45.245058+09:00"
 }
