@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://prismml.com/news/bonsai-2-5-27b",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-25T06:30:46.979880+09:00",
+      "title": "Ternary Bonsai 2.5 27Bについて",
+      "summary": "Ternary Bonsai 2.5 27Bに関する情報。",
+      "impact": "この技術がAI開発やデータ処理の分野でどのように活用されるのか、今後の動向が注目される。",
+      "content_at": "2026-11-25T06:30:46.979880+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.greynoise.io/blog/check-point-security-management-servers-intrusion-campaign",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-25T06:30:46.979880+09:00",
+      "title": "チェック・ポイント社のセキュリティ管理サーバーへの侵入活動",
+      "summary": "チェック・ポイント社のセキュリティ管理サーバーを標的とした侵入キャンペーンが活発化している。",
+      "impact": "組織のセキュリティ対策が損なわれる恐れがあり、システム管理者には早急な調査と対策の強化が求められる可能性がある。",
+      "content_at": "2026-11-25T06:30:46.979880+09:00"
+    },
+    {
+      "image": "https://framerusercontent.com/images/5O3rU7bwpuOpLUdBe6aEsQxPKA.png",
+      "url": "https://mechanical-pencil.com/products/spray-bottle",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-25T06:30:46.979880+09:00",
+      "title": "スプレーボトルの工学",
+      "summary": "身の回りにある工学技術として、スプレーボトルについて解説している。",
+      "impact": "日常製品の仕組みを理解することで、技術に対する一般の関心や理解が深まる可能性がある。",
+      "content_at": "2026-11-25T06:30:46.979880+09:00"
+    },
+    {
+      "image": "https://hypercritical.co/jetty-pro/images/jetty-pro-palettes.png",
+      "url": "http://hypercritical.co/2026/11/23/jetty-pro",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-25T06:30:46.979880+09:00",
+      "title": "Jetty Proについて",
+      "summary": "Jetty Proに関する情報。",
+      "impact": "該当製品が提供する機能が、特定の業務やプロセスに影響を与える可能性がある。",
+      "content_at": "2026-11-25T06:30:46.979880+09:00"
+    },
+    {
+      "image": "https://andlukyane.com/images/cayley_torchtpu/2026-11-24_09-02-21.jpg",
+      "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-25T06:30:46.979880+09:00",
+      "title": "CUDAおよびJAXからTorchTPUへの移行：ケイリーグラフソルバーの開発事例",
+      "summary": "パズルを解くトランスフォーマーモデルとビームサーチを、A100とJAXの環境からTorchTPU環境へ移行する際の技術的課題について解説している。移行に伴う変更点や不具合、最終的な速度と品質の比較をまとめた。",
+      "impact": "特定のAIワークロードをGPUからTPU環境へ最適化する際の手法やボトルネックに関する知見が共有されることで、今後の計算リソース活用の効率化に寄与する可能性がある。",
+      "content_at": "2026-11-25T06:30:46.979880+09:00"
+    },
+    {
+      "image": "https://s3files.core77.com/blog/images/lead_n_spotlight/1855426_lead_400_145766_.jpg",
+      "url": "https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-25T06:30:46.979880+09:00",
+      "title": "スーツケースに収納可能なイタリア製折りたたみ自転車「T&C Pocket Bici」",
+      "summary": "1963年にイタリアの金属加工会社Tresoldi & Casiraghiが製造した折りたたみ自転車「T&C Pocket Bici」が紹介されている。現代の二つ折りタイプとは異なり、全パーツがフレーム内に収まり、専用のスーツケースに収納できる設計である。",
+      "impact": "歴史的な自転車設計の多様性が再認識されることで、現代のモビリティデザインや折りたたみ機構の技術革新に対する関心が高まる可能性がある。",
+      "content_at": "2026-11-25T06:30:46.979880+09:00"
+    }
+  ],
+  "updated_at": "2026-11-25T06:30:46.979880+09:00"
+}
