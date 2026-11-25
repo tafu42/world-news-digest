@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "image": "https://images.ctfassets.net/3091ajzcmzlr/3yu0DTU3edoU7HK8MxkW54/c5e7801fb8c0d7d52295da96af7e8013/business_2x.webp",
+      "url": "https://1password.com/blog/update-on-nov-2026-security-incident",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-26T06:30:54.661783+09:00",
+      "title": "1Passwordでセキュリティインシデントが発生",
+      "summary": "1Passwordはバックエンドシステムの一部でセキュリティインシデントを確認した。顧客の保管庫にはアクセスされておらず、安全な状態が維持されている。",
+      "impact": "顧客の重要なデータに被害はないとされるが、同社のセキュリティ体制に対する信頼性の懸念につながる可能性がある。",
+      "content_at": "2026-11-26T06:30:54.661783+09:00"
+    },
+    {
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
+      "url": "https://scottaaronson.blog/?p=10379",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-26T06:30:54.661783+09:00",
+      "title": "進行中の事態の重大さについて",
+      "summary": "筆者は過去の投稿やポッドキャストでは進行中の事態の重大さを十分に伝えきれていなかったと感じており、改めてその状況について言及しようとしている。",
+      "impact": "具体的な内容が明示されていないため、読者の間では何らかの急激な変化や危機を予感させる不安が広がる可能性がある。",
+      "content_at": "2026-11-26T06:30:54.661783+09:00"
+    },
+    {
+      "image": "https://platform.vox.com/wp-content/uploads/sites/2/2026/11/Home-Depot-Thumbnail.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.3782956566828%2C100%2C93.243408686634&amp;w=1200",
+      "url": "https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-26T06:30:54.661783+09:00",
+      "title": "ホームセンターの調整池でシュノーケリングをした男性への質問",
+      "summary": "ホームセンターの調整池でシュノーケリングを行った男性は、そこが生命と美しさに満ちていることを発見した。",
+      "impact": "調整池での遊びという突飛な行動が注目を集め、公共施設の利用ルールや安全管理に関する議論を喚起する可能性がある。",
+      "content_at": "2026-11-26T06:30:54.661783+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bjin.github.io/go-codegolf-benchmark/#leaderboard",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-26T06:30:54.661783+09:00",
+      "title": "GPT-6.2 AstraがGoogle社員のコードゴルフ記録を更新",
+      "summary": "GPT-6.2 Astraが、Google社員によるコードゴルフの記録を上回った最初のモデルとなった。",
+      "impact": "AIのプログラミング能力が人間の専門家を凌駕する水準に達したとみられ、ソフトウェア開発におけるAIの活用範囲がさらに拡大する可能性がある。",
+      "content_at": "2026-11-26T06:30:54.661783+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://zydra.sh/articles/ssh-is-a-gui-framework/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-26T06:30:54.661783+09:00",
+      "title": "SSHがGUIフレームワークとして定義される",
+      "summary": "SSHがGUIフレームワークであると示されている。",
+      "impact": "GUI開発におけるSSHの新たな定義として認識される可能性がある。",
+      "content_at": "2026-11-26T06:30:54.661783+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/aa05262fb42ef48952ef17a5b2d98a6c5b0cb17e181f485e3f5a76f878daa83f/openai/math",
+      "url": "https://github.com/openai/math/blob/main/preprints/Superpolynomial-graph-diameter-of-simple-polytopes-November-24-2026/paper.pdf",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-26T06:30:54.661783+09:00",
+      "title": "多項式ヒルシュ予想が偽であると報告",
+      "summary": "多項式ヒルシュ予想が偽であることが示されている。詳細はGitHub上のopenai/mathプロジェクトで公開されている。",
+      "impact": "数学分野の懸案事項が解決されたことで、関連する数学理論の再検討が進む可能性がある。",
+      "content_at": "2026-11-26T06:30:54.661783+09:00"
+    }
+  ],
+  "updated_at": "2026-11-26T06:30:54.661783+09:00"
+}
