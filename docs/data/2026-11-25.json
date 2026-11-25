@@ -66,7 +66,62 @@
       "summary": "1963年にイタリアの金属加工会社Tresoldi & Casiraghiが製造した折りたたみ自転車「T&C Pocket Bici」が紹介されている。現代の二つ折りタイプとは異なり、全パーツがフレーム内に収まり、専用のスーツケースに収納できる設計である。",
       "impact": "歴史的な自転車設計の多様性が再認識されることで、現代のモビリティデザインや折りたたみ機構の技術革新に対する関心が高まる可能性がある。",
       "content_at": "2026-11-25T06:30:46.979880+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/194d3db4916893773a3ca00271cd3787ee5278e76659619c425bf90a313061be/openai/math",
+      "url": "https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-25T13:30:45.219837+09:00",
+      "title": "行列乗算アルゴリズムに関するGitHubリポジトリ",
+      "summary": "GitHubのopenai/mathリポジトリにおいて、行列乗算の計算量に関する資料が公開されている。ユーザーはアカウントを作成することで開発に貢献できる。",
+      "impact": "計算機科学における効率的な計算アルゴリズムの研究や開発が促進される可能性がある。",
+      "content_at": "2026-11-25T13:30:45.219837+09:00"
+    },
+    {
+      "image": "/og-button-sounds.png",
+      "url": "https://buttons.joshwcomeau.com/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-25T13:30:45.219837+09:00",
+      "title": "プロが録音したボタン操作音のコレクション",
+      "summary": "プロの手によって録音された、さまざまなボタンのクリック音や押下音のコレクションである。",
+      "impact": "映像編集やゲーム開発などにおいて、自然で高品質な効果音を利用しやすくなると考えられる。",
+      "content_at": "2026-11-25T13:30:45.219837+09:00"
+    },
+    {
+      "image": "https://res.cloudinary.com/lesswrong-2-0/image/upload/c_limit,w_1200,q_auto,f_jpg/f_auto,q_auto/v1/mirroredImages/7wzWuLP3HhyBLmKfo/ilkdsamuxja1dvu4uah2",
+      "url": "https://www.lesswrong.com/posts/7wzWuLP3HhyBLmKfo/models-can-communicate-via-inference-servers-despite-being",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-25T13:30:45.219837+09:00",
+      "title": "サンドボックス化されたAIモデル間の通信リスク",
+      "summary": "同じ推論サーバー上で実行されている2つのエージェントは、メッセージ送受信機能やファイル共有が制限されていても通信が可能である。この事実はサンドボックス環境の安全性に課題を提起している。",
+      "impact": "隔離されたはずの環境でAIモデル同士が意思疎通を行うことで、セキュリティ上の懸念や意図しない挙動が発生する可能性がある。",
+      "content_at": "2026-11-25T13:30:45.219837+09:00"
+    },
+    {
+      "image": "https://s0.wp.com/_si/?t=eyJpbWciOiJodHRwczpcL1wvc2NvdHRhYXJvbnNvbi5ibG9nXC93cC1jb250ZW50XC91cGxvYWRzXC8yMDIxXC8xMFwvY3JvcHBlZC1KYWNrZXQuZ2lmIiwidHh0IjoiU2h0ZXRsLU9wdGltaXplZCIsInRlbXBsYXRlIjoiZWRnZSIsImZvbnQiOiIiLCJibG9nX2lkIjoxMjk1MjA1ODB9.siOtN7gHw4tefA_rZickBw4GfI6tPxGgOQ1AXr2ZoOQMQ",
+      "url": "https://scottaaronson.blog/?p=10362",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-25T13:30:45.219837+09:00",
+      "title": "日常の飲酒習慣に関する個人の記録",
+      "summary": "普段はあまりアルコールを好まない投稿者が、自宅のキッチンでワインを飲んでいる様子について綴っている。",
+      "impact": "個人の日常的な体験や嗜好に関する内容であり、社会的な影響は限定的であると考えられる。",
+      "content_at": "2026-11-25T13:30:45.219837+09:00"
+    },
+    {
+      "image": "https://greydanus.github.io/assets/pengpt/thumbnail.png",
+      "url": "https://greydanus.github.io/2026/11/12/pengpt/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-25T13:30:45.219837+09:00",
+      "title": "手書きやスケッチを生成するAI「PenGPT」",
+      "summary": "テキストから手書き文字やスケッチを生成する小型のトランスフォーマーモデルが開発された。開発者は、データ収集に大部分の労力を割いたとしている。",
+      "impact": "データ主導のAI開発手法が、手書き生成などの分野でも有効であることが示された。今後、個人の筆跡を模倣したり、手書き入力を補助したりするAI技術が発展する可能性がある。",
+      "content_at": "2026-11-25T13:30:45.219837+09:00"
     }
   ],
-  "updated_at": "2026-11-25T06:30:46.979880+09:00"
+  "updated_at": "2026-11-25T13:30:45.219837+09:00"
 }
