@@ -121,7 +121,40 @@
       "summary": "テキストから手書き文字やスケッチを生成する小型のトランスフォーマーモデルが開発された。開発者は、データ収集に大部分の労力を割いたとしている。",
       "impact": "データ主導のAI開発手法が、手書き生成などの分野でも有効であることが示された。今後、個人の筆跡を模倣したり、手書き入力を補助したりするAI技術が発展する可能性がある。",
       "content_at": "2026-11-25T13:30:45.219837+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/232be77c07609f290f4bb5faf98f48e62d37917b129fedb2e52155bdbb3c54f1/xoxorwr/pw-loudness-eq",
+      "url": "https://github.com/xoxorwr/pw-loudness-eq",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-25T21:30:47.362494+09:00",
+      "title": "Windowsのラウドネス等化機能がPipeWire向けに移植・公開",
+      "summary": "Windowsのラウドネス等化機能がリバースエンジニアリングされ、PipeWire向けに移植された。GitHubの「xoxorwr/pw-loudness-eq」で公開されている。",
+      "content_at": "2026-11-25T21:30:47.362494+09:00",
+      "impact": "Linux環境における音量管理の利便性が向上し、Windows同様の音量調整体験が実現される可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://antcating.github.io/2026/11/23/getting-old-java-phones-online-again.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-25T21:30:47.362494+09:00",
+      "title": "古いJava搭載携帯電話をオンラインに接続する試み",
+      "summary": "Sony Ericsson S500iを使用して、古いJava搭載携帯電話から「FrogFind」にアクセスする取り組みが行われた。",
+      "content_at": "2026-11-25T21:30:47.362494+09:00",
+      "impact": "過去のモバイルデバイスを再利用しようとするコミュニティの活動を促進し、レトロガジェットの活用方法が広がる可能性がある。"
+    },
+    {
+      "image": "",
+      "url": "https://gpu-demo-gallery.pages.dev/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-25T21:30:47.362494+09:00",
+      "title": "NVIDIAおよびATIの古い技術デモがブラウザ上で動作可能に",
+      "summary": "かつてのグラフィックスカードメーカーであるNVIDIAとATIが公開していた古い技術デモが、Webブラウザ上で再び動作するようになった。",
+      "content_at": "2026-11-25T21:30:47.362494+09:00",
+      "impact": "当時の高度なグラフィックス技術を歴史的資料として誰でも容易に閲覧できるようになり、技術保存の観点から有益であると考えられる。"
     }
   ],
-  "updated_at": "2026-11-25T13:30:45.219837+09:00"
+  "updated_at": "2026-11-25T21:30:47.362494+09:00"
 }
