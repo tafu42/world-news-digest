@@ -66,7 +66,40 @@
       "summary": "多項式ヒルシュ予想が偽であることが示されている。詳細はGitHub上のopenai/mathプロジェクトで公開されている。",
       "impact": "数学分野の懸案事項が解決されたことで、関連する数学理論の再検討が進む可能性がある。",
       "content_at": "2026-11-26T06:30:54.661783+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/38a6cfe905800b3b0344dda6846c6afd17c4fc362b14c7f8a6949c5091b87362/lsernau/grh-lean",
+      "url": "https://github.com/lsernau/grh-lean",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-26T13:30:49.112802+09:00",
+      "title": "Anthropicによる一般化リーマン予想の簡潔なLean検証",
+      "summary": "Anthropicが一般化リーマン予想（GRH）のLean 4による簡潔な証明を公開した。GitHubリポジトリにてコードが提供されている。",
+      "impact": "数学の難問に対する形式検証の効率化が進む可能性がある。",
+      "content_at": "2026-11-26T13:30:49.112802+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://gwern.net/doc/fiction/science-fiction/1953-dahl-thegreatautomaticgrammatizator.pdf",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-26T13:30:49.112802+09:00",
+      "title": "ロアルド・ダールの短編小説「The Great Automatic Grammatizator」（1954年）",
+      "summary": "1954年に発表されたロアルド・ダールによる短編小説「The Great Automatic Grammatizator」のPDFファイルが提供されている。",
+      "impact": "文学作品としての再評価や、自動生成技術を扱った過去の先見的な視点が議論される可能性がある。",
+      "content_at": "2026-11-26T13:30:49.112802+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.openwall.com/lists/oss-security/2026/11/25/9",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-26T13:30:49.112802+09:00",
+      "title": "Ubuntuのセキュリティ対応の遅れ",
+      "summary": "Ubuntuにおけるセキュリティ修正の対応速度が遅いという課題が指摘されている。",
+      "impact": "修正の遅延により、利用環境のセキュリティリスクが高まる可能性がある。",
+      "content_at": "2026-11-26T13:30:49.112802+09:00"
     }
   ],
-  "updated_at": "2026-11-26T06:30:54.661783+09:00"
+  "updated_at": "2026-11-26T13:30:49.112802+09:00"
 }
