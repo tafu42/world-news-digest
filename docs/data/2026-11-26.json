@@ -99,7 +99,51 @@
       "summary": "Ubuntuにおけるセキュリティ修正の対応速度が遅いという課題が指摘されている。",
       "impact": "修正の遅延により、利用環境のセキュリティリスクが高まる可能性がある。",
       "content_at": "2026-11-26T13:30:49.112802+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/20ab929c148856c28acbfaa3a803412d639c7d36e69163f2b028d0b767434a23/intel/intel-one-mono",
+      "url": "https://github.com/intel/intel-one-mono",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-26T21:30:56.197947+09:00",
+      "title": "Intelが開発したフォント「Intel One Mono」",
+      "summary": "Intel One MonoフォントのリポジトリがGitHub上で公開されている。ユーザーはGitHubアカウントを作成することで開発に貢献できる。",
+      "impact": "開発者向けフォントの選択肢が広がり、コーディング環境の視認性向上に寄与する可能性がある。",
+      "content_at": "2026-11-26T21:30:56.197947+09:00"
+    },
+    {
+      "image": "https://fosscomics.com/posts/17. Lions",
+      "url": "https://fosscomics.com/posts/17.%20Lions%27%20Commentary%20on%20Unix/",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-26T21:30:56.197947+09:00",
+      "title": "『Lions' Commentary on Unix』が20年間秘密裏に複製された理由",
+      "summary": "ジョン・ライオンズによるUNIXの解説書が、20年間にわたり非公式に複製され続けた経緯について触れている。",
+      "impact": "コンピュータサイエンス教育におけるオープンソースの歴史や、情報共有の重要性を再考する機会となる可能性がある。",
+      "content_at": "2026-11-26T21:30:56.197947+09:00"
+    },
+    {
+      "image": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/gettyimages-2289911637.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.232235952618%2C100%2C79.535528094764&amp;w=1200",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-26T21:30:56.197947+09:00",
+      "title": "ニューヨーク・タイムズ、写真家に対してPhotoshopのアップデートを控えるよう警告",
+      "summary": "ニューヨーク・タイムズは、写真に意図しないAIメタデータが付与されることを防ぐため、Photoshopのアップデートを行わないよう写真家に求めている。",
+      "impact": "メディア業界において、AI生成コンテンツの真偽性や著作権管理に関する議論がより深まる可能性がある。",
+      "content_at": "2026-11-26T21:30:56.197947+09:00"
+    },
+    {
+      "image": "https://commandcode.ai/moat/og.png",
+      "url": "https://commandcode.ai/moat",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-26T21:30:56.197947+09:00",
+      "title": "OpenRouterの代替サービス「Moat」が登場",
+      "summary": "Moatは月額5ドルで利用可能なAIトークン販売サービスである。卸売価格で100種類以上の高品質なオープンモデルに制限なくアクセスできる。",
+      "impact": "低コストでAIモデルを利用できる環境が整うことで、個人開発者や小規模プロジェクトによるAI活用のハードルが下がる可能性がある。",
+      "content_at": "2026-11-26T21:30:56.197947+09:00"
     }
   ],
-  "updated_at": "2026-11-26T13:30:49.112802+09:00"
+  "updated_at": "2026-11-26T21:30:56.197947+09:00"
 }
