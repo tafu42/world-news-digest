@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-27",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://devnull.land/amd-specific-llama-cpp",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-27T06:30:46.848727+09:00",
+      "title": "Llama.cpp向けAMD専用パッチ",
+      "summary": "Llama.cppのためのAMD専用パッチが公開された。AMD製ハードウェアでの実行環境を改善するものとみられる。",
+      "impact": "AMD製GPUを利用する開発者やユーザーが、Llama.cppのパフォーマンスや互換性の恩恵を受けられる可能性がある。",
+      "content_at": "2026-11-27T06:30:46.848727+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/5aeee00bfacbbc583bcc1a2697068375a110653b6f5c50a8f91cce28aebeb380/antonpictures/youtube-punisher",
+      "url": "https://github.com/antonpictures/youtube-punisher",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-27T06:30:46.848727+09:00",
+      "title": "YouTube広告回避ツール「YouTube Ad Punisher」",
+      "summary": "YouTubeで広告が再生された際にページを自動リロードするブラウザ拡張機能がGitHubで公開された。広告視聴を回避するためのツールである。",
+      "impact": "ユーザー側で広告スキップの手段が増える一方、プラットフォーム側の広告運用や規約との間で摩擦が生じる可能性がある。",
+      "content_at": "2026-11-27T06:30:46.848727+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-27T06:30:46.848727+09:00",
+      "title": "ランサムウェア対策サービス「RansomwareHelp」のCTOが電信詐欺の罪で起訴",
+      "summary": "「RansomwareHelp」のCTOが電信詐欺の容疑で起訴された。同社はランサムウェア被害の支援を行っていた組織である。",
+      "impact": "被害者の信頼を損なう事態であり、ランサムウェア関連サービス全般の信用性に影響を与える可能性がある。",
+      "content_at": "2026-11-27T06:30:46.848727+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/42671af3995c4b40119303b8267b5b09095f0fd71e15ad17adb898ea378d1ff2/gary23w/f-ck_data_brokers",
+      "url": "https://github.com/gary23w/f-ck_data_brokers",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-27T06:30:46.848727+09:00",
+      "title": "データブローカー対策スクリプト「Fuck_data_brokers.py」",
+      "summary": "データブローカーに対処するためのPythonスクリプト「Fuck_data_brokers.py」がGitHubで公開された。",
+      "impact": "個人情報の取り扱いに関心を持つユーザーが、自身のデータ流出や販売への対策として利用する可能性がある。",
+      "content_at": "2026-11-27T06:30:46.848727+09:00"
+    },
+    {
+      "image": "https://worksinprogress.co/wip-image/uploads/2026/11/The_Greatest_Architect_Sharecard_03.jpg",
+      "url": "https://worksinprogress.co/issue/the-greatest-architect-youve-never-heard-of-is-in-pakistan/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-27T06:30:46.848727+09:00",
+      "title": "ラホールの伝統建築を牽引する建築家カミル・カーン・ムムタズ",
+      "summary": "パキスタンのラホールにおいて、伝統的な建築手法が現在も生き続けている。この記事はカミル・カーン・ムムタズの主要な作品を写真で紹介している。",
+      "impact": "伝統的な建築様式への関心を高め、現代建築における文化保存の重要性を再認識させる可能性がある。",
+      "content_at": "2026-11-27T06:30:46.848727+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/29c3398e98789e73b37315bec2913ed7867bb68e563e18f44d88cb814b44adb4/eisenzopf/rvoip",
+      "url": "https://github.com/eisenzopf/rvoip",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-27T06:30:46.848727+09:00",
+      "title": "Rustで構築されたVoIPスタック「Rvoip 0.5」が公開",
+      "summary": "オープンソースのRust製SIP/VoIPスタックである「Rvoip 0.5」が公開された。本スタックはSIP、WebRTC、SRTP、AI音声エージェントを一つのAPIで提供する。",
+      "impact": "Rust言語の安全性とパフォーマンスを活かした通信インフラ開発が促進され、オープンソースのVoIP技術の発展に貢献するとみられる。",
+      "content_at": "2026-11-27T06:30:46.848727+09:00"
+    }
+  ],
+  "updated_at": "2026-11-27T06:30:46.848727+09:00"
+}
