@@ -1,0 +1,72 @@
+{
+  "date": "2026-11-28",
+  "articles": [
+    {
+      "image": "",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-28T06:30:46.665490+09:00",
+      "title": "GPT 6.2 Astraが歴史的謎を解明",
+      "summary": "GPT 6.2 Astraが歴史的な謎を解決した。",
+      "impact": "歴史学や研究におけるAIの有用性が高まり、過去の解明が進む可能性がある。",
+      "content_at": "2026-11-28T06:30:46.665490+09:00"
+    },
+    {
+      "image": "https://www.infohawk.com/_app/immutable/assets/2026-11-27-black-friday-webrtc-skimmer.BQAmEGg5.png",
+      "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-28T06:30:46.665490+09:00",
+      "title": "有名ショッピングサイトでWebRTCを用いたスキミングスクリプトが検出される",
+      "summary": "LascanaやSamsoniteなどのオンラインストアで、ブラックフライデー直前にクレジットカード情報を盗むスクリプトが仕込まれた。報告を受けて当該スクリプトは既に削除されている。",
+      "impact": "ECサイト利用者の個人情報保護に対する懸念が高まる可能性がある。今後、同様の巧妙な手口に対するセキュリティ対策が強化されるとみられる。",
+      "content_at": "2026-11-28T06:30:46.665490+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/fa41493fc129dc105b2d9eb432530642ad907246b8c51cc4476596f5a856c2fa/convex/convex-backend-skill/issues/64",
+      "url": "https://github.com/convex/convex-backend-skill/issues/64",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-28T06:30:46.665490+09:00",
+      "title": "Convexスキルのユーザーアプリ情報送信に関する懸念",
+      "summary": "Anthropicのマーケットプレイスに掲載されているConvexスキルのプラグインにおいて、ユーザーのプロジェクト内容が本人の許可なく外部サーバーに送信されている疑いが指摘された。",
+      "impact": "AIプラグインや外部スキルのプライバシー管理に対する不信感を生む可能性がある。ユーザーはプラグイン利用時のデータ共有範囲をより慎重に確認する必要があるだろう。",
+      "content_at": "2026-11-28T06:30:46.665490+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www.citroenet.org.uk/miscellaneous/hydraulics/hydraulics-1.html",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-28T06:30:46.665490+09:00",
+      "title": "シトロエンの油圧システム",
+      "summary": "シトロエンの油圧システムについての記述である。",
+      "impact": "特定の自動車技術に関する情報であり、専門家や愛好家にとっての技術的関心対象となる可能性がある。",
+      "content_at": "2026-11-28T06:30:46.665490+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://virtuallyfun.com/2026/11/22/the-ultimate-att-unix-pc-3b1-vm-w-tcp-ip-and-apps/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-28T06:30:46.665490+09:00",
+      "title": "AT&T Unix PC (3B1) の仮想マシンについて",
+      "summary": "AT&T Unix PC (3B1) の仮想マシンに関する情報である。",
+      "impact": "レトロコンピューティングに関心を持つ愛好家の間で、当時の環境を再現し利用する機会が提供されると考えられる。",
+      "content_at": "2026-11-28T06:30:46.665490+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://bouncemarket.minhanhday.com/",
+      "category": "海外IT",
+      "time": "06:30",
+      "collected_at": "2026-11-28T06:30:46.665490+09:00",
+      "title": "ボールの落下地点を予測する市場ゲーム「bouncemarket」",
+      "summary": "ボールの落下地点を予想して取引を行う予測市場ゲームである。",
+      "impact": "予測市場の仕組みをゲーム感覚で体験するツールとして活用される可能性がある。",
+      "content_at": "2026-11-28T06:30:46.665490+09:00"
+    }
+  ],
+  "updated_at": "2026-11-28T06:30:46.665490+09:00"
+}
