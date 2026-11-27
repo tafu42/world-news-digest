@@ -66,7 +66,29 @@
       "summary": "オープンソースのRust製SIP/VoIPスタックである「Rvoip 0.5」が公開された。本スタックはSIP、WebRTC、SRTP、AI音声エージェントを一つのAPIで提供する。",
       "impact": "Rust言語の安全性とパフォーマンスを活かした通信インフラ開発が促進され、オープンソースのVoIP技術の発展に貢献するとみられる。",
       "content_at": "2026-11-27T06:30:46.848727+09:00"
+    },
+    {
+      "image": "https://pub-430e0c9ecb66464fa6999cd23a749d13.r2.dev/content/images/2026/11/black-friday-hard-drive-prices-are-messed-up/row-of-easystore-drives-on-a-cluttered-workbench.webp",
+      "url": "https://blog.ktz.me/black-friday-hard-drive-prices-are-messed-up/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-27T13:30:47.255155+09:00",
+      "title": "ハードディスクドライブの価格高騰",
+      "summary": "同じ20TBのハードディスクが2回のブラックフライデーを経て249.99ドルから549.99ドルへと値上がりした。過去8年間の購入履歴に基づいた調査で明らかになった。",
+      "impact": "ストレージコストの上昇により、個人のサーバー構築やデータ保存の費用負担が増加する可能性がある。",
+      "content_at": "2026-11-27T13:30:47.255155+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://janlukas.blog/posts/ai-self-hosting",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-27T13:30:47.255155+09:00",
+      "title": "AIが再びもたらしたセルフホスティングの楽しさ",
+      "summary": "長年セルフホスティングを続けてきた投稿者は、一時期その情熱が冷めていた。しかし、AIの活用がきっかけで再びインフラ構築への関心が高まっている。",
+      "impact": "AI技術との組み合わせにより、個人が独自のインフラを構築・管理する技術的な取り組みが再び活発化する可能性がある。",
+      "content_at": "2026-11-27T13:30:47.255155+09:00"
     }
   ],
-  "updated_at": "2026-11-27T06:30:46.848727+09:00"
+  "updated_at": "2026-11-27T13:30:47.255155+09:00"
 }
