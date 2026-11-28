@@ -66,7 +66,51 @@
       "summary": "ボールの落下地点を予想して取引を行う予測市場ゲームである。",
       "impact": "予測市場の仕組みをゲーム感覚で体験するツールとして活用される可能性がある。",
       "content_at": "2026-11-28T06:30:46.665490+09:00"
+    },
+    {
+      "image": "https://storage.googleapis.com/gweb-research2023-media/images/HO_previewImage1.width-800.format-jpeg.jpg",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-28T13:30:45.618763+09:00",
+      "title": "GoogleのDeepCrossAttentionが最大3倍の高速化を実現",
+      "summary": "GoogleのDeepCrossAttentionは、モデルの品質を維持したまま最大3倍の高速化を達成した。",
+      "impact": "AIモデルのトレーニングや推論の効率が向上し、計算資源の削減や開発期間の短縮につながる可能性がある。",
+      "content_at": "2026-11-28T13:30:45.618763+09:00"
+    },
+    {
+      "image": "http://static1.squarespace.com/static/67bf82223b62987b3006302e/67bf82253b62987b30063207/67ca577e831cb615f6b2b46c/1741324015375/IMG_6226.jpg?format=1500w",
+      "url": "https://localthunk.com/blog/balatro-timeline-3aarh",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-28T13:30:45.618763+09:00",
+      "title": "ゲーム『Balatro』の開発年表",
+      "summary": "『Balatro』の開発開始から約3年が経過し、開発者はこれまで記録してこなかった開発の経緯を振り返る試みを開始した。",
+      "impact": "開発プロセスの記録が公開されることで、ゲーム開発者やファンにとって開発の裏側を知る貴重な資料となる可能性がある。",
+      "content_at": "2026-11-28T13:30:45.618763+09:00"
+    },
+    {
+      "image": "https://unkernel.dev/og.png",
+      "url": "https://unkernel.dev",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-28T13:30:45.618763+09:00",
+      "title": "WebAssemblyへコンパイルされたLinuxカーネル「Unkernel」",
+      "summary": "本物のLinuxカーネルをWebAssemblyにコンパイルする「Unkernel」が発表された。1秒未満でシェルを起動できる。",
+      "impact": "ブラウザ環境でLinuxカーネルを直接実行可能になることで、Webアプリケーションの実行環境や互換性が大きく拡張される可能性がある。",
+      "content_at": "2026-11-28T13:30:45.618763+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://shellzine.net/cyberpunk-television/",
+      "category": "海外IT",
+      "time": "13:30",
+      "collected_at": "2026-11-28T13:30:45.618763+09:00",
+      "title": "サイバーパンクをテーマにしたテレビ番組",
+      "summary": "サイバーパンクを題材としたテレビ番組についての言及。",
+      "impact": "該当ジャンルの作品に関する情報共有や議論のきっかけになる可能性がある。",
+      "content_at": "2026-11-28T13:30:45.618763+09:00"
     }
   ],
-  "updated_at": "2026-11-28T06:30:46.665490+09:00"
+  "updated_at": "2026-11-28T13:30:45.618763+09:00"
 }
