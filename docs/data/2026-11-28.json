@@ -110,7 +110,40 @@
       "summary": "サイバーパンクを題材としたテレビ番組についての言及。",
       "impact": "該当ジャンルの作品に関する情報共有や議論のきっかけになる可能性がある。",
       "content_at": "2026-11-28T13:30:45.618763+09:00"
+    },
+    {
+      "image": "https://opengraph.githubassets.com/10d3edc775bffa457275761be57aab66f22543205ff45e93f2f3ddee68c6bfaa/p-e-w/heretic/issues/601",
+      "url": "https://github.com/p-e-w/heretic/issues/601",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-28T21:30:44.823702+09:00",
+      "title": "「Heretic」開発者による退任の報告",
+      "summary": "「Heretic」の開発者が自身の旅路の終わりを報告し、同プロジェクトからの離脱を表明した。プロジェクトへの深い愛着を示しつつ、自身の役割が終了したことを伝えている。",
+      "impact": "開発者の交代により、プロジェクトの今後の運営方針や開発体制に変化が生じる可能性がある。",
+      "content_at": "2026-11-28T21:30:44.823702+09:00"
+    },
+    {
+      "image": "https://news.cornell.edu/sites/default/files/styles/story_thumbnail_lg/public/2026-11/1124_kneading.jpg?itok=siwzf8cu",
+      "url": "https://news.cornell.edu/stories/2026/11/loom-seamlessly-combines-weaving-knitting-and-braiding",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-28T21:30:44.823702+09:00",
+      "title": "織り・編み・組む工程を統合した新しい編み機",
+      "summary": "研究者らは織り、編み、組むという作業を糸のねじり工程として再定義し、これらを切り替えて新たな形状を生成できる機械を開発した。この装置により、従来の手法を組み合わせた複雑な製造が可能となった。",
+      "impact": "繊維製品の製造技術が向上し、これまでになかった複雑な形状や機能を持つ布製品の開発が促進される可能性がある。",
+      "content_at": "2026-11-28T21:30:44.823702+09:00"
+    },
+    {
+      "image": "",
+      "url": "https://www-cs-faculty.stanford.edu/~knuth/moratorium.html",
+      "category": "海外IT",
+      "time": "21:30",
+      "collected_at": "2026-11-28T21:30:44.823702+09:00",
+      "title": "クヌース氏によるエラー報告の停止",
+      "summary": "クヌース氏がエラー報告の一時停止を発表した。",
+      "impact": "同氏が提供するコンテンツやシステムにおいて、修正依頼の手続きが一時的に変更される可能性がある。",
+      "content_at": "2026-11-28T21:30:44.823702+09:00"
     }
   ],
-  "updated_at": "2026-11-28T13:30:45.618763+09:00"
+  "updated_at": "2026-11-28T21:30:44.823702+09:00"
 }
